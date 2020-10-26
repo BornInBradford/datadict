@@ -3,115 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://127.0.0.1:4321/2-data-sources/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_baseline/base_f_survey/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/2-data-sources/2-1-pseudonymisation-and-linkage/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_baseline/base_f_survey_p1/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/2-data-sources/2-2-primary-care/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_baseline/base_f_survey_p2/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/2-data-sources/2-2-primary-care/2-2-1-primary-care-data-profile/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_baseline/base_f_survey_p3/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/2-data-sources/2-3-secondary-care/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_baseline/base_m1_survey/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/2-data-sources/2-3-secondary-care/2-3-1-secondary-care-data-profile/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_baseline/base_m23_survey/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/2-data-sources/2-4-data-source-3/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_baseline/base_m23_survey_p1/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/2-data-sources/2-4-data-source-3/2-4-1-data-source-3-profile/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_baseline/base_m23_survey_p2/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/2-data-sources/2-5-data-source-4/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_baseline/base_m23_survey_p3/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/2-data-sources/2-5-data-source-4/2-5-1-data-source-4-profile/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_baseline/base_m_survey/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/bib_baseline/base_f_survey/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_baseline/base_m_survey_p1/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/bib_baseline/base_f_survey_p1/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_baseline/base_m_survey_p2/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/bib_baseline/base_f_survey_p2/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_baseline/base_m_survey_p3/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/bib_baseline/base_f_survey_p3/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_baseline/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/bib_baseline/base_m1_survey/</loc>
+    <loc>https://borninbradford.github.io/datadict/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/bib_baseline/base_m23_survey/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_primaryschoolyears/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/bib_baseline/base_m23_survey_p1/</loc>
+    <loc>https://borninbradford.github.io/datadict/categories/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/bib_baseline/base_m23_survey_p2/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_primaryschoolyears/child_info/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/bib_baseline/base_m23_survey_p3/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib_primaryschoolyears/child_quiz/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/bib_baseline/base_m_survey/</loc>
+    <loc>https://borninbradford.github.io/datadict/release-notes/</loc>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:4321/bib_baseline/base_m_survey_p1/</loc>
-  </url>
-  
-  <url>
-    <loc>http://127.0.0.1:4321/bib_baseline/base_m_survey_p2/</loc>
-  </url>
-  
-  <url>
-    <loc>http://127.0.0.1:4321/bib_baseline/base_m_survey_p3/</loc>
-  </url>
-  
-  <url>
-    <loc>http://127.0.0.1:4321/</loc>
-  </url>
-  
-  <url>
-    <loc>http://127.0.0.1:4321/bib_baseline/</loc>
-  </url>
-  
-  <url>
-    <loc>http://127.0.0.1:4321/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://127.0.0.1:4321/release-notes/</loc>
-  </url>
-  
-  <url>
-    <loc>http://127.0.0.1:4321/tags/</loc>
+    <loc>https://borninbradford.github.io/datadict/tags/</loc>
   </url>
   
 </urlset>

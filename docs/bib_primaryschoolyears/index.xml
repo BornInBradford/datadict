@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BiB Primary School Years on Born in Bradford Data Dictionary</title>
+    <link>https://borninbradford.github.io/datadict/bib_primaryschoolyears/</link>
+    <description>Recent content in BiB Primary School Years on Born in Bradford Data Dictionary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://borninbradford.github.io/datadict/bib_primaryschoolyears/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>child_info</title>
+      <link>https://borninbradford.github.io/datadict/bib_primaryschoolyears/child_info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib_primaryschoolyears/child_info/</guid>
+      <description>Table ID: BiB_PrimarySchoolYears.child_info
+   Entity type Variables Entities Updated     Participant 22 18149 2020-05-20    This table contains basic information about the PSY children.
+   variable variable_type value_type summary     BiBPersonID UNDETERMINED text 7006 unique values
+7006 non-missing values
+8 characters
+   PSYSchoolID CONTINUOUS decimal mean (sd)
+139.94 (24.62)
+min &amp;lt; median &amp;lt; max
+101.00 &amp;lt; 139.</description>
+    </item>
+    
+    <item>
+      <title>child_quiz</title>
+      <link>https://borninbradford.github.io/datadict/bib_primaryschoolyears/child_quiz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib_primaryschoolyears/child_quiz/</guid>
+      <description>Table ID: BiB_PrimarySchoolYears.child_quiz
+   Entity type Variables Entities Updated     Participant 89 10100 2020-05-18    This table contains the results of the Child Quiz, also known as the Child Wellbeing Survey.
+   variable label variable_type value_type summary     PSYSchoolID  CONTINUOUS decimal mean (sd)
+138.44 (24.05)
+min &amp;lt; median &amp;lt; max
+101.00 &amp;lt; 138.00 &amp;lt; 189.00
+   PSYClassID  CONTINUOUS decimal mean (sd)</description>
+    </item>
+    
+  </channel>
+</rss>
