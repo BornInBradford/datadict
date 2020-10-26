@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+opal_blogdown_dict.Rproj
+themes/
+content/
+static/
+resources/
+index.Rmd
+config.toml

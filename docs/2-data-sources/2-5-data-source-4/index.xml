@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2.5 Data source 4 on Born in Bradford Data Dictionary</title>
+    <link>http://127.0.0.1:4321/2-data-sources/2-5-data-source-4/</link>
+    <description>Recent content in 2.5 Data source 4 on Born in Bradford Data Dictionary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://127.0.0.1:4321/2-data-sources/2-5-data-source-4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2.5.1 Data source 4 profile</title>
+      <link>http://127.0.0.1:4321/2-data-sources/2-5-data-source-4/2-5-1-data-source-4-profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:4321/2-data-sources/2-5-data-source-4/2-5-1-data-source-4-profile/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+  </channel>
+</rss>

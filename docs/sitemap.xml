@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://127.0.0.1:4321/2-data-sources/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/2-data-sources/2-1-pseudonymisation-and-linkage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/2-data-sources/2-2-primary-care/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/2-data-sources/2-2-primary-care/2-2-1-primary-care-data-profile/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/2-data-sources/2-3-secondary-care/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/2-data-sources/2-3-secondary-care/2-3-1-secondary-care-data-profile/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/2-data-sources/2-4-data-source-3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/2-data-sources/2-4-data-source-3/2-4-1-data-source-3-profile/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/2-data-sources/2-5-data-source-4/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/2-data-sources/2-5-data-source-4/2-5-1-data-source-4-profile/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/bib_baseline/base_f_survey/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/bib_baseline/base_f_survey_p1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/bib_baseline/base_f_survey_p2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/bib_baseline/base_f_survey_p3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/bib_baseline/base_m1_survey/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/bib_baseline/base_m23_survey/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/bib_baseline/base_m23_survey_p1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/bib_baseline/base_m23_survey_p2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/bib_baseline/base_m23_survey_p3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/bib_baseline/base_m_survey/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/bib_baseline/base_m_survey_p1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/bib_baseline/base_m_survey_p2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/bib_baseline/base_m_survey_p3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/bib_baseline/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/release-notes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:4321/tags/</loc>
+  </url>
+  
+</urlset>

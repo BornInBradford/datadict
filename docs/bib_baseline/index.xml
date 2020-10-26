@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BiB_Baseline on Born in Bradford Data Dictionary</title>
+    <link>http://127.0.0.1:4321/bib_baseline/</link>
+    <description>Recent content in BiB_Baseline on Born in Bradford Data Dictionary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://127.0.0.1:4321/bib_baseline/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>base_f_survey</title>
+      <link>http://127.0.0.1:4321/bib_baseline/base_f_survey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:4321/bib_baseline/base_f_survey/</guid>
+      <description>Entity type Variables Entities Updated     Participant 26 3287 2020-10-09       variable label variable_type value_type summary     BiBPregNumber Cohort recruited pregnancy number CONTINUOUS decimal mean (sd)
+1.08 (0.28)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 3.00
+   has_base_f_survey Has father baseline survey CONTINUOUS decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+    <item>
+      <title>base_f_survey_p1</title>
+      <link>http://127.0.0.1:4321/bib_baseline/base_f_survey_p1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:4321/bib_baseline/base_f_survey_p1/</guid>
+      <description>Entity type Variables Entities Updated     Participant 25 3109 2020-10-09       variable label variable_type value_type summary     has_base_f_survey_p1 Has father baseline survey CONTINUOUS decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+   agefm_fbqall_p1 Father age (months): Father baseline questionnaire CONTINUOUS decimal mean (sd)
+366.34 (79.24)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+    <item>
+      <title>base_f_survey_p2</title>
+      <link>http://127.0.0.1:4321/bib_baseline/base_f_survey_p2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:4321/bib_baseline/base_f_survey_p2/</guid>
+      <description>Entity type Variables Entities Updated     Participant 25 271 2020-10-09       variable label variable_type value_type summary     has_base_f_survey_p2 Has father baseline survey CONTINUOUS decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+   agefm_fbqall_p2 Father age (months): Father baseline questionnaire CONTINUOUS decimal mean (sd)
+373.48 (77.26)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+    <item>
+      <title>base_f_survey_p3</title>
+      <link>http://127.0.0.1:4321/bib_baseline/base_f_survey_p3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:4321/bib_baseline/base_f_survey_p3/</guid>
+      <description>Entity type Variables Entities Updated     Participant 25 4 2020-10-09       variable label variable_type value_type summary     has_base_f_survey_p3 Has father baseline survey CONTINUOUS decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+   agefm_fbqall_p3 Father age (months): Father baseline questionnaire CONTINUOUS decimal mean (sd)
+344.50 (91.73)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+    <item>
+      <title>base_m1_survey</title>
+      <link>http://127.0.0.1:4321/bib_baseline/base_m1_survey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:4321/bib_baseline/base_m1_survey/</guid>
+      <description>Entity type Variables Entities Updated     Participant 21 1571 2020-10-09       variable label variable_type value_type summary     BiBPregNumber Cohort recruited pregnancy number CONTINUOUS decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+   has_base_m1_survey Has mother baseline survey (phases 1) CONTINUOUS decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+    <item>
+      <title>base_m23_survey</title>
+      <link>http://127.0.0.1:4321/bib_baseline/base_m23_survey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:4321/bib_baseline/base_m23_survey/</guid>
+      <description>Entity type Variables Entities Updated     Participant 13 9096 2020-10-09       variable label variable_type value_type summary     BiBPregNumber Cohort recruited pregnancy number CONTINUOUS decimal mean (sd)
+1.11 (0.32)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 3.00
+   has_base_m23_survey Has mother baseline survey (phases 2 &amp;amp; 3) CONTINUOUS decimal mean (sd)
+1.00 (0.00)</description>
+    </item>
+    
+    <item>
+      <title>base_m23_survey_p1</title>
+      <link>http://127.0.0.1:4321/bib_baseline/base_m23_survey_p1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:4321/bib_baseline/base_m23_survey_p1/</guid>
+      <description>Entity type Variables Entities Updated     Participant 12 8600 2020-10-09       variable label variable_type value_type summary     has_base_m23_survey_p1 Has mother baseline survey (phases 2 &amp;amp; 3) CONTINUOUS decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+   has_mbqp23_p1 Has baseline questionnaire phase 2 or 3 CATEGORICAL decimal 1 : has</description>
+    </item>
+    
+    <item>
+      <title>base_m23_survey_p2</title>
+      <link>http://127.0.0.1:4321/bib_baseline/base_m23_survey_p2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:4321/bib_baseline/base_m23_survey_p2/</guid>
+      <description>Entity type Variables Entities Updated     Participant 12 993 2020-10-09       variable label variable_type value_type summary     has_base_m23_survey_p2 Has mother baseline survey (phases 2 &amp;amp; 3) CONTINUOUS decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+   has_mbqp23_p2 Has baseline questionnaire phase 2 or 3 CATEGORICAL decimal 1 : has</description>
+    </item>
+    
+    <item>
+      <title>base_m23_survey_p3</title>
+      <link>http://127.0.0.1:4321/bib_baseline/base_m23_survey_p3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:4321/bib_baseline/base_m23_survey_p3/</guid>
+      <description>Entity type Variables Entities Updated     Participant 12 26 2020-10-09       variable label variable_type value_type summary     has_base_m23_survey_p3 Has mother baseline survey (phases 2 &amp;amp; 3) CONTINUOUS decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+   has_mbqp23_p3 Has baseline questionnaire phase 2 or 3 CATEGORICAL decimal 1 : has</description>
+    </item>
+    
+    <item>
+      <title>base_m_survey</title>
+      <link>http://127.0.0.1:4321/bib_baseline/base_m_survey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:4321/bib_baseline/base_m_survey/</guid>
+      <description>Entity type Variables Entities Updated     Participant 341 10519 2020-10-09       variable label variable_type value_type summary     BiBPregNumber Cohort recruited pregnancy number CONTINUOUS decimal mean (sd)
+1.09 (0.30)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 3.00
+   has_base_m_survey Has mother baseline survey CONTINUOUS decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+    <item>
+      <title>base_m_survey_p1</title>
+      <link>http://127.0.0.1:4321/bib_baseline/base_m_survey_p1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:4321/bib_baseline/base_m_survey_p1/</guid>
+      <description>Entity type Variables Entities Updated     Participant 340 10376 2020-10-09       variable label variable_type value_type summary     has_base_m_survey_p1 Has mother baseline survey CONTINUOUS decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+   agemm_mbqall_p1 Mother age (months): Maternal Baseline Questionnaire CONTINUOUS decimal mean (sd)
+332.90 (67.56)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+    <item>
+      <title>base_m_survey_p2</title>
+      <link>http://127.0.0.1:4321/bib_baseline/base_m_survey_p2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:4321/bib_baseline/base_m_survey_p2/</guid>
+      <description>Entity type Variables Entities Updated     Participant 340 993 2020-10-09       variable label variable_type value_type summary     has_base_m_survey_p2 Has mother baseline survey CONTINUOUS decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+   agemm_mbqall_p2 Mother age (months): Maternal Baseline Questionnaire CONTINUOUS decimal mean (sd)
+338.33 (63.32)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+    <item>
+      <title>base_m_survey_p3</title>
+      <link>http://127.0.0.1:4321/bib_baseline/base_m_survey_p3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:4321/bib_baseline/base_m_survey_p3/</guid>
+      <description>Entity type Variables Entities Updated     Participant 340 26 2020-10-09       variable label variable_type value_type summary     has_base_m_survey_p3 Has mother baseline survey CONTINUOUS decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+   agemm_mbqall_p3 Mother age (months): Maternal Baseline Questionnaire CONTINUOUS decimal mean (sd)
+335.73 (59.12)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+  </channel>
+</rss>
