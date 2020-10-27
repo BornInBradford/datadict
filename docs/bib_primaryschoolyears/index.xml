@@ -18,13 +18,13 @@
       <guid>https://borninbradford.github.io/datadict/bib_primaryschoolyears/child_info/</guid>
       <description>Table ID: BiB_PrimarySchoolYears.child_info
    Entity type Variables Entities Updated     Participant 22 18149 2020-05-20    This table contains basic information about the PSY children.
-   variable variable_type value_type summary     BiBPersonID UNDETERMINED text 7006 unique values
+   variable value_type summary     BiBPersonID text 7006 unique values
 7006 non-missing values
 8 characters
-   PSYSchoolID CONTINUOUS decimal mean (sd)
+   PSYSchoolID decimal mean (sd)
 139.94 (24.62)
 min &amp;lt; median &amp;lt; max
-101.00 &amp;lt; 139.</description>
+101.00 &amp;lt; 139.00 &amp;lt; 189.00</description>
     </item>
     
     <item>
@@ -35,11 +35,12 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib_primaryschoolyears/child_quiz/</guid>
       <description>Table ID: BiB_PrimarySchoolYears.child_quiz
    Entity type Variables Entities Updated     Participant 89 10100 2020-05-18    This table contains the results of the Child Quiz, also known as the Child Wellbeing Survey.
-   variable label variable_type value_type summary     PSYSchoolID  CONTINUOUS decimal mean (sd)
+   variable label value_type summary     PSYSchoolID  decimal mean (sd)
 138.44 (24.05)
 min &amp;lt; median &amp;lt; max
 101.00 &amp;lt; 138.00 &amp;lt; 189.00
-   PSYClassID  CONTINUOUS decimal mean (sd)</description>
+100.00% complete
+   PSYClassID  decimal mean (sd)</description>
     </item>
     
   </channel>

@@ -1,0 +1,90 @@
+variable,full_name,label,value_type,description,categories,categories_label
+PSYSchoolID,BiB_PrimarySchoolYears.child_quiz.PSYSchoolID,,decimal,NA,NA,NA
+PSYClassID,BiB_PrimarySchoolYears.child_quiz.PSYClassID,,decimal,NA,NA,NA
+TestYearGroup,BiB_PrimarySchoolYears.child_quiz.TestYearGroup,,decimal,NA,NA,NA
+TestAcadTerm,BiB_PrimarySchoolYears.child_quiz.TestAcadTerm,,text,NA,NA,NA
+TestYear,BiB_PrimarySchoolYears.child_quiz.TestYear,,decimal,NA,NA,NA
+TestMonth,BiB_PrimarySchoolYears.child_quiz.TestMonth,,decimal,NA,NA,NA
+PSYTestDay,BiB_PrimarySchoolYears.child_quiz.PSYTestDay,,decimal,NA,NA,NA
+AgeYears,BiB_PrimarySchoolYears.child_quiz.AgeYears,,decimal,NA,NA,NA
+AgeMonths,BiB_PrimarySchoolYears.child_quiz.AgeMonths,,decimal,NA,NA,NA
+survey_mode,BiB_PrimarySchoolYears.child_quiz.survey_mode,Mode of completion,text,NA,NA,NA
+lsid,BiB_PrimarySchoolYears.child_quiz.lsid,Survey version Id,decimal,NA,NA,NA
+psychdAfood,BiB_PrimarySchoolYears.child_quiz.psychdAfood,Which of these would you most like to eat today?,decimal,NA,1|2|3|4,Pizza|Curry|Pasta with sauce|Sandwich
+psychdCweekend,BiB_PrimarySchoolYears.child_quiz.psychdCweekend,My family and the people I live with: How often do you have fun with your family,decimal,NA,1|2|3,Never|Some of the time|All of the time
+psychdCgetalong,BiB_PrimarySchoolYears.child_quiz.psychdCgetalong,How often does your family get along well together?,decimal,NA,1|2|3,Never|Some of the time|All of the time
+psychdCsiblings,BiB_PrimarySchoolYears.child_quiz.psychdCsiblings,How often do you get along with your brothers/sisters/other children you live wi,decimal,NA,1|2|3|4,Never|Some of the time|All of the time|Don't live with other children
+psychdClanguage_1,BiB_PrimarySchoolYears.child_quiz.psychdClanguage_1,What language do you usually speak with your family at home? - English,decimal,NA,1,Yes
+psychdClanguage_2,BiB_PrimarySchoolYears.child_quiz.psychdClanguage_2,What language do you usually speak with your family at home? - Urdu,decimal,NA,1,Yes
+psychdClanguage_3,BiB_PrimarySchoolYears.child_quiz.psychdClanguage_3,What language do you usually speak with your family at home? - Mirpuri/Punjabi,decimal,NA,1,Yes
+psychdClanguage_4,BiB_PrimarySchoolYears.child_quiz.psychdClanguage_4,What language do you usually speak with your family at home? - Slovakian,decimal,NA,1,Yes
+psychdClanguage_5,BiB_PrimarySchoolYears.child_quiz.psychdClanguage_5,What language do you usually speak with your family at home? - Arabic,decimal,NA,1,Yes
+psychdClanguage_6,BiB_PrimarySchoolYears.child_quiz.psychdClanguage_6,What language do you usually speak with your family at home? - Bangla/Bengali,decimal,NA,1,Yes
+psychdClanguage_7,BiB_PrimarySchoolYears.child_quiz.psychdClanguage_7,What language do you usually speak with your family at home? - Hindko,decimal,NA,1,Yes
+psychdClanguage_8,BiB_PrimarySchoolYears.child_quiz.psychdClanguage_8,What language do you usually speak with your family at home? - Pushto,decimal,NA,1,Yes
+psychdClanguage_9,BiB_PrimarySchoolYears.child_quiz.psychdClanguage_9,What language do you usually speak with your family at home? - Other,decimal,NA,1,Yes
+psychdBhouseorflat,BiB_PrimarySchoolYears.child_quiz.psychdBhouseorflat,"Where I Live: How much do you like the home, house or flat where you live?",decimal,NA,1|2|3,I don't like it|I like it a bit|I like it a lot
+psychdBplayinpark,BiB_PrimarySchoolYears.child_quiz.psychdBplayinpark,How often do you play in a park?,decimal,NA,1|2|3,Never|Sometimes|Very often
+psychdDthings_1,BiB_PrimarySchoolYears.child_quiz.psychdDthings_1,Which of these things do you have?: Some money to spend on myself,decimal,NA,1|2,No I don't have it|Yes I have it
+psychdDthings_2,BiB_PrimarySchoolYears.child_quiz.psychdDthings_2,Which of these things do you have?: An iPod or mp3 player,decimal,NA,1|2,No I don't have it|Yes I have it
+psychdDthings_3,BiB_PrimarySchoolYears.child_quiz.psychdDthings_3,Which of these things do you have?: Clothes that you think your friends like,decimal,NA,1|2,No I don't have it|Yes I have it
+psychdDthings_4,BiB_PrimarySchoolYears.child_quiz.psychdDthings_4,Which of these things do you have?: A warm winter coat,decimal,NA,1|2,No I don't have it|Yes I have it
+psychdDthings_5,BiB_PrimarySchoolYears.child_quiz.psychdDthings_5,Which of these things do you have?: Your own mobile phone,decimal,NA,1|2,No I don't have it|Yes I have it
+psychdDthings_6,BiB_PrimarySchoolYears.child_quiz.psychdDthings_6,Which of these things do you have?: A computer/laptop/tablet with internet at ho,decimal,NA,1|2,No I don't have it|Yes I have it
+psychdDthings_7,BiB_PrimarySchoolYears.child_quiz.psychdDthings_7,Which of these things do you have?: Three meals every day,decimal,NA,1|2,No I don't have it|Yes I have it
+psychdDgarden,BiB_PrimarySchoolYears.child_quiz.psychdDgarden,Does your home have a garden where you can play?,decimal,NA,1|2,No|Yes
+psychdDfamilycar,BiB_PrimarySchoolYears.child_quiz.psychdDfamilycar,Does your family have a car so someone can take you where you want to go?,decimal,NA,1|2,No|Yes
+psychdDpark,BiB_PrimarySchoolYears.child_quiz.psychdDpark,Do you have a park near your home where you can play with your friends?,decimal,NA,1|2,No|Yes
+psychdDmoney,BiB_PrimarySchoolYears.child_quiz.psychdDmoney,How often do you worry about how much money your family has?,decimal,NA,1|2|3,Never|Some of the time|All of the time
+psychdDthings2_1,BiB_PrimarySchoolYears.child_quiz.psychdDthings2_1,Which of these things do you have?: At least one family holiday away from home e,decimal,NA,1|2,"No, I don't have it|Yes, I have it"
+psychdDthings2_2,BiB_PrimarySchoolYears.child_quiz.psychdDthings2_2,Which of these things do you have?: Family trips or days out at least once a mon,decimal,NA,1|2,No I don't have it|Yes I have it
+psychdDthings2_3,BiB_PrimarySchoolYears.child_quiz.psychdDthings2_3,Which of these things do you have?: Going on a school trip at least once a term,decimal,NA,1|2,"No, I don't have it|Yes, I have it"
+psychdDthings2_4,BiB_PrimarySchoolYears.child_quiz.psychdDthings2_4,Which of these things do you have?: Being part of a club where you play sports o,decimal,NA,1|2,"No, I don't have it|Yes, I have it"
+psychdFhowmany,BiB_PrimarySchoolYears.child_quiz.psychdFhowmany,My friends and other children: How many friends do you have?,decimal,NA,1|2|3,Not many|Some|Lots
+psychdFbestfriends,BiB_PrimarySchoolYears.child_quiz.psychdFbestfriends,My friends and other children: Do you have any best friends?,decimal,NA,1|2,No|Yes
+psychdFplaying,BiB_PrimarySchoolYears.child_quiz.psychdFplaying,My friends and other children : How much do you like playing with your friends?,decimal,NA,1|2|3,I don’t like it|I like it a bit|I like it a lot
+psychdFbully,BiB_PrimarySchoolYears.child_quiz.psychdFbully,My friends and other children: How often do other children bully you?,decimal,NA,1|2|3,Never|Some of the time|All of the time
+psychdFmean,BiB_PrimarySchoolYears.child_quiz.psychdFmean,My friends & other children: How often are you mean to other children at school?,decimal,NA,1|2|3,Never|Some of the time|All of the time
+psychdFleftout,BiB_PrimarySchoolYears.child_quiz.psychdFleftout,My friends & other children: How often do you feel left out by other children?,decimal,NA,1|2|3,Never|Some of the time|All of the time
+psychdEoftenhappy,BiB_PrimarySchoolYears.child_quiz.psychdEoftenhappy,How often do you feel happy? ,decimal,NA,1|2|3,Never|Some of the time|All of the time
+psychdEoftensad,BiB_PrimarySchoolYears.child_quiz.psychdEoftensad,How often do you feel sad? ,decimal,NA,1|2|3,Never|Some of the time|All of the time
+psychdEillorunwell,BiB_PrimarySchoolYears.child_quiz.psychdEillorunwell,How often are you ill or unwell?,decimal,NA,1|2|3,Never|Some of the time|All of the time
+psychdEhealthy,BiB_PrimarySchoolYears.child_quiz.psychdEhealthy,How often do you feel healthy? ,decimal,NA,1|2|3,Never|Some of the time|All of the time
+psychdEworried_E,BiB_PrimarySchoolYears.child_quiz.psychdEworried_E,What do you do when worried about something? - Other,decimal,NA,1,Yes
+psychdEworried_A,BiB_PrimarySchoolYears.child_quiz.psychdEworried_A,What do you do if you are worried about something? - I keep it to myself,decimal,NA,1,Yes I keep it to myself
+psychdEworried_B,BiB_PrimarySchoolYears.child_quiz.psychdEworried_B,What do you do if you are worried about something? - I tell a friend,decimal,NA,1,Yes I tell a friend
+psychdEworried_C,BiB_PrimarySchoolYears.child_quiz.psychdEworried_C,What do you do when worried about something? - I tell my Mum/Dad/Guardian,decimal,NA,1,"Yes I tell my Mum, Dad or the person who looks after me"
+psychdEworried_D,BiB_PrimarySchoolYears.child_quiz.psychdEworried_D,What do you do when worried about something? - I tell a teacher,decimal,NA,1,Yes I tell a teacher
+psychdEhard,BiB_PrimarySchoolYears.child_quiz.psychdEhard,When I find something really hard I can work out what to do next. ,decimal,NA,1|2|3,Never|Some of the time|All of the time
+psychdIgrowup_1,BiB_PrimarySchoolYears.child_quiz.psychdIgrowup_1,"When you grow up, would you like to be: A cook",decimal,NA,1|2|3,"No, not at all|Yes, I'd like it a bit|Yes, I'd like it a lot"
+psychdIgrowup_2,BiB_PrimarySchoolYears.child_quiz.psychdIgrowup_2,"When you grow up, would you like to be: A sports star",decimal,NA,1|2|3,"No, not at all|Yes, I'd like it a bit|Yes, I'd like it a lot"
+psychdIgrowup_3,BiB_PrimarySchoolYears.child_quiz.psychdIgrowup_3,"When you grow up, would you like to be: A train driver",decimal,NA,1|2|3,"No, not at all|Yes, I'd like it a bit|Yes, I'd like it a lot"
+psychdIgrowup_4,BiB_PrimarySchoolYears.child_quiz.psychdIgrowup_4,"When you grow up, would you like to be: A pop star",decimal,NA,1|2|3,"No, not at all|Yes, I'd like it a bit|Yes, I'd like it a lot"
+psychdIgrowup_5,BiB_PrimarySchoolYears.child_quiz.psychdIgrowup_5,"When you grow up, would you like to be: Someone who looks after children at home",decimal,NA,1|2|3,"No, not at all|Yes, I'd like it a bit|Yes, I'd like it a lot"
+psychdIgrowup_6,BiB_PrimarySchoolYears.child_quiz.psychdIgrowup_6,"When you grow up, would you like to be: A doctor or a nurse",decimal,NA,1|2|3,"No, not at all|Yes, I'd like it a bit|Yes, I'd like it a lot"
+psychdIgrowup_7,BiB_PrimarySchoolYears.child_quiz.psychdIgrowup_7,"When you grow up, would you like to be: Someone who works in a shop",decimal,NA,1|2|3,"No, not at all|Yes, I'd like it a bit|Yes, I'd like it a lot"
+psychdIgrowup_8,BiB_PrimarySchoolYears.child_quiz.psychdIgrowup_8,"When you grow up, would you like to be: A teacher",decimal,NA,1|2|3,"No, not at all|Yes, I'd like it a bit|Yes, I'd like it a lot"
+psychdIgrowup_9,BiB_PrimarySchoolYears.child_quiz.psychdIgrowup_9,"When you grow up, would you like to be: Someone works with computers",decimal,NA,1|2|3,"No, not at all|Yes, I'd like it a bit|Yes, I'd like it a lot"
+psychdGschool,BiB_PrimarySchoolYears.child_quiz.psychdGschool,My School: How much do you like your school?,decimal,NA,1|2|3,I don’t like it|I like it a bit|I like it a lot
+psychdHclubs_A,BiB_PrimarySchoolYears.child_quiz.psychdHclubs_A,Do you go to clubs or activities? - Sports(football/cricket/karate/swimming,decimal,NA,1|2,No|Yes
+psychdHclubs_B,BiB_PrimarySchoolYears.child_quiz.psychdHclubs_B,Do you go to clubs or activities outside school? - Mosque or Madrassa,decimal,NA,1|2,No|Yes
+psychdHclubs_C,BiB_PrimarySchoolYears.child_quiz.psychdHclubs_C,Do you go to clubs or activities? - Church or Sunday School,decimal,NA,1|2,No|Yes
+psychdHclubs_D,BiB_PrimarySchoolYears.child_quiz.psychdHclubs_D,"Do you go to clubs or activities? - Music lesssons(such as chior, piano lessons)",decimal,NA,1|2,No|Yes
+psychdHclubs_E,BiB_PrimarySchoolYears.child_quiz.psychdHclubs_E,Do you go to clubs or activities? - Dance lessons,decimal,NA,1|2,No|Yes
+psychdHother,BiB_PrimarySchoolYears.child_quiz.psychdHother,Do you go any of these to clubs or activities? - Other,text,NA,NA,NA
+psychdKaccul_1,BiB_PrimarySchoolYears.child_quiz.psychdKaccul_1,"Eating Asian food, such as curry",decimal,NA,1|2|3,I like it a lot|I like it a bit|I don’t like it/I don’t do it
+psychdKaccul_2,BiB_PrimarySchoolYears.child_quiz.psychdKaccul_2,"Eating English food, such as fish and chips",decimal,NA,1|2|3,I like it a lot|I like it a bit|I don’t like it/I don’t do it
+psychdKaccul_3,BiB_PrimarySchoolYears.child_quiz.psychdKaccul_3,Wearing Asian clothes such as Salwar kameez or kurta,decimal,NA,1|2|3,I like it a lot|I like it a bit|I don’t like it/I don’t do it
+psychdKaccul_4,BiB_PrimarySchoolYears.child_quiz.psychdKaccul_4,"Wearing clothes such as jeans,t-shirts or dresses",decimal,NA,1|2|3,I like it a lot|I like it a bit|I don’t like it/I don’t do it
+psychdKholidays_1,BiB_PrimarySchoolYears.child_quiz.psychdKholidays_1,Do you and your family celeberate Eid?,decimal,NA,1|2,No|Yes
+psychdKholidays_2,BiB_PrimarySchoolYears.child_quiz.psychdKholidays_2,Do you and your family celeberate Christmas?,decimal,NA,1|2,No|Yes
+psychdIreligion,BiB_PrimarySchoolYears.child_quiz.psychdIreligion,What is your religion?,decimal,NA,1|2|3|4|5|6|7,None/No religion|Christian|Muslim|Hindu|Sikh|Other religion|Don’t know
+psychdIHindu,BiB_PrimarySchoolYears.child_quiz.psychdIHindu,Do you go to a Temple?,decimal,NA,1|2,No|Yes
+psychdIOther,BiB_PrimarySchoolYears.child_quiz.psychdIOther,Do you go to a place of worship?,decimal,NA,1|2,No|Yes
+psychdIOftenMosque,BiB_PrimarySchoolYears.child_quiz.psychdIOftenMosque,How often do you go to Mosque or Madrassa?,decimal,NA,1|2|3,Less than once a week|Some days a week|Most days a week
+psychdIOftenChurch,BiB_PrimarySchoolYears.child_quiz.psychdIOftenChurch,How often do you go to Church or Sunday School?,decimal,NA,1|2|3,Less than once a week|Some days a week|Most days a week
+psychdIOftenHindu,BiB_PrimarySchoolYears.child_quiz.psychdIOftenHindu,How often do you go to a Temple?,decimal,NA,1|2|3,Less than once a week|Some days a week|Most days a week
+psychdIOftenOther,BiB_PrimarySchoolYears.child_quiz.psychdIOftenOther,How often do you go to a place of worship?,decimal,NA,1|2|3,Less than once a week|Some days a week|Most days a week
+psychdJGrowUpAny,BiB_PrimarySchoolYears.child_quiz.psychdJGrowUpAny,What would you most like to be when you grow up? - Other(string variable),text,NA,NA,NA
+psychdJGrowUpAny_new,BiB_PrimarySchoolYears.child_quiz.psychdJGrowUpAny_new,What would you most like to be when you grow up? - Other(numeric variable),decimal,NA,1,"Yes, other job"
+psychdHother_new,BiB_PrimarySchoolYears.child_quiz.psychdHother_new,Do you go any of these to clubs or activities? - Other(numeric variable),decimal,NA,1,"Yes, other club"
