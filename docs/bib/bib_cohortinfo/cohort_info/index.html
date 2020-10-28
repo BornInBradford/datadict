@@ -3,10 +3,10 @@
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title>Tags - Born in Bradford Data Dictionary</title>
+<title>cohort_info - Born in Bradford Data Dictionary</title>
 <meta name="generator" content="Hugo 0.74.3" />
 <link href="https://borninbradford.github.io/datadict//index.xml" rel="alternate" type="application/rss+xml">
-<link rel="canonical" href="https://borninbradford.github.io/datadict/tags/">
+<link rel="canonical" href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/cohort_info/">
 <link rel="stylesheet" href="https://borninbradford.github.io/datadict/css/theme.min.css">
 <script src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 <link rel="stylesheet" href="https://borninbradford.github.io/datadict/css/chroma.min.css">
@@ -16,15 +16,15 @@
 <script src="https://borninbradford.github.io/datadict/js/bundle.js"></script><style>
 :root {--custom-background-color: #0F79BE;}
 </style>
-<meta property="og:title" content="Tags" />
+<meta property="og:title" content="cohort_info" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://borninbradford.github.io/datadict/tags/" />
+<meta property="og:url" content="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/cohort_info/" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Tags"/>
+<meta name="twitter:title" content="cohort_info"/>
 <meta name="twitter:description" content=""/>
-<meta itemprop="name" content="Tags">
+<meta itemprop="name" content="cohort_info">
 <meta itemprop="description" content="">
 </head>
 <body><div class="container"><header>
@@ -38,9 +38,80 @@
 </nav>
 </div>
 <div class="content-container">
-<main><h1>Tags</h1><div class="edit-meta">
+<main><h1>cohort_info</h1><p>Table ID: BiB_CohortInfo.cohort_info</p>
+<table>
+<thead>
+<tr>
+<th align="left">Entity type</th>
+<th align="right">Variables</th>
+<th align="right">Entities</th>
+<th align="left">Updated</th>
+<th align="left">Related tables</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Participant</td>
+<td align="right">6</td>
+<td align="right">29664</td>
+<td align="left">2020-10-28</td>
+<td align="left">NA</td>
+</tr>
+</tbody>
+</table>
+<p>BiB person-level information, including parent-child and sibling linkage.</p>
+<table>
+<thead>
+<tr>
+<th align="left">variable</th>
+<th align="left">label</th>
+<th align="left">value_type</th>
+<th align="left">summary</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">PersonID</td>
+<td align="left">Legacy BiB person identifier</td>
+<td align="left">decimal</td>
+<td align="left">mean (sd)<br>15265.33 (9266.92)<br><br>min &lt; median &lt; max<br>2.00 &lt; 14840.50 &lt; 33357.00<br><br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">ParticipantType</td>
+<td align="left">Participant type - position in cohort family</td>
+<td align="left">text</td>
+<td align="left">3 unique values<br>29664 non-missing values<br>5 to 6 characters<br></td>
+</tr>
+<tr>
+<td align="left">Gender</td>
+<td align="left">Participant gender</td>
+<td align="left">text</td>
+<td align="left">3 unique values<br>29664 non-missing values<br>4 to 13 characters<br></td>
+</tr>
+<tr>
+<td align="left">BiBFatherID</td>
+<td align="left">BiB person identifier of child&rsquo;s father</td>
+<td align="left">text</td>
+<td align="left">3342 unique values<br>3488 non-missing values<br>8 characters<br></td>
+</tr>
+<tr>
+<td align="left">BiBMotherID</td>
+<td align="left">BiB person identifier of child&rsquo;s mother</td>
+<td align="left">text</td>
+<td align="left">12357 unique values<br>13858 non-missing values<br>8 characters<br></td>
+</tr>
+<tr>
+<td align="left">BiBPregNumber</td>
+<td align="left">Cohort recruited pregnancy number</td>
+<td align="left">text</td>
+<td align="left">3 unique values<br>13858 non-missing values<br>1 characters<br></td>
+</tr>
+</tbody>
+</table>
+<div class="edit-meta">
 
-<br></div><nav class="pagination"><a class="nav nav-next" href="https://borninbradford.github.io/datadict/bib/" title="BiB Data">Next - BiB Data <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+<br></div><nav class="pagination"><a class="nav nav-prev" href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/" title="BiB Cohort Information"><i class="fas fa-arrow-left" aria-hidden="true"></i> Prev - BiB Cohort Information</a>
+<a class="nav nav-next" href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/genotyping_info/" title="genotyping_info">Next - genotyping_info <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
 </nav><footer></footer>
 </main>
 <div class="sidebar">
@@ -49,15 +120,15 @@
 <ul>
 <li class=""><a href="https://borninbradford.github.io/datadict/">Home</a></li>
 
-<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/">BiB Data<span class="mark closed">+</span></a>
+<li class="parent has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/">BiB Data<span class="mark opened">-</span></a>
   
 <ul class="sub-menu">
 
-<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/">BiB Cohort Information<span class="mark closed">+</span></a>
+<li class="parent has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/">BiB Cohort Information<span class="mark opened">-</span></a>
   
 <ul class="sub-menu">
 
-<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/cohort_info/">cohort_info</a>
+<li class="parent active"><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/cohort_info/">cohort_info</a>
   
 </li>
 

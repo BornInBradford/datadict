@@ -1,0 +1,1202 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>adult_lockdown - Born in Bradford Data Dictionary</title>
+<meta name="generator" content="Hugo 0.74.3" />
+<link href="https://borninbradford.github.io/datadict//index.xml" rel="alternate" type="application/rss+xml">
+<link rel="canonical" href="https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_lockdown/">
+<link rel="stylesheet" href="https://borninbradford.github.io/datadict/css/theme.min.css">
+<script src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+<link rel="stylesheet" href="https://borninbradford.github.io/datadict/css/chroma.min.css">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery.easing@1.4.1/jquery.easing.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.6/dist/clipboard.min.js"></script>
+<script src="https://borninbradford.github.io/datadict/js/bundle.js"></script><style>
+:root {--custom-background-color: #0F79BE;}
+</style>
+<meta property="og:title" content="adult_lockdown" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_lockdown/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="adult_lockdown"/>
+<meta name="twitter:description" content=""/>
+<meta itemprop="name" content="adult_lockdown">
+<meta itemprop="description" content="">
+</head>
+<body><div class="container"><header>
+<h1>Born in Bradford Data Dictionary</h1>
+</header>
+<div class="global-menu">
+<nav>
+<ul>
+<li><a href="/datadict/">Home</a></li>
+<li><a href="/datadict/release-notes">Release notes</a></li></ul>
+</nav>
+</div>
+<div class="content-container">
+<main><h1>adult_lockdown</h1><p>Table ID: COVID19_Survey.adult_lockdown</p>
+<table>
+<thead>
+<tr>
+<th align="left">Entity type</th>
+<th align="right">Variables</th>
+<th align="right">Entities</th>
+<th align="left">Updated</th>
+<th align="left">Related tables</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Participant</td>
+<td align="right">164</td>
+<td align="right">1670</td>
+<td align="left">2020-10-28</td>
+<td align="left">NA</td>
+</tr>
+</tbody>
+</table>
+<p>COVID19 adult-completed 2020 lockdown survey</p>
+<table>
+<thead>
+<tr>
+<th align="left">variable</th>
+<th align="left">label</th>
+<th align="left">value_type</th>
+<th align="left">summary</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">baseline_timestamp</td>
+<td align="left">Survey Timestamp</td>
+<td align="left">text</td>
+<td align="left">1614 unique values<br>1670 non-missing values<br>15 to 19 characters<br></td>
+</tr>
+<tr>
+<td align="left">hh_relship</td>
+<td align="left">What is your current relationship status?</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>1 : Single<br>2 : Married<br>3 : Not married but in a relationship<br>99.46% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_living</td>
+<td align="left">Are you currently living with your partner?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>85.45% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_nchild</td>
+<td align="left">Do any children aged 16 and under live in your home?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>99.28% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_nchild_04</td>
+<td align="left">How many children aged between 0 and 4 years live in your home?</td>
+<td align="left">decimal</td>
+<td align="left">mean (sd)<br>0.68 (0.83)<br><br>min &lt; median &lt; max<br>0.00 &lt; 0.00 &lt; 6.00<br><br>87.66% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_nchild_510</td>
+<td align="left">How many children aged between 5 and 10 years live in your home?</td>
+<td align="left">decimal</td>
+<td align="left">mean (sd)<br>1.06 (0.94)<br><br>min &lt; median &lt; max<br>0.00 &lt; 1.00 &lt; 10.00<br><br>89.34% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_nchild_1116</td>
+<td align="left">How many children aged between 11 and 16 years live in your home?</td>
+<td align="left">decimal</td>
+<td align="left">mean (sd)<br>1.00 (0.88)<br><br>min &lt; median &lt; max<br>0.00 &lt; 1.00 &lt; 8.00<br><br>88.62% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_childlw</td>
+<td align="left">Does your child (or children) live with you all the time?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No - shared parenting<br>1 : Yes<br>97.37% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_nadult</td>
+<td align="left">How many adults (people aged over 16 years) live in your home?</td>
+<td align="left">decimal</td>
+<td align="left">mean (sd)<br>2.34 (1.16)<br><br>min &lt; median &lt; max<br>0.00 &lt; 2.00 &lt; 10.00<br><br>94.67% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_nadult_70</td>
+<td align="left">How many of these adults are over the age of 70?</td>
+<td align="left">decimal</td>
+<td align="left">mean (sd)<br>0.08 (0.33)<br><br>min &lt; median &lt; max<br>0.00 &lt; 0.00 &lt; 3.00<br><br>91.02% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_slfisol_hr___1</td>
+<td align="left">Have you or anyone else in your household been advised by a health professional</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_slfisol_hr___2</td>
+<td align="left">Have you or anyone else in your household been advised by a health professional</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_slfisol_hr___0</td>
+<td align="left">Have you or anyone else in your household been advised by a health professional</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_pregyou</td>
+<td align="left">Are you currently pregnant?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>99.28% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_pregyou_wks</td>
+<td align="left">How many weeks pregnant are you?</td>
+<td align="left">decimal</td>
+<td align="left">mean (sd)<br>19.77 (9.39)<br><br>min &lt; median &lt; max<br>4.00 &lt; 19.00 &lt; 38.00<br><br>3.65% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_pregoth</td>
+<td align="left">Are any other women in your household pregnant?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>99.28% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hh_pregoth_wks</td>
+<td align="left">How many weeks pregnant are they?</td>
+<td align="left">decimal</td>
+<td align="left">mean (sd)<br>14.78 (6.85)<br><br>min &lt; median &lt; max<br>4.00 &lt; 15.00 &lt; 25.00<br><br>0.54% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_own</td>
+<td align="left">Do you (or your household) own or rent the home you live in?</td>
+<td align="left">decimal</td>
+<td align="left">1 : Own it outright<br>2 : Buying it with the help of a mortgage/loan<br>3 : Part own and part rent (shared ownership)<br>4 : Rent it (includes all those who are on Housing Benefit or Local Housing Allowance)<br>5 : Live here rent-free (including rent-free in relatives/friends property but excluding squatters)<br>6 : Squatting<br>99.04% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_own_rent</td>
+<td align="left">Who is your landlord?</td>
+<td align="left">decimal</td>
+<td align="left">-2 : Dont know<br>1 : Private landlord or letting agency<br>2 : Housing association, housing co-operative, charitable trust<br>3 : Local authority, local council<br>4 : Relative or friend (before you lived here) of a household member<br>5 : Employer (individual) of a household member<br>6 : Employer (company) of a household member<br>7 : Another organisation<br>28.68% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_bdroom</td>
+<td align="left">How many bedrooms are there in your home?</td>
+<td align="left">decimal</td>
+<td align="left">mean (sd)<br>3.48 (1.43)<br><br>min &lt; median &lt; max<br>1.00 &lt; 3.00 &lt; 33.00<br><br>99.16% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_net</td>
+<td align="left">Can you access the internet from your home (e.g. broadband / data on phone)?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>99.22% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_rpair</td>
+<td align="left">Does your home need any major repairs doing to it right now?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>99.34% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_appl</td>
+<td align="left">Are all of your large electrical appliances (e.g. washing machine, fridge) in go</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>99.28% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_damp</td>
+<td align="left">Do you have any damp or mould in your home?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>99.34% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_vrmin</td>
+<td align="left">Do you have trouble with any vermin (mice or other rodents, cockroaches, etc.) i</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>99.04% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_outdr</td>
+<td align="left">Does your home have an outdoor space which you and your family can use?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>99.16% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_outdr_prvsh</td>
+<td align="left">Is your outdoor space private or shared?</td>
+<td align="left">decimal</td>
+<td align="left">1 : Private<br>2 : Shared<br>91.44% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_outdr_type___1</td>
+<td align="left">Is your outdoor space a &hellip; (choice=Yard)</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_outdr_type___2</td>
+<td align="left">Is your outdoor space a &hellip; (choice=Small garden)</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_outdr_type___3</td>
+<td align="left">Is your outdoor space a &hellip; (choice=Medium garden)</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_outdr_type___4</td>
+<td align="left">Is your outdoor space a &hellip; (choice=Large garden)</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_outdr_type___5</td>
+<td align="left">Is your outdoor space a &hellip; (choice=Other)</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">yh_outdr_safe</td>
+<td align="left">Is your outdoor space safe for your children to play in?</td>
+<td align="left">decimal</td>
+<td align="left">-2 : Dont know<br>0 : No<br>1 : Yes<br>89.58% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">jbsc_kwrker</td>
+<td align="left">Is anyone in your home classed as a Key Worker</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>99.16% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">jbsc_kwrker_who___1</td>
+<td align="left">Who is classed as a Key Worker? (choice=Myself)</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">jbsc_kwrker_who___2</td>
+<td align="left">Who is classed as a Key Worker? (choice=My partner)</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">jbsc_kwrker_who___3</td>
+<td align="left">Who is classed as a Key Worker? (choice=Other household member)</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">jbsc_main</td>
+<td align="left">Who is the main earner in the household?</td>
+<td align="left">decimal</td>
+<td align="left">1 : Me<br>2 : My partner<br>3 : Other household member<br>4 : Me and my partner earn the same amount<br>98.50% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">jbsc_main_crntly</td>
+<td align="left">Is the main earner in your household currently&hellip;</td>
+<td align="left">decimal</td>
+<td align="left">-2 : Dont know<br>1 : Employed<br>2 : Employed but not working (on furlough)<br>3 : Self employed and working<br>4 : Self employed and not working<br>5 : Unemployed<br>99.22% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">jbsc_main_hmwfh</td>
+<td align="left">Are they mainly working from home, or going out to work?</td>
+<td align="left">decimal</td>
+<td align="left">1 : Working from home<br>2 : Going out to work<br>51.32% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">jbsc_main_wry_1</td>
+<td align="left">I worry about the job security of the main earner</td>
+<td align="left">decimal</td>
+<td align="left">1 : Strongly disagree<br>2 : Disagree<br>3 : Neither agree nor disagree<br>4 : Agree<br>5 : Strongly agree<br>97.07% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">jbsc_main_wry_2</td>
+<td align="left">In the next 12 months, do you expect the income of the main earner is likely to</td>
+<td align="left">decimal</td>
+<td align="left">-2 : Dont know<br>0 : No<br>1 : Yes<br>97.37% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">jbsc_main_wry_3</td>
+<td align="left">In 12 months time, do you expect the main earner to still have their job?</td>
+<td align="left">decimal</td>
+<td align="left">-2 : Dont know<br>0 : No<br>1 : Yes<br>97.19% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_buyfood</td>
+<td align="left">I have been able to buy the food I needed in the shops.</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>-2 : Dont know<br>1 : Never true<br>2 : Sometimes true<br>3 : Often true<br>99.10% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_ddntlast</td>
+<td align="left">The food that (I/we) bought just didnt last, and (I/we) didnt have money to get</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>-2 : Dont know<br>1 : Never true<br>2 : Sometimes true<br>3 : Often true<br>99.04% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_balancd</td>
+<td align="left">(I/we) couldnt afford to eat balanced meals.</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>-2 : Dont know<br>1 : Never true<br>2 : Sometimes true<br>3 : Often true<br>98.92% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_skip</td>
+<td align="left">Did you or other adults in your household ever cut the size of your meals or ski</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>-2 : Dont know<br>0 : No<br>1 : Yes<br>98.98% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_skipoftn</td>
+<td align="left">How often did you or other adults cut the size of meals or skip meals?</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>-2 : Dont know<br>1 : Only 1 or 2 days<br>2 : Some days but not every day<br>3 : Almost every day<br>8.86% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_eatless</td>
+<td align="left">Did you or other adults ever eat less than you felt you should because there was</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>-2 : Dont know<br>0 : No<br>1 : Yes<br>98.74% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_hungry</td>
+<td align="left">Were you ever hungry but didnt eat because there wasnt enough money for food?</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>-2 : Dont know<br>0 : No<br>1 : Yes<br>99.04% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_finannow</td>
+<td align="left">How well would you say you are managing financially right now?</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>-2 : Dont know<br>1 : Living comfortably<br>2 : Doing alright<br>3 : Just about getting by<br>4 : Finding it quite difficult<br>5 : Finding it very difficult<br>99.16% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_finan3m</td>
+<td align="left">Compared to 3 months ago, how would you say you are doing financially right now?</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>-2 : Dont know<br>1 : Better off<br>2 : About the same<br>3 : Worse off<br>98.92% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_bills</td>
+<td align="left">Sometimes people are not able to pay every bill when it is due. Are you currentl</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>-2 : Dont know<br>0 : No<br>1 : Yes<br>98.86% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_relief</td>
+<td align="left">Did you know that some households can apply to take mortgage holidays or rent re</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>98.44% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_relief_tkn</td>
+<td align="left">Are you taking the mortgage holiday or the rent relief loan at the moment?</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>-2 : Dont know<br>0 : No<br>1 : Yes<br>68.98% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_relief_nxt</td>
+<td align="left">Do you think you will take the mortgage holiday / rent relief in the next month?</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>-2 : Dont know<br>0 : No<br>1 : Yes<br>87.84% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_wrypay</td>
+<td align="left">I worry about paying the rent / mortgage</td>
+<td align="left">decimal</td>
+<td align="left">1 : Strongly disagree<br>2 : Disagree<br>3 : Neither agree nor disagree<br>4 : Agree<br>5 : Strongly agree<br>97.37% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">hhe_wryevic</td>
+<td align="left">I worry about getting evicted / having my home repossessed</td>
+<td align="left">decimal</td>
+<td align="left">1 : Strongly disagree<br>2 : Disagree<br>3 : Neither agree nor disagree<br>4 : Agree<br>5 : Strongly agree<br>96.89% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_slfisol_nw</td>
+<td align="left">Is your household currently self isolating (that is, not leaving the house at al</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>98.98% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_slfisol_nw_why___1</td>
+<td align="left">Why are you self isolating? (choice=Contact with someone with symptoms of corona</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_slfisol_nw_why___2</td>
+<td align="left">Why are you self isolating? (choice=Had coronavirus symptoms yourself)</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_slfisol_nw_why___3</td>
+<td align="left">Why are you self isolating? (choice=Someone in the household had symptoms of cor</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_slfisol_nw_why___4</td>
+<td align="left">Why are you self isolating? (choice=To protect a vulnerable person in the househ</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_slfisol_nw_why___5</td>
+<td align="left">Why are you self isolating? (choice=Other)</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_slfisol_past</td>
+<td align="left">Has your household had to self-isolate for any reason (that is, not leaving the</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>83.23% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_slfisol_past_why___1</td>
+<td align="left">What was the reason you had to self-isolate? (choice=Contact with someone with s</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_slfisol_past_why___2</td>
+<td align="left">What was the reason you had to self-isolate? (choice=Had coronavirus symptoms yo</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_slfisol_past_why___3</td>
+<td align="left">What was the reason you had to self-isolate? (choice=Someone in the household ha</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_slfisol_past_why___4</td>
+<td align="left">What was the reason you had to self-isolate? (choice=To protect a vulnerable per</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_slfisol_past_why___5</td>
+<td align="left">What was the reason you had to self-isolate? (choice=Other)</td>
+<td align="left">decimal</td>
+<td align="left">0 : Unchecked<br>1 : Checked<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_slfisol_past_days</td>
+<td align="left">How many days did you self-isolate for?</td>
+<td align="left">decimal</td>
+<td align="left">mean (sd)<br>14.39 (4.92)<br><br>min &lt; median &lt; max<br>4.00 &lt; 14.00 &lt; 35.00<br><br>13.35% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_smoke</td>
+<td align="left">Do you smoke?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>98.68% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_smoke_hwmch</td>
+<td align="left">Over the past week have you smoked&hellip;</td>
+<td align="left">decimal</td>
+<td align="left">0 : About the same<br>1 : Less than usual<br>2 : More than usual<br>10.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_ecig</td>
+<td align="left">Do you vape or use e-cigarettes?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>98.86% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_ecig_hwmch</td>
+<td align="left">Over the past week have you vaped or used e-cigarettes&hellip;</td>
+<td align="left">decimal</td>
+<td align="left">0 : About the same<br>1 : Less than usual<br>2 : More than usual<br>2.87% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_alc</td>
+<td align="left">Do you drink alcohol?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>98.92% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_alc_hwmch</td>
+<td align="left">Over the past week have you drunk&hellip;</td>
+<td align="left">decimal</td>
+<td align="left">0 : About the same<br>1 : Less than usual<br>2 : More than usual<br>26.17% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_feeling</td>
+<td align="left">Which of the following best describes how youve been feeling over the past week?</td>
+<td align="left">decimal</td>
+<td align="left">0 : I do not worry about my health<br>1 : I occasionally worry about my health<br>2 : I spend much of my time worrying about my health<br>3 : I spend most of my time worrying about health<br>98.86% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_genhealth</td>
+<td align="left">How would you describe your health generally?</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>-2 : Dont know<br>1 : Excellent<br>2 : Very good<br>3 : Good<br>4 : Fair<br>5 : Poor<br>98.92% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_phq_1</td>
+<td align="left">Little interest or pleasure in doing things</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>98.26% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_phq_2</td>
+<td align="left">Feeling down, depressed, or hopeless</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>98.68% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_phq_3</td>
+<td align="left">Trouble falling or staying asleep, or sleeping too much</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>98.62% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_phq_4</td>
+<td align="left">Feeling tired or having little energy</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>98.86% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_phq_5</td>
+<td align="left">Poor appetite or overeating</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>98.44% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_phq_6</td>
+<td align="left">Feeling bad about yourself</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>98.32% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_phq_7</td>
+<td align="left">Trouble concentrating on things, such as reading the newspaper or watching telev</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>98.20% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_phq_8</td>
+<td align="left">Moving or speaking so slowly that other people could have noticed? Or the opposi</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>97.96% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_phq_hwdiff</td>
+<td align="left">If you checked off any problems, how difficult have these problems made it for y</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Somewhat difficult<br>2 : Very difficult<br>3 : Extremely difficult<br>77.25% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_gad_1</td>
+<td align="left">Feeling nervous, anxious or on an edge?</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>98.38% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_gad_2</td>
+<td align="left">Not being able to stop or control worrying?</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>98.14% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_gad_3</td>
+<td align="left">Worrying too much about different things?</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>98.20% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_gad_4</td>
+<td align="left">Trouble relaxing?</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>97.90% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_gad_5</td>
+<td align="left">Being so restless that it is hard to sit still?</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>97.90% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_gad_6</td>
+<td align="left">Becoming easily annoyed or irritable?</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>98.02% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fh_gad_7</td>
+<td align="left">Feeling afraid as if something awful might happen?</td>
+<td align="left">decimal</td>
+<td align="left">0 : Not at all<br>1 : Several days<br>2 : More than half the days<br>3 : Nearly every day<br>97.96% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_gp</td>
+<td align="left">Your doctor (GP) or nurse</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>98.50% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_gp</td>
+<td align="left">Were you able to get an appointment with your GP or nurse?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>2 : Havent tried<br>37.96% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_gp_mode</td>
+<td align="left">Was the appointment with your GP or nurse in person or over the phone?</td>
+<td align="left">decimal</td>
+<td align="left">1 : In person<br>2 : Phone<br>28.98% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_gp_satis</td>
+<td align="left">Did you receive the support you needed?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Definitely<br>2 : Mostly<br>28.92% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_111</td>
+<td align="left">NHS 111 by telephone or online</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>98.26% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_111</td>
+<td align="left">Were you able to speak to someone, or gain advice online through NHS 111?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>2 : Havent tried<br>17.31% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_111_satis</td>
+<td align="left">Did you receive the support you needed?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Definitely<br>2 : Mostly<br>14.97% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_ae</td>
+<td align="left">Health emergency services (A&amp;E)</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>98.26% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_ae</td>
+<td align="left">Were you able to access emergency care?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>2 : Havent tried<br>5.45% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_ae_satis</td>
+<td align="left">Did you receive the support you needed?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Definitely<br>2 : Mostly<br>5.15% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_spec</td>
+<td align="left">A specialist (consultant) doctor or specialist clinic (hospital outpatient) appo</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>98.26% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_spec</td>
+<td align="left">Were you able to access specialist support?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>2 : Havent tried<br>12.63% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_spec_mode</td>
+<td align="left">Was specialist support given in person or over the phone?</td>
+<td align="left">decimal</td>
+<td align="left">1 : In person<br>2 : Phone<br>10.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_spec_satis</td>
+<td align="left">Did you receive the support you needed?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Definitely<br>2 : Mostly<br>10.06% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_mh</td>
+<td align="left">Mental health services</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>98.20% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_mh</td>
+<td align="left">Were you able to access support from a mental health service?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>2 : Havent tried<br>3.41% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_mh_mode</td>
+<td align="left">Was mental health support given in person or over the phone?</td>
+<td align="left">decimal</td>
+<td align="left">1 : In person<br>2 : Phone<br>2.63% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_mh_satis</td>
+<td align="left">Did you receive the support you needed?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Definitely<br>2 : Mostly<br>2.63% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_mdwife</td>
+<td align="left">A midwife</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>98.20% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_mdwife</td>
+<td align="left">Were you able to access support from a midwife?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>2 : Havent tried<br>3.65% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_mdwife_mode</td>
+<td align="left">Did the midwife provide support in person or over the phone?</td>
+<td align="left">decimal</td>
+<td align="left">1 : In person<br>2 : Phone<br>3.11% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_mdwife_satis</td>
+<td align="left">Did you receive the support you needed?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Definitely<br>2 : Mostly<br>3.11% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_hvsn</td>
+<td align="left">A health visitor or school nurse</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>98.08% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_hvsn</td>
+<td align="left">Were you able to access support from a health visitor or school nurse?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>2 : Havent tried<br>4.67% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_hvsn_mode</td>
+<td align="left">Did the health visitor or school nurse provide support in person or over the pho</td>
+<td align="left">decimal</td>
+<td align="left">1 : In person<br>2 : Phone<br>4.25% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_hvsn_satis</td>
+<td align="left">Did you receive the support you needed?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Definitely<br>2 : Mostly<br>4.25% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_ehss</td>
+<td align="left">Early Help or social services</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>98.26% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_ehss</td>
+<td align="left">Were you able to access support from Early Help or social services?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>2 : Havent tried<br>2.04% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_ehss_mode</td>
+<td align="left">Was support from Early Help or social services provided in person or over the ph</td>
+<td align="left">decimal</td>
+<td align="left">1 : In person<br>2 : Phone<br>1.80% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_ehss_satis</td>
+<td align="left">Did you receive the support you needed?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Definitely<br>2 : Mostly<br>1.80% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_pharm</td>
+<td align="left">Pharmacy services</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>98.20% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_pharm</td>
+<td align="left">Were you able to access support from a pharmacy?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>2 : Havent tried<br>40.30% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_pharm_mode</td>
+<td align="left">Was pharmacy support given in person or over the phone?</td>
+<td align="left">decimal</td>
+<td align="left">1 : In person<br>2 : Phone<br>36.83% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_pharm_satis</td>
+<td align="left">Did you receive the support you needed?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Definitely<br>2 : Mostly<br>37.01% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_othr</td>
+<td align="left">Other services e.g. charity/volunteer support</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>97.78% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_othr</td>
+<td align="left">Were you able to access support from a charity or voluntary organisation?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>2 : Havent tried<br>2.69% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_acc_othr_mode</td>
+<td align="left">Did the charity or voluntary organisation provide support in person or over the</td>
+<td align="left">decimal</td>
+<td align="left">1 : In person<br>2 : Phone<br>2.34% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">as_othr_satis</td>
+<td align="left">Did you receive the support you needed?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Definitely<br>2 : Mostly<br>2.34% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fl_physact</td>
+<td align="left">How often do you currently do any kind of physical activity?</td>
+<td align="left">decimal</td>
+<td align="left">1 : Never<br>2 : 1 or 2 days a week<br>3 : Most days<br>4 : Every day<br>98.50% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fl_physact_hwmch</td>
+<td align="left">Is this more, less or about the same as you did before lockdown?</td>
+<td align="left">decimal</td>
+<td align="left">1 : Less than before<br>2 : About the same as before<br>3 : More than before<br>86.11% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fl_physact_outdr</td>
+<td align="left">How often do you do any kind of physical activity outside?</td>
+<td align="left">decimal</td>
+<td align="left">1 : Never<br>2 : 1 or 2 days a week<br>3 : Most days<br>4 : Every day<br>86.11% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fl_sleephrs</td>
+<td align="left">What was the average number of hours you slept per night in the last 7 days</td>
+<td align="left">decimal</td>
+<td align="left">mean (sd)<br>6.80 (1.96)<br><br>min &lt; median &lt; max<br>0.00 &lt; 7.00 &lt; 49.00<br><br>96.05% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fl_physact_ch</td>
+<td align="left">How often do your children do any kind of physical activity?</td>
+<td align="left">decimal</td>
+<td align="left">1 : Never<br>2 : 1 or 2 days a week<br>3 : Most days<br>4 : Every day<br>96.05% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fl_physact_ch_outdr</td>
+<td align="left">How often do your children do any kind of physical activity outside?</td>
+<td align="left">decimal</td>
+<td align="left">1 : Never<br>2 : 1 or 2 days a week<br>3 : Most days<br>4 : Every day<br>96.29% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fl_nurs</td>
+<td align="left">Do any of your children usually go to nursery?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>96.29% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fl_nurs_still</td>
+<td align="left">Are any of your children still going to nursery during the coronavirus lockdown?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>18.98% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fl_nurs_eli</td>
+<td align="left">Were any of your children eligible for or offered a place at nursery?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>18.02% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fl_nurs_eli_why</td>
+<td align="left">Why didnt you take up this place at nursery?</td>
+<td align="left">text</td>
+<td align="left">58 unique values<br>58 non-missing values<br>3 to 280 characters<br></td>
+</tr>
+<tr>
+<td align="left">fl_sch</td>
+<td align="left">Do any of your children usually go to primary or secondary school?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>96.41% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fl_sch_still</td>
+<td align="left">Are any of your children still going to school during the coronavirus lockdown?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>78.92% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fl_sch_eli</td>
+<td align="left">Were any of your children eligible for or offered a place at school?</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>73.95% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fl_sch_eli_why</td>
+<td align="left">Why didnt you take up this place at school?</td>
+<td align="left">text</td>
+<td align="left">351 unique values<br>355 non-missing values<br>2 to 741 characters<br></td>
+</tr>
+<tr>
+<td align="left">fl_suprtlearn</td>
+<td align="left">I feel confident in my ability to support my childrens learning at home</td>
+<td align="left">decimal</td>
+<td align="left">1 : Strongly disagree<br>2 : Disagree<br>3 : Neither agree nor disagree<br>4 : Agree<br>5 : Strongly agree<br>96.05% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">fl_skillsprnt</td>
+<td align="left">I honestly believe I have all the skills necessary to be a good parent to my chi</td>
+<td align="left">decimal</td>
+<td align="left">1 : Strongly disagree<br>2 : Disagree<br>3 : Neither agree nor disagree<br>4 : Agree<br>5 : Strongly agree<br>96.05% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">ywb_relshipq</td>
+<td align="left">How would you describe the quality of your relationship with your current partne</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>1 : Excellent<br>2 : Good<br>3 : Average<br>4 : Poor<br>5 : Very poor<br>84.49% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">ywb_comm</td>
+<td align="left">No/poor communication (e.g. silent treatment)</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>8.38% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">ywb_argu</td>
+<td align="left">Arguments now and then about trivial matters</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>8.56% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">ywb_disagr</td>
+<td align="left">Regular disagreements (e.g. about chores, children, finances, etc.)</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>8.50% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">ywb_conflct</td>
+<td align="left">Unpredictable but severe conflict</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>8.38% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">ywb_strggoth</td>
+<td align="left">Struggle with something else</td>
+<td align="left">decimal</td>
+<td align="left">0 : No<br>1 : Yes<br>8.32% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">ywb_pplcount</td>
+<td align="left">How many people can you count on in times of need?</td>
+<td align="left">decimal</td>
+<td align="left">0 : 0<br>1 : 1<br>10 : 10 or more<br>2 : 2<br>3 : 3<br>4 : 4<br>5 : 5<br>6 : 6<br>7 : 7<br>8 : 8<br>9 : 9<br>97.90% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">ywb_pplcount_lcl</td>
+<td align="left">How many of these people live in your local area? That is, within about a mile o</td>
+<td align="left">decimal</td>
+<td align="left">0 : 0<br>1 : 1<br>10 : 10 or more<br>2 : 2<br>3 : 3<br>4 : 4<br>5 : 5<br>6 : 6<br>7 : 7<br>8 : 8<br>9 : 9<br>91.38% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">ywb_help</td>
+<td align="left">How easy is it to get practical help from friends/family/neighbours if you shoul</td>
+<td align="left">decimal</td>
+<td align="left">1 : Very difficult<br>2 : Difficult<br>3 : Possible<br>4 : Easy<br>5 : Very easy<br>98.02% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">ywb_lonely</td>
+<td align="left">How often have you felt lonely during the past week?</td>
+<td align="left">decimal</td>
+<td align="left">-1 : Do not wish to answer<br>-2 : Dont know<br>0 : None, or almost none of the time<br>1 : Some of the time<br>2 : Most of the time<br>3 : All, or almost all of the time<br>98.14% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">wc_wrynow_1</td>
+<td align="left">Worry 1:</td>
+<td align="left">text</td>
+<td align="left">1239 unique values<br>1399 non-missing values<br>1 to 476 characters<br></td>
+</tr>
+<tr>
+<td align="left">wc_wrynow_2</td>
+<td align="left">Worry 2:</td>
+<td align="left">text</td>
+<td align="left">1033 unique values<br>1120 non-missing values<br>1 to 664 characters<br></td>
+</tr>
+<tr>
+<td align="left">wc_wrynow_3</td>
+<td align="left">Worry 3:</td>
+<td align="left">text</td>
+<td align="left">757 unique values<br>834 non-missing values<br>1 to 507 characters<br></td>
+</tr>
+<tr>
+<td align="left">wc_chllnge</td>
+<td align="left">Can you tell us about a challenge you have faced in the last two weeks?</td>
+<td align="left">text</td>
+<td align="left">1048 unique values<br>1206 non-missing values<br>1 to 1261 characters<br></td>
+</tr>
+<tr>
+<td align="left">wc_easier</td>
+<td align="left">Can you tell us how lockdown has made any parts of your life easier or more enjo</td>
+<td align="left">text</td>
+<td align="left">1187 unique values<br>1344 non-missing values<br>1 to 1332 characters<br></td>
+</tr>
+</tbody>
+</table>
+<div class="edit-meta">
+
+<br></div><nav class="pagination"><a class="nav nav-prev" href="https://borninbradford.github.io/datadict/crosscohort/covid19_survey/" title="COVID19 Surveys"><i class="fas fa-arrow-left" aria-hidden="true"></i> Prev - COVID19 Surveys</a>
+<a class="nav nav-next" href="https://borninbradford.github.io/datadict/bib/" title="BiB Data">Next - BiB Data <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+</nav><footer></footer>
+</main>
+<div class="sidebar">
+
+<nav class="slide-menu">
+<ul>
+<li class=""><a href="https://borninbradford.github.io/datadict/">Home</a></li>
+
+<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/">BiB Data<span class="mark closed">+</span></a>
+  
+<ul class="sub-menu">
+
+<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/">BiB Cohort Information<span class="mark closed">+</span></a>
+  
+<ul class="sub-menu">
+
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/cohort_info/">cohort_info</a>
+  
+</li>
+
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/genotyping_info/">genotyping_info</a>
+  
+</li>
+</ul>
+  
+</li>
+
+<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/bib_baseline/">BiB Baseline<span class="mark closed">+</span></a>
+  
+<ul class="sub-menu">
+
+<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/">base_m_survey<span class="mark closed">+</span></a>
+  
+<ul class="sub-menu">
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p1/">base_m_survey_p1</a></li>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p2/">base_m_survey_p2</a></li>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p3/">base_m_survey_p3</a></li>
+</ul>
+  
+</li>
+
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_baseline/base_m1_survey/">base_m1_survey</a>
+  
+</li>
+
+<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/">base_m23_survey<span class="mark closed">+</span></a>
+  
+<ul class="sub-menu">
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/base_m23_survey_p1/">base_m23_survey_p1</a></li>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/base_m23_survey_p2/">base_m23_survey_p2</a></li>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/base_m23_survey_p3/">base_m23_survey_p3</a></li>
+</ul>
+  
+</li>
+
+<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/bib_baseline/base_f_survey/">base_f_survey<span class="mark closed">+</span></a>
+  
+<ul class="sub-menu">
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_baseline/base_f_survey/base_f_survey_p1/">base_f_survey_p1</a></li>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_baseline/base_f_survey/base_f_survey_p2/">base_f_survey_p2</a></li>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_baseline/base_f_survey/base_f_survey_p3/">base_f_survey_p3</a></li>
+</ul>
+  
+</li>
+</ul>
+  
+</li>
+
+<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/">BiB Primary School Years<span class="mark closed">+</span></a>
+  
+<ul class="sub-menu">
+
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_info/">child_info</a>
+  
+</li>
+
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_quiz/">child_quiz</a>
+  
+</li>
+</ul>
+  
+</li>
+
+<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/bib_growingup/">BiB Growing Up<span class="mark closed">+</span></a>
+  
+<ul class="sub-menu">
+
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_growingup/adult_survey/">adult_survey</a>
+  
+</li>
+
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_growingup/child_survey_adult_comp/">child_survey_adult_comp</a>
+  
+</li>
+</ul>
+  
+</li>
+</ul>
+  
+</li>
+
+<li class="parent has-sub-menu"><a href="https://borninbradford.github.io/datadict/crosscohort/">Cross-Cohort Data<span class="mark opened">-</span></a>
+  
+<ul class="sub-menu">
+
+<li class="parent has-sub-menu"><a href="https://borninbradford.github.io/datadict/crosscohort/covid19_survey/">COVID19 Surveys<span class="mark opened">-</span></a>
+  
+<ul class="sub-menu">
+
+<li class="parent active"><a href="https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_lockdown/">adult_lockdown</a>
+  
+</li>
+</ul>
+  
+</li>
+</ul>
+  
+</li>
+</ul>
+</nav>
+
+
+
+<div class="sidebar-footer"></div>
+</div>
+
+</div><a href="#" id="backtothetop-fixed" class="backtothetop"
+ data-backtothetop-duration="600"
+ data-backtothetop-easing="easeOutQuart"
+ data-backtothetop-fixed-fadeIn="1000"
+ data-backtothetop-fixed-fadeOut="1000"
+ data-backtothetop-fixed-bottom="10"
+ data-backtothetop-fixed-right="20">
+<span class="fa-layers fa-fw">
+<i class="fas fa-circle"></i>
+<i class="fas fa-arrow-circle-up"></i>
+</span></a>
+</div>
+</body>
+</html>
