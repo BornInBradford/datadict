@@ -17,6 +17,7 @@
       
       <guid>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p1/</guid>
       <description>Table ID: BiB_Baseline.base_m_survey_p1
+github | csv
    Entity type Variables Entities Updated     Participant 340 10376 2020-10-09    _p1 tables are found in projects tagged #bib #pregnancy and contain the same variables as the table sharing the same prefix but only data collected at the first pregnancy wave P1.
    variable label value_type summary     has_base_m_survey_p1 Has mother baseline survey decimal mean (sd)</description>
     </item>
@@ -28,6 +29,7 @@
       
       <guid>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p2/</guid>
       <description>Table ID: BiB_Baseline.base_m_survey_p2
+github | csv
    Entity type Variables Entities Updated     Participant 340 993 2020-10-09    _p2 tables are found in projects tagged #bib #pregnancy and contain the same variables as the table sharing the same prefix but only data collected at the first pregnancy wave P2.
    variable label value_type summary     has_base_m_survey_p2 Has mother baseline survey decimal mean (sd)</description>
     </item>
@@ -39,6 +41,7 @@
       
       <guid>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p3/</guid>
       <description>Table ID: BiB_Baseline.base_m_survey_p3
+github | csv
    Entity type Variables Entities Updated     Participant 340 26 2020-10-09    _p3 tables are found in projects tagged #bib #pregnancy and contain the same variables as the table sharing the same prefix but only data collected at the first pregnancy wave P3.
    variable label value_type summary     has_base_m_survey_p3 Has mother baseline survey decimal mean (sd)</description>
     </item>
