@@ -31,7 +31,15 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p1/</loc>
   </url>
   
   <url>
@@ -39,7 +47,15 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p2/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p3/</loc>
   </url>
   
   <url>
@@ -63,7 +79,27 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/pregnancy_gtt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/pregnancy_gtt/pregnancy_gtt_p1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/pregnancy_gtt/pregnancy_gtt_p2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/pregnancy_gtt/pregnancy_gtt_p3/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/</loc>
   </url>
   
   <url>
@@ -104,6 +140,30 @@
   
   <url>
     <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_admiss/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_pregbp/</loc>
   </url>
   
   <url>

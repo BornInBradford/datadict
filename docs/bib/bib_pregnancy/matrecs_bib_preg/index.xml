@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matrecs_bib_preg on Born in Bradford Data Dictionary</title>
+    <link>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/</link>
+    <description>Recent content in matrecs_bib_preg on Born in Bradford Data Dictionary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>matrecs_bib_preg_p1</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p1/</guid>
+      <description>Table ID: BiB_Pregnancy.matrecs_bib_preg_p1
+github | csv
+   Entity type Variables Entities Updated     Participant 143 9921 2020-10-29    _p1 tables contain the same variables as their parent table but only data collected at the first pregnancy
+   variable label value_type summary     has_matrecs_bib_preg_p1 Has maternity records: bib pregnancy decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+    <item>
+      <title>matrecs_bib_preg_p2</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p2/</guid>
+      <description>Table ID: BiB_Pregnancy.matrecs_bib_preg_p2
+github | csv
+   Entity type Variables Entities Updated     Participant 143 992 2020-10-29    _p2 tables contain the same variables as their parent table but only data collected at the second pregnancy
+   variable label value_type summary     has_matrecs_bib_preg_p2 Has maternity records: bib pregnancy decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+    <item>
+      <title>matrecs_bib_preg_p3</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p3/</guid>
+      <description>Table ID: BiB_Pregnancy.matrecs_bib_preg_p3
+github | csv
+   Entity type Variables Entities Updated     Participant 143 26 2020-10-29    _p3 tables contain the same variables as their parent table but only data collected at the third pregnancy
+   variable label value_type summary     has_matrecs_bib_preg_p3 Has maternity records: bib pregnancy decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+    <item>
+      <title>matrecs_bib_admiss</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_admiss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_admiss/</guid>
+      <description>Table ID: BiB_Pregnancy.matrecs_bib_admiss
+github | csv
+   Entity type Variables Entities Updated     Participant 17 813 2020-10-29    This source contains information about hospital admissions during the maternal period. 80 observations were dropped due to missing data or data entry errors.
+   variable label value_type summary     BiBPregNumber Cohort recruited pregnancy number decimal mean (sd)
+1.10 (0.32)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+    <item>
+      <title>matrecs_bib_pregbp</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_pregbp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_pregbp/</guid>
+      <description>Table ID: BiB_Pregnancy.matrecs_bib_pregbp
+github | csv
+   Entity type Variables Entities Updated     Participant 8 10005 2020-10-29    This source contains information about blood pressure during the BiB pregnancy. 940 observations were dropped due to data entry errors.
+   variable label value_type summary     BiBPregNumber Cohort recruited pregnancy number decimal mean (sd)
+1.09 (0.29)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+  </channel>
+</rss>
