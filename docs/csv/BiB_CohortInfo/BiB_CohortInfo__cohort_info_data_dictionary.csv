@@ -1,0 +1,7 @@
+variable,full_name,label,value_type,description,categories,categories_label
+PersonID,BiB_CohortInfo.cohort_info.PersonID,Legacy BiB person identifier,decimal,NA,NA,NA
+ParticipantType,BiB_CohortInfo.cohort_info.ParticipantType,Participant type - position in cohort family,text,NA,NA,NA
+Gender,BiB_CohortInfo.cohort_info.Gender,Participant gender,text,NA,NA,NA
+BiBFatherID,BiB_CohortInfo.cohort_info.BiBFatherID,BiB person identifier of child's father,text,NA,NA,NA
+BiBMotherID,BiB_CohortInfo.cohort_info.BiBMotherID,BiB person identifier of child's mother,text,NA,NA,NA
+BiBPregNumber,BiB_CohortInfo.cohort_info.BiBPregNumber,Cohort recruited pregnancy number,text,NA,NA,NA

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>base_m23_survey on Born in Bradford Data Dictionary</title>
+    <title>Mother baseline phase 2 and 3 on Born in Bradford Data Dictionary</title>
     <link>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/</link>
-    <description>Recent content in base_m23_survey on Born in Bradford Data Dictionary</description>
+    <description>Recent content in Mother baseline phase 2 and 3 on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,39 +11,45 @@
     
     
     <item>
-      <title>base_m23_survey_p1</title>
+      <title>Mother baseline phase 2 and 3 (p1)</title>
       <link>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/base_m23_survey_p1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/base_m23_survey_p1/</guid>
       <description>Table ID: BiB_Baseline.base_m23_survey_p1
 github | csv
-   Entity type Variables Entities Updated     Participant 12 8600 2020-10-09    _p1 tables are found in projects tagged #bib #pregnancy and contain the same variables as the table sharing the same prefix but only data collected at the first pregnancy wave P1.
-   variable label value_type summary     has_base_m23_survey_p1 Has mother baseline survey (phases 2 &amp;amp; 3) decimal mean (sd)</description>
+   Entity type Variables Entities Updated     Participant 12 8600 2020-10-09    _p1 tables contain the same variables as their parent table but only data collected at the first pregnancy
+   variable label value_type summary     has_base_m23_survey_p1 Has mother baseline survey (phases 2 &amp;amp; 3) decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max</description>
     </item>
     
     <item>
-      <title>base_m23_survey_p2</title>
+      <title>Mother baseline phase 2 and 3 (p2)</title>
       <link>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/base_m23_survey_p2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/base_m23_survey_p2/</guid>
       <description>Table ID: BiB_Baseline.base_m23_survey_p2
 github | csv
-   Entity type Variables Entities Updated     Participant 12 993 2020-10-09    _p2 tables are found in projects tagged #bib #pregnancy and contain the same variables as the table sharing the same prefix but only data collected at the first pregnancy wave P2.
-   variable label value_type summary     has_base_m23_survey_p2 Has mother baseline survey (phases 2 &amp;amp; 3) decimal mean (sd)</description>
+   Entity type Variables Entities Updated     Participant 12 993 2020-10-09    _p2 tables contain the same variables as their parent table but only data collected at the second pregnancy
+   variable label value_type summary     has_base_m23_survey_p2 Has mother baseline survey (phases 2 &amp;amp; 3) decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max</description>
     </item>
     
     <item>
-      <title>base_m23_survey_p3</title>
+      <title>Mother baseline phase 2 and 3 (p3)</title>
       <link>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/base_m23_survey_p3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/base_m23_survey_p3/</guid>
       <description>Table ID: BiB_Baseline.base_m23_survey_p3
 github | csv
-   Entity type Variables Entities Updated     Participant 12 26 2020-10-09    _p3 tables are found in projects tagged #bib #pregnancy and contain the same variables as the table sharing the same prefix but only data collected at the first pregnancy wave P3.
-   variable label value_type summary     has_base_m23_survey_p3 Has mother baseline survey (phases 2 &amp;amp; 3) decimal mean (sd)</description>
+   Entity type Variables Entities Updated     Participant 12 26 2020-10-09    _p3 tables contain the same variables as their parent table but only data collected at the third pregnancy
+   variable label value_type summary     has_base_m23_survey_p3 Has mother baseline survey (phases 2 &amp;amp; 3) decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max</description>
     </item>
     
   </channel>

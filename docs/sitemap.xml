@@ -3,18 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_lockdown/</loc>
-  </url>
-  
-  <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/adult_survey/</loc>
-  </url>
-  
-  <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/</loc>
-  </url>
-  
-  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/</loc>
   </url>
   
@@ -23,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_info/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/adult_survey/</loc>
   </url>
   
   <url>
@@ -31,11 +19,19 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_lockdown/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/</loc>
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p1/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_info/</loc>
   </url>
   
   <url>
@@ -43,7 +39,7 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p2/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p1/</loc>
   </url>
   
   <url>
@@ -51,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p3/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p2/</loc>
   </url>
   
   <url>
@@ -59,7 +55,7 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m1_survey/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p3/</loc>
   </url>
   
   <url>
@@ -67,7 +63,7 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_quiz/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/genotyping_info/</loc>
   </url>
   
   <url>
@@ -75,11 +71,15 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/genotyping_info/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/pregnancy_gtt/</loc>
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/pregnancy_gtt/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m1_survey/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_quiz/</loc>
   </url>
   
   <url>
@@ -95,15 +95,11 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/</loc>
-  </url>
-  
-  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/</loc>
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/</loc>
   </url>
   
   <url>
@@ -120,10 +116,6 @@
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_f_survey/</loc>
-  </url>
-  
-  <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/</loc>
   </url>
   
   <url>
@@ -164,6 +156,14 @@
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_pregbp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/</loc>
   </url>
   
   <url>

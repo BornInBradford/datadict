@@ -1,0 +1,342 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_Baseline.base_m_survey.BiBPregNumber,Cohort recruited pregnancy number,decimal,NA,NA,NA
+has_base_m_survey,BiB_Baseline.base_m_survey.has_base_m_survey,Has mother baseline survey,decimal,NA,NA,NA
+agemm_mbqall,BiB_Baseline.base_m_survey.agemm_mbqall,Mother age (months): Maternal Baseline Questionnaire,decimal,NA,NA,NA
+agemy_mbqall,BiB_Baseline.base_m_survey.agemy_mbqall,Mother age (years): Maternal Baseline Questionnaire,decimal,NA,NA,NA
+alc03mb4dr,BiB_Baseline.base_m_survey.alc03mb4dr,Don't remember average/max units drank per week in 3 months before pregnancy,decimal,NA,1|2|3,Don't remember not specified|Don't remember average units per week|Don't remember max units
+alc04thmdr,BiB_Baseline.base_m_survey.alc04thmdr,Don't remember maximum units drank at one time since 4th month of pregnancy,decimal,NA,1|2|3,Don't remember not specified|Don't remember average units per week|Don't remember max units
+alc05u3mb4,BiB_Baseline.base_m_survey.alc05u3mb4,Frequency of 5 or more units of alcohol consumed in 3 months before pregnancy,decimal,NA,1|2|3|4|5|6,Everyday|Nearly everyday|1-4 times/week|1-3 times a month|Rarely|Never
+alc05u4thm,BiB_Baseline.base_m_survey.alc05u4thm,Frequency of 5 or more units of alcohol consumed since 4th month of pregnancy,decimal,NA,1|2|3|4|5|6,Everyday|Nearly everyday|1-4 times/week|1-3 times a month|Rarely|Never
+alc05ufr3m,BiB_Baseline.base_m_survey.alc05ufr3m,Frequency of 5 or more units of alcohol consumed in first 3 months of pregnancy,decimal,NA,1|2|3|4|5|6,Everyday|Nearly everyday|1-4 times/week|1-3 times a month|Rarely|Never
+alc0brav3b,BiB_Baseline.base_m_survey.alc0brav3b,Average units of beer per week in 3 months before pregnancy,decimal,NA,NA,NA
+alc0brav4m,BiB_Baseline.base_m_survey.alc0brav4m,Average units of beer per week since 4th month of pregnancy,decimal,NA,NA,NA
+alc0bravf3,BiB_Baseline.base_m_survey.alc0bravf3,Average units of beer per week in first 3 months of pregnancy,decimal,NA,NA,NA
+alc0brmx3b,BiB_Baseline.base_m_survey.alc0brmx3b,Maximum units of beer at one time in 3 months before pregnancy,decimal,NA,NA,NA
+alc0brmx4m,BiB_Baseline.base_m_survey.alc0brmx4m,Maximum units of beer at one time since 4th month of pregnancy,decimal,NA,NA,NA
+alc0brmxf3,BiB_Baseline.base_m_survey.alc0brmxf3,Maximum units of beer at one time in first 3 months of pregnancy,decimal,NA,NA,NA
+alc0dr3mb4,BiB_Baseline.base_m_survey.alc0dr3mb4,Mother drank alcohol 3 months before pregnancy,decimal,NA,1|2|3|4|5,"Yes, once a week|Yes, occasionally|Yes, not specified|No|Don't remember"
+alc0dr4thm,BiB_Baseline.base_m_survey.alc0dr4thm,Mother drank alcohol since 4th month of pregnancy,decimal,NA,1|2|3|4|5,"Yes, once a week|Yes, occasionally|Yes, not specified|No|Don't remember"
+alc0drfr3m,BiB_Baseline.base_m_survey.alc0drfr3m,Mother drank alcohol in the first 3 months of pregnancy,decimal,NA,1|2|3|4|5,"Yes, once a week|Yes, occasionally|Yes, not specified|No|Don't remember"
+alc0drpreg,BiB_Baseline.base_m_survey.alc0drpreg,Mother drank alcohol during pregnancy or 3 months before,decimal,NA,1|2|3,Yes|No|Don't remember
+alc0fr3mdr,BiB_Baseline.base_m_survey.alc0fr3mdr,Don't remember maximum units drank at one time in first 3 months of pregnancy,decimal,NA,1|2|3,Don't remember not specified|Don't remember average units per week|Don't remember max units
+alc0oaav3b,BiB_Baseline.base_m_survey.alc0oaav3b,Average units of other alcohol per week in 3 months before pregnancy,decimal,NA,NA,NA
+alc0oaav4m,BiB_Baseline.base_m_survey.alc0oaav4m,Average units of other alcohol per week since 4th month of pregnancy,decimal,NA,NA,NA
+alc0oaavf3,BiB_Baseline.base_m_survey.alc0oaavf3,Average units of other alcohol per week in first 3 months of pregnancy,decimal,NA,NA,NA
+alc0oamx3b,BiB_Baseline.base_m_survey.alc0oamx3b,Maximum units of other alcohol at one time in 3 months before pregnancy,decimal,NA,NA,NA
+alc0oamx4m,BiB_Baseline.base_m_survey.alc0oamx4m,Maximum units of other alcohol at one time since 4th month of pregnancy,decimal,NA,NA,NA
+alc0oamxf3,BiB_Baseline.base_m_survey.alc0oamxf3,Maximum units of other alcohol at one time in first 3 months of pregnancy,decimal,NA,NA,NA
+alc0spav3b,BiB_Baseline.base_m_survey.alc0spav3b,Average units of spirits per week in 3 months before pregnancy,decimal,NA,NA,NA
+alc0spav4m,BiB_Baseline.base_m_survey.alc0spav4m,Average units of spirits per week since 4th month of pregnancy,decimal,NA,NA,NA
+alc0spavf3,BiB_Baseline.base_m_survey.alc0spavf3,Average units of spirits per week in first 3 months of pregnancy,decimal,NA,NA,NA
+alc0spmx3b,BiB_Baseline.base_m_survey.alc0spmx3b,Maximum units of spirits at one time in the 3 months before pregnancy,decimal,NA,NA,NA
+alc0spmx4m,BiB_Baseline.base_m_survey.alc0spmx4m,Maximum units of spirits at one time since 4th month of pregnancy,decimal,NA,NA,NA
+alc0spmxf3,BiB_Baseline.base_m_survey.alc0spmxf3,Maximum units of spirits at one time in first 3 months of pregnancy,decimal,NA,NA,NA
+alc0wnav3b,BiB_Baseline.base_m_survey.alc0wnav3b,Average units of wine per week in 3 months before pregnancy,decimal,NA,NA,NA
+alc0wnav4m,BiB_Baseline.base_m_survey.alc0wnav4m,Average units of wine per week since 4th month of pregnancy,decimal,NA,NA,NA
+alc0wnavf3,BiB_Baseline.base_m_survey.alc0wnavf3,Average units of wine per week in first 3 months of pregnancy,decimal,NA,NA,NA
+alc0wnmx3b,BiB_Baseline.base_m_survey.alc0wnmx3b,Maximum units of wine at one time in 3 months before pregnancy,decimal,NA,NA,NA
+alc0wnmx4m,BiB_Baseline.base_m_survey.alc0wnmx4m,Maximum units of wine at one time since 4th month of pregnancy,decimal,NA,NA,NA
+alc0wnmxf3,BiB_Baseline.base_m_survey.alc0wnmxf3,Maximum units of wine at one time in first 3 months of pregnancy,decimal,NA,NA,NA
+ben0carall,BiB_Baseline.base_m_survey.ben0carall,Carer's allowance,decimal,NA,1|2,Yes|No
+ben0chdben,BiB_Baseline.base_m_survey.ben0chdben,Child benefit,decimal,NA,1|2,Yes|No
+ben0chdtxc,BiB_Baseline.base_m_survey.ben0chdtxc,Child Tax credit,decimal,NA,1|2,Yes|No
+ben0disbla,BiB_Baseline.base_m_survey.ben0disbla,Disability living allowance,decimal,NA,1|2,Yes|No
+ben0dnwtoa,BiB_Baseline.base_m_survey.ben0dnwtoa,Does not wish to answer,decimal,NA,1|2,Yes|No
+ben0dontkw,BiB_Baseline.base_m_survey.ben0dontkw,Don't know,decimal,NA,1|2,Yes|No
+ben0houseb,BiB_Baseline.base_m_survey.ben0houseb,Housing benefit,decimal,NA,1|2,Yes|No
+ben0incapb,BiB_Baseline.base_m_survey.ben0incapb,Incapacity benefit,decimal,NA,1|2,Yes|No
+ben0incsup,BiB_Baseline.base_m_survey.ben0incsup,Income support,decimal,NA,1|2,Yes|No
+ben0intjsa,BiB_Baseline.base_m_survey.ben0intjsa,Income tested job seekers allowance,decimal,NA,1|2,Yes|No
+ben0mentst,BiB_Baseline.base_m_survey.ben0mentst,Means tested benefits received,decimal,NA,1|2,Yes|No
+ben0nobenf,BiB_Baseline.base_m_survey.ben0nobenf,None,decimal,NA,1|2,Yes|No
+ben0othbnm,BiB_Baseline.base_m_survey.ben0othbnm,Other benefits received,text,NA,NA,NA
+ben0otherb,BiB_Baseline.base_m_survey.ben0otherb,Other benefits,decimal,NA,1|2,Yes|No
+ben0pencrd,BiB_Baseline.base_m_survey.ben0pencrd,Pension credit,decimal,NA,1|2,Yes|No
+ben0wrktxc,BiB_Baseline.base_m_survey.ben0wrktxc,Working Tax credit,decimal,NA,1|2,Yes|No
+brd0brolls,BiB_Baseline.base_m_survey.brd0brolls,Baps/rolls eaten per week,decimal,NA,NA,NA
+brd0brwbrd,BiB_Baseline.base_m_survey.brd0brwbrd,Slices of brown bread eaten per week,decimal,NA,NA,NA
+brd0nnptbg,BiB_Baseline.base_m_survey.brd0nnptbg,Naan/pitta bread/bagel eaten per week,decimal,NA,NA,NA
+brd0othbrd,BiB_Baseline.base_m_survey.brd0othbrd,Other bread products eaten per week,decimal,NA,NA,NA
+brd0othpro,BiB_Baseline.base_m_survey.brd0othpro,Description of other bread products eaten,text,NA,NA,NA
+brd0parath,BiB_Baseline.base_m_survey.brd0parath,Parathas eaten per week,decimal,NA,NA,NA
+brd0pizzas,BiB_Baseline.base_m_survey.brd0pizzas,Slices of pizza eaten per week,decimal,NA,NA,NA
+brd0rotich,BiB_Baseline.base_m_survey.brd0rotich,Roti/chappatis eaten per week,decimal,NA,NA,NA
+brd0whtbrd,BiB_Baseline.base_m_survey.brd0whtbrd,Slices of white bread eaten per week,decimal,NA,NA,NA
+cdr0chgflg,BiB_Baseline.base_m_survey.cdr0chgflg,Data change based on cleaning rules,decimal,NA,NA,NA
+cdr0clcfpd,BiB_Baseline.base_m_survey.cdr0clcfpd,"Number of cups of cola (regular, caffeinated) per day",decimal,NA,NA,NA
+cdr0clcfpw,BiB_Baseline.base_m_survey.cdr0clcfpw,"Number of cups of cola (regular, caffeinated) per week",decimal,NA,NA,NA
+cdr0cldcpd,BiB_Baseline.base_m_survey.cdr0cldcpd,"Number of cups of cola (regular, decaffeinated) per day",decimal,NA,NA,NA
+cdr0cldcpw,BiB_Baseline.base_m_survey.cdr0cldcpw,"Number of cups of cola (regular, decaffeinated) per week",decimal,NA,NA,NA
+cdr0dccfpd,BiB_Baseline.base_m_survey.cdr0dccfpd,Number of cups of diet cola (caffeinated) per day,decimal,NA,NA,NA
+cdr0dccfpw,BiB_Baseline.base_m_survey.cdr0dccfpw,Number of cups of diet cola (caffeinated) per week,decimal,NA,NA,NA
+cdr0dcdcpd,BiB_Baseline.base_m_survey.cdr0dcdcpd,Number of cups of diet cola (decaffeinated) per day,decimal,NA,NA,NA
+cdr0dcdcpw,BiB_Baseline.base_m_survey.cdr0dcdcpw,Number of cups of diet cola (decaffeinated) per week,decimal,NA,NA,NA
+cdr0fccfpd,BiB_Baseline.base_m_survey.cdr0fccfpd,Number of cups of filter/cafetiere coffee (caffeinated) per day,decimal,NA,NA,NA
+cdr0fccfpw,BiB_Baseline.base_m_survey.cdr0fccfpw,Number of cups of filter/cafetiere coffee (caffeinated) per week,decimal,NA,NA,NA
+cdr0fcdcpd,BiB_Baseline.base_m_survey.cdr0fcdcpd,Number of cups of filter/cafetiere coffee (decaffeinated) per day,decimal,NA,NA,NA
+cdr0fcdcpw,BiB_Baseline.base_m_survey.cdr0fcdcpw,Number of cups of filter/cafetiere coffee (decaffeinated) per week,decimal,NA,NA,NA
+cdr0htcfpd,BiB_Baseline.base_m_survey.cdr0htcfpd,Number of cups of herbal tea (caffeinated) per day,decimal,NA,NA,NA
+cdr0htcfpw,BiB_Baseline.base_m_survey.cdr0htcfpw,Number of cups of herbal tea (caffeinated) per week,decimal,NA,NA,NA
+cdr0htdcpd,BiB_Baseline.base_m_survey.cdr0htdcpd,Number of cups of herbal tea (decaffeinated) per day,decimal,NA,NA,NA
+cdr0iccfpd,BiB_Baseline.base_m_survey.cdr0iccfpd,Number of cups of instant coffee (caffeinated) per day,decimal,NA,NA,NA
+cdr0iccfpw,BiB_Baseline.base_m_survey.cdr0iccfpw,Number of cups of instant coffee (caffeinated) per week,decimal,NA,NA,NA
+cdr0icdcpd,BiB_Baseline.base_m_survey.cdr0icdcpd,Number of cups of instant coffee (decaffeinated) per day,decimal,NA,NA,NA
+cdr0icdcpw,BiB_Baseline.base_m_survey.cdr0icdcpw,Number of cups of instant coffee (decaffeinated) per week,decimal,NA,NA,NA
+cdr0ktcfpd,BiB_Baseline.base_m_survey.cdr0ktcfpd,Number of cups of Kashmiri tea (caffeinated) per day,decimal,NA,NA,NA
+cdr0ktcfpw,BiB_Baseline.base_m_survey.cdr0ktcfpw,Number of cups of Kashmiri tea (caffeinated) per week,decimal,NA,NA,NA
+cdr0ktdcpd,BiB_Baseline.base_m_survey.cdr0ktdcpd,Number of cups of Kashmiri tea (decaffeinated) per day,decimal,NA,NA,NA
+cdr0ktdcpw,BiB_Baseline.base_m_survey.cdr0ktdcpw,Number of cups of Kashmiri tea (decaffeinated) per week,decimal,NA,NA,NA
+cdr0tecfpd,BiB_Baseline.base_m_survey.cdr0tecfpd,Number of cups of tea (caffeinated) per day,decimal,NA,NA,NA
+cdr0tecfpw,BiB_Baseline.base_m_survey.cdr0tecfpw,Number of cups of tea (caffeinated) per week,decimal,NA,NA,NA
+cdr0tedcpd,BiB_Baseline.base_m_survey.cdr0tedcpd,Number of cups of tea (decaffeinated) per day,decimal,NA,NA,NA
+cdr0tedcpw,BiB_Baseline.base_m_survey.cdr0tedcpw,Number of cups of tea (decaffeinated) per week,decimal,NA,NA,NA
+drg0drguse,BiB_Baseline.base_m_survey.drg0drguse,Mother used drugs during pregnancy,decimal,NA,1|2|3,Yes|No|Don't know
+edu0fthede,BiB_Baseline.base_m_survey.edu0fthede,Baby's father's highest educational qualification (equivalised),decimal,NA,1|2|3|4|5|6|7,<5 GCSE equivalent|5 GCSE equivalent|A-level equivalent|Higher than A-level|Other|Don't know|Foreign Unknown
+edu0ftheuk,BiB_Baseline.base_m_survey.edu0ftheuk,Father's highest education qualification,decimal,NA,1|10|11|12|13|14|2|3|4|5|6|7|8|9,"1 + 0 levels/CSEs/GCEs(any grades)|Higher Degree (e.g. MA, PhD, PGCE Post-grad cert/diploma)|Other qualifications (e.g. City and Guilds, RSA/OCR, BTEC)|Overseas qualification|No Qualifications|Don't know|5 + 0 levels, 5+ CSEs (grade 1) 5 + GCSEs, School Certificate|1 + A levels/AS levels|2 + A levels, 4 + AS levels, Higher School certificate|NVQ Level 1, Foundation GNVQ|NVQ Level 2,Intermediate GNVQ|NVQ Level 3, Advanced GNVQ|NVQ Levels 4-5, HNC, HND|First Degree (e.g. BA, BSc)"
+edu0fthflg,BiB_Baseline.base_m_survey.edu0fthflg,Fathers education change flag,decimal,NA,NA,NA
+edu0fthosc,BiB_Baseline.base_m_survey.edu0fthosc,Father overseas country of qualification,text,NA,NA,NA
+edu0fthosq,BiB_Baseline.base_m_survey.edu0fthosq,Father overseas qualification,text,NA,NA,NA
+edu0fthpak,BiB_Baseline.base_m_survey.edu0fthpak,Father Pakistan qualification,decimal,NA,1|10|11|2|3|4|5|6|7|8|9,"Second School Certificate (SSC) Matriculation|Postgraduate Eg Masters degree/PhD|Don't know|Diploma in Commerce| Higher Secondary (HSC) Cert/Intermediate humanities, pre-eng, pre-med|Certificate from Board of technical education|Diploma from Board of technical education|Final Apprenticeship Certificate/Grade 2 skilled|Vocational institute diploma/grade 3 skilled worker cert|Batchelor Degree (4 year) in generally professional fields|Batchelor of Arts/Commerce/Engineering/Science/Technology (pass and honours)"
+edu0fthqct,BiB_Baseline.base_m_survey.edu0fthqct,Father country of qualification,decimal,NA,NA,NA
+edu0mumede,BiB_Baseline.base_m_survey.edu0mumede,Mother's highest educational qualification (equivalised),decimal,NA,1|2|3|4|5|6|7,<5 GCSE equivalent|5 GCSE equivalent|A-level equivalent|Higher than A-level|Other|Don't know|Foreign Unknown
+edu0mumeuk,BiB_Baseline.base_m_survey.edu0mumeuk,Mum's highest education qualification,decimal,NA,1|10|11|12|13|14|2|3|4|5|6|7|8|9,"1 + 0 levels/CSEs/GCEs(any grades)|Higher Degree (e.g. MA, PhD, PGCE Post-grad cert/diploma)|Other qualifications (e.g. City and Guilds, RSA/OCR, BTEC)|Overseas qualification|No Qualifications|Don't know|5 + 0 levels, 5+ CSEs (grade 1) 5 + GCSEs, School Certificate|1 + A levels/AS levels|2 + A levels, 4 + AS levels, Higher School certificate|NVQ Level 1, Foundation GNVQ|NVQ Level 2,Intermediate GNVQ|NVQ Level 3, Advanced GNVQ|NVQ Levels 4-5, HNC, HND|First Degree (e.g. BA, BSc)"
+edu0mumflg,BiB_Baseline.base_m_survey.edu0mumflg,Mothers education change flag,decimal,NA,NA,NA
+edu0mumosc,BiB_Baseline.base_m_survey.edu0mumosc,Mum overseas country of qualification,text,NA,NA,NA
+edu0mumosq,BiB_Baseline.base_m_survey.edu0mumosq,Mum overseas qualification,text,NA,NA,NA
+edu0mumpak,BiB_Baseline.base_m_survey.edu0mumpak,Mum Pakistan qualification,decimal,NA,NA,NA
+edu0mumqct,BiB_Baseline.base_m_survey.edu0mumqct,Mum country of qualification,decimal,NA,1|2|3|4|5,UK|Pakistan|Other overseas|No qualifications|Don't know
+eth0asianb,BiB_Baseline.base_m_survey.eth0asianb,Asian or Asian British - cultural background,decimal,NA,1|2|3|4|5|6,Indian|Pakistani|Bangladeshi|Indian Caribbean|African-Indian|Other
+eth0asnoth,BiB_Baseline.base_m_survey.eth0asnoth,Asian or Asian British - other cultural background,text,NA,NA,NA
+eth0blackb,BiB_Baseline.base_m_survey.eth0blackb,Black or Black British - cultural background,decimal,NA,1|2|3,Caribbean|African|Other
+eth0blkoth,BiB_Baseline.base_m_survey.eth0blkoth,Black or Black British - other cultural background,text,NA,NA,NA
+eth0chines,BiB_Baseline.base_m_survey.eth0chines,Chinese - cultural background,decimal,NA,1|2|3|4|5,Chinese|Japanese|Filipino|Vietnamese|Other
+eth0chnoth,BiB_Baseline.base_m_survey.eth0chnoth,Chinese - other cultural background,text,NA,NA,NA
+eth0eth3gp,BiB_Baseline.base_m_survey.eth0eth3gp,Mother's ethnic group - 3 categories,decimal,NA,1|2|3,White British|Pakistani|Other
+eth0eth9gp,BiB_Baseline.base_m_survey.eth0eth9gp,Woman's ethnic group - 9 categories,decimal,NA,1|2|3|4|5|6|7|8|9,White British|White Other|Mixed-White and Black|Mixed-White and South Asian|Black|Indian|Pakistani|Bangladeshi|Other
+eth0ethall,BiB_Baseline.base_m_survey.eth0ethall,Mother's ethnic group - all categories,decimal,NA,1|10|11|12|13|14|15|16|17|18|19|2|20|21|22|23|24|25|26|3|4|5|6|7|8|9,White - British|White & African-Indian|Mixed - Other|Black - Caribbean|Black - African|Black - Other|Asian - Indian|Asian - Pakistani|Asian - Bangladeshi|Asian - Indian Caribbean|Asian - African Indian|White - Irish|Asian - Other|Chinese|Japanese|Filipino|Vietanemse|Chinese - Other|Other|White - Other|White & Black Caribbean|White & Black African|White & Indian|White & Pakistani|White & Bangladeshi|White & Indian Caribbean
+eth0ethgrp,BiB_Baseline.base_m_survey.eth0ethgrp,Mother's ethnic group,decimal,NA,1|2|3|4|5|6,White|Mixed ethnic group|Black or Black British|Asian or Asian British|Chinese|Other
+eth0mixedb,BiB_Baseline.base_m_survey.eth0mixedb,Mixed - cultural background,decimal,NA,1|2|3|4|5|6|7|8,White and Black Caribbean|White and Black African|White and Indian|White and Pakistani|White and Bangladeshi|White and Indian Caribbean|White and African-Indian|Other
+eth0mixoth,BiB_Baseline.base_m_survey.eth0mixoth,Mixed - other cultural background,text,NA,NA,NA
+eth0otherb,BiB_Baseline.base_m_survey.eth0otherb,Other cultural background,decimal,NA,1,Other
+eth0othoth,BiB_Baseline.base_m_survey.eth0othoth,Other cultural background-description,text,NA,NA,NA
+eth0saethg,BiB_Baseline.base_m_survey.eth0saethg,South Asian ethnic groups only,decimal,NA,1|2|3|4,Pakistani|Indian|Bangladeshi|Other South Asian
+eth0whiteb,BiB_Baseline.base_m_survey.eth0whiteb,White - cultural background,decimal,NA,1|2|3,British|Irish|Other
+eth0whtoth,BiB_Baseline.base_m_survey.eth0whtoth,White - other cultural background,text,NA,NA,NA
+fin0billfl,BiB_Baseline.base_m_survey.fin0billfl,Up to date with bills change flag,decimal,NA,NA,NA
+fin0bllctx,BiB_Baseline.base_m_survey.fin0bllctx,Behind with council tax bill,decimal,NA,1|2,Yes|No
+fin0bllelc,BiB_Baseline.base_m_survey.fin0bllelc,Behind with electricity,decimal,NA,1|2,Yes|No
+fin0bllfeu,BiB_Baseline.base_m_survey.fin0bllfeu,Behind with other fuel,decimal,NA,1|2,Yes|No
+fin0bllgas,BiB_Baseline.base_m_survey.fin0bllgas,Behind with gas,decimal,NA,1|2,Yes|No
+fin0bllins,BiB_Baseline.base_m_survey.fin0bllins,Behind with insurance policy bill,decimal,NA,1|2,Yes|No
+fin0bllohp,BiB_Baseline.base_m_survey.fin0bllohp,Behind with other HP payments,decimal,NA,1|2,Yes|No
+fin0blltph,BiB_Baseline.base_m_survey.fin0blltph,Behind with telephone bill,decimal,NA,1|2,Yes|No
+fin0blltvb,BiB_Baseline.base_m_survey.fin0blltvb,Behind with TV/DVD/HP bills,decimal,NA,1|2,Yes|No
+fin0bllwat,BiB_Baseline.base_m_survey.fin0bllwat,Behind with water bill,decimal,NA,1|2,Yes|No
+fin0finnow,BiB_Baseline.base_m_survey.fin0finnow,Compared to a year ago how are you doing financially,decimal,NA,1|2|3|4,Better off|Worse off|About the same|Does not wish to answer
+fin0frsb10,BiB_Baseline.base_m_survey.fin0frsb10,Enough bedrooms for every child over 10 to have own bedroom,decimal,NA,1|2|3|4,Yes|Can't afford|Don't want/need|Does not apply
+fin0frscel,BiB_Baseline.base_m_survey.fin0frscel,Child has celebrations on special occasions such as birthdays,decimal,NA,1|2|3|4,Yes|Can't afford|Don't want/need|Does not apply
+fin0frschb,BiB_Baseline.base_m_survey.fin0frschb,Child has a hobby or leisure activity,decimal,NA,1|2|3|4,Yes|Can't afford|Don't want/need|Does not apply
+fin0frsdec,BiB_Baseline.base_m_survey.fin0frsdec,Enough money to keep home in decent state of decoration,decimal,NA,1|2|3|4|5,Yes|Can't afford|Don't want/need|Doesn't wish to answer|Don't know
+fin0frselg,BiB_Baseline.base_m_survey.fin0frselg,Money to replace or repair major electrical goods,decimal,NA,1|2|3|4|5,Yes|Can't afford|Don't want/need|Doesn't wish to answer|Don't know
+fin0frsffm,BiB_Baseline.base_m_survey.fin0frsffm,Family and friends for a drink or meal at least once a month,decimal,NA,1|2|3|4|5,Yes|Can't afford|Don't want/need|Doesn't wish to answer|Don't know
+fin0frsfte,BiB_Baseline.base_m_survey.fin0frsfte,Child has friends round for tea or a snack once a fortnight,decimal,NA,1|2|3|4,Yes|Can't afford|Don't want/need|Does not apply
+fin0frsfur,BiB_Baseline.base_m_survey.fin0frsfur,Money to replace any worn out furniture,decimal,NA,1|2|3|4|5,Yes|Can't afford|Don't want/need|Doesn't wish to answer|Don't know
+fin0frshci,BiB_Baseline.base_m_survey.fin0frshci,Household contents insurance,decimal,NA,1|2|3|4|5,Yes|Can't afford|Don't want/need|Doesn't wish to answer|Don't know
+fin0frshob,BiB_Baseline.base_m_survey.fin0frshob,A hobby or leisure activity,decimal,NA,1|2|3|4|5,Yes|Can't afford|Don't want/need|Doesn't wish to answer|Don't know
+fin0frshol,BiB_Baseline.base_m_survey.fin0frshol,Holiday from home for at least one week once a year,decimal,NA,1|2|3|4|5,Yes|Can't afford|Don't want/need|Doesn't wish to answer|Don't know
+fin0frshwm,BiB_Baseline.base_m_survey.fin0frshwm,In winter are you able to keep home warm enough,decimal,NA,1|2|3|4|5,Yes|Can't afford|Don't want/need|Doesn't wish to answer|Don't know
+fin0frsleb,BiB_Baseline.base_m_survey.fin0frsleb,Does your child have leisure equipment or a bicycle,decimal,NA,1|2|3|4,Yes|Can't afford|Don't want/need|Does not apply
+fin0frsnur,BiB_Baseline.base_m_survey.fin0frsnur,Child goes to nursery/playgroup at least once a week,decimal,NA,1|2|3|4,Yes|Can't afford|Don't want/need|Does not apply
+fin0frsout,BiB_Baseline.base_m_survey.fin0frsout,Child has outdoor space to play safely,decimal,NA,1|2|3,Yes|No|Does not apply
+fin0frssav,BiB_Baseline.base_m_survey.fin0frssav,Money to make regular savings of £10 a month,decimal,NA,1|2|3|4|5,Yes|Can't afford|Don't want/need|Doesn't wish to answer|Don't know
+fin0frssho,BiB_Baseline.base_m_survey.fin0frssho,Two pairs of all weather shoes,decimal,NA,1|2|3|4|5,Yes|Can't afford|Don't want/need|Doesn't wish to answer|Don't know
+fin0frsstp,BiB_Baseline.base_m_survey.fin0frsstp,Child goes to school trips,decimal,NA,1|2|3|4,Yes|Can't afford|Don't want/need|Does not apply
+fin0frsswm,BiB_Baseline.base_m_survey.fin0frsswm,Child goes swimming at least once a month,decimal,NA,1|2|3|4,Yes|Can't afford|Don't want/need|Does not apply
+fin0frsysf,BiB_Baseline.base_m_survey.fin0frsysf,A small amount of money to spend on yourself each week,decimal,NA,1|2|3|4|5,Yes|Can't afford|Don't want/need|Doesn't wish to answer|Don't know
+fin0manfin,BiB_Baseline.base_m_survey.fin0manfin,How well mother and husband/partner managing financially,decimal,NA,1|2|3|4|5|6,Living comfortably|Doing alright|Just about getting by|Quite difficult|Very difficult|Does not wish to answer
+fin0upbill,BiB_Baseline.base_m_survey.fin0upbill,Are you up to date with all these bills,decimal,NA,1|2|3|4,Yes|No|Don't know|Does not wish to answer
+ghq0fctrsc,BiB_Baseline.base_m_survey.ghq0fctrsc,GHQ factor score (derived),decimal,NA,NA,NA
+ghq0ques01,BiB_Baseline.base_m_survey.ghq0ques01,Been feeling perfectly well & in good health,decimal,NA,1|2|3|4,Better than usual|Same as usual|Worse than usual|Much worse than usual
+ghq0ques02,BiB_Baseline.base_m_survey.ghq0ques02,Been feeling in need of a good tonic,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques03,BiB_Baseline.base_m_survey.ghq0ques03,Been feeling run down and out of sorts,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques04,BiB_Baseline.base_m_survey.ghq0ques04,Felt that you are ill,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques05,BiB_Baseline.base_m_survey.ghq0ques05,Been getting pains in your head,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques06,BiB_Baseline.base_m_survey.ghq0ques06,Been getting a feeling of tightness or pressure in your head,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques07,BiB_Baseline.base_m_survey.ghq0ques07,Been having hot or cold spells,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques08,BiB_Baseline.base_m_survey.ghq0ques08,Lost much sleep over worry,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques09,BiB_Baseline.base_m_survey.ghq0ques09,Had difficulty staying asleep once you are off,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques10,BiB_Baseline.base_m_survey.ghq0ques10,Felt constantly under strain,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques11,BiB_Baseline.base_m_survey.ghq0ques11,Been getting edgy and bad-tempered,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques12,BiB_Baseline.base_m_survey.ghq0ques12,Been getting scared or panicky for no good reason,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques13,BiB_Baseline.base_m_survey.ghq0ques13,Found everything getting on top of you,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques14,BiB_Baseline.base_m_survey.ghq0ques14,Been feeling nervous and strung-up all the time,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques15,BiB_Baseline.base_m_survey.ghq0ques15,Been managing to keep yourself busy and occupied,decimal,NA,1|2|3|4,More so than usual|Same as usual|Rather less than usual|Much less than usual
+ghq0ques16,BiB_Baseline.base_m_survey.ghq0ques16,Been taking longer over the things you do,decimal,NA,1|2|3|4,Quicker than usual|Same as usual|Longer than usual|Much longer than usual
+ghq0ques17,BiB_Baseline.base_m_survey.ghq0ques17,Felt on the whole you were doing things well,decimal,NA,1|2|3|4,Better than usual|About the same|Less than usual|Much less well
+ghq0ques18,BiB_Baseline.base_m_survey.ghq0ques18,Been satisfied with way you've carried out your tasks,decimal,NA,1|2|3|4,More satisfied|About the same as usual|Less satisfied than usual|Much less satisfied
+ghq0ques19,BiB_Baseline.base_m_survey.ghq0ques19,Felt that you are playing a useful part in things,decimal,NA,1|2|3|4,More so than usual|Same as usual|Less useful than usual|Much less than usual
+ghq0ques20,BiB_Baseline.base_m_survey.ghq0ques20,Felt capable of making decisions about things,decimal,NA,1|2|3|4,More so than usual|Same as usual|Less so than usual|Much less capable
+ghq0ques21,BiB_Baseline.base_m_survey.ghq0ques21,Been able to enjoy your normal day-to-day activities,decimal,NA,1|2|3|4,More so than usual|Same as usual|Less so than usual|Much less than usual
+ghq0ques22,BiB_Baseline.base_m_survey.ghq0ques22,Been thinking of yourself as worthless person,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques23,BiB_Baseline.base_m_survey.ghq0ques23,Felt life is entirely hopeless,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques24,BiB_Baseline.base_m_survey.ghq0ques24,Felt that life isn't worth living,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques25,BiB_Baseline.base_m_survey.ghq0ques25,Thought of the possibility that you might make away with yourself,decimal,NA,1|2|3|4,Definitely not|I don't think so|Has crossed my mind|Definitely have
+ghq0ques26,BiB_Baseline.base_m_survey.ghq0ques26,Found at times couldn't do anything because nerves too bad,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques27,BiB_Baseline.base_m_survey.ghq0ques27,Found yourself wishing you were dead and away from it all,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+ghq0ques28,BiB_Baseline.base_m_survey.ghq0ques28,Found the idea of taking your own life kept coming into your mind,decimal,NA,1|2|3|4,Definitely not|I don't think so|Has crossed my mind|Definitely have
+h2o0bwatel,BiB_Baseline.base_m_survey.h2o0bwatel,Glasses of bottled water drank elsewhere per day,decimal,NA,NA,NA
+h2o0bwathm,BiB_Baseline.base_m_survey.h2o0bwathm,Glasses of bottled water drank at home per day,decimal,NA,NA,NA
+h2o0bwatwk,BiB_Baseline.base_m_survey.h2o0bwatwk,Glasses of bottled water drank at work/study per day,decimal,NA,NA,NA
+h2o0coffel,BiB_Baseline.base_m_survey.h2o0coffel,Cups of coffee drunk elsewhere per day,decimal,NA,NA,NA
+h2o0coffhm,BiB_Baseline.base_m_survey.h2o0coffhm,Cups of coffee drank at home per day,decimal,NA,NA,NA
+h2o0coffwk,BiB_Baseline.base_m_survey.h2o0coffwk,Cups of coffee drank at work/study per day,decimal,NA,NA,NA
+h2o0filthm,BiB_Baseline.base_m_survey.h2o0filthm,Filter the water drank at home,decimal,NA,1|2|3|4,Yes|No|Don't know|N/A
+h2o0filtwk,BiB_Baseline.base_m_survey.h2o0filtwk,Filter the water drank at work,decimal,NA,1|2|3|4,Yes|No|Don't know|N/A
+h2o0nbtpwk,BiB_Baseline.base_m_survey.h2o0nbtpwk,Number of baths per week,decimal,NA,NA,NA
+h2o0nshpwk,BiB_Baseline.base_m_survey.h2o0nshpwk,Number of showers per week,decimal,NA,NA,NA
+h2o0nswpwk,BiB_Baseline.base_m_survey.h2o0nswpwk,Number of swims per week,decimal,NA,NA,NA
+h2o0sqshel,BiB_Baseline.base_m_survey.h2o0sqshel,Glasses of squash drank elsewhere per day,decimal,NA,NA,NA
+h2o0sqshhm,BiB_Baseline.base_m_survey.h2o0sqshhm,Glasses of squash drank at home per day,decimal,NA,NA,NA
+h2o0sqshwk,BiB_Baseline.base_m_survey.h2o0sqshwk,Glasses of squash drank at work/study per day,decimal,NA,NA,NA
+h2o0tbtmin,BiB_Baseline.base_m_survey.h2o0tbtmin,Minutes in the bath each time,decimal,NA,NA,NA
+h2o0teaels,BiB_Baseline.base_m_survey.h2o0teaels,Cups of tea drunk elsewhere per day,decimal,NA,NA,NA
+h2o0teahom,BiB_Baseline.base_m_survey.h2o0teahom,Cups of tea drank at home per day,decimal,NA,NA,NA
+h2o0teawrk,BiB_Baseline.base_m_survey.h2o0teawrk,Cups of tea drank at work/study per day,decimal,NA,NA,NA
+h2o0tshmin,BiB_Baseline.base_m_survey.h2o0tshmin,Minutes in the shower each time,decimal,NA,NA,NA
+h2o0tswmin,BiB_Baseline.base_m_survey.h2o0tswmin,Minutes spent swimming each time,decimal,NA,NA,NA
+h2o0twatel,BiB_Baseline.base_m_survey.h2o0twatel,Glasses of tap water drank elsewhere per day,decimal,NA,NA,NA
+h2o0twathm,BiB_Baseline.base_m_survey.h2o0twathm,Glasses of tap water drank at home per day,decimal,NA,NA,NA
+h2o0twatwk,BiB_Baseline.base_m_survey.h2o0twatwk,Glasses of tap water drank at work/study per day,decimal,NA,NA,NA
+has_mbqall,BiB_Baseline.base_m_survey.has_mbqall,Has baseline questionnaire,decimal,NA,1,has
+hhd0cohabt,BiB_Baseline.base_m_survey.hhd0cohabt,Cohabitation status,decimal,NA,1|2|3,Living with baby's father|Living with another partner|Not living with a partner
+hhd0f16_64,BiB_Baseline.base_m_survey.hhd0f16_64,Number of females between 16 and 64 in household,decimal,NA,NA,NA
+hhd0f2_15y,BiB_Baseline.base_m_survey.hhd0f2_15y,Number of females between 2 and 15 in household,decimal,NA,NA,NA
+hhd0fov65y,BiB_Baseline.base_m_survey.hhd0fov65y,Number of females over 65 in household,decimal,NA,NA,NA
+hhd0fund2y,BiB_Baseline.base_m_survey.hhd0fund2y,Number of females under 2 in household,decimal,NA,NA,NA
+hhd0m16_64,BiB_Baseline.base_m_survey.hhd0m16_64,Number of males between 16 and 64 in household,decimal,NA,NA,NA
+hhd0m2_15y,BiB_Baseline.base_m_survey.hhd0m2_15y,Number of males between 2 and 15 in household,decimal,NA,NA,NA
+hhd0marchb,BiB_Baseline.base_m_survey.hhd0marchb,Marital and cohabitation status combined (derived),decimal,NA,1|2|3,Married and living with partner|Not married and living with partner|Not living with partner
+hhd0martst,BiB_Baseline.base_m_survey.hhd0martst,Marital status,decimal,NA,1|2|3|4|5|6,Married (1st marriage)|Re-married|Single (never married)|Separated (still legally married|Divorced|Widowed
+hhd0mov65y,BiB_Baseline.base_m_survey.hhd0mov65y,Number of males over 65 in household,decimal,NA,NA,NA
+hhd0mund2y,BiB_Baseline.base_m_survey.hhd0mund2y,Number of males under 2 in household,decimal,NA,NA,NA
+hhd0tothhd,BiB_Baseline.base_m_survey.hhd0tothhd,Total number of members in household,decimal,NA,NA,NA
+imd_2007_decile_nat,BiB_Baseline.base_m_survey.imd_2007_decile_nat,2007_decile,decimal,NA,NA,NA
+imd_2007_quintile_nat,BiB_Baseline.base_m_survey.imd_2007_quintile_nat,2007_quintile,decimal,NA,NA,NA
+imd_2007_rank_nat,BiB_Baseline.base_m_survey.imd_2007_rank_nat,IMD_2007_RANK,decimal,NA,NA,NA
+imd_2007_score,BiB_Baseline.base_m_survey.imd_2007_score,IMD_200710nov,decimal,NA,NA,NA
+imd_2010_decile_nat,BiB_Baseline.base_m_survey.imd_2010_decile_nat,2010_decile,decimal,NA,NA,NA
+imd_2010_quintile_nat,BiB_Baseline.base_m_survey.imd_2010_quintile_nat,2010_quintile,decimal,NA,NA,NA
+imd_2010_rank_nat,BiB_Baseline.base_m_survey.imd_2010_rank_nat,RANK_2010,decimal,NA,NA,NA
+imd_2010_score,BiB_Baseline.base_m_survey.imd_2010_score,IMD_2010_SCORE,decimal,NA,NA,NA
+imddecileswithinbradford,BiB_Baseline.base_m_survey.imddecileswithinbradford,IMD Deciles (WITHIN Bradford),decimal,NA,NA,NA
+imdquintileswithinbradford,BiB_Baseline.base_m_survey.imdquintileswithinbradford,IMD Quintiles (WITHIN Bradford),decimal,NA,NA,NA
+job0cremfl,BiB_Baseline.base_m_survey.job0cremfl,Currently employed change flag,decimal,NA,NA,NA
+job0curemp,BiB_Baseline.base_m_survey.job0curemp,Mother currently employed,decimal,NA,1|2, Yes|No
+job0dayswk,BiB_Baseline.base_m_survey.job0dayswk,Days per week worked,decimal,NA,NA,NA
+job0evrwrk,BiB_Baseline.base_m_survey.job0evrwrk,Mother ever worked,decimal,NA,1|2, Yes|No
+job0evwkfl,BiB_Baseline.base_m_survey.job0evwkfl,Ever worked change flag,decimal,NA,NA,NA
+job0fthemp,BiB_Baseline.base_m_survey.job0fthemp,Father's employment status,decimal,NA,1|2|3|4|5|6,Employed-Non-Manual|Employed-Manual|Self-employed|Student|Unemployed|Don't know
+job0fthwrk,BiB_Baseline.base_m_survey.job0fthwrk,Fathers occupation,decimal,NA,1|10|11|12|2|3|4|5|6|7|8|9,Modern professional occupations|Student/in training|Does not work-long term unemployed/sick|Don't know|Clerical and intermediate occupations|Senior managers or administrators|Technical and craft occupations|Semi-rountine manual and service occupations|Rountine manual and service occupations|Middle or junior managers|Traditional professional occupations|Self-employed
+job0hrspwk,BiB_Baseline.base_m_survey.job0hrspwk,Hours worked in a typical week,decimal,NA,NA,NA
+job0matscl,BiB_Baseline.base_m_survey.job0matscl,Mother on maternity/sick leave,decimal,NA,1|2, Yes|No
+job0mumemp,BiB_Baseline.base_m_survey.job0mumemp,Mother's emplyment status - derived,decimal,NA,1|2|3,Currently employed|Previously employed|Never employed
+job0plwork,BiB_Baseline.base_m_survey.job0plwork,Main place of work,decimal,NA,1|2,Work mainly at home|No regular place of work
+job0studen,BiB_Baseline.base_m_survey.job0studen,Mother full time student,decimal,NA,1|2, Yes|No
+job0timjob,BiB_Baseline.base_m_survey.job0timjob,Time spent in most recent job,decimal,NA,NA,NA
+job0townwk,BiB_Baseline.base_m_survey.job0townwk,Main place of work - town,text,NA,NA,NA
+job0trvlwk,BiB_Baseline.base_m_survey.job0trvlwk,How mother travels to work,decimal,NA,1|10|2|3|4|5|6|7|8|9,"Work mainly at or from home|Other|Train|Bus, minibus or coach|Motorcycle, scooter or moped|Driving car/van|Passenger in car/van|Taxi|Bicycle|On foot"
+job0trvoth,BiB_Baseline.base_m_survey.job0trvoth,Description of other mode of transport to work,text,NA,NA,NA
+job0tstwrk,BiB_Baseline.base_m_survey.job0tstwrk,How long ago mother stopped working,decimal,NA,NA,NA
+mbqlcasep5gp,BiB_Baseline.base_m_survey.mbqlcasep5gp,Socio-economic position (5 group LCA),decimal,NA,1|2|3|4|5,Least dep and most educated|Employed not mat dep|Employed no access to money|Benefits but coping|Most dep
+mms0armcir,BiB_Baseline.base_m_survey.mms0armcir,Mother's arm circumference (cm),decimal,NA,NA,NA
+mms0armtkn,BiB_Baseline.base_m_survey.mms0armtkn,Mother's arm circumference measurement taken,decimal,NA,NA,NA
+mms0height,BiB_Baseline.base_m_survey.mms0height,Mother's height (cm),decimal,NA,NA,NA
+mms0mbkbmi,BiB_Baseline.base_m_survey.mms0mbkbmi,Mother's booking BMI (derived),decimal,NA,NA,NA
+mms0tricep,BiB_Baseline.base_m_survey.mms0tricep,Mother's triceps (mm),decimal,NA,NA,NA
+mms0tritkn,BiB_Baseline.base_m_survey.mms0tritkn,Mother's tricep measurement taken,decimal,NA,NA,NA
+mms0weight,BiB_Baseline.base_m_survey.mms0weight,Mother's weight (at questionnaire) (kg),decimal,NA,NA,NA
+non_bd_postcode,BiB_Baseline.base_m_survey.non_bd_postcode,,decimal,NA,NA,NA
+org0agemuk,BiB_Baseline.base_m_survey.org0agemuk,Age mother moved to the UK,decimal,NA,NA,NA
+org0ffabco,BiB_Baseline.base_m_survey.org0ffabco,Father's father country of birth - other responses,text,NA,NA,NA
+org0ffabct,BiB_Baseline.base_m_survey.org0ffabct,Father's father country of birth,decimal,NA,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia|Bangladesh|India|Pakistan|Sri Lanka|Philippines|Don't know|Other|Northern Ireland|Scotland|Wales|Channel Islands|Isle of Man|Republic of Ireland|Czech Republic|Poland
+org0ffamir,BiB_Baseline.base_m_survey.org0ffamir,Father's father born in Mirpur (if born in Pakistan),decimal,NA,1|2|3,Yes|No|Don't know
+org0ffamtw,BiB_Baseline.base_m_survey.org0ffamtw,Father's father - Mirpur town or village born in,text,NA,NA,NA
+org0fmubco,BiB_Baseline.base_m_survey.org0fmubco,Father's mother country of birth - other responses,text,NA,NA,NA
+org0fmubct,BiB_Baseline.base_m_survey.org0fmubct,Father's mother country of birth,decimal,NA,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia|Bangladesh|India|Pakistan|Sri Lanka|Philippines|Don't know|Other|Northern Ireland|Scotland|Wales|Channel Islands|Isle of Man|Republic of Ireland|Czech Republic|Poland
+org0fmumir,BiB_Baseline.base_m_survey.org0fmumir,Father's mother born in Mirpur (if born in Pakistan),decimal,NA,1|2|3,Yes|No|Don't know
+org0fmumtw,BiB_Baseline.base_m_survey.org0fmumtw,Father's mother - Mirpur town or village born in,text,NA,NA,NA
+org0fthbco,BiB_Baseline.base_m_survey.org0fthbco,Father's country of birth - other responses,text,NA,NA,NA
+org0fthbct,BiB_Baseline.base_m_survey.org0fthbct,Father's country of birth,decimal,NA,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia|Bangladesh|India|Pakistan|Sri Lanka|Philippines|Don't know|Other|Northern Ireland|Scotland|Wales|Channel Islands|Isle of Man|Republic of Ireland|Czech Republic|Poland
+org0fthmir,BiB_Baseline.base_m_survey.org0fthmir,Father born in Mirpur (if born in Pakistan),decimal,NA,1|2|3,Yes|No|Don't know
+org0fthmtw,BiB_Baseline.base_m_survey.org0fthmtw,Father - Mirpur town or village born in,text,NA,NA,NA
+org0mcflag,BiB_Baseline.base_m_survey.org0mcflag,Mother's country of birth change flag,decimal,NA,NA,NA
+org0mfabco,BiB_Baseline.base_m_survey.org0mfabco,Mother's father country of birth - other responses,text,NA,NA,NA
+org0mfabct,BiB_Baseline.base_m_survey.org0mfabct,Mother's father country of birth,decimal,NA,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia|Bangladesh|India|Pakistan|Sri Lanka|Philippines|Don't know|Other|Northern Ireland|Scotland|Wales|Channel Islands|Isle of Man|Republic of Ireland|Czech Republic|Poland
+org0mfamir,BiB_Baseline.base_m_survey.org0mfamir,Mother's father born in Mirpur (if born in Pakistan),decimal,NA,1|2|3,Yes|No|Don't know
+org0mfamtw,BiB_Baseline.base_m_survey.org0mfamtw,Mother's father - Mirpur town or village born in,text,NA,NA,NA
+org0mgfbco,BiB_Baseline.base_m_survey.org0mgfbco,Maternal grandfather's country of birth - other responses,text,NA,NA,NA
+org0mgfbct,BiB_Baseline.base_m_survey.org0mgfbct,Maternal grandfather's country of birth,decimal,NA,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia|Bangladesh|India|Pakistan|Sri Lanka|Philippines|Don't know|Other|Northern Ireland|Scotland|Wales|Channel Islands|Isle of Man|Republic of Ireland|Czech Republic|Poland
+org0mgfmir,BiB_Baseline.base_m_survey.org0mgfmir,Maternal grandfather born in Mirpur (if born in Pakistan),decimal,NA,1|2|3,Yes|No|Don't know
+org0mgfmtw,BiB_Baseline.base_m_survey.org0mgfmtw,Maternal grandfather - Mirpur town or village born in,text,NA,NA,NA
+org0mgmbco,BiB_Baseline.base_m_survey.org0mgmbco,Maternal grandmother's country of birth - other responses,text,NA,NA,NA
+org0mgmbct,BiB_Baseline.base_m_survey.org0mgmbct,Maternal grandmother's country of birth,decimal,NA,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia|Bangladesh|India|Pakistan|Sri Lanka|Philippines|Don't know|Other|Northern Ireland|Scotland|Wales|Channel Islands|Isle of Man|Republic of Ireland|Czech Republic|Poland
+org0mgmmir,BiB_Baseline.base_m_survey.org0mgmmir,Maternal grandmother born in Mirpur (if born in Pakistan),decimal,NA,1|2|3,Yes|No|Don't know
+org0mgmmtw,BiB_Baseline.base_m_survey.org0mgmmtw,Maternal grandmother - Mirpur town or village born in,text,NA,NA,NA
+org0mmubco,BiB_Baseline.base_m_survey.org0mmubco,Mother's mother country of birth - other responses,text,NA,NA,NA
+org0mmubct,BiB_Baseline.base_m_survey.org0mmubct,Mother's mother country of birth,decimal,NA,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia|Bangladesh|India|Pakistan|Sri Lanka|Philippines|Don't know|Other|Northern Ireland|Scotland|Wales|Channel Islands|Isle of Man|Republic of Ireland|Czech Republic|Poland
+org0mmumir,BiB_Baseline.base_m_survey.org0mmumir,Mother's mother born in Mirpur (if born in Pakistan),decimal,NA,1|2|3,Yes|No|Don't know
+org0mmumtw,BiB_Baseline.base_m_survey.org0mmumtw,Mother's mother - Mirpur town or village born in,text,NA,NA,NA
+org0mumbco,BiB_Baseline.base_m_survey.org0mumbco,Mother's country of birth - other responses,text,NA,NA,NA
+org0mumbct,BiB_Baseline.base_m_survey.org0mumbct,Mother's country of birth,decimal,NA,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia|Bangladesh|India|Pakistan|Sri Lanka|Philippines|Don't know|Other|Northern Ireland|Scotland|Wales|Channel Islands|Isle of Man|Republic of Ireland|Czech Republic|Poland
+org0mummir,BiB_Baseline.base_m_survey.org0mummir,Mother born in Mirpur (if born in Pakistan),decimal,NA,1|2|3,Yes|No|Don't know
+org0mummtw,BiB_Baseline.base_m_survey.org0mummtw,Mother - Mirpur town or village born in,text,NA,NA,NA
+org0pgfbco,BiB_Baseline.base_m_survey.org0pgfbco,Paternal grandfather's country of birth - other responses,text,NA,NA,NA
+org0pgfbct,BiB_Baseline.base_m_survey.org0pgfbct,Paternal grandfather's country of birth,decimal,NA,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia|Bangladesh|India|Pakistan|Sri Lanka|Philippines|Don't know|Other|Northern Ireland|Scotland|Wales|Channel Islands|Isle of Man|Republic of Ireland|Czech Republic|Poland
+org0pgfmir,BiB_Baseline.base_m_survey.org0pgfmir,Paternal grandfather born in Mirpur (if born in Pakistan),decimal,NA,1|2|3,Yes|No|Don't know
+org0pgfmtw,BiB_Baseline.base_m_survey.org0pgfmtw,Paternal grandfather - Mirpur town or village born in,text,NA,NA,NA
+org0pgmbco,BiB_Baseline.base_m_survey.org0pgmbco,Paternal grandmother's country of birth - other responses,text,NA,NA,NA
+org0pgmbct,BiB_Baseline.base_m_survey.org0pgmbct,Paternal grandmother's country of birth,decimal,NA,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia|Bangladesh|India|Pakistan|Sri Lanka|Philippines|Don't know|Other|Northern Ireland|Scotland|Wales|Channel Islands|Isle of Man|Republic of Ireland|Czech Republic|Poland
+org0pgmmir,BiB_Baseline.base_m_survey.org0pgmmir,Paternal grandmother born in Mirpur (if born in Pakistan),decimal,NA,1|2|3,Yes|No|Don't know
+org0pgmmtw,BiB_Baseline.base_m_survey.org0pgmmtw,Paternal grandmother - Mirpur town or village born in,text,NA,NA,NA
+qad0gestwd,BiB_Baseline.base_m_survey.qad0gestwd,Gestational age at completion of questionnaire (weeks and days),decimal,NA,NA,NA
+qad0gestwk,BiB_Baseline.base_m_survey.qad0gestwk,Gestational age at completion of questionnaire (completed weeks),decimal,NA,NA,NA
+qad0interp,BiB_Baseline.base_m_survey.qad0interp,Was an interpreter used,decimal,NA,1|2|3,No|Hospital/Study Inter|Family Member/Friend
+qad0langot,BiB_Baseline.base_m_survey.qad0langot,Other language used to administer questionnaire,text,NA,NA,NA
+qad0langua,BiB_Baseline.base_m_survey.qad0langua,Language used to administer questionnaire,decimal,NA,1|2|3|4,English|Mirpuri/Punjabi|Urdu|Other
+questphase,BiB_Baseline.base_m_survey.questphase,Questionnaire phase completed,decimal,NA,NA,NA
+rep0firper,BiB_Baseline.base_m_survey.rep0firper,Age at first period,decimal,NA,NA,NA
+rep0fperdk,BiB_Baseline.base_m_survey.rep0fperdk,Don't know age at first period,decimal,NA,NA,NA
+res0bedrms,BiB_Baseline.base_m_survey.res0bedrms,How many bedrooms in household,decimal,NA,NA,NA
+res0hseten,BiB_Baseline.base_m_survey.res0hseten,Housing tenure (derived),decimal,NA,1|2|3|4|5|6|7,Owns outright|Mortgage|Rent free|Private landlord|Social housing|Other|Don’t know
+res0lldflg,BiB_Baseline.base_m_survey.res0lldflg,Landlord change flag,decimal,NA,NA,NA
+res0lndlrd,BiB_Baseline.base_m_survey.res0lndlrd,Who is landlord,decimal,NA,1|2|3|4|5|6|7|8,"Private landlord, letting agency|Housing association|Local Authority/coucil|Relative or friend|Employer(individual)|Employer(organisation|Another organisation|Don't know"
+res0tenflg,BiB_Baseline.base_m_survey.res0tenflg,Tenure change flag,decimal,NA,NA,NA
+res0tenure,BiB_Baseline.base_m_survey.res0tenure,How household is occupied,decimal,NA,1|2|3|4|5|6|7,Buying it-mortgage/loan|Owns outright|Rents it|Lives here rent free|Pays part rent part mortgage|Don't know|Squatting
+res0timadd,BiB_Baseline.base_m_survey.res0timadd,Time lived at current address,decimal,NA,NA,NA
+smk03mthb4,BiB_Baseline.base_m_survey.smk03mthb4,Number of cigarettes smoked in 3 months before pregnancy,decimal,NA,1|2|3|4|5,None|1-5 a day|6-10 a day|11-20 a day|Over 20 a day
+smk04thmth,BiB_Baseline.base_m_survey.smk04thmth,Number of cigarettes smoked since 4th month of pregnancy,decimal,NA,1|2|3|4|5,None|1-5 a day|6-10 a day|11-20 a day|Over 20 a day
+smk0agesfg,BiB_Baseline.base_m_survey.smk0agesfg,Flag to indicate change to smk0agestp,decimal,NA,NA,NA
+smk0agestp,BiB_Baseline.base_m_survey.smk0agestp,Age mother stopped smoking,decimal,NA,NA,NA
+smk0agestr,BiB_Baseline.base_m_survey.smk0agestr,Age mother started smoking,decimal,NA,NA,NA
+smk0agspdr,BiB_Baseline.base_m_survey.smk0agspdr,Age stopped smoking don't remember,decimal,NA,NA,NA
+smk0agstdr,BiB_Baseline.base_m_survey.smk0agstdr,Age started smoking don't remember,decimal,NA,NA,NA
+smk0expcfl,BiB_Baseline.base_m_survey.smk0expcfl,Mother exposed to cigarette smoke change flag,decimal,NA,NA,NA
+smk0expcig,BiB_Baseline.base_m_survey.smk0expcig,Mother exposed to other people's cigarette smoke,decimal,NA,1|2|3,Yes|No|Less than 1 hour per day
+smk0exphrs,BiB_Baseline.base_m_survey.smk0exphrs,Number of hours a day exposed,decimal,NA,NA,NA
+smk0fr3mth,BiB_Baseline.base_m_survey.smk0fr3mth,Number of cigarettes smoked in first 3 months of pregnancy,decimal,NA,1|2|3|4|5,None|1-5 a day|6-10 a day|11-20 a day|Over 20 a day
+smk0nowsmk,BiB_Baseline.base_m_survey.smk0nowsmk,Mother smokes nowadays,decimal,NA,1|2,Yes|No
+smk0othtob,BiB_Baseline.base_m_survey.smk0othtob,Mother used any other tobacco products,decimal,NA,1|2|3,Yes|No|Don't know
+smk0regsmk,BiB_Baseline.base_m_survey.smk0regsmk,Mother ever regularly smoked,decimal,NA,1|2|3|4,"Yes, more than 1 year|Yes, less than 1 year|Yes, not specified|No"
+smk0rsmkfl,BiB_Baseline.base_m_survey.smk0rsmkfl,Regular smoker change flag,decimal,NA,NA,NA
+smk0smkprg,BiB_Baseline.base_m_survey.smk0smkprg,Mother smoked during pregnancy (derived),decimal,NA,1|2,Yes|No
+vit0ironpr,BiB_Baseline.base_m_survey.vit0ironpr,Iron during pregnancy,decimal,NA,1|2|3|4|5,Daily|5-6 per week|2-4 per week|Once a week|Less often
+vit0othmvd,BiB_Baseline.base_m_survey.vit0othmvd,Description of other multivitamins taken during pregnancy,text,NA,NA,NA
+vit0othmvp,BiB_Baseline.base_m_survey.vit0othmvp,Other multivitamins during pregnancy,decimal,NA,NA,NA
+vit0othvpd,BiB_Baseline.base_m_survey.vit0othvpd,Description of other vitamins and dietary supplements taken during pregnancy,text,NA,NA,NA
+vit0othvpr,BiB_Baseline.base_m_survey.vit0othvpr,Other vitamins and dietary supplements during pregnancy,decimal,NA,NA,NA
+vit0pregca,BiB_Baseline.base_m_survey.vit0pregca,Pregnacare multivitamins during pregnancy,decimal,NA,1|2|3|4|5,Daily|5-6 per week|2-4 per week|Once a week|Less often
+vit0sanatp,BiB_Baseline.base_m_survey.vit0sanatp,Sanatogen prenatal multivitamins during pregnancy,decimal,NA,1|2|3|4|5,Daily|5-6 per week|2-4 per week|Once a week|Less often
+vit0vitcpr,BiB_Baseline.base_m_survey.vit0vitcpr,Vitamin C during pregnancy,decimal,NA,1|2|3|4|5,Daily|5-6 per week|2-4 per week|Once a week|Less often
+vit0vitdpr,BiB_Baseline.base_m_survey.vit0vitdpr,Vitamin D during pregnancy,decimal,NA,1|2|3|4|5,Daily|5-6 per week|2-4 per week|Once a week|Less often
+vit0vitepr,BiB_Baseline.base_m_survey.vit0vitepr,Vitamin E during pregnancy,decimal,NA,1|2|3|4|5,Daily|5-6 per week|2-4 per week|Once a week|Less often
+vit0vitipr,BiB_Baseline.base_m_survey.vit0vitipr,Taken any vitamins or iron tablets in last 4 weeks of pregnancy,decimal,NA,1|2|3,Yes|No|Don't remember
