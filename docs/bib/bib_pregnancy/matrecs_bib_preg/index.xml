@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>matrecs_bib_preg on Born in Bradford Data Dictionary</title>
+    <title>Maternity records BiB pregnancy on Born in Bradford Data Dictionary</title>
     <link>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/</link>
-    <description>Recent content in matrecs_bib_preg on Born in Bradford Data Dictionary</description>
+    <description>Recent content in Maternity records BiB pregnancy on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>matrecs_bib_preg_p1</title>
+      <title>Maternity records BiB pregnancy (p1)</title>
       <link>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -25,7 +25,7 @@ min &amp;lt; median &amp;lt; max</description>
     </item>
     
     <item>
-      <title>matrecs_bib_preg_p2</title>
+      <title>Maternity records BiB pregnancy (p2)</title>
       <link>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -39,7 +39,7 @@ min &amp;lt; median &amp;lt; max</description>
     </item>
     
     <item>
-      <title>matrecs_bib_preg_p3</title>
+      <title>Maternity records BiB pregnancy (p3)</title>
       <link>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -53,7 +53,7 @@ min &amp;lt; median &amp;lt; max</description>
     </item>
     
     <item>
-      <title>matrecs_bib_admiss</title>
+      <title>Maternity records admissions</title>
       <link>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_admiss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -67,7 +67,7 @@ min &amp;lt; median &amp;lt; max</description>
     </item>
     
     <item>
-      <title>matrecs_bib_pregbp</title>
+      <title>Maternity records pregnancy blood pressure</title>
       <link>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_pregbp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
