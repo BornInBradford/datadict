@@ -1,0 +1,13 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_Pregnancy.matrecs_bib_oedema.BiBPregNumber,Cohort recruited pregnancy number,decimal,NA,NA,NA
+has_matrecs_bib_oedema,BiB_Pregnancy.matrecs_bib_oedema.has_matrecs_bib_oedema,Has ,decimal,NA,NA,NA
+has_prnoed,BiB_Pregnancy.matrecs_bib_oedema.has_prnoed,Has: Maternal records abstraction: Oedema,decimal,NA,1,has
+prnoedemaankle,BiB_Pregnancy.matrecs_bib_oedema.prnoedemaankle,Oedema in ankle,decimal,NA,1,Yes
+prnoedemaeventtype,BiB_Pregnancy.matrecs_bib_oedema.prnoedemaeventtype,Oedema observation event type,decimal,NA,1|2,Pregnancy|Labour
+prnoedemaface,BiB_Pregnancy.matrecs_bib_oedema.prnoedemaface,Oedema in face,decimal,NA,1,Yes
+prnoedemafeet,BiB_Pregnancy.matrecs_bib_oedema.prnoedemafeet,Oedema in feet,decimal,NA,1,Yes
+prnoedemageneral,BiB_Pregnancy.matrecs_bib_oedema.prnoedemageneral,Generalised oedema,decimal,NA,1,Yes
+prnoedemagestaged,BiB_Pregnancy.matrecs_bib_oedema.prnoedemagestaged,Gestational age in days at oedema observation,decimal,NA,NA,NA
+prnoedemagestagew,BiB_Pregnancy.matrecs_bib_oedema.prnoedemagestagew,Gestational age in weeks at oedema observation,decimal,NA,NA,NA
+prnoedemahands,BiB_Pregnancy.matrecs_bib_oedema.prnoedemahands,Oedema in hands,decimal,NA,1,Yes
+prnoedemanotdoc,BiB_Pregnancy.matrecs_bib_oedema.prnoedemanotdoc,Oedema type not documented,decimal,NA,1,Not documented

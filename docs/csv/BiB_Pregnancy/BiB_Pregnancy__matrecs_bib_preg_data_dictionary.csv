@@ -1,6 +1,6 @@
 variable,full_name,label,value_type,description,categories,categories_label
 BiBPregNumber,BiB_Pregnancy.matrecs_bib_preg.BiBPregNumber,Cohort recruited pregnancy number,decimal,NA,NA,NA
-has_matrecs_bib_preg,BiB_Pregnancy.matrecs_bib_preg.has_matrecs_bib_preg,Has maternity records: bib pregnancy,decimal,NA,NA,NA
+has_matrecs_bib_preg,BiB_Pregnancy.matrecs_bib_preg.has_matrecs_bib_preg,Has maternity records bib pregnancy,decimal,NA,NA,NA
 has_prnprg,BiB_Pregnancy.matrecs_bib_preg.has_prnprg,Has: Pregnancy third trimester weight,decimal,NA,1,has
 prnbp3rdtriw,BiB_Pregnancy.matrecs_bib_preg.prnbp3rdtriw,3rd trimester weight,decimal,NA,NA,NA
 prnbp3rdtriwdate,BiB_Pregnancy.matrecs_bib_preg.prnbp3rdtriwdate,Date of 3rd trimester weighing,date,NA,NA,NA

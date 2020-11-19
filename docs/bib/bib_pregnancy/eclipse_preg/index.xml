@@ -11,6 +11,23 @@
     
     
     <item>
+      <title>Eclipse neonatal record</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_baby/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_baby/</guid>
+      <description>Table ID: BiB_Pregnancy.eclipse_baby
+github | csv
+   Entity type Variables Entities Updated     Participant 30 13525 2020-11-19    Baby measures from eClipse electronic record
+   variable label value_type summary     has_eclipse_baby Has eclipse neonatal record decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+100.00% complete
+   ChildID BiB Child ID decimal mean (sd)</description>
+    </item>
+    
+    <item>
       <title>Eclipse pregnancy record (p1)</title>
       <link>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -18,7 +35,7 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p1/</guid>
       <description>Table ID: BiB_Pregnancy.eclipse_preg_p1
 github | csv
-   Entity type Variables Entities Updated     Participant 34 12059 2020-10-29    _p1 tables contain the same variables as their parent table but only data collected at the first pregnancy
+   Entity type Variables Entities Updated     Participant 34 12059 2020-11-18    _p1 tables contain the same variables as their parent table but only data collected at the first pregnancy
    variable label value_type summary     has_eclipse_preg_p1 Has eclipse pregnancy record decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -33,7 +50,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p2/</guid>
       <description>Table ID: BiB_Pregnancy.eclipse_preg_p2
 github | csv
-   Entity type Variables Entities Updated     Participant 34 1264 2020-10-29    _p2 tables contain the same variables as their parent table but only data collected at the second pregnancy
+   Entity type Variables Entities Updated     Participant 34 1264 2020-11-18    _p2 tables contain the same variables as their parent table but only data collected at the second pregnancy
    variable label value_type summary     has_eclipse_preg_p2 Has eclipse pregnancy record decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -48,7 +65,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p3/</guid>
       <description>Table ID: BiB_Pregnancy.eclipse_preg_p3
 github | csv
-   Entity type Variables Entities Updated     Participant 34 38 2020-10-29    _p3 tables contain the same variables as their parent table but only data collected at the third pregnancy
+   Entity type Variables Entities Updated     Participant 34 38 2020-11-18    _p3 tables contain the same variables as their parent table but only data collected at the third pregnancy
    variable label value_type summary     has_eclipse_preg_p3 Has eclipse pregnancy record decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max

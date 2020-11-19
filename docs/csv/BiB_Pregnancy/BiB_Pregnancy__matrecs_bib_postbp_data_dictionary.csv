@@ -1,0 +1,8 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_Pregnancy.matrecs_bib_postbp.BiBPregNumber,Cohort recruited pregnancy number,decimal,NA,NA,NA
+has_matrecs_bib_postbp,BiB_Pregnancy.matrecs_bib_postbp.has_matrecs_bib_postbp,Has ,decimal,NA,NA,NA
+has_prnbpo,BiB_Pregnancy.matrecs_bib_postbp.has_prnbpo,Has: Maternal records: Postpartum blood pressure,decimal,NA,1,has
+prnpostbpdays,BiB_Pregnancy.matrecs_bib_postbp.prnpostbpdays,Number of days after delivery,decimal,NA,NA,NA
+prnpostbpdiastolic,BiB_Pregnancy.matrecs_bib_postbp.prnpostbpdiastolic,Post-partum diastolic blood pressure,decimal,NA,NA,NA
+prnpostbpsystolic,BiB_Pregnancy.matrecs_bib_postbp.prnpostbpsystolic,Post-partum systolic blood pressure,decimal,NA,NA,NA
+prnpostbptime,BiB_Pregnancy.matrecs_bib_postbp.prnpostbptime,Time post-partum blood pressure was taken,text,NA,NA,NA

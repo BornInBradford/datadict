@@ -1,0 +1,8 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_Pregnancy.matrecs_bib_proteinuria.BiBPregNumber,Cohort recruited pregnancy number,decimal,NA,NA,NA
+has_matrecs_bib_proteinuria,BiB_Pregnancy.matrecs_bib_proteinuria.has_matrecs_bib_proteinuria,Has ,decimal,NA,NA,NA
+has_prnprt,BiB_Pregnancy.matrecs_bib_proteinuria.has_prnprt,Has: Maternal records abstraction: Proteinurea,decimal,NA,1,has
+prnbpproteinuria,BiB_Pregnancy.matrecs_bib_proteinuria.prnbpproteinuria,Pregnancy proteinuria observation,decimal,NA,1|2|3|4|5|6|7,Not documented|Nil|Trace|+|++|+++|++++ or more
+prnbpprotrectime,BiB_Pregnancy.matrecs_bib_proteinuria.prnbpprotrectime,Time of pregnancy proteinuria observation,text,NA,NA,NA
+prnprtgestaged,BiB_Pregnancy.matrecs_bib_proteinuria.prnprtgestaged,Gestational age in days at pregnancy proteinuria observation,decimal,NA,NA,NA
+prnprtgestagew,BiB_Pregnancy.matrecs_bib_proteinuria.prnprtgestagew,Gestational age in weeks at pregnancy proteinuria observation,decimal,NA,NA,NA

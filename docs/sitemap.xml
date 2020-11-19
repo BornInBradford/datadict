@@ -35,7 +35,7 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p1/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_baby/</loc>
   </url>
   
   <url>
@@ -43,7 +43,7 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p2/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p1/</loc>
   </url>
   
   <url>
@@ -51,11 +51,15 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p3/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p2/</loc>
   </url>
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p3/</loc>
   </url>
   
   <url>
@@ -95,7 +99,15 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_mum/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_prebib_preg/</loc>
   </url>
   
   <url>
@@ -116,6 +128,10 @@
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_f_survey/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_prebib_inf/</loc>
   </url>
   
   <url>
@@ -156,6 +172,30 @@
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_pregbp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_labbp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_postbp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_meds/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_oedema/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_proteinuria/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_inf/</loc>
   </url>
   
   <url>
