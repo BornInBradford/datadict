@@ -1,0 +1,17 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_cord_bloods,BiB_Pregnancy.cord_bloods.has_cord_bloods,Has ,decimal,NA,NA,NA
+ChildID,BiB_Pregnancy.cord_bloods.ChildID,BiB Child ID,decimal,NA,NA,NA
+cbldadiponectin,BiB_Pregnancy.cord_bloods.cbldadiponectin,Cord blood adiponectin,decimal,NA,NA,NA
+cbldbatch,BiB_Pregnancy.cord_bloods.cbldbatch,Cord blood batch,decimal,NA,1|2,Cord bloods batch 1: 2012|Cord bloods batch 2: 2017
+cbldchol,BiB_Pregnancy.cord_bloods.cbldchol,Cord blood Cholesterol,decimal,NA,NA,NA
+cbldcrp,BiB_Pregnancy.cord_bloods.cbldcrp,Cord blood CRP,decimal,NA,NA,NA
+cbldcrp_miss,BiB_Pregnancy.cord_bloods.cbldcrp_miss,Cord blood CRP missing reason,decimal,NA,1|2|3,CRP: value <0.20 mg/L|CRP: value <0.24 mg/L|CRP: insufficient sample
+cbldhdl,BiB_Pregnancy.cord_bloods.cbldhdl,Cord blood HDL,decimal,NA,NA,NA
+cbldinsulin,BiB_Pregnancy.cord_bloods.cbldinsulin,Insulin,decimal,NA,NA,NA
+cbldinsulin_miss,BiB_Pregnancy.cord_bloods.cbldinsulin_miss,Cord blood insulin missing reason,decimal,NA,1|2|3,Insulin: value <0.1 mU/L|Insulin: value >25 mU/L|Insulin: insufficient sample
+cbldldl,BiB_Pregnancy.cord_bloods.cbldldl,Cord blood LDL,decimal,NA,NA,NA
+cbldleptin,BiB_Pregnancy.cord_bloods.cbldleptin,Cord blood leptin,decimal,NA,NA,NA
+cbldleptin_miss,BiB_Pregnancy.cord_bloods.cbldleptin_miss,Cord blood leptin missing reason,decimal,NA,1,Sample haemolysed
+cbldtrig,BiB_Pregnancy.cord_bloods.cbldtrig,Triglyceride,decimal,NA,NA,NA
+cbldvldl,BiB_Pregnancy.cord_bloods.cbldvldl,Cord blood VLDL,decimal,NA,NA,NA
+has_crdbld,BiB_Pregnancy.cord_bloods.has_crdbld,Has baby cord bloods data,decimal,NA,1,has

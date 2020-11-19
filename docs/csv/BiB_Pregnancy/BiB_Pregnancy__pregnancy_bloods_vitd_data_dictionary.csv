@@ -1,0 +1,11 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_Pregnancy.pregnancy_bloods_vitd.BiBPregNumber,Cohort recruited pregnancy number,decimal,NA,NA,NA
+has_pregnancy_bloods_vitd,BiB_Pregnancy.pregnancy_bloods_vitd.has_pregnancy_bloods_vitd,Has ,decimal,NA,NA,NA
+agemm_matbvd,BiB_Pregnancy.pregnancy_bloods_vitd.agemm_matbvd,Mother age (months): Maternal Bloods: Vitamin D,decimal,NA,NA,NA
+agemy_matbvd,BiB_Pregnancy.pregnancy_bloods_vitd.agemy_matbvd,Mother age (years): Maternal Bloods: Vitamin D,decimal,NA,NA,NA
+has_matbvd,BiB_Pregnancy.pregnancy_bloods_vitd.has_matbvd,Has maternal vitamin D,decimal,NA,1,has
+mbldalbumin,BiB_Pregnancy.pregnancy_bloods_vitd.mbldalbumin,Albumin,decimal,NA,NA,NA
+mbldcalcium,BiB_Pregnancy.pregnancy_bloods_vitd.mbldcalcium,Calcium,decimal,NA,NA,NA
+mbldpth_str,BiB_Pregnancy.pregnancy_bloods_vitd.mbldpth_str,PTH (string),text,NA,NA,NA
+mbldvitd2_str,BiB_Pregnancy.pregnancy_bloods_vitd.mbldvitd2_str,25(OH) Vit D2 (string),text,NA,NA,NA
+mbldvitd3_str,BiB_Pregnancy.pregnancy_bloods_vitd.mbldvitd3_str,25(OH) Vit D3 (string),text,NA,NA,NA
