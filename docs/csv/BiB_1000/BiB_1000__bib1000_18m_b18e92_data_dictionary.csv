@@ -1,0 +1,5 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_18m_b18e92,BiB_1000.bib1000_18m_b18e92.has_bib1000_18m_b18e92,Has ,decimal,NA,NA,NA
+ChildID,BiB_1000.bib1000_18m_b18e92.ChildID,BiB Child ID,decimal,NA,NA,NA
+bib18e92type,BiB_1000.bib1000_18m_b18e92.bib18e92type,Type of fruit squash,text,NA,NA,NA
+has_b18tab,BiB_1000.bib1000_18m_b18e92.has_b18tab,Has: BiB 1000 Questionnaire: bib18_maintable,decimal,NA,1,has

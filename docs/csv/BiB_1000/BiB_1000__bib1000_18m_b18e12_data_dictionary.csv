@@ -1,0 +1,9 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_18m_b18e12,BiB_1000.bib1000_18m_b18e12.has_bib1000_18m_b18e12,Has ,decimal,NA,NA,NA
+ChildID,BiB_1000.bib1000_18m_b18e12.ChildID,BiB Child ID,decimal,NA,NA,NA
+bib18e12brand,BiB_1000.bib1000_18m_b18e12.bib18e12brand,Brand of dried veg/pasta/rice-based meals,decimal,NA,1|2|3|4|5|6|7|8|9,Bebivita|Cow and Gate|Farleys|Heinz|HiPP Organics|Mumtaz (Halal)|Organix|Plum Baby Organic|Other/Supermarket own
+bib18e12frequency,BiB_1000.bib1000_18m_b18e12.bib18e12frequency,Number of times per week consumes dried veg/pasta/rice-based meals,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 per month|One day a week|Two days a week|Three days a week|Four days a week|Five days a week|Six days a week|Seven days a week
+bib18e12otherbrand,BiB_1000.bib1000_18m_b18e12.bib18e12otherbrand,Other brand of dried veg/pasta/rice-based meals,text,NA,NA,NA
+bib18e12quantity,BiB_1000.bib1000_18m_b18e12.bib18e12quantity,Average number of dessert spoons consumed,decimal,NA,NA,NA
+bib18e12timesperday,BiB_1000.bib1000_18m_b18e12.bib18e12timesperday,Number of times per day consumes dried dried veg/pasta/rice-based meals,decimal,NA,NA,NA
+has_b18tab,BiB_1000.bib1000_18m_b18e12.has_b18tab,Has: BiB 1000 Questionnaire: bib18_maintable,decimal,NA,1,has

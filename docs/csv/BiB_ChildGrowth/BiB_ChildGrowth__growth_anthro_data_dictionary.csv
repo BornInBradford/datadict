@@ -1,0 +1,18 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_growth_anthro,BiB_ChildGrowth.growth_anthro.has_growth_anthro,Has child growth and anthropometry,decimal,NA,NA,NA
+agecd_cgrowth,BiB_ChildGrowth.growth_anthro.agecd_cgrowth,Age at measurements (days),decimal,NA,NA,NA
+agecm_cgrowth,BiB_ChildGrowth.growth_anthro.agecm_cgrowth,Age at measurements (months),decimal,NA,NA,NA
+agecy_cgrowth,BiB_ChildGrowth.growth_anthro.agecy_cgrowth,Age at measurement (years),decimal,NA,NA,NA
+cgrowthsource,BiB_ChildGrowth.growth_anthro.cgrowthsource,Source of data,decimal,NA,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,eClipse|Primary care|HCP|School nurses|NCMP|Dental caries study|Growing Up|BiB1000-6 mths|BiB1000-12 mths|BiB1000-18 mths|BiB1000-24 mths|BiB1000-36 mths|ALLIN-12 mths|ALLIN-24 mths|MeDALL
+cheight,BiB_ChildGrowth.growth_anthro.cheight,Height (cm),decimal,NA,NA,NA
+cweight,BiB_ChildGrowth.growth_anthro.cweight,Weight (kg),decimal,NA,NA,NA
+cbmi,BiB_ChildGrowth.growth_anthro.cbmi,BMI (kg/m2),decimal,NA,NA,NA
+cabdo,BiB_ChildGrowth.growth_anthro.cabdo,Abdominal/waist circumference (cm),decimal,NA,NA,NA
+chead,BiB_ChildGrowth.growth_anthro.chead,Head circumference (cm),decimal,NA,NA,NA
+cmidarm,BiB_ChildGrowth.growth_anthro.cmidarm,Mid arm circumference (cm),decimal,NA,NA,NA
+csubcap,BiB_ChildGrowth.growth_anthro.csubcap,Subscapular skinfold thickness (mm),decimal,NA,NA,NA
+cthigh,BiB_ChildGrowth.growth_anthro.cthigh,Thigh skinfold thickness (mm),decimal,NA,NA,NA
+ctriceps,BiB_ChildGrowth.growth_anthro.ctriceps,Tricep skinfold thickness (mm),decimal,NA,NA,NA
+czheiuk90,BiB_ChildGrowth.growth_anthro.czheiuk90,Height SDS (UK-90),decimal,NA,NA,NA
+czweiuk90,BiB_ChildGrowth.growth_anthro.czweiuk90,Weight SDS (UK-90),decimal,NA,NA,NA
+czbmiuk90,BiB_ChildGrowth.growth_anthro.czbmiuk90,BMI SDS (UK-90),decimal,NA,NA,NA

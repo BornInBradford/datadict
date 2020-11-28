@@ -1,0 +1,5 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_12m_b12f92,BiB_1000.bib1000_12m_b12f92.has_bib1000_12m_b12f92,Has ,decimal,NA,NA,NA
+ChildID,BiB_1000.bib1000_12m_b12f92.ChildID,BiB Child ID,decimal,NA,NA,NA
+bib12f92type,BiB_1000.bib1000_12m_b12f92.bib12f92type,Type,text,NA,NA,NA
+has_b12tab,BiB_1000.bib1000_12m_b12f92.has_b12tab,Has BiB1000 12m questionnaire,decimal,NA,1,has

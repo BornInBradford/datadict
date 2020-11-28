@@ -1,0 +1,7 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_12m_b12f26,BiB_1000.bib1000_12m_b12f26.has_bib1000_12m_b12f26,Has ,decimal,NA,NA,NA
+ChildID,BiB_1000.bib1000_12m_b12f26.ChildID,BiB Child ID,decimal,NA,NA,NA
+bib12f26brand,BiB_1000.bib1000_12m_b12f26.bib12f26brand,Brand,decimal,NA,NA,NA
+bib12f26otherbrand,BiB_1000.bib1000_12m_b12f26.bib12f26otherbrand,OtherBrand,text,NA,NA,NA
+bib12f26typeofcereal,BiB_1000.bib1000_12m_b12f26.bib12f26typeofcereal,TypeOfCereal,text,NA,NA,NA
+has_b12tab,BiB_1000.bib1000_12m_b12f26.has_b12tab,Has BiB1000 12m questionnaire,decimal,NA,1,has

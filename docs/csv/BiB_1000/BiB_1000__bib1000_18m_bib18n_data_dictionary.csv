@@ -1,0 +1,60 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_18m_bib18n,BiB_1000.bib1000_18m_bib18n.has_bib1000_18m_bib18n,Has ,decimal,NA,NA,NA
+ChildID,BiB_1000.bib1000_18m_bib18n.ChildID,BiB Child ID,decimal,NA,NA,NA
+agecm_bib18n,BiB_1000.bib1000_18m_bib18n.agecm_bib18n,Child age (months): BiB1000 18 month child nutrients intake,decimal,NA,NA,NA
+agecy_bib18n,BiB_1000.bib1000_18m_bib18n.agecy_bib18n,Child age (years): BiB1000 18 month child nutrients intake,decimal,NA,NA,NA
+bib18nbreastmilk_grams,BiB_1000.bib1000_18m_bib18n.bib18nbreastmilk_grams,Weight of breast milk (grams),decimal,NA,NA,NA
+bib18nbreastmilk_kcal,BiB_1000.bib1000_18m_bib18n.bib18nbreastmilk_kcal,Energy intake from breast milk,decimal,NA,NA,NA
+bib18nbreastmilk_kj,BiB_1000.bib1000_18m_bib18n.bib18nbreastmilk_kj,Total energy intake from breast milk (kJ),decimal,NA,NA,NA
+bib18nbreastmilk_pct,BiB_1000.bib1000_18m_bib18n.bib18nbreastmilk_pct,% energy intake from breast milk,decimal,NA,NA,NA
+bib18ncalcium,BiB_1000.bib1000_18m_bib18n.bib18ncalcium,Calcium (mg/day),decimal,NA,NA,NA
+bib18ncarbohydrate,BiB_1000.bib1000_18m_bib18n.bib18ncarbohydrate,Carbohydrate (g/day),decimal,NA,NA,NA
+bib18nchloride,BiB_1000.bib1000_18m_bib18n.bib18nchloride,Chloride (mg/day),decimal,NA,NA,NA
+bib18ncholest,BiB_1000.bib1000_18m_bib18n.bib18ncholest,Cholesterol (g/day),decimal,NA,NA,NA
+bib18ncopper,BiB_1000.bib1000_18m_bib18n.bib18ncopper,Copper (mg/day),decimal,NA,NA,NA
+bib18ndrink_grams,BiB_1000.bib1000_18m_bib18n.bib18ndrink_grams,Weight of all drink (grams),decimal,NA,NA,NA
+bib18ndrink_kcal,BiB_1000.bib1000_18m_bib18n.bib18ndrink_kcal,Energy intake from drink (kcal),decimal,NA,NA,NA
+bib18ndrink_kj,BiB_1000.bib1000_18m_bib18n.bib18ndrink_kj,Total energy intake from drink (kJ),decimal,NA,NA,NA
+bib18ndrink_pct,BiB_1000.bib1000_18m_bib18n.bib18ndrink_pct,% energy intake from drink,decimal,NA,NA,NA
+bib18nenergyfromcho,BiB_1000.bib1000_18m_bib18n.bib18nenergyfromcho,Energy from carbohydrate (kcal),decimal,NA,NA,NA
+bib18nenergyfromfat,BiB_1000.bib1000_18m_bib18n.bib18nenergyfromfat,Energy from fat (kcal),decimal,NA,NA,NA
+bib18nenergyfromprotein,BiB_1000.bib1000_18m_bib18n.bib18nenergyfromprotein,Energy from protein (kcal),decimal,NA,NA,NA
+bib18nenglyst,BiB_1000.bib1000_18m_bib18n.bib18nenglyst,Englyst fibre (g/day),decimal,NA,NA,NA
+bib18nfat,BiB_1000.bib1000_18m_bib18n.bib18nfat,Fat (g/day),decimal,NA,NA,NA
+bib18nfolate,BiB_1000.bib1000_18m_bib18n.bib18nfolate,Folate (microg/day),decimal,NA,NA,NA
+bib18nfood_grams,BiB_1000.bib1000_18m_bib18n.bib18nfood_grams,Weight of all food (grams),decimal,NA,NA,NA
+bib18nfood_kcal,BiB_1000.bib1000_18m_bib18n.bib18nfood_kcal,Total energy intake from food (kcal),decimal,NA,NA,NA
+bib18nfood_kj,BiB_1000.bib1000_18m_bib18n.bib18nfood_kj,Total energy intake from food (kJ),decimal,NA,NA,NA
+bib18nfood_pct,BiB_1000.bib1000_18m_bib18n.bib18nfood_pct,% energy intake from food,decimal,NA,NA,NA
+bib18nformulamilk_grams,BiB_1000.bib1000_18m_bib18n.bib18nformulamilk_grams,Weight of formula milk (grams),decimal,NA,NA,NA
+bib18nformulamilk_kcal,BiB_1000.bib1000_18m_bib18n.bib18nformulamilk_kcal,Energy intake from formula milk (kcal),decimal,NA,NA,NA
+bib18nformulamilk_kj,BiB_1000.bib1000_18m_bib18n.bib18nformulamilk_kj,Total energy intake from formula milk (kJ),decimal,NA,NA,NA
+bib18nformulamilk_pct,BiB_1000.bib1000_18m_bib18n.bib18nformulamilk_pct,% energy intake from formula milk,decimal,NA,NA,NA
+bib18niron,BiB_1000.bib1000_18m_bib18n.bib18niron,Iron (mg/day),decimal,NA,NA,NA
+bib18nkcal,BiB_1000.bib1000_18m_bib18n.bib18nkcal,Total energy intake (kcal/day),decimal,NA,NA,NA
+bib18nkj,BiB_1000.bib1000_18m_bib18n.bib18nkj,Total energy intake (kJ/day),decimal,NA,NA,NA
+bib18nmagnesium,BiB_1000.bib1000_18m_bib18n.bib18nmagnesium,Magnesium (mg/day),decimal,NA,NA,NA
+bib18nniacin,BiB_1000.bib1000_18m_bib18n.bib18nniacin,Niacin (mg/day),decimal,NA,NA,NA
+bib18nothermilk_grams,BiB_1000.bib1000_18m_bib18n.bib18nothermilk_grams,Weight of other milk (grams),decimal,NA,NA,NA
+bib18nothermilk_kcal,BiB_1000.bib1000_18m_bib18n.bib18nothermilk_kcal,Energy from other milk (kcal),decimal,NA,NA,NA
+bib18nothermilk_kj,BiB_1000.bib1000_18m_bib18n.bib18nothermilk_kj,Total energy intake from other milk (kJ),decimal,NA,NA,NA
+bib18nothermilk_pct,BiB_1000.bib1000_18m_bib18n.bib18nothermilk_pct,% energy from other milk,decimal,NA,NA,NA
+bib18nphosphorus,BiB_1000.bib1000_18m_bib18n.bib18nphosphorus,Phosphorus (mg/day),decimal,NA,NA,NA
+bib18npotassium,BiB_1000.bib1000_18m_bib18n.bib18npotassium,Potassium (mg/day),decimal,NA,NA,NA
+bib18nprotein,BiB_1000.bib1000_18m_bib18n.bib18nprotein,Protein (g/day),decimal,NA,NA,NA
+bib18nretinol,BiB_1000.bib1000_18m_bib18n.bib18nretinol,Retinol (microg/day),decimal,NA,NA,NA
+bib18nsodium,BiB_1000.bib1000_18m_bib18n.bib18nsodium,Sodium (mg/day),decimal,NA,NA,NA
+bib18nstarch,BiB_1000.bib1000_18m_bib18n.bib18nstarch,Starch (g/day),decimal,NA,NA,NA
+bib18nsugars,BiB_1000.bib1000_18m_bib18n.bib18nsugars,Total sugars (g/day),decimal,NA,NA,NA
+bib18ntotal_kcal,BiB_1000.bib1000_18m_bib18n.bib18ntotal_kcal,Total energy intake (kcal),decimal,NA,NA,NA
+bib18ntotal_kj,BiB_1000.bib1000_18m_bib18n.bib18ntotal_kj,Total energy intake (kJ),decimal,NA,NA,NA
+bib18nvitb1,BiB_1000.bib1000_18m_bib18n.bib18nvitb1,Vitamin B1 (Thiamin)(mg/day),decimal,NA,NA,NA
+bib18nvitb12,BiB_1000.bib1000_18m_bib18n.bib18nvitb12,Vitamin B12 (microg/day),decimal,NA,NA,NA
+bib18nvitb2,BiB_1000.bib1000_18m_bib18n.bib18nvitb2,Vitamin B2 (Riboflavin)(mg/day),decimal,NA,NA,NA
+bib18nvitb6,BiB_1000.bib1000_18m_bib18n.bib18nvitb6,Vitamin B6 (mg/day),decimal,NA,NA,NA
+bib18nvitc,BiB_1000.bib1000_18m_bib18n.bib18nvitc,Vitamin C (mg/day),decimal,NA,NA,NA
+bib18nvitd,BiB_1000.bib1000_18m_bib18n.bib18nvitd,Vitamin D (microg/day),decimal,NA,NA,NA
+bib18nvite,BiB_1000.bib1000_18m_bib18n.bib18nvite,Vitamin E (alpha-tocopherol)(mg/day),decimal,NA,NA,NA
+bib18nwater,BiB_1000.bib1000_18m_bib18n.bib18nwater,Water (g/day),decimal,NA,NA,NA
+bib18nzinc,BiB_1000.bib1000_18m_bib18n.bib18nzinc,Zinc (mg/day),decimal,NA,NA,NA
+has_bib18n,BiB_1000.bib1000_18m_bib18n.has_bib18n,Has: BiB1000 18 month child nutrients intake,decimal,NA,1,has

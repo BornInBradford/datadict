@@ -1,0 +1,5 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_6m_b6mqb4,BiB_1000.bib1000_6m_b6mqb4.has_bib1000_6m_b6mqb4,Has ,decimal,NA,NA,NA
+ChildID,BiB_1000.bib1000_6m_b6mqb4.ChildID,BiB Child ID,decimal,NA,NA,NA
+bib6b4diagnosis,BiB_1000.bib1000_6m_b6mqb4.bib6b4diagnosis,Diagnosis given,text,NA,NA,NA
+has_b6mtab,BiB_1000.bib1000_6m_b6mqb4.has_b6mtab,Has BiB1000 6m questionnaire,decimal,NA,1,has

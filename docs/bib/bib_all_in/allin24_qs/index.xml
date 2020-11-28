@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ALL IN 24m Questionnaire on Born in Bradford Data Dictionary</title>
+    <link>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/</link>
+    <description>Recent content in ALL IN 24m Questionnaire on Born in Bradford Data Dictionary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ALL IN 24m Current Childcare</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_cc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_cc/</guid>
+      <description>Table ID: BiB_ALL_IN.allin24_cc
+github | csv
+   Entity type Variables Entities Updated     Participant 17 2067 2020-11-26    ALL IN 24 month questionnaire - current childcare - long format section
+   variable label value_type summary     has_allin24_cc Has all in 24m current childcare decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00</description>
+    </item>
+    
+    <item>
+      <title>ALL IN 24m Child Travel</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_ct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_ct/</guid>
+      <description>Table ID: BiB_ALL_IN.allin24_ct
+github | csv
+   Entity type Variables Entities Updated     Participant 7 2067 2020-11-26    ALL IN 24 month questionnaire - children&amp;rsquo;s travel - long format section
+   variable label value_type summary     has_allin24_ct Has all in 24m child travel decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00</description>
+    </item>
+    
+    <item>
+      <title>ALL IN 24m Doctor Diagnoses</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_dd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_dd/</guid>
+      <description>Table ID: BiB_ALL_IN.allin24_dd
+github | csv
+   Entity type Variables Entities Updated     Participant 4 2067 2020-11-26    ALL IN 24 month questionnaire - doctor diagnoses - long format section
+   variable label value_type summary     has_allin24_dd Has all in 24m doctor diagnoses decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00</description>
+    </item>
+    
+    <item>
+      <title>ALL IN 24m Extra Immunisations</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_ei/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_ei/</guid>
+      <description>Table ID: BiB_ALL_IN.allin24_ei
+github | csv
+   Entity type Variables Entities Updated     Participant 6 2067 2020-11-26    ALL IN 24 month questionnaire - extra immunisations - long format section
+   variable label value_type summary     has_allin24_ei Has all in 24m extra immunisations decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00</description>
+    </item>
+    
+    <item>
+      <title>ALL IN 24m Food Allergy</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_fa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_fa/</guid>
+      <description>Table ID: BiB_ALL_IN.allin24_fa
+github | csv
+   Entity type Variables Entities Updated     Participant 4 2067 2020-11-26    ALL IN 24 month questionnaire - food allergy - long format section
+   variable label value_type summary     has_allin24_fa Has all in 24m food allergy decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00</description>
+    </item>
+    
+    <item>
+      <title>ALL IN 24m Household</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_hh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_hh/</guid>
+      <description>Table ID: BiB_ALL_IN.allin24_hh
+github | csv
+   Entity type Variables Entities Updated     Participant 10 2067 2020-11-26    ALL IN 24 month questionnaire - household - long format section
+   variable label value_type summary     has_allin24_hh Has all in 24m household decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+100.00% complete</description>
+    </item>
+    
+    <item>
+      <title>ALL IN 24m Previous Childcare</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_pc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_pc/</guid>
+      <description>Table ID: BiB_ALL_IN.allin24_pc
+github | csv
+   Entity type Variables Entities Updated     Participant 17 2067 2020-11-26    ALL IN 24 month questionnaire - previous childcare - long format section
+   variable label value_type summary     has_allin24_pc Has all in 24m previous childcare decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00</description>
+    </item>
+    
+    <item>
+      <title>ALL IN 24m Treatment Abroad</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_ta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_ta/</guid>
+      <description>Table ID: BiB_ALL_IN.allin24_ta
+github | csv
+   Entity type Variables Entities Updated     Participant 6 2067 2020-11-26    ALL IN 24 month questionnaire - treatment abroad - long format section
+   variable label value_type summary     has_allin24_ta Has all in 24m treatment abroad decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00</description>
+    </item>
+    
+  </channel>
+</rss>

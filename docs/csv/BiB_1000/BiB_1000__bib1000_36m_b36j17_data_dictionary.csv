@@ -1,0 +1,7 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_36m_b36j17,BiB_1000.bib1000_36m_b36j17.has_bib1000_36m_b36j17,Has ,decimal,NA,NA,NA
+ChildID,BiB_1000.bib1000_36m_b36j17.ChildID,BiB Child ID,decimal,NA,NA,NA
+bib36j17amount,BiB_1000.bib1000_36m_b36j17.bib36j17amount,Amount usually consumed,text,NA,NA,NA
+bib36j17description,BiB_1000.bib1000_36m_b36j17.bib36j17description,Description of other food,text,NA,NA,NA
+bib36j17frequency,BiB_1000.bib1000_36m_b36j17.bib36j17frequency,Frequency consumed,decimal,NA,1|2|3|4|5|6|7|8|9,Rarely or never|1-2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+has_b36tab,BiB_1000.bib1000_36m_b36j17.has_b36tab,Has: BiB 1000 Questionnaire: bib36_maintable,decimal,NA,1,has

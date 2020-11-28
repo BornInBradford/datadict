@@ -1,0 +1,476 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_18m_main,BiB_1000.bib1000_18m_main.has_bib1000_18m_main,Has ,decimal,NA,NA,NA
+ChildID,BiB_1000.bib1000_18m_main.ChildID,BiB Child ID,decimal,NA,NA,NA
+agecm_b18tab,BiB_1000.bib1000_18m_main.agecm_b18tab,Child age (months)BiB1000 18m questionniare,decimal,NA,NA,NA
+agecy_b18tab,BiB_1000.bib1000_18m_main.agecy_b18tab,Child age (years)BiB1000 18m questionniare,decimal,NA,NA,NA
+agemm_b18tab,BiB_1000.bib1000_18m_main.agemm_b18tab,Mother age (months)BiB1000 18m questionniare,decimal,NA,NA,NA
+agemy_b18tab,BiB_1000.bib1000_18m_main.agemy_b18tab,Mother age (years)BiB1000 18m questionniare,decimal,NA,NA,NA
+bib18a01,BiB_1000.bib1000_18m_main.bib18a01,Describe your own health,decimal,NA,1|2|3|4|5,Excellent|Very good|Good|Fair|Poor
+bib18a02,BiB_1000.bib1000_18m_main.bib18a02,Describe your child's health,decimal,NA,1|2|3|4|5,Excellent|Very good|Good|Fair|Poor
+bib18b01,BiB_1000.bib1000_18m_main.bib18b01,Have there been any changes to your childcare arrangements since our last visit,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18b02,BiB_1000.bib1000_18m_main.bib18b02,Have you ever made any regular arrangement for your child to be looked after,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c01,BiB_1000.bib1000_18m_main.bib18c01,Has child seen a doctor/nurse since they were 6 months old,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c02,BiB_1000.bib1000_18m_main.bib18c02,How many times seen doctor/nurse,decimal,NA,1|2|3|4|5|6|7,Once|Twice|3-4 times|5-10 times|11+ times|Don't know|Refused to answer
+bib18c03abreathprob,BiB_1000.bib1000_18m_main.bib18c03abreathprob,Saw doctor - breathing problems,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03achestinf,BiB_1000.bib1000_18m_main.bib18c03achestinf,Saw doctor - chest infection,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03aconstipation,BiB_1000.bib1000_18m_main.bib18c03aconstipation,Saw doctor - constipation,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03aconvulsions,BiB_1000.bib1000_18m_main.bib18c03aconvulsions,Saw doctor - convulsions,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03acough,BiB_1000.bib1000_18m_main.bib18c03acough,Saw doctor - cough,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03acrying,BiB_1000.bib1000_18m_main.bib18c03acrying,Saw doctor - crying,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03adiarrhoea,BiB_1000.bib1000_18m_main.bib18c03adiarrhoea,Saw doctor - diarrhoea,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03aearprob,BiB_1000.bib1000_18m_main.bib18c03aearprob,Saw doctor - ear problems,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03againmuchwt,BiB_1000.bib1000_18m_main.bib18c03againmuchwt,Saw doctor - gaining too much weight,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03ahightemp,BiB_1000.bib1000_18m_main.bib18c03ahightemp,Saw doctor - high temperature,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03anogainwt,BiB_1000.bib1000_18m_main.bib18c03anogainwt,Saw doctor - not gaining weight,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03aother,BiB_1000.bib1000_18m_main.bib18c03aother,Saw doctor - other reason,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03aotherspecified,BiB_1000.bib1000_18m_main.bib18c03aotherspecified,Specify why saw doctor because of other reason,text,NA,NA,NA
+bib18c03askinprob,BiB_1000.bib1000_18m_main.bib18c03askinprob,Saw doctor - skin problems,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03asnuffles,BiB_1000.bib1000_18m_main.bib18c03asnuffles,Saw doctor - snuffles,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03athrush,BiB_1000.bib1000_18m_main.bib18c03athrush,Saw doctor - thrush,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03atummy,BiB_1000.bib1000_18m_main.bib18c03atummy,Saw doctor - tummy upset,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03auti,BiB_1000.bib1000_18m_main.bib18c03auti,Saw doctor - urinary tract infection,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03avomiting,BiB_1000.bib1000_18m_main.bib18c03avomiting,Saw doctor - vomiting,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bbreathprob,BiB_1000.bib1000_18m_main.bib18c03bbreathprob,Saw nurse - breathing problems,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bchestinf,BiB_1000.bib1000_18m_main.bib18c03bchestinf,Saw nurse - chest infection,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bconstipation,BiB_1000.bib1000_18m_main.bib18c03bconstipation,Saw nurse - constipation,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bconvulsions,BiB_1000.bib1000_18m_main.bib18c03bconvulsions,Saw nurse - convulsions,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bcough,BiB_1000.bib1000_18m_main.bib18c03bcough,Saw nurse - cough,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bcrying,BiB_1000.bib1000_18m_main.bib18c03bcrying,Saw nurse - crying,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bdiarrhoea,BiB_1000.bib1000_18m_main.bib18c03bdiarrhoea,Saw nurse - diarrhoea,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bearprob,BiB_1000.bib1000_18m_main.bib18c03bearprob,Saw nurse - ear problems,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bgainmuchwt,BiB_1000.bib1000_18m_main.bib18c03bgainmuchwt,Saw nurse - gaining too much weight,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bhightemp,BiB_1000.bib1000_18m_main.bib18c03bhightemp,Saw nurse - high temperature,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bnogainwt,BiB_1000.bib1000_18m_main.bib18c03bnogainwt,Saw nurse - not gaining weight,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bother,BiB_1000.bib1000_18m_main.bib18c03bother,Saw nurse - other reason,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03botherspecified,BiB_1000.bib1000_18m_main.bib18c03botherspecified,Specify why saw nurse because of other reason,text,NA,NA,NA
+bib18c03bskinprob,BiB_1000.bib1000_18m_main.bib18c03bskinprob,Saw nurse - skin problems,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bsnuffles,BiB_1000.bib1000_18m_main.bib18c03bsnuffles,Saw nurse - snuffles,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bthrush,BiB_1000.bib1000_18m_main.bib18c03bthrush,Saw nurse - thrush,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03btummy,BiB_1000.bib1000_18m_main.bib18c03btummy,Saw nurse - tummy upset,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03buti,BiB_1000.bib1000_18m_main.bib18c03buti,Saw nurse - urinary tract infection,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c03bvomiting,BiB_1000.bib1000_18m_main.bib18c03bvomiting,Saw nurse - vomiting,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c04,BiB_1000.bib1000_18m_main.bib18c04,Has child been given a medical diagnosis,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c05,BiB_1000.bib1000_18m_main.bib18c05,Has child been admitted to hospital since he was 6 months old,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c05a,BiB_1000.bib1000_18m_main.bib18c05a,Number of hospital admissions,decimal,NA,NA,NA
+bib18c06,BiB_1000.bib1000_18m_main.bib18c06,Has child been to an outpatient clinic since he was 6 months old,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c06a,BiB_1000.bib1000_18m_main.bib18c06a,Number of outpatient clinics attended,decimal,NA,NA,NA
+bib18c07,BiB_1000.bib1000_18m_main.bib18c07,Has child been hurt/injured/had accident and needed medical attention,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18c07a,BiB_1000.bib1000_18m_main.bib18c07a,Number of times child has been hurt etc,decimal,NA,NA,NA
+bib18d01a,BiB_1000.bib1000_18m_main.bib18d01a,How many hours does child sleep during the day,decimal,NA,NA,NA
+bib18d01ana,BiB_1000.bib1000_18m_main.bib18d01ana,Child does not sleep during day,decimal,NA,1,Not applicable
+bib18d01b,BiB_1000.bib1000_18m_main.bib18d01b,How many hours does child sleep at night,decimal,NA,NA,NA
+bib18d01bna,BiB_1000.bib1000_18m_main.bib18d01bna,Child does not sleep during night,decimal,NA,1,Not applicable
+bib18e01,BiB_1000.bib1000_18m_main.bib18e01,How many days was child breastfed out of past 4 weeks,decimal,NA,NA,NA
+bib18e01na,BiB_1000.bib1000_18m_main.bib18e01na,Child was not breastfed,decimal,NA,1,Not applicable
+bib18e02,BiB_1000.bib1000_18m_main.bib18e02,How many feeds per day did child have on these days,decimal,NA,NA,NA
+bib18e03mins,BiB_1000.bib1000_18m_main.bib18e03mins,Number of minutes child was sucking (derived),decimal,NA,NA,NA
+bib18e04,BiB_1000.bib1000_18m_main.bib18e04,Has child had expressed milk in past 4 weeks,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e05,BiB_1000.bib1000_18m_main.bib18e05,How many days did child have expressed milk,decimal,NA,NA,NA
+bib18e06,BiB_1000.bib1000_18m_main.bib18e06,How many times per day did child have expressed milk,decimal,NA,NA,NA
+bib18e07,BiB_1000.bib1000_18m_main.bib18e07,Average amount of expressed milk per day,decimal,NA,NA,NA
+bib18e08,BiB_1000.bib1000_18m_main.bib18e08,Did child eat any dried foods in pat 4 weeks,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e09,BiB_1000.bib1000_18m_main.bib18e09,Dried baby cereals,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e10,BiB_1000.bib1000_18m_main.bib18e10,Dried meat or fish-based meals,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e100amount,BiB_1000.bib1000_18m_main.bib18e100amount,Amount child had of goat's milk,decimal,NA,NA,NA
+bib18e100brandcode,BiB_1000.bib1000_18m_main.bib18e100brandcode,Brand of child had goat's milk,decimal,NA,1|2|3,Whole|Skimmed|Semi-skimmed
+bib18e100frequency,BiB_1000.bib1000_18m_main.bib18e100frequency,Frequency child had goat's milk,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e100timesperday,BiB_1000.bib1000_18m_main.bib18e100timesperday,Times per day child had goat's milk,decimal,NA,NA,NA
+bib18e101amount,BiB_1000.bib1000_18m_main.bib18e101amount,Amount child had of soya milk,decimal,NA,NA,NA
+bib18e101brandcode,BiB_1000.bib1000_18m_main.bib18e101brandcode,Brand of child had soya milk,decimal,NA,1|2|3|4,Original|Light|Sweetened|Unsweetened
+bib18e101frequency,BiB_1000.bib1000_18m_main.bib18e101frequency,Frequency child had soya milk,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e101timesperday,BiB_1000.bib1000_18m_main.bib18e101timesperday,Times per day child had soya milk,decimal,NA,NA,NA
+bib18e102amount,BiB_1000.bib1000_18m_main.bib18e102amount,Amount child had of soya formula,decimal,NA,NA,NA
+bib18e102brandcode,BiB_1000.bib1000_18m_main.bib18e102brandcode,Brand of child had formula milk,decimal,NA,NA,NA
+bib18e102brandother,BiB_1000.bib1000_18m_main.bib18e102brandother,Other brand of child had formula milk,text,NA,NA,NA
+bib18e102frequency,BiB_1000.bib1000_18m_main.bib18e102frequency,Frequency child had formula milk,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e102timesperday,BiB_1000.bib1000_18m_main.bib18e102timesperday,Times per day child had formula milk,decimal,NA,NA,NA
+bib18e103amount,BiB_1000.bib1000_18m_main.bib18e103amount,Amount child had of soya formula,decimal,NA,NA,NA
+bib18e103brandcode,BiB_1000.bib1000_18m_main.bib18e103brandcode,Brand of child had soya formula,decimal,NA,NA,NA
+bib18e103brandother,BiB_1000.bib1000_18m_main.bib18e103brandother,Other brand of child had soya formula,text,NA,NA,NA
+bib18e103frequency,BiB_1000.bib1000_18m_main.bib18e103frequency,Frequency child had soya formula,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e103timesperday,BiB_1000.bib1000_18m_main.bib18e103timesperday,Times per day child had soya formula,decimal,NA,NA,NA
+bib18e11,BiB_1000.bib1000_18m_main.bib18e11,"Dried vegetable, pasta or rice-based meals",decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e12,BiB_1000.bib1000_18m_main.bib18e12,Dried desserts,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e13,BiB_1000.bib1000_18m_main.bib18e13,"Did  child eat jars, tins or pots of baby food in past 4 weeks",decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e14,BiB_1000.bib1000_18m_main.bib18e14,Breakfasts e.g. porridge,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e15,BiB_1000.bib1000_18m_main.bib18e15,Meat or fish-based meals,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e16,BiB_1000.bib1000_18m_main.bib18e16,"Vegetable, pasta or rice-based meals",decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e17,BiB_1000.bib1000_18m_main.bib18e17,Milk or cereal-based desserts,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e18,BiB_1000.bib1000_18m_main.bib18e18,"Fruit-based desserts, not including fruit puree",decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e19,BiB_1000.bib1000_18m_main.bib18e19,Pure fruit puree,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e20amount,BiB_1000.bib1000_18m_main.bib18e20amount,Amount child had of white bread,decimal,NA,NA,NA
+bib18e20frequency,BiB_1000.bib1000_18m_main.bib18e20frequency,Frequency child had white bread,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e20timesperday,BiB_1000.bib1000_18m_main.bib18e20timesperday,Times per day child had white bread,decimal,NA,NA,NA
+bib18e21amount,BiB_1000.bib1000_18m_main.bib18e21amount,Amount child had of brown bread,decimal,NA,NA,NA
+bib18e21frequency,BiB_1000.bib1000_18m_main.bib18e21frequency,Frequency child had brown bread,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e21timesperday,BiB_1000.bib1000_18m_main.bib18e21timesperday,Times per day child had brown bread,decimal,NA,NA,NA
+bib18e22amount,BiB_1000.bib1000_18m_main.bib18e22amount,Amount child had of crackers etc,decimal,NA,NA,NA
+bib18e22frequency,BiB_1000.bib1000_18m_main.bib18e22frequency,Frequency child had crackers etc,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e22timesperday,BiB_1000.bib1000_18m_main.bib18e22timesperday,Times per day child had crackers etc,decimal,NA,NA,NA
+bib18e23amount,BiB_1000.bib1000_18m_main.bib18e23amount,Amount child had of chapattis made with white flour,decimal,NA,NA,NA
+bib18e23frequency,BiB_1000.bib1000_18m_main.bib18e23frequency,Frequency child had chapattis made with white flour,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e23timesperday,BiB_1000.bib1000_18m_main.bib18e23timesperday,Times per day child had chapattis made with white flour,decimal,NA,NA,NA
+bib18e24amount,BiB_1000.bib1000_18m_main.bib18e24amount,Amount child had of chapattis made with wholemeal flour,decimal,NA,NA,NA
+bib18e24frequency,BiB_1000.bib1000_18m_main.bib18e24frequency,Frequency child had chapattis made with wholemeal flour,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e24timesperday,BiB_1000.bib1000_18m_main.bib18e24timesperday,Times per day child had chapattis made with wholemeal flour,decimal,NA,NA,NA
+bib18e25amount,BiB_1000.bib1000_18m_main.bib18e25amount,Amount child had of breakfast cereals and porridge,decimal,NA,NA,NA
+bib18e25frequency,BiB_1000.bib1000_18m_main.bib18e25frequency,Frequency child had breakfast cereals and porridge,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e25timesperday,BiB_1000.bib1000_18m_main.bib18e25timesperday,Times per day child had breakfast cereals and porridge,decimal,NA,NA,NA
+bib18e27amount,BiB_1000.bib1000_18m_main.bib18e27amount,Amount child had of boiled and baked potatoes,decimal,NA,NA,NA
+bib18e27frequency,BiB_1000.bib1000_18m_main.bib18e27frequency,Frequency child had boiled and baked potatoes,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e27timesperday,BiB_1000.bib1000_18m_main.bib18e27timesperday,Times per day child had boiled and baked potatoes,decimal,NA,NA,NA
+bib18e28amount,BiB_1000.bib1000_18m_main.bib18e28amount,Amount child had of chips etc,decimal,NA,NA,NA
+bib18e28frequency,BiB_1000.bib1000_18m_main.bib18e28frequency,Frequency child had chips etc,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e28timesperday,BiB_1000.bib1000_18m_main.bib18e28timesperday,Times per day child had chips etc,decimal,NA,NA,NA
+bib18e29amount,BiB_1000.bib1000_18m_main.bib18e29amount,Amount child had of boiled rice,decimal,NA,NA,NA
+bib18e29frequency,BiB_1000.bib1000_18m_main.bib18e29frequency,Frequency child had boiled rice,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e29timesperday,BiB_1000.bib1000_18m_main.bib18e29timesperday,Times per day child had boiled rice,decimal,NA,NA,NA
+bib18e30amount,BiB_1000.bib1000_18m_main.bib18e30amount,Amount child had of fried rice etc,decimal,NA,NA,NA
+bib18e30frequency,BiB_1000.bib1000_18m_main.bib18e30frequency,Frequency child had fried rice etc,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e30timesperday,BiB_1000.bib1000_18m_main.bib18e30timesperday,Times per day child had fried rice etc,decimal,NA,NA,NA
+bib18e31amount,BiB_1000.bib1000_18m_main.bib18e31amount,Amount child had of pasta,decimal,NA,NA,NA
+bib18e31frequency,BiB_1000.bib1000_18m_main.bib18e31frequency,Frequency child had pasta,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e31timesperday,BiB_1000.bib1000_18m_main.bib18e31timesperday,Times per day child had pasta,decimal,NA,NA,NA
+bib18e32amount,BiB_1000.bib1000_18m_main.bib18e32amount,Amount child had of chicken in batter,decimal,NA,NA,NA
+bib18e32frequency,BiB_1000.bib1000_18m_main.bib18e32frequency,Frequency child had chicken in batter,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e32timesperday,BiB_1000.bib1000_18m_main.bib18e32timesperday,Times per day child had chicken in batter,decimal,NA,NA,NA
+bib18e33amount,BiB_1000.bib1000_18m_main.bib18e33amount,Amount child had of beef burgers,decimal,NA,NA,NA
+bib18e33frequency,BiB_1000.bib1000_18m_main.bib18e33frequency,Frequency child had beef burgers,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e33timesperday,BiB_1000.bib1000_18m_main.bib18e33timesperday,Times per day child had beef burgers,decimal,NA,NA,NA
+bib18e34amount,BiB_1000.bib1000_18m_main.bib18e34amount,Amount child had of bacon and gammon,decimal,NA,NA,NA
+bib18e34frequency,BiB_1000.bib1000_18m_main.bib18e34frequency,Frequency child had bacon and gammon,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e34timesperday,BiB_1000.bib1000_18m_main.bib18e34timesperday,Times per day child had bacon and gammon,decimal,NA,NA,NA
+bib18e35amount,BiB_1000.bib1000_18m_main.bib18e35amount,Amount child had of sausages,decimal,NA,NA,NA
+bib18e35frequency,BiB_1000.bib1000_18m_main.bib18e35frequency,Frequency child had sausages,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e35timesperday,BiB_1000.bib1000_18m_main.bib18e35timesperday,Times per day child had sausages,decimal,NA,NA,NA
+bib18e36amount,BiB_1000.bib1000_18m_main.bib18e36amount,Amount child had of meat casseroles,decimal,NA,NA,NA
+bib18e36frequency,BiB_1000.bib1000_18m_main.bib18e36frequency,Frequency child had meat casseroles,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e36timesperday,BiB_1000.bib1000_18m_main.bib18e36timesperday,Times per day child had meat casseroles,decimal,NA,NA,NA
+bib18e37amount,BiB_1000.bib1000_18m_main.bib18e37amount,"Amount child had of roast, grilled or fried meat",decimal,NA,NA,NA
+bib18e37frequency,BiB_1000.bib1000_18m_main.bib18e37frequency,"Frequency child had roast, grilled or fried meat",decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e37timesperday,BiB_1000.bib1000_18m_main.bib18e37timesperday,"Times per day child had roast, grilled or fried meat",decimal,NA,NA,NA
+bib18e38amount,BiB_1000.bib1000_18m_main.bib18e38amount,"Amount child had of liver, kidney and faggots",decimal,NA,NA,NA
+bib18e38frequency,BiB_1000.bib1000_18m_main.bib18e38frequency,"Frequency child had liver, kidney and faggots",decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e38timesperday,BiB_1000.bib1000_18m_main.bib18e38timesperday,"Times per day child had liver, kidney and faggots",decimal,NA,NA,NA
+bib18e39amount,BiB_1000.bib1000_18m_main.bib18e39amount,Amount child had of meat pies and sausage rolls,decimal,NA,NA,NA
+bib18e39frequency,BiB_1000.bib1000_18m_main.bib18e39frequency,Frequency child had meat pies and sausage rolls,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e39timesperday,BiB_1000.bib1000_18m_main.bib18e39timesperday,Times per day child had meat pies and sausage rolls,decimal,NA,NA,NA
+bib18e40amount,BiB_1000.bib1000_18m_main.bib18e40amount,Amount child had of ham and processed cold meats,decimal,NA,NA,NA
+bib18e40frequency,BiB_1000.bib1000_18m_main.bib18e40frequency,Frequency child had ham and processed cold meats,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e40timesperday,BiB_1000.bib1000_18m_main.bib18e40timesperday,Times per day child had ham and processed cold meats,decimal,NA,NA,NA
+bib18e41amount,BiB_1000.bib1000_18m_main.bib18e41amount,Amount child had of fish in batter,decimal,NA,NA,NA
+bib18e41frequency,BiB_1000.bib1000_18m_main.bib18e41frequency,Frequency child had fish in batter,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e41timesperday,BiB_1000.bib1000_18m_main.bib18e41timesperday,Times per day child had fish in batter,decimal,NA,NA,NA
+bib18e42amount,BiB_1000.bib1000_18m_main.bib18e42amount,Amount child had of other white fish,decimal,NA,NA,NA
+bib18e42frequency,BiB_1000.bib1000_18m_main.bib18e42frequency,Frequency child had other white fish,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e42timesperday,BiB_1000.bib1000_18m_main.bib18e42timesperday,Times per day child had other white fish,decimal,NA,NA,NA
+bib18e43amount,BiB_1000.bib1000_18m_main.bib18e43amount,Amount child had of oily fish,decimal,NA,NA,NA
+bib18e43frequency,BiB_1000.bib1000_18m_main.bib18e43frequency,Frequency child had oily fish,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e43timesperday,BiB_1000.bib1000_18m_main.bib18e43timesperday,Times per day child had oily fish,decimal,NA,NA,NA
+bib18e44amount,BiB_1000.bib1000_18m_main.bib18e44amount,Amount child had of tinned vegetables,decimal,NA,NA,NA
+bib18e44frequency,BiB_1000.bib1000_18m_main.bib18e44frequency,Frequency child had tinned vegetables,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e44timesperday,BiB_1000.bib1000_18m_main.bib18e44timesperday,Times per day child had tinned vegetables,decimal,NA,NA,NA
+bib18e45amount,BiB_1000.bib1000_18m_main.bib18e45amount,Amount child had of carrots,decimal,NA,NA,NA
+bib18e45frequency,BiB_1000.bib1000_18m_main.bib18e45frequency,Frequency child had carrots,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e45timesperday,BiB_1000.bib1000_18m_main.bib18e45timesperday,Times per day child had carrots,decimal,NA,NA,NA
+bib18e46amount,BiB_1000.bib1000_18m_main.bib18e46amount,Amount child had of peas and green beans,decimal,NA,NA,NA
+bib18e46frequency,BiB_1000.bib1000_18m_main.bib18e46frequency,Frequency child had peas and green beans,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e46timesperday,BiB_1000.bib1000_18m_main.bib18e46timesperday,Times per day child had peas and green beans,decimal,NA,NA,NA
+bib18e47amount,BiB_1000.bib1000_18m_main.bib18e47amount,Amount child had of sweetcorn,decimal,NA,NA,NA
+bib18e47frequency,BiB_1000.bib1000_18m_main.bib18e47frequency,Frequency child had sweetcorn,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e47timesperday,BiB_1000.bib1000_18m_main.bib18e47timesperday,Times per day child had sweetcorn,decimal,NA,NA,NA
+bib18e48amount,BiB_1000.bib1000_18m_main.bib18e48amount,Amount child had of broccoli etc,decimal,NA,NA,NA
+bib18e48frequency,BiB_1000.bib1000_18m_main.bib18e48frequency,Frequency child had broccoli etc,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e48timesperday,BiB_1000.bib1000_18m_main.bib18e48timesperday,Times per day child had broccoli etc,decimal,NA,NA,NA
+bib18e49amount,BiB_1000.bib1000_18m_main.bib18e49amount,Amount child had of cauliflower,decimal,NA,NA,NA
+bib18e49frequency,BiB_1000.bib1000_18m_main.bib18e49frequency,Frequency child had cauliflower,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e49timesperday,BiB_1000.bib1000_18m_main.bib18e49timesperday,Times per day child had cauliflower,decimal,NA,NA,NA
+bib18e50amount,BiB_1000.bib1000_18m_main.bib18e50amount,Amount child had of tomatoes,decimal,NA,NA,NA
+bib18e50frequency,BiB_1000.bib1000_18m_main.bib18e50frequency,Frequency child had tomatoes,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e50timesperday,BiB_1000.bib1000_18m_main.bib18e50timesperday,Times per day child had tomatoes,decimal,NA,NA,NA
+bib18e51amount,BiB_1000.bib1000_18m_main.bib18e51amount,Amount child had of green salad,decimal,NA,NA,NA
+bib18e51frequency,BiB_1000.bib1000_18m_main.bib18e51frequency,Frequency child had green salad,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e51timesperday,BiB_1000.bib1000_18m_main.bib18e51timesperday,Times per day child had green salad,decimal,NA,NA,NA
+bib18e52amount,BiB_1000.bib1000_18m_main.bib18e52amount,Amount child had of beans and pulses,decimal,NA,NA,NA
+bib18e52frequency,BiB_1000.bib1000_18m_main.bib18e52frequency,Frequency child had beans and pulses,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e52timesperday,BiB_1000.bib1000_18m_main.bib18e52timesperday,Times per day child had beans and pulses,decimal,NA,NA,NA
+bib18e53amount,BiB_1000.bib1000_18m_main.bib18e53amount,Amount child had of other vegetables,decimal,NA,NA,NA
+bib18e53frequency,BiB_1000.bib1000_18m_main.bib18e53frequency,Frequency child had other vegetables,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e53timesperday,BiB_1000.bib1000_18m_main.bib18e53timesperday,Times per day child had other vegetables,decimal,NA,NA,NA
+bib18e54amount,BiB_1000.bib1000_18m_main.bib18e54amount,Amount child had of vegetarian burgers etc,decimal,NA,NA,NA
+bib18e54frequency,BiB_1000.bib1000_18m_main.bib18e54frequency,Frequency child had vegetarian burgers etc,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e54timesperday,BiB_1000.bib1000_18m_main.bib18e54timesperday,Times per day child had vegetarian burgers etc,decimal,NA,NA,NA
+bib18e55amount,BiB_1000.bib1000_18m_main.bib18e55amount,Amount child had of pizza,decimal,NA,NA,NA
+bib18e55frequency,BiB_1000.bib1000_18m_main.bib18e55frequency,Frequency child had pizza,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e55timesperday,BiB_1000.bib1000_18m_main.bib18e55timesperday,Times per day child had pizza,decimal,NA,NA,NA
+bib18e56amount,BiB_1000.bib1000_18m_main.bib18e56amount,Amount child had of quiche,decimal,NA,NA,NA
+bib18e56frequency,BiB_1000.bib1000_18m_main.bib18e56frequency,Frequency child had quiche,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e56timesperday,BiB_1000.bib1000_18m_main.bib18e56timesperday,Times per day child had quiche,decimal,NA,NA,NA
+bib18e57amount,BiB_1000.bib1000_18m_main.bib18e57amount,Amount child had of eggs,decimal,NA,NA,NA
+bib18e57frequency,BiB_1000.bib1000_18m_main.bib18e57frequency,Frequency child had eggs,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e57timesperday,BiB_1000.bib1000_18m_main.bib18e57timesperday,Times per day child had eggs,decimal,NA,NA,NA
+bib18e58amount,BiB_1000.bib1000_18m_main.bib18e58amount,Amount child had of cheese,decimal,NA,NA,NA
+bib18e58frequency,BiB_1000.bib1000_18m_main.bib18e58frequency,Frequency child had cheese,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e58timesperday,BiB_1000.bib1000_18m_main.bib18e58timesperday,Times per day child had cheese,decimal,NA,NA,NA
+bib18e59amount,BiB_1000.bib1000_18m_main.bib18e59amount,Amount child had of savoury white sauce,decimal,NA,NA,NA
+bib18e59frequency,BiB_1000.bib1000_18m_main.bib18e59frequency,Frequency child had savoury white sauce,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e59timesperday,BiB_1000.bib1000_18m_main.bib18e59timesperday,Times per day child had savoury white sauce,decimal,NA,NA,NA
+bib18e60amount,BiB_1000.bib1000_18m_main.bib18e60amount,Amount child had of tinned fruit,decimal,NA,NA,NA
+bib18e60frequency,BiB_1000.bib1000_18m_main.bib18e60frequency,Frequency child had tinned fruit,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e60timesperday,BiB_1000.bib1000_18m_main.bib18e60timesperday,Times per day child had tinned fruit,decimal,NA,NA,NA
+bib18e61amount,BiB_1000.bib1000_18m_main.bib18e61amount,Amount child had of apples and pears,decimal,NA,NA,NA
+bib18e61frequency,BiB_1000.bib1000_18m_main.bib18e61frequency,Frequency child had apples and pears,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e61timesperday,BiB_1000.bib1000_18m_main.bib18e61timesperday,Times per day child had apples and pears,decimal,NA,NA,NA
+bib18e62amount,BiB_1000.bib1000_18m_main.bib18e62amount,Amount child had of bananas,decimal,NA,NA,NA
+bib18e62frequency,BiB_1000.bib1000_18m_main.bib18e62frequency,Frequency child had bananas,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e62timesperday,BiB_1000.bib1000_18m_main.bib18e62timesperday,Times per day child had bananas,decimal,NA,NA,NA
+bib18e63amount,BiB_1000.bib1000_18m_main.bib18e63amount,Amount child had of oranges and satsumas,decimal,NA,NA,NA
+bib18e63frequency,BiB_1000.bib1000_18m_main.bib18e63frequency,Frequency child had oranges and satsumas,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e63timesperday,BiB_1000.bib1000_18m_main.bib18e63timesperday,Times per day child had oranges and satsumas,decimal,NA,NA,NA
+bib18e64amount,BiB_1000.bib1000_18m_main.bib18e64amount,Amount child had of peaches etc,decimal,NA,NA,NA
+bib18e64frequency,BiB_1000.bib1000_18m_main.bib18e64frequency,Frequency child had peaches etc,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e64timesperday,BiB_1000.bib1000_18m_main.bib18e64timesperday,Times per day child had peaches etc,decimal,NA,NA,NA
+bib18e65amount,BiB_1000.bib1000_18m_main.bib18e65amount,Amount child had of strawberries etc,decimal,NA,NA,NA
+bib18e65frequency,BiB_1000.bib1000_18m_main.bib18e65frequency,Frequency child had strawberries etc,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e65timesperday,BiB_1000.bib1000_18m_main.bib18e65timesperday,Times per day child had strawberries etc,decimal,NA,NA,NA
+bib18e66amount,BiB_1000.bib1000_18m_main.bib18e66amount,Amount child had of plums etc,decimal,NA,NA,NA
+bib18e66frequency,BiB_1000.bib1000_18m_main.bib18e66frequency,Frequency child had plums etc,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e66timesperday,BiB_1000.bib1000_18m_main.bib18e66timesperday,Times per day child had plums etc,decimal,NA,NA,NA
+bib18e67amount,BiB_1000.bib1000_18m_main.bib18e67amount,Amount child had of yoghurt and fromage frais,decimal,NA,NA,NA
+bib18e67frequency,BiB_1000.bib1000_18m_main.bib18e67frequency,Frequency child had yoghurt and fromage frais,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e67timesperday,BiB_1000.bib1000_18m_main.bib18e67timesperday,Times per day child had yoghurt and fromage frais,decimal,NA,NA,NA
+bib18e68a,BiB_1000.bib1000_18m_main.bib18e68a,Has child had ordinary whole milk,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e68b,BiB_1000.bib1000_18m_main.bib18e68b,Has child had ordinary low fat milk,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e68c,BiB_1000.bib1000_18m_main.bib18e68c,Has child had Danone baby fromage frais,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e68d,BiB_1000.bib1000_18m_main.bib18e68d,Has child had Onky Blok fromage frais,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e68e,BiB_1000.bib1000_18m_main.bib18e68e,Has child had supermarket own brand fromage frais,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e69,BiB_1000.bib1000_18m_main.bib18e69,Has child had other milk or fromage frais,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e70amount,BiB_1000.bib1000_18m_main.bib18e70amount,Amount child had of other ready made desserts,decimal,NA,NA,NA
+bib18e70frequency,BiB_1000.bib1000_18m_main.bib18e70frequency,Frequency child had other ready made desserts,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e70timesperday,BiB_1000.bib1000_18m_main.bib18e70timesperday,Times per day child had other ready made desserts,decimal,NA,NA,NA
+bib18e71amount,BiB_1000.bib1000_18m_main.bib18e71amount,Amount child had of ice-cream,decimal,NA,NA,NA
+bib18e71frequency,BiB_1000.bib1000_18m_main.bib18e71frequency,Frequency child had ice-cream,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e71timesperday,BiB_1000.bib1000_18m_main.bib18e71timesperday,Times per day child had ice-cream,decimal,NA,NA,NA
+bib18e72amount,BiB_1000.bib1000_18m_main.bib18e72amount,Amount child had of custard,decimal,NA,NA,NA
+bib18e72frequency,BiB_1000.bib1000_18m_main.bib18e72frequency,Frequency child had custard,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e72timesperday,BiB_1000.bib1000_18m_main.bib18e72timesperday,Times per day child had custard,decimal,NA,NA,NA
+bib18e73amount,BiB_1000.bib1000_18m_main.bib18e73amount,Amount child had of halva,decimal,NA,NA,NA
+bib18e73frequency,BiB_1000.bib1000_18m_main.bib18e73frequency,Frequency child had halva,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e73timesperday,BiB_1000.bib1000_18m_main.bib18e73timesperday,Times per day child had halva,decimal,NA,NA,NA
+bib18e74amount,BiB_1000.bib1000_18m_main.bib18e74amount,Amount child had of milk puddings,decimal,NA,NA,NA
+bib18e74frequency,BiB_1000.bib1000_18m_main.bib18e74frequency,Frequency child had milk puddings,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e74timesperday,BiB_1000.bib1000_18m_main.bib18e74timesperday,Times per day child had milk puddings,decimal,NA,NA,NA
+bib18e75amount,BiB_1000.bib1000_18m_main.bib18e75amount,Amount child had of other puddings,decimal,NA,NA,NA
+bib18e75frequency,BiB_1000.bib1000_18m_main.bib18e75frequency,Frequency child had other puddings,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e75timesperday,BiB_1000.bib1000_18m_main.bib18e75timesperday,Times per day child had other puddings,decimal,NA,NA,NA
+bib18e76amount,BiB_1000.bib1000_18m_main.bib18e76amount,"Amount child had of cakes, buns and pastries",decimal,NA,NA,NA
+bib18e76frequency,BiB_1000.bib1000_18m_main.bib18e76frequency,"Frequency child had cakes, buns and pastries",decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e76timesperday,BiB_1000.bib1000_18m_main.bib18e76timesperday,"Times per day child had cakes, buns and pastries",decimal,NA,NA,NA
+bib18e77amount,BiB_1000.bib1000_18m_main.bib18e77amount,Amount child had of chocolate and digestive biscuits,decimal,NA,NA,NA
+bib18e77frequency,BiB_1000.bib1000_18m_main.bib18e77frequency,Frequency child had chocolate and digestive biscuits,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e77timesperday,BiB_1000.bib1000_18m_main.bib18e77timesperday,Times per day child had chocolate and digestive biscuits,decimal,NA,NA,NA
+bib18e78amount,BiB_1000.bib1000_18m_main.bib18e78amount,Amount child had of other biscuits,decimal,NA,NA,NA
+bib18e78frequency,BiB_1000.bib1000_18m_main.bib18e78frequency,Frequency child had other biscuits,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e78timesperday,BiB_1000.bib1000_18m_main.bib18e78timesperday,Times per day child had other biscuits,decimal,NA,NA,NA
+bib18e79amount,BiB_1000.bib1000_18m_main.bib18e79amount,Amount child had of chocolate,decimal,NA,NA,NA
+bib18e79frequency,BiB_1000.bib1000_18m_main.bib18e79frequency,Frequency child had chocolate,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e79timesperday,BiB_1000.bib1000_18m_main.bib18e79timesperday,Times per day child had chocolate,decimal,NA,NA,NA
+bib18e80amount,BiB_1000.bib1000_18m_main.bib18e80amount,Amount child had of sweets,decimal,NA,NA,NA
+bib18e80frequency,BiB_1000.bib1000_18m_main.bib18e80frequency,Frequency child had sweets,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e80timesperday,BiB_1000.bib1000_18m_main.bib18e80timesperday,Times per day child had sweets,decimal,NA,NA,NA
+bib18e81amount,BiB_1000.bib1000_18m_main.bib18e81amount,Amount child had of crisps,decimal,NA,NA,NA
+bib18e81frequency,BiB_1000.bib1000_18m_main.bib18e81frequency,Frequency child had crisps,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e81timesperday,BiB_1000.bib1000_18m_main.bib18e81timesperday,Times per day child had crisps,decimal,NA,NA,NA
+bib18e82amount,BiB_1000.bib1000_18m_main.bib18e82amount,Amount child had of marmite and bovril,decimal,NA,NA,NA
+bib18e82frequency,BiB_1000.bib1000_18m_main.bib18e82frequency,Frequency child had marmite and bovril,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e82timesperday,BiB_1000.bib1000_18m_main.bib18e82timesperday,Times per day child had marmite and bovril,decimal,NA,NA,NA
+bib18e83amount,BiB_1000.bib1000_18m_main.bib18e83amount,Amount child had of peanut butter,decimal,NA,NA,NA
+bib18e83frequency,BiB_1000.bib1000_18m_main.bib18e83frequency,Frequency child had peanut butter,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e83timesperday,BiB_1000.bib1000_18m_main.bib18e83timesperday,Times per day child had peanut butter,decimal,NA,NA,NA
+bib18e84amount,BiB_1000.bib1000_18m_main.bib18e84amount,Amount child had of jam and sweet spreads,decimal,NA,NA,NA
+bib18e84frequency,BiB_1000.bib1000_18m_main.bib18e84frequency,Frequency child had jam and sweet spreads,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e84timesperday,BiB_1000.bib1000_18m_main.bib18e84timesperday,Times per day child had jam and sweet spreads,decimal,NA,NA,NA
+bib18e85amount,BiB_1000.bib1000_18m_main.bib18e85amount,Amount child had of butter and margarine,decimal,NA,NA,NA
+bib18e85frequency,BiB_1000.bib1000_18m_main.bib18e85frequency,Frequency child had butter and margarine,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e85timesperday,BiB_1000.bib1000_18m_main.bib18e85timesperday,Times per day child had butter and margarine,decimal,NA,NA,NA
+bib18e86amount,BiB_1000.bib1000_18m_main.bib18e86amount,Amount child had of sugar,decimal,NA,NA,NA
+bib18e86frequency,BiB_1000.bib1000_18m_main.bib18e86frequency,Frequency child had sugar,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e86timesperday,BiB_1000.bib1000_18m_main.bib18e86timesperday,Times per day child had sugar,decimal,NA,NA,NA
+bib18e87amountozs,BiB_1000.bib1000_18m_main.bib18e87amountozs,Amount child had of baby juices,decimal,NA,NA,NA
+bib18e87frequency,BiB_1000.bib1000_18m_main.bib18e87frequency,Frequency child had baby juices,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e87timesperday,BiB_1000.bib1000_18m_main.bib18e87timesperday,Times per day child had baby juices,decimal,NA,NA,NA
+bib18e88amountozs,BiB_1000.bib1000_18m_main.bib18e88amountozs,Amount child had of pure fruit juice,decimal,NA,NA,NA
+bib18e88frequency,BiB_1000.bib1000_18m_main.bib18e88frequency,Frequency child had pure fruit juice,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e88timesperday,BiB_1000.bib1000_18m_main.bib18e88timesperday,Times per day child had pure fruit juice,decimal,NA,NA,NA
+bib18e89amountozs,BiB_1000.bib1000_18m_main.bib18e89amountozs,Amount child had of fruit drinks,decimal,NA,NA,NA
+bib18e89frequency,BiB_1000.bib1000_18m_main.bib18e89frequency,Frequency child had fruit drinks,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e89timesperday,BiB_1000.bib1000_18m_main.bib18e89timesperday,Times per day child had fruit drinks,decimal,NA,NA,NA
+bib18e90amountozs,BiB_1000.bib1000_18m_main.bib18e90amountozs,Amount child had of Ribena etc,decimal,NA,NA,NA
+bib18e90frequency,BiB_1000.bib1000_18m_main.bib18e90frequency,Frequency child had Ribena etc,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e90timesperday,BiB_1000.bib1000_18m_main.bib18e90timesperday,Times per day child had Ribena etc,decimal,NA,NA,NA
+bib18e91a,BiB_1000.bib1000_18m_main.bib18e91a,Has child had ordinary Ribena,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e91b,BiB_1000.bib1000_18m_main.bib18e91b,Has child had Ribena really light,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e91c,BiB_1000.bib1000_18m_main.bib18e91c,Has child had low sugar high juice blackcurrant,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e92,BiB_1000.bib1000_18m_main.bib18e92,Has child had other blackcurrant,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib18e93amountozs,BiB_1000.bib1000_18m_main.bib18e93amountozs,Amount child had of squash (not low cal),decimal,NA,NA,NA
+bib18e93frequency,BiB_1000.bib1000_18m_main.bib18e93frequency,Frequency child had squash (not low cal),decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e93timesperday,BiB_1000.bib1000_18m_main.bib18e93timesperday,Times per day child had squash (not low cal),decimal,NA,NA,NA
+bib18e94amountozs,BiB_1000.bib1000_18m_main.bib18e94amountozs,Amount child had of squash (low cal),decimal,NA,NA,NA
+bib18e94frequency,BiB_1000.bib1000_18m_main.bib18e94frequency,Frequency child had squash (low cal),decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e94timesperday,BiB_1000.bib1000_18m_main.bib18e94timesperday,Times per day child had squash (low cal),decimal,NA,NA,NA
+bib18e95amountozs,BiB_1000.bib1000_18m_main.bib18e95amountozs,Amount child had of fizzy drinks (not low cal),decimal,NA,NA,NA
+bib18e95frequency,BiB_1000.bib1000_18m_main.bib18e95frequency,Frequency child had fizzy drinks (not low cal),decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e95timesperday,BiB_1000.bib1000_18m_main.bib18e95timesperday,Times per day child had fizzy drinks (not low cal),decimal,NA,NA,NA
+bib18e96amountozs,BiB_1000.bib1000_18m_main.bib18e96amountozs,Amount child had of fizzy drinks (low cal),decimal,NA,NA,NA
+bib18e96frequency,BiB_1000.bib1000_18m_main.bib18e96frequency,Frequency child had fizzy drinks (low cal),decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e96timesperday,BiB_1000.bib1000_18m_main.bib18e96timesperday,Times per day child had fizzy drinks (low cal),decimal,NA,NA,NA
+bib18e97amountozs,BiB_1000.bib1000_18m_main.bib18e97amountozs,Amount child had of tea,decimal,NA,NA,NA
+bib18e97frequency,BiB_1000.bib1000_18m_main.bib18e97frequency,Frequency child had tea,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e97timesperday,BiB_1000.bib1000_18m_main.bib18e97timesperday,Times per day child had tea,decimal,NA,NA,NA
+bib18e98amountozs,BiB_1000.bib1000_18m_main.bib18e98amountozs,Amount child had of water,decimal,NA,NA,NA
+bib18e98frequency,BiB_1000.bib1000_18m_main.bib18e98frequency,Frequency child had water,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e98timesperday,BiB_1000.bib1000_18m_main.bib18e98timesperday,Times per day child had water,decimal,NA,NA,NA
+bib18e99amount,BiB_1000.bib1000_18m_main.bib18e99amount,Amount child had of cow's milk,decimal,NA,NA,NA
+bib18e99brandcode,BiB_1000.bib1000_18m_main.bib18e99brandcode,Brand of child had cow's milk,decimal,NA,NA,NA
+bib18e99frequency,BiB_1000.bib1000_18m_main.bib18e99frequency,Frequency child had cow's milk,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 time per month|1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week
+bib18e99timesperday,BiB_1000.bib1000_18m_main.bib18e99timesperday,Times per day child had cow's milk,decimal,NA,NA,NA
+bib18f01wk,BiB_1000.bib1000_18m_main.bib18f01wk,Number of hours per day TV on week days,decimal,NA,NA,NA
+bib18f01wkend,BiB_1000.bib1000_18m_main.bib18f01wkend,Number of hours per day TV on weekends,decimal,NA,NA,NA
+bib18f01wkendna,BiB_1000.bib1000_18m_main.bib18f01wkendna,Question F1 (weekend) not applicable,decimal,NA,1,Not applicable
+bib18f01wkna,BiB_1000.bib1000_18m_main.bib18f01wkna,Question F1 (week day) not applicable,decimal,NA,1,Not applicable
+bib18f02a,BiB_1000.bib1000_18m_main.bib18f02a,Number of hours per day mum watched TV on week days before 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib18f02b,BiB_1000.bib1000_18m_main.bib18f02b,Number of hours per day mum watched TV on week days after 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib18f02c,BiB_1000.bib1000_18m_main.bib18f02c,Number of hours per day mum watched TV on weekends before 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib18f02d,BiB_1000.bib1000_18m_main.bib18f02d,Number of hours per day mum watched TV on weekends after 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib18f02mumhravday,BiB_1000.bib1000_18m_main.bib18f02mumhravday,Avg hours of daily TV viewing by mum ,decimal,NA,NA,NA
+bib18f02mumhrdaywk,BiB_1000.bib1000_18m_main.bib18f02mumhrdaywk,Hours of daily weekday TV viewing by mum,decimal,NA,NA,NA
+bib18f02mumhrdaywkend,BiB_1000.bib1000_18m_main.bib18f02mumhrdaywkend,Hours of daily weekend TV viewing by mum,decimal,NA,NA,NA
+bib18f03a,BiB_1000.bib1000_18m_main.bib18f03a,Number of hours/day child watched TV on week days before 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib18f03b,BiB_1000.bib1000_18m_main.bib18f03b,Number of hours/day child watched TV on week days after 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib18f03c,BiB_1000.bib1000_18m_main.bib18f03c,Number of hours/day child watched TV on weekends before 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib18f03chdhrday,BiB_1000.bib1000_18m_main.bib18f03chdhrday,Average hours of daily TV viewing by child,decimal,NA,NA,NA
+bib18f03chdhrdaywk,BiB_1000.bib1000_18m_main.bib18f03chdhrdaywk,Hours of daily weekday TV viewing by child,decimal,NA,NA,NA
+bib18f03chdhrdaywkend,BiB_1000.bib1000_18m_main.bib18f03chdhrdaywkend,Hours of daily weekend TV viewing by child,decimal,NA,NA,NA
+bib18f03d,BiB_1000.bib1000_18m_main.bib18f03d,Number of hours/day child watched TV on weekends after 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib18g01,BiB_1000.bib1000_18m_main.bib18g01,"In last week, number of times spent walking 10+ minutes",decimal,NA,NA,NA
+bib18g01mumwalktot,BiB_1000.bib1000_18m_main.bib18g01mumwalktot,Total mins mother walked continuously >10 mins,decimal,NA,NA,NA
+bib18g01na,BiB_1000.bib1000_18m_main.bib18g01na,Question G1 not applicable,decimal,NA,1,Not applicable
+bib18g03,BiB_1000.bib1000_18m_main.bib18g03,"In last week, number of times spent doing vigorous gardening",decimal,NA,NA,NA
+bib18g03na,BiB_1000.bib1000_18m_main.bib18g03na,Question G3 not applicable,decimal,NA,1,Not applicable
+bib18g05,BiB_1000.bib1000_18m_main.bib18g05,"In last week, number of times spent doing vigorous physical activity",decimal,NA,NA,NA
+bib18g05mumgardtot,BiB_1000.bib1000_18m_main.bib18g05mumgardtot,Total mins mother did vig. gardening/heavy work continuously >10 mins,decimal,NA,NA,NA
+bib18g05mumvigpatot,BiB_1000.bib1000_18m_main.bib18g05mumvigpatot,Total mins mother did vig. activity continuously >10 mins,decimal,NA,NA,NA
+bib18g05na,BiB_1000.bib1000_18m_main.bib18g05na,Question G5 not applicable,decimal,NA,1,Not applicable
+bib18g07,BiB_1000.bib1000_18m_main.bib18g07,"In last week, number of times spent doing other moderate physical activity",decimal,NA,NA,NA
+bib18g07mummodtot,BiB_1000.bib1000_18m_main.bib18g07mummodtot,Total mins mother did mod. activity continuously >10 mins,decimal,NA,NA,NA
+bib18g07na,BiB_1000.bib1000_18m_main.bib18g07na,Question G7 not applicable,decimal,NA,1,Not applicable
+bib18g09a,BiB_1000.bib1000_18m_main.bib18g09a,Taking stairs/being active 30+ mins a day is enough to improve health,decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib18g09b,BiB_1000.bib1000_18m_main.bib18g09b,Half hour brisk walking on most days is enough to improve health,decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib18g09c,BiB_1000.bib1000_18m_main.bib18g09c,Essential to do vigorous exercise for 20+ mins 3 times/week to improve health,decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib18g09d,BiB_1000.bib1000_18m_main.bib18g09d,"Exercise doesn't have to be done all at once, 10 minute blocks are OK",decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib18g09e,BiB_1000.bib1000_18m_main.bib18g09e,Moderate exercise that increases your heart rate slightly can improve health,decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib18gmumactdurtot,BiB_1000.bib1000_18m_main.bib18gmumactdurtot,Total mins mother did walking/mod/vig activity continuously >10 mins,decimal,NA,NA,NA
+bib18gmumactfreqtot,BiB_1000.bib1000_18m_main.bib18gmumactfreqtot,Total sessions mother did walking/mod/vig activity continuously >10 mins,decimal,NA,NA,NA
+bib18gmumsuffactvol,BiB_1000.bib1000_18m_main.bib18gmumsuffactvol,Sufficiently physically active group based on total activity time only,decimal,NA,1|2|3,Not active at all|Active for 1 to 149 minutes|Active for 150+ minutes
+bib18gmumsuffactvolfreq,BiB_1000.bib1000_18m_main.bib18gmumsuffactvolfreq,Sufficiently physically active group based on total activity time and frequency,decimal,NA,1|2|3,Not active at all|Active for 1+ minutes less than 5 times per week|Active for 150+ minutes more than 5 times per week
+bib18h01a,BiB_1000.bib1000_18m_main.bib18h01a,Fruit,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h01b,BiB_1000.bib1000_18m_main.bib18h01b,Salad,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h01c,BiB_1000.bib1000_18m_main.bib18h01c,Vegetables,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h01d,BiB_1000.bib1000_18m_main.bib18h01d,"Boiled, mashed or jacket potatoes",decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h01e,BiB_1000.bib1000_18m_main.bib18h01e,Fried or roasted potatoes,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h01f,BiB_1000.bib1000_18m_main.bib18h01f,Oven-cooked chips,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h01g,BiB_1000.bib1000_18m_main.bib18h01g,Fried chips,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h01h,BiB_1000.bib1000_18m_main.bib18h01h,Fried rice/biryani,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h01i,BiB_1000.bib1000_18m_main.bib18h01i,Chapattis/parathas/puris/nan with butter,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h01j,BiB_1000.bib1000_18m_main.bib18h01j,Boiled rice,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h01k,BiB_1000.bib1000_18m_main.bib18h01k,Chapattis/parathas/puris/nan without butter,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h02a,BiB_1000.bib1000_18m_main.bib18h02a,Biscuits,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h02b,BiB_1000.bib1000_18m_main.bib18h02b,Cakes/pastries,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h02c,BiB_1000.bib1000_18m_main.bib18h02c,Crisps/other savoury snacks,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h02d,BiB_1000.bib1000_18m_main.bib18h02d,"Chevda,Bombay mix etc",decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h02e,BiB_1000.bib1000_18m_main.bib18h02e,Indian sweets,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h02f,BiB_1000.bib1000_18m_main.bib18h02f,Samosas/pakoras/spring rolls,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h02g,BiB_1000.bib1000_18m_main.bib18h02g,Sausage rolls/pork pies/pasties,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h03a,BiB_1000.bib1000_18m_main.bib18h03a,Natural fruit juice,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h03b,BiB_1000.bib1000_18m_main.bib18h03b,Mango juice,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h03c,BiB_1000.bib1000_18m_main.bib18h03c,Fruit drinks/squash - sugar-free,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h03d,BiB_1000.bib1000_18m_main.bib18h03d,Fruit drinks/squash - contains sugar,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h03e,BiB_1000.bib1000_18m_main.bib18h03e,Coke/Pepsi/Fanta,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h03f,BiB_1000.bib1000_18m_main.bib18h03f,Diet Coke/diet Pepsi/diet Fanta,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h04a,BiB_1000.bib1000_18m_main.bib18h04a,"Meat pies/pasties, vegetarian pies",decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h04b,BiB_1000.bib1000_18m_main.bib18h04b,Pizza/quiche/flan,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h04c,BiB_1000.bib1000_18m_main.bib18h04c,Chip-shop meal,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h04d,BiB_1000.bib1000_18m_main.bib18h04d,Beef/veggie burgers,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h04e,BiB_1000.bib1000_18m_main.bib18h04e,Fried chicken take-away,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h04f,BiB_1000.bib1000_18m_main.bib18h04f,Indian take-away,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h04g,BiB_1000.bib1000_18m_main.bib18h04g,Donner kebab,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18h04h,BiB_1000.bib1000_18m_main.bib18h04h,Chinese take-away,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib18i01,BiB_1000.bib1000_18m_main.bib18i01,Feeling perfectly well and in good health,decimal,NA,1|2|3|4,Better than usual|Same as usual|Worse than usual|Much worse than usual
+bib18i02,BiB_1000.bib1000_18m_main.bib18i02,Feeling in need of a good tonic,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i03,BiB_1000.bib1000_18m_main.bib18i03,Feeling run down and out of sort,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i04,BiB_1000.bib1000_18m_main.bib18i04,Felt ill,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i05,BiB_1000.bib1000_18m_main.bib18i05,Getting pains in head,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i06,BiB_1000.bib1000_18m_main.bib18i06,Feeling tightness/pains in head,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i07,BiB_1000.bib1000_18m_main.bib18i07,Having hot/cold spells,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i08,BiB_1000.bib1000_18m_main.bib18i08,Lost much sleep over worry,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i09,BiB_1000.bib1000_18m_main.bib18i09,Difficulty staying asleep,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i10,BiB_1000.bib1000_18m_main.bib18i10,Felt constantly under strain,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i11,BiB_1000.bib1000_18m_main.bib18i11,Getting edgy/bad tempered,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i12,BiB_1000.bib1000_18m_main.bib18i12,Getting scared/panicky,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i13,BiB_1000.bib1000_18m_main.bib18i13,Found everything getting on top of you,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i14,BiB_1000.bib1000_18m_main.bib18i14,Feeling nervous/strung-up,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i15,BiB_1000.bib1000_18m_main.bib18i15,Managing to keep yourself busy/occupied,decimal,NA,1|2|3|4,More so than usual|Same as usual|Rather less than usual|Much less than usual
+bib18i16,BiB_1000.bib1000_18m_main.bib18i16,Taking longer over things you do,decimal,NA,1|2|3|4,Quicker than usual|Same as usual|Longer than usual|Much longer than usual
+bib18i17,BiB_1000.bib1000_18m_main.bib18i17,Felt you were doing things well,decimal,NA,1|2|3|4,Better than usual|Same as usual|Less well than usual|Much less well than usual
+bib18i18,BiB_1000.bib1000_18m_main.bib18i18,Been satisfied with the way you've carried out tasks,decimal,NA,1|2|3|4,More satisfied|About the same as usual|Less satisfied than usual|Much less satisfied than usual
+bib18i19,BiB_1000.bib1000_18m_main.bib18i19,Felt you're playing a useful part in things,decimal,NA,1|2|3|4,More so than usual|Same as usual|Rather less than usual|Much less than usual
+bib18i20,BiB_1000.bib1000_18m_main.bib18i20,Capable fo making decisions about things,decimal,NA,1|2|3|4,More so than usual|Same as usual|Rather less than usual|Much less than usual
+bib18i21,BiB_1000.bib1000_18m_main.bib18i21,Able to enjoy normal day-to-day activities,decimal,NA,1|2|3|4,More so than usual|Same as usual|Rather less than usual|Much less than usual
+bib18i22,BiB_1000.bib1000_18m_main.bib18i22,Thinking of yourself as worthless,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i23,BiB_1000.bib1000_18m_main.bib18i23,Felt life is hopeless,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i24,BiB_1000.bib1000_18m_main.bib18i24,Felt life isn't worth living,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i25,BiB_1000.bib1000_18m_main.bib18i25,Thought you might make away with yourself,decimal,NA,1|2|3|4,Definitely  not|I don't think so|Has crossed my mind|Definitely have
+bib18i26,BiB_1000.bib1000_18m_main.bib18i26,Found you couldn't do anything because nerves were bad,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i27,BiB_1000.bib1000_18m_main.bib18i27,Found yourself wishing you were dead,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib18i28,BiB_1000.bib1000_18m_main.bib18i28,Found the idea of taking your own life coming inot your mind,decimal,NA,1|2|3|4,Definitely  not|I don't think so|Has crossed my mind|Definitely have
+bib18j01,BiB_1000.bib1000_18m_main.bib18j01,Bananas,decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j02,BiB_1000.bib1000_18m_main.bib18j02,Apples,decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j03,BiB_1000.bib1000_18m_main.bib18j03,Melon,decimal,NA,1|2|3|4,0|0.5|1|More than 1
+bib18j04,BiB_1000.bib1000_18m_main.bib18j04,Grapes,decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j05,BiB_1000.bib1000_18m_main.bib18j05,Oranges,decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j06,BiB_1000.bib1000_18m_main.bib18j06,Pears,decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j07,BiB_1000.bib1000_18m_main.bib18j07,Peaches,decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j08,BiB_1000.bib1000_18m_main.bib18j08,Canned Fruit in syrup,decimal,NA,1|2|3|4,0|1|2-5|More than 5
+bib18j09,BiB_1000.bib1000_18m_main.bib18j09,Canned Fruit in juice/water,decimal,NA,1|2|3|4,0|1|2-5|More than 5
+bib18j10,BiB_1000.bib1000_18m_main.bib18j10,Plums,decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j11,BiB_1000.bib1000_18m_main.bib18j11,Kiwis,decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j12,BiB_1000.bib1000_18m_main.bib18j12,Pineapple,decimal,NA,1|2|3|4,0|0.5|1|More than 1
+bib18j13,BiB_1000.bib1000_18m_main.bib18j13,Berries or cherries,decimal,NA,1|2|3|4,0|1|2|More than 2
+bib18j14,BiB_1000.bib1000_18m_main.bib18j14,Grapefruit,decimal,NA,1|2|3|4,0|0.5|1 to 3|More than 3
+bib18j15,BiB_1000.bib1000_18m_main.bib18j15,Fruit salad,decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j16,BiB_1000.bib1000_18m_main.bib18j16,Dried fruit,decimal,NA,1|2|3|4,0|1|2|More than 2
+bib18j17,BiB_1000.bib1000_18m_main.bib18j17,Carrots,decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j18,BiB_1000.bib1000_18m_main.bib18j18,Celery,decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j19,BiB_1000.bib1000_18m_main.bib18j19,Greens/Spinach,decimal,NA,1|2|3|4,0|1|2|More than 2
+bib18j20,BiB_1000.bib1000_18m_main.bib18j20,Lettuce,decimal,NA,1|2|3|4,0|1|2|More than 2
+bib18j21,BiB_1000.bib1000_18m_main.bib18j21,Sweetcorn,decimal,NA,1|2|3|4,0|1|2|More than 2
+bib18j22,BiB_1000.bib1000_18m_main.bib18j22,Peas,decimal,NA,1|2|3|4,0|1|2|More than 2
+bib18j23,BiB_1000.bib1000_18m_main.bib18j23,"Tomatoes (Fresh, Individual)",decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j24,BiB_1000.bib1000_18m_main.bib18j24,"Tomatoes (Can, medium can)",decimal,NA,1|2|3|4,0|1|2-5|More than 5
+bib18j25,BiB_1000.bib1000_18m_main.bib18j25,Broccoli,decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j26,BiB_1000.bib1000_18m_main.bib18j26,Green beans,decimal,NA,1|2|3|4,0|1|2|More than 2
+bib18j27,BiB_1000.bib1000_18m_main.bib18j27,Cabbage,decimal,NA,1|2|3|4,0|0.5|1|More than 1
+bib18j28,BiB_1000.bib1000_18m_main.bib18j28,Other vegetables,decimal,NA,1|2|3|4,0|0.5|1|More than 1
+bib18j29,BiB_1000.bib1000_18m_main.bib18j29,"Crisps, tortilla chips",decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j30,BiB_1000.bib1000_18m_main.bib18j30,Salted nuts,decimal,NA,1|2|3|4,0|0.5 to 3|4 to 10|More than 10
+bib18j31,BiB_1000.bib1000_18m_main.bib18j31,Biscuits,decimal,NA,1|2|3|4,0|1 to 15|16 to 30|More than 30
+bib18j32,BiB_1000.bib1000_18m_main.bib18j32,Sweets,decimal,NA,1|2|3|4,0|1|2-5|More than 5
+bib18j33,BiB_1000.bib1000_18m_main.bib18j33,Chocolate,decimal,NA,1|2|3|4,0|1|2-5|More than 5
+bib18j34,BiB_1000.bib1000_18m_main.bib18j34,"Cakes, muffins",decimal,NA,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib18j35,BiB_1000.bib1000_18m_main.bib18j35,Ice Cream,decimal,NA,1|2|3|4,0|1|2|More than 2
+bib18j36,BiB_1000.bib1000_18m_main.bib18j36,"Fizzy Drinks, non-diet",decimal,NA,1|2|3|4,0|1 to 5|6 to 10|More than 10
+bib18j37,BiB_1000.bib1000_18m_main.bib18j37,"Fizzy Drinks, diet",decimal,NA,1|2|3|4,0|1 to 5|6 to 10|More than 10
+bib18j38,BiB_1000.bib1000_18m_main.bib18j38,Sports Drinks,decimal,NA,1|2|3|4,0|1 to 5|6 to 10|More than 10
+bib18j39,BiB_1000.bib1000_18m_main.bib18j39,Fruit Drinks,decimal,NA,1|2|3|4,0|1 to 5|6 to 10|More than 10
+bib18language,BiB_1000.bib1000_18m_main.bib18language,Language questionnaire administered in,decimal,NA,1|2|3|4,English|Mirpuri|Urdu|Other
+has_bib1kc,BiB_1000.bib1000_18m_main.has_bib1kc,Child was recruited to BiB 1000,decimal,NA,1,has

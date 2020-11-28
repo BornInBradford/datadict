@@ -1,0 +1,18 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_allin24_cc,BiB_ALL_IN.allin24_cc.has_allin24_cc,Has all in 24m current childcare,decimal,NA,NA,NA
+ChildID,BiB_ALL_IN.allin24_cc.ChildID,BiB Child ID,decimal,NA,NA,NA
+all24f3cadd,BiB_ALL_IN.allin24_cc.all24f3cadd,Address of nursery,text,NA,NA,NA
+all24f3ch,BiB_ALL_IN.allin24_cc.all24f3ch,Number of other children present,decimal,NA,NA,NA
+all24f3chna,BiB_ALL_IN.allin24_cc.all24f3chna,Number of other children present NA,decimal,NA,NA,NA
+all24f3cmn,BiB_ALL_IN.allin24_cc.all24f3cmn,Months in age arrangement started,decimal,NA,NA,NA
+all24f3cmnna,BiB_ALL_IN.allin24_cc.all24f3cmnna,Months in age arrangement started NA,decimal,NA,NA,NA
+all24f3cnme,BiB_ALL_IN.allin24_cc.all24f3cnme,Name of nursery,text,NA,NA,NA
+all24f3cpcd,BiB_ALL_IN.allin24_cc.all24f3cpcd,Postcode of nursery,text,NA,NA,NA
+all24f3cr,BiB_ALL_IN.allin24_cc.all24f3cr,Current childcare arrangements,decimal,NA,1|10|11|12|13|14|15|16|17|18|2|3|4|5|6|7|8|9,Husband/Wife/partner|Friends/Neighbours|Live in nanny|Other nanny|Reg childminder|Unreg childminder|Workplace nursery| Local authority nursery|Private nursery|Other|Baby's non-resident father/mother|Your mother|Your Father|Your partners mother|Your partners father|Baby's non-resident father/mother's mother|Baby's non-resident father/mother's father|Other relative
+all24f3croth,BiB_ALL_IN.allin24_cc.all24f3croth,Other childcare provider specified,text,NA,NA,NA
+all24f3cwk,BiB_ALL_IN.allin24_cc.all24f3cwk,Weeks in age arrangement started,decimal,NA,NA,NA
+all24f3cwkna,BiB_ALL_IN.allin24_cc.all24f3cwkna,Weeks in age arrangement started,decimal,NA,NA,NA
+all24f3fd,BiB_ALL_IN.allin24_cc.all24f3fd,Does the carer feed baby,decimal,NA,1|2,Yes|No
+all24f3hm,BiB_ALL_IN.allin24_cc.all24f3hm,Is care provided in your home,decimal,NA,1|2,Yes|No
+all24f3hr,BiB_ALL_IN.allin24_cc.all24f3hr,Hours cared for per week,decimal,NA,NA,NA
+has_all2qs,BiB_ALL_IN.allin24_cc.has_all2qs,Has ALL IN 24m questionnaire,decimal,NA,1,has

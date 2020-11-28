@@ -1,0 +1,8 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_18m_b18qb2,BiB_1000.bib1000_18m_b18qb2.has_bib1000_18m_b18qb2,Has ,decimal,NA,NA,NA
+ChildID,BiB_1000.bib1000_18m_b18qb2.ChildID,BiB Child ID,decimal,NA,NA,NA
+bib18b2carer,BiB_1000.bib1000_18m_b18qb2.bib18b2carer,Carer,decimal,NA,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,Husband/Wife/Partner|Friends/Neighbours|Live-in nanny/au pair|Other nanny/au pair|Registered childminder|Unregistered childminder|Workplace/college nursery/crèche|Local authority day nursery/crèche|Private day nursery/crèche|Baby’s non-resident father/mother|Your mother|Your father|Your partner’s mother|Your partner’s father|Baby’s non-resident father’s/mother’s mother|Baby’s non-resident father’s/mother’s father|Other relative
+bib18b2feedbaby,BiB_1000.bib1000_18m_b18qb2.bib18b2feedbaby,Does carer feed child,decimal,NA,1|2,Yes|No
+bib18b2hrsperweek,BiB_1000.bib1000_18m_b18qb2.bib18b2hrsperweek,Hours per week carer looks after child,decimal,NA,NA,NA
+bib18b2inhome,BiB_1000.bib1000_18m_b18qb2.bib18b2inhome,Is child looked after in your home,decimal,NA,1|2,Yes|No
+has_b18tab,BiB_1000.bib1000_18m_b18qb2.has_b18tab,Has: BiB 1000 Questionnaire: bib18_maintable,decimal,NA,1,has

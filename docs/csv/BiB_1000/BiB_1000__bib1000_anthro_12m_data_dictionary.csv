@@ -1,0 +1,11 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_anthro_12m,BiB_1000.bib1000_anthro_12m.has_bib1000_anthro_12m,Has ,decimal,NA,NA,NA
+ChildID,BiB_1000.bib1000_anthro_12m.ChildID,BiB Child ID,decimal,NA,NA,NA
+agecm_chab12,BiB_1000.bib1000_anthro_12m.agecm_chab12,Child age (months): BiB 1000 12m anthropometry,decimal,NA,NA,NA
+agecy_chab12,BiB_1000.bib1000_anthro_12m.agecy_chab12,Child age (years): BiB 1000 12m anthropometry,decimal,NA,NA,NA
+chab12abdo,BiB_1000.bib1000_anthro_12m.chab12abdo,Child's abdominal circumference (cm),decimal,NA,NA,NA
+chab12head,BiB_1000.bib1000_anthro_12m.chab12head,Child's head circumference (cm),decimal,NA,NA,NA
+chab12subscap,BiB_1000.bib1000_anthro_12m.chab12subscap,Child's subscapular skinfold (mm),decimal,NA,NA,NA
+chab12thigh,BiB_1000.bib1000_anthro_12m.chab12thigh,Child's thigh skinfold (mm),decimal,NA,NA,NA
+chab12triceps,BiB_1000.bib1000_anthro_12m.chab12triceps,Child's triceps skinfold (mm),decimal,NA,NA,NA
+has_chab12,BiB_1000.bib1000_anthro_12m.has_chab12,Has: BiB 1000 12m anthropometry,decimal,NA,1,has

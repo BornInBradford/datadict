@@ -1,0 +1,11 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_CohortInfo.preg_info.BiBPregNumber,,decimal,NA,NA,NA
+has_preg_info,BiB_CohortInfo.preg_info.has_preg_info,Has pregnancy information,decimal,NA,NA,NA
+PregnancyID,BiB_CohortInfo.preg_info.PregnancyID,Legacy BiB Pregnancy ID,text,NA,NA,NA
+adminpagebookmm,BiB_CohortInfo.preg_info.adminpagebookmm,Mother age in months at pregnancy booking date,decimal,NA,NA,NA
+adminpagebookmy,BiB_CohortInfo.preg_info.adminpagebookmy,Mother age in years at pregnancy booking date,decimal,NA,NA,NA
+adminpagerecfm,BiB_CohortInfo.preg_info.adminpagerecfm,Father age at this pregnancy recruitment (months),decimal,NA,NA,NA
+adminpagerecfy,BiB_CohortInfo.preg_info.adminpagerecfy,Father age at this pregnancy recruitment (years),decimal,NA,NA,NA
+adminpagerecmm,BiB_CohortInfo.preg_info.adminpagerecmm,Mother age at this pregnancy recruitment (months),decimal,NA,NA,NA
+adminpagerecmy,BiB_CohortInfo.preg_info.adminpagerecmy,Mother age at this pregnancy recruitment (years),decimal,NA,NA,NA
+adminpnbirths,BiB_CohortInfo.preg_info.adminpnbirths,Number of registerable births,decimal,NA,NA,NA

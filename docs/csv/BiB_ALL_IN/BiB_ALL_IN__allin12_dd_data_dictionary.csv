@@ -1,0 +1,5 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_allin12_dd,BiB_ALL_IN.allin12_dd.has_allin12_dd,Has all in 12m doctor diagnoses,decimal,NA,NA,NA
+ChildID,BiB_ALL_IN.allin12_dd.ChildID,BiB Child ID,decimal,NA,NA,NA
+all12b4diag,BiB_ALL_IN.allin12_dd.all12b4diag,,text,NA,NA,NA
+has_all1qs,BiB_ALL_IN.allin12_dd.has_all1qs,Has ALL IN 12m questionnaire,decimal,NA,1,has

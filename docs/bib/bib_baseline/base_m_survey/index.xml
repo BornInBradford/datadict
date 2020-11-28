@@ -55,5 +55,19 @@ min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.</description>
     </item>
     
+    <item>
+      <title>Mother baseline survey (wide)</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_wide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_wide/</guid>
+      <description>Table ID: BiB_Baseline.base_m_survey_wide
+github | csv
+   Entity type Variables Entities Updated     Participant 1020 10519 2020-10-09    _wide tables contain the same data as their parent table, but introduce separate variable names for variables recorded at successive waves, e.g. pregnancies
+   variable label value_type summary     has_base_m_survey_p1 Has maternal baseline survey decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
   </channel>
 </rss>

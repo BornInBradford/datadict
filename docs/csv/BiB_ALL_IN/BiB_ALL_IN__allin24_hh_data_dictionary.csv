@@ -1,0 +1,11 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_allin24_hh,BiB_ALL_IN.allin24_hh.has_allin24_hh,Has all in 24m household,decimal,NA,NA,NA
+ChildID,BiB_ALL_IN.allin24_hh.ChildID,BiB Child ID,decimal,NA,NA,NA
+all24age,BiB_ALL_IN.allin24_hh.all24age,Age,decimal,NA,NA,NA
+all24mon,BiB_ALL_IN.allin24_hh.all24mon,DateOfBirthMonth,decimal,NA,NA,NA
+all24name,BiB_ALL_IN.allin24_hh.all24name,Name,text,NA,NA,NA
+all24namena,BiB_ALL_IN.allin24_hh.all24namena,,decimal,NA,NA,NA
+all24rship,BiB_ALL_IN.allin24_hh.all24rship,Relationship,decimal,NA,NA,NA
+all24sex,BiB_ALL_IN.allin24_hh.all24sex,Sex,decimal,NA,NA,NA
+all24yr,BiB_ALL_IN.allin24_hh.all24yr,DateOfBirthYear,text,NA,NA,NA
+has_all2qs,BiB_ALL_IN.allin24_hh.has_all2qs,Has ALL IN 24m questionnaire,decimal,NA,1,has
