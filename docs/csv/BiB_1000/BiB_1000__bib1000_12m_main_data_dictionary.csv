@@ -1,6 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
 has_bib1000_12m_main,BiB_1000.bib1000_12m_main.has_bib1000_12m_main,Has bib 1000 12m questionnaire main table,decimal,NA,NA,NA
-ChildID,BiB_1000.bib1000_12m_main.ChildID,BiB Child ID,decimal,NA,NA,NA
 agecm_b12tab,BiB_1000.bib1000_12m_main.agecm_b12tab,Child age (months) BiB1000 12m questionnaire,decimal,NA,NA,NA
 agecy_b12tab,BiB_1000.bib1000_12m_main.agecy_b12tab,Child age (years) BiB1000 12m questionnaire,decimal,NA,NA,NA
 agemm_b12tab,BiB_1000.bib1000_12m_main.agemm_b12tab,Mother age (months) BiB1000 12m questionnaire,decimal,NA,NA,NA

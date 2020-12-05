@@ -1,6 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
 has_allin12_qs,BiB_ALL_IN.allin12_qs.has_allin12_qs,Has all in 12m questionnaire,decimal,NA,NA,NA
-ChildID,BiB_ALL_IN.allin12_qs.ChildID,BiB Child ID,decimal,NA,NA,NA
 agecm_all1qs,BiB_ALL_IN.allin12_qs.agecm_all1qs,Child age (months): ALL IN 12m Questionnaire,decimal,NA,NA,NA
 agecy_all1qs,BiB_ALL_IN.allin12_qs.agecy_all1qs,Child age (years): ALL IN 12m Questionnaire,decimal,NA,NA,NA
 all12a1,BiB_ALL_IN.allin12_qs.all12a1,General health of parent,decimal,NA,1|2|3|4|5,Excellent|Very good|Good|Fair|Poor

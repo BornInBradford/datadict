@@ -1,0 +1,23 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_edrecs_eyfsp_2,BiB_Education_Record.edrecs_eyfsp_2.has_edrecs_eyfsp_2,Has early years foundation stage profile 2013 plus,decimal,NA,NA,NA
+eyfsp_post2013_acyrtested,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_acyrtested,School year of EYFSP assessment,decimal,NA,1|2|3|4|5|6|7,R|Y1|Y2|Y3|Y4|Y5|Y6
+eyfsp_post2013_com_elg01,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_com_elg01,EYFSP- Communication and language: Listening and attention,decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_com_elg02,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_com_elg02,EYFSP- Communication and language: Understanding,decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_com_elg03,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_com_elg03,EYFSP- Communication and language: Speaking,decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_exp_elg16,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_exp_elg16,EYFSP- Expressive arts and design: Exploring and using media and materials,decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_exp_elg17,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_exp_elg17,EYFSP- Expressive arts and design: Being imaginative,decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_lit_elg09,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_lit_elg09,EYFSP- Literacy: Reading,decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_lit_elg10,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_lit_elg10,EYFSP- Literacy: Writing,decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_mat_elg11,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_mat_elg11,EYFSP- Mathematics: Numbers,decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_mat_elg12,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_mat_elg12,"EYFSP- Mathematics: Shapes, space and measures",decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_phy_elg04,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_phy_elg04,EYFSP- Physical development: Moving and handling,decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_phy_elg05,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_phy_elg05,EYFSP- Physical development: Health and self-care,decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_pse_elg06,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_pse_elg06,"EYFSP- Personal, social and emotional: Self-confidence and self-awareness",decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_pse_elg07,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_pse_elg07,"EYFSP- Personal, social and emotional: Managing feelings and behaviour",decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_pse_elg08,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_pse_elg08,"EYFSP- Personal, social and emotional: Making relationships",decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_testestablishment,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_testestablishment,School Code where test conducted: EYFSP,text,NA,NA,NA
+eyfsp_post2013_utw_elg13,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_utw_elg13,EYFSP- Understanding the world: People and communities,decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_utw_elg14,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_utw_elg14,EYFSP- Understanding the world: The world,decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_utw_elg15,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_utw_elg15,EYFSP- Understanding the world: Technology,decimal,NA,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
+eyfsp_post2013_yeartested,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_yeartested,Year of test: EYFSP,decimal,NA,NA,NA
+has_eyfsp2,BiB_Education_Record.edrecs_eyfsp_2.has_eyfsp2,Has: Early Years Foundation Stage Profile: 2013 Plus,decimal,NA,1,has

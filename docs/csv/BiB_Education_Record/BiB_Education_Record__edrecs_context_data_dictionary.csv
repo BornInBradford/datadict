@@ -1,0 +1,12 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_edrecs_context,BiB_Education_Record.edrecs_context.has_edrecs_context,Has local authority education record contextual data,decimal,NA,NA,NA
+edcont_academicyear,BiB_Education_Record.edrecs_context.edcont_academicyear,Academic year started school,decimal,NA,1|2|3|4|5,2011/2012|2012/2013|2013/2014|2014/2015|2015/2016
+edcont_actermbirth,BiB_Education_Record.edrecs_context.edcont_actermbirth,Academic term of child's birthday,decimal,NA,1|2|3,Autumn|Spring|Summer
+edcont_eal,BiB_Education_Record.edrecs_context.edcont_eal,Whether English is an adittional language,decimal,NA,1|2|3,No|Unknown|Yes
+edcont_ethnic_origin,BiB_Education_Record.edrecs_context.edcont_ethnic_origin,Child Ethnic Origin Code,decimal,NA,1|10|2|3|4|5|6|7|8|9,Bangladeshi|Other Ethnic Groups|Indian|Pakistani|Chinese/ Other Asian|African|Black Carribbean/ Black Other|Mixed|White British|White Other
+edcont_fsm,BiB_Education_Record.edrecs_context.edcont_fsm,Whether child in receipt of freee school meals,decimal,NA,1|2,No|Yes
+edcont_g_t,BiB_Education_Record.edrecs_context.edcont_g_t,Whether recorded as 'gifted and talented' child,decimal,NA,1|2,No|Yes
+edcont_gender,BiB_Education_Record.edrecs_context.edcont_gender,Child gender,decimal,NA,1|2,Female|Male
+edcont_lac,BiB_Education_Record.edrecs_context.edcont_lac,Whether looked after child,decimal,NA,1|2,No|Yes
+edcont_sen,BiB_Education_Record.edrecs_context.edcont_sen,Special educational needs catagory,decimal,NA,1|2|3|4|5|6,EHCP|Not SEN|SEN Support|School Action|School Action Plus|Statement
+has_edcont,BiB_Education_Record.edrecs_context.has_edcont,Has: Local Authority Education Record Contextual Data,decimal,NA,1,has

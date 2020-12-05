@@ -1,6 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_18m_bib18n,BiB_1000.bib1000_18m_bib18n.has_bib1000_18m_bib18n,Has ,decimal,NA,NA,NA
-ChildID,BiB_1000.bib1000_18m_bib18n.ChildID,BiB Child ID,decimal,NA,NA,NA
+has_bib1000_18m_bib18n,BiB_1000.bib1000_18m_bib18n.has_bib1000_18m_bib18n,Has bib 1000 18 month child nutrients intake,decimal,NA,NA,NA
 agecm_bib18n,BiB_1000.bib1000_18m_bib18n.agecm_bib18n,Child age (months): BiB1000 18 month child nutrients intake,decimal,NA,NA,NA
 agecy_bib18n,BiB_1000.bib1000_18m_bib18n.agecy_bib18n,Child age (years): BiB1000 18 month child nutrients intake,decimal,NA,NA,NA
 bib18nbreastmilk_grams,BiB_1000.bib1000_18m_bib18n.bib18nbreastmilk_grams,Weight of breast milk (grams),decimal,NA,NA,NA

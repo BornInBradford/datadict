@@ -1,6 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_growth_6m,BiB_1000.bib1000_growth_6m.has_bib1000_growth_6m,Has ,decimal,NA,NA,NA
-ChildID,BiB_1000.bib1000_growth_6m.ChildID,BiB Child ID,decimal,NA,NA,NA
+has_bib1000_growth_6m,BiB_1000.bib1000_growth_6m.has_bib1000_growth_6m,Has bib 1000 6m growth,decimal,NA,NA,NA
 agecm_chgb6m,BiB_1000.bib1000_growth_6m.agecm_chgb6m,Child age (months): BiB 1000 6m Growth,decimal,NA,NA,NA
 agecy_chgb6m,BiB_1000.bib1000_growth_6m.agecy_chgb6m,Child age (years): BiB 1000 6m Growth,decimal,NA,NA,NA
 chgb6m_zbmiuk90,BiB_1000.bib1000_growth_6m.chgb6m_zbmiuk90,BMI SDS - UK1990,decimal,NA,NA,NA

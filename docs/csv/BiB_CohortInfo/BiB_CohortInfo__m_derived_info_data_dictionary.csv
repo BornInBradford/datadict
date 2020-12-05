@@ -1,0 +1,9 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_m_derived_info,BiB_CohortInfo.m_derived_info.has_m_derived_info,Has mother info derived from various sources,decimal,NA,NA,NA
+deminfeth0eth3gp,BiB_CohortInfo.m_derived_info.deminfeth0eth3gp,Baseline Q ethnicity 3 categories (pregnancy data derived to mother level),decimal,NA,1|2|3,White British|Pakistani|Other
+deminfeth0eth9gp,BiB_CohortInfo.m_derived_info.deminfeth0eth9gp,Baseline Q ethnicity 9 categories (pregnancy data derived to mother level),decimal,NA,1|2|3|4|5|6|7|8|9,White British|White Other|Mixed-White and Black|Mixed-White and South Asian|Black|Indian|Pakistani|Bangladeshi|Other
+deminfeth3gpcomb,BiB_CohortInfo.m_derived_info.deminfeth3gpcomb,Combined ethnicity: first non-missing of baseline then GP Read code,decimal,NA,1|2|3,White British|Pakistani|Other
+deminfethnicitybaseline_flag,BiB_CohortInfo.m_derived_info.deminfethnicitybaseline_flag,Whether Ethnicity data recorded in Baseline Questionnaire,decimal,NA,1|2,No|Yes
+deminfethnicreadcode_flag,BiB_CohortInfo.m_derived_info.deminfethnicreadcode_flag,Whether Ethnicity data recorded in GP data Read codes,decimal,NA,1|2,No|Yes
+deminfgpethnic3gps,BiB_CohortInfo.m_derived_info.deminfgpethnic3gps,Ethnicity derived from most recent GP Read code (3 categories),decimal,NA,1|2|3,British or mixed British|Pakistani or British Pakistani|Other
+deminfgpethnicall,BiB_CohortInfo.m_derived_info.deminfgpethnicall,Ethnicity derived from most recent GP Read code (all categories),text,NA,NA,NA

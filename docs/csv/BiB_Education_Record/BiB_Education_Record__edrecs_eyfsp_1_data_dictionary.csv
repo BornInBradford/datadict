@@ -1,0 +1,23 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_edrecs_eyfsp_1,BiB_Education_Record.edrecs_eyfsp_1.has_edrecs_eyfsp_1,Has early years foundation stage profile pre 2013,decimal,NA,NA,NA
+eyfsp_pre2013_acyrtested,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_acyrtested,School year of EYFSP assessment,decimal,NA,1|2|3|4|5|6|7,R|Y1|Y2|Y3|Y4|Y5|Y6
+eyfsp_pre2013_calc,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_calc,"EYFSP pre 2013 - Prob Solving, reasoning, numeracy: Calculating",decimal,NA,NA,NA
+eyfsp_pre2013_cd,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_cd,EYFSP pre 2013 - Creative development,decimal,NA,NA,NA
+eyfsp_pre2013_cll,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_cll,"EYFSP pre 2013 - Comm, lang and lit: Total Sub Score",decimal,NA,NA,NA
+eyfsp_pre2013_da,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_da,"EYFSP pre 2013 - Personal, social and emotional dev: Dispositions and attitudes",decimal,NA,NA,NA
+eyfsp_pre2013_ed,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_ed,"EYFSP pre 2013 - Personal, social and emotional dev: Emotional development",decimal,NA,NA,NA
+eyfsp_pre2013_fstot,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_fstot,EYFSP pre 2013 - Overall Total Score,decimal,NA,NA,NA
+eyfsp_pre2013_kuw,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_kuw,EYFSP pre 2013 - Knowledge and understanding of the world,decimal,NA,NA,NA
+eyfsp_pre2013_lct,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_lct,"EYFSP pre 2013 - Comm, lang and lit: Language for communication and thinking",decimal,NA,NA,NA
+eyfsp_pre2013_lsl,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_lsl,"EYFSP pre 2013 - Comm, lang and lit: Linking sounds and letters",decimal,NA,NA,NA
+eyfsp_pre2013_ma,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_ma,"EYFSP pre 2013 - Prob Solving, reasoning, numeracy: Total Sub Score",decimal,NA,NA,NA
+eyfsp_pre2013_nlc,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_nlc,"EYFSP pre 2013 - Prob Solving, reasoning, numeracy: Numbers as labels, counting",decimal,NA,NA,NA
+eyfsp_pre2013_pd,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_pd,EYFSP pre 2013 - Physical development,decimal,NA,NA,NA
+eyfsp_pre2013_pse,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_pse,"EYFSP pre 2013 - Personal, social and emotional dev: Total Sub Score",decimal,NA,NA,NA
+eyfsp_pre2013_read,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_read,"EYFSP pre 2013 - Comm, lang and lit: Reading",decimal,NA,NA,NA
+eyfsp_pre2013_sd,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_sd,"EYFSP pre 2013 - Personal, social and emotional dev: Social development",decimal,NA,NA,NA
+eyfsp_pre2013_ssm,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_ssm,"EYFSP pre 2013 - Prob Solving, reasoning, numeracy: Shape, space, measures",decimal,NA,NA,NA
+eyfsp_pre2013_testestablishment,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_testestablishment,School Code where test conducted: EYFSP pre 2013,text,NA,NA,NA
+eyfsp_pre2013_write,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_write,"EYFSP pre 2013 - Comm, lang and lit: Writing",decimal,NA,NA,NA
+eyfsp_pre2013_yeartested,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_yeartested,Year of test: EYFSP pre 2013,decimal,NA,NA,NA
+has_eyfsp1,BiB_Education_Record.edrecs_eyfsp_1.has_eyfsp1,Has: Early Years Foundation Stage Profile: pre 2013,decimal,NA,1,has

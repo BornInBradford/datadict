@@ -18,13 +18,13 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12qb4/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12qb4
 github | csv
-   Entity type Variables Entities Updated     Participant 5 1313 2020-11-23    BiB 1000 12m: People living in household
-   variable label value_type summary     has_bib1000_12m_b12qb4 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 4 1313 2020-11-30    BiB 1000 12m: People living in household
+   variable label value_type summary     has_bib1000_12m_b12qb4 Has bib 1000 12m people living in household decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
 100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+   bib12b4age Age of relation decimal mean (sd)</description>
     </item>
     
     <item>
@@ -35,13 +35,13 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12qf9/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12qf9
 github | csv
-   Entity type Variables Entities Updated     Participant 8 1313 2020-11-23    BiB 1000 12m: Dried baby cereals
-   variable label value_type summary     has_bib1000_12m_b12qf9 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 7 1313 2020-11-30    BiB 1000 12m: Dried baby cereals
+   variable label value_type summary     has_bib1000_12m_b12qf9 Has bib 1000 12m dried baby cereals decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
 100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+   bib12f9brand Brand decimal 1 : Bebivita</description>
     </item>
     
     <item>
@@ -52,13 +52,12 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f10/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12f10
 github | csv
-   Entity type Variables Entities Updated     Participant 8 1313 2020-11-23    BiB 1000 12m: Dried meat or fish-based meals
-   variable label value_type summary     has_bib1000_12m_b12f10 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 7 1313 2020-11-30    BiB 1000 12m: Dried meat or fish-based meals
+   variable label value_type summary     has_bib1000_12m_b12f10 Has bib 1000 12m dried meat or fish-based meals decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+100.00% complete</description>
     </item>
     
     <item>
@@ -69,13 +68,11 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f11/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12f11
 github | csv
-   Entity type Variables Entities Updated     Participant 8 1313 2020-11-23    BiB 1000 12m: Dried vegetable, pasta or rice-based meals
-   variable label value_type summary     has_bib1000_12m_b12f11 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 7 1313 2020-11-30    BiB 1000 12m: Dried vegetable, pasta or rice-based meals
+   variable label value_type summary     has_bib1000_12m_b12f11 Has bib 1000 12m dried veg, pasta, rice-based meals decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
-1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+1.00 &amp;lt; 1.00 &amp;lt; 1.00</description>
     </item>
     
     <item>
@@ -86,13 +83,13 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f12/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12f12
 github | csv
-   Entity type Variables Entities Updated     Participant 8 1313 2020-11-23    BiB 1000 12m: Dried desserts
-   variable label value_type summary     has_bib1000_12m_b12f12 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 7 1313 2020-11-30    BiB 1000 12m: Dried desserts
+   variable label value_type summary     has_bib1000_12m_b12f12 Has bib 1000 12m dried desserts decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
 100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+   bib12f12brand Brand decimal 1 : Bebivita</description>
     </item>
     
     <item>
@@ -103,13 +100,13 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f14/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12f14
 github | csv
-   Entity type Variables Entities Updated     Participant 8 1313 2020-11-23    BiB 1000 12m: Breakfast meals
-   variable label value_type summary     has_bib1000_12m_b12f14 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 7 1313 2020-11-30    BiB 1000 12m: Breakfast meals
+   variable label value_type summary     has_bib1000_12m_b12f14 Has bib 1000 12m breakfast meals decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
 100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+   bib12f14quantity Quantity decimal mean (sd)</description>
     </item>
     
     <item>
@@ -120,13 +117,13 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f15/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12f15
 github | csv
-   Entity type Variables Entities Updated     Participant 8 1313 2020-11-23    BiB 1000 12m: Meat or fish-based meals
-   variable label value_type summary     has_bib1000_12m_b12f15 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 7 1313 2020-11-30    BiB 1000 12m: Meat or fish-based meals
+   variable label value_type summary     has_bib1000_12m_b12f15 Has bib 1000 12m meat or fish-based meals decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
 100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+   bib12f15brand Brand decimal 1 : Annabel Karmel</description>
     </item>
     
     <item>
@@ -137,13 +134,11 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f16/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12f16
 github | csv
-   Entity type Variables Entities Updated     Participant 8 1313 2020-11-23    BiB 1000 12m: Vegetable, pasta or rice-based savoury meals
-   variable label value_type summary     has_bib1000_12m_b12f16 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 7 1313 2020-11-30    BiB 1000 12m: Vegetable, pasta or rice-based savoury meals
+   variable label value_type summary     has_bib1000_12m_b12f16 Has bib 1000 12m veg, pasta, rice-based savoury meals decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
-1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+1.00 &amp;lt; 1.00 &amp;lt; 1.00</description>
     </item>
     
     <item>
@@ -154,13 +149,13 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f17/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12f17
 github | csv
-   Entity type Variables Entities Updated     Participant 8 1313 2020-11-23    BiB 1000 12m: Milk or cereal-based desserts
-   variable label value_type summary     has_bib1000_12m_b12f17 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 7 1313 2020-11-30    BiB 1000 12m: Milk or cereal-based desserts
+   variable label value_type summary     has_bib1000_12m_b12f17 Has bib 1000 12m milk or cereal-based desserts decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
 100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+   bib12f17brand Brand decimal 1 : Annabel Karmel</description>
     </item>
     
     <item>
@@ -171,13 +166,13 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f18/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12f18
 github | csv
-   Entity type Variables Entities Updated     Participant 8 1313 2020-11-23    BiB 1000 12m: Fruit-based desserts (not pure fruit puree)
-   variable label value_type summary     has_bib1000_12m_b12f18 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 7 1313 2020-11-30    BiB 1000 12m: Fruit-based desserts (not pure fruit puree)
+   variable label value_type summary     has_bib1000_12m_b12f18 Has bib 1000 12m fruit-based desserts decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
 100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+   bib12f18brand Brand decimal 1 : Annabel Karmel</description>
     </item>
     
     <item>
@@ -188,13 +183,13 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f19/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12f19
 github | csv
-   Entity type Variables Entities Updated     Participant 8 1313 2020-11-23    BiB 1000 12m: Pure fruit puree
-   variable label value_type summary     has_bib1000_12m_b12f19 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 7 1313 2020-11-30    BiB 1000 12m: Pure fruit puree
+   variable label value_type summary     has_bib1000_12m_b12f19 Has bib 1000 12m pure fruit puree decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
 100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+   bib12f19brand Brand decimal 1 : Annabel Karmel</description>
     </item>
     
     <item>
@@ -205,13 +200,13 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f26/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12f26
 github | csv
-   Entity type Variables Entities Updated     Participant 6 1313 2020-11-23    BiB 1000 12m: Types of cereals used
-   variable label value_type summary     has_bib1000_12m_b12f26 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 5 1313 2020-11-30    BiB 1000 12m: Types of cereals used
+   variable label value_type summary     has_bib1000_12m_b12f26 Has bib 1000 12m types of cereals used decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
 100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+   bib12f26brand Brand decimal mean (sd)</description>
     </item>
     
     <item>
@@ -222,13 +217,11 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f69/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12f69
 github | csv
-   Entity type Variables Entities Updated     Participant 4 1313 2020-11-23    BiB 1000 12m: Other types of yoghurt or fromage frais
-   variable label value_type summary     has_bib1000_12m_b12f69 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 3 1313 2020-11-30    BiB 1000 12m: Other types of yoghurt or fromage frais
+   variable label value_type summary     has_bib1000_12m_b12f69 Has bib 1000 12m other types of yoghurt decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
-1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+1.00 &amp;lt; 1.00 &amp;lt; 1.00</description>
     </item>
     
     <item>
@@ -239,13 +232,12 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f92/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12f92
 github | csv
-   Entity type Variables Entities Updated     Participant 4 1313 2020-11-23    BiB 1000 12m: Other types of blackcurrant squash
-   variable label value_type summary     has_bib1000_12m_b12f92 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 3 1313 2020-11-30    BiB 1000 12m: Other types of blackcurrant squash
+   variable label value_type summary     has_bib1000_12m_b12f92 Has bib 1000 12m other types of blackcurrant squash decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+100.00% complete</description>
     </item>
     
     <item>
@@ -256,14 +248,13 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_btf104/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_btf104
 github | csv
-   Entity type Variables Entities Updated     Participant 9 1313 2020-11-23    BiB 1000 Questionnaire: bib12_f104
-   variable label value_type summary     has_bib1000_12m_btf104 Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 8 1313 2020-11-30    BiB 1000 Questionnaire: bib12_f104
+   variable label value_type summary     has_bib1000_12m_btf104 Has bib 1000 12m f104 decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
 100.00% complete
-   ChildID BiB Child ID decimal mean (sd)
-19320.43 (1957.</description>
+   bib12f104amount Amount decimal mean (sd)</description>
     </item>
     
     <item>
@@ -274,10 +265,8 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_bib12n/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_bib12n
 github | csv
-   Entity type Variables Entities Updated     Participant 56 1262 2020-11-23    BiB 1000 12 month follow-up child nutrients intake. Derived from Food Frequency Questionnaire from lookup tables of composition of foods. Singletons only (twins and triplets excluded).
-   variable label value_type summary     has_bib1000_12m_bib12n Has decimal mean (sd)
-1.00 (0.00)
-min &amp;lt; median &amp;lt; max</description>
+   Entity type Variables Entities Updated     Participant 55 1262 2020-11-30    BiB 1000 12 month follow-up child nutrients intake. Derived from Food Frequency Questionnaire from lookup tables of composition of foods. Singletons only (twins and triplets excluded).
+   variable label value_type summary     has_bib1000_12m_bib12n Has bib 1000 12 month child nutrients intake decimal mean (sd)</description>
     </item>
     
     <item>
@@ -288,13 +277,12 @@ min &amp;lt; median &amp;lt; max</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_growth_12m/</guid>
       <description>Table ID: BiB_1000.bib1000_growth_12m
 github | csv
-   Entity type Variables Entities Updated     Participant 14 1280 2020-11-24    Height and weight measures from the BiB 1000 subcohort at 12m
-   variable label value_type summary     has_bib1000_growth_12m Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 13 1280 2020-12-01    Height and weight measures from the BiB 1000 subcohort at 12m
+   variable label value_type summary     has_bib1000_growth_12m Has bib 1000 12m growth decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+100.00% complete</description>
     </item>
     
     <item>
@@ -305,13 +293,13 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_anthro_12m/</guid>
       <description>Table ID: BiB_1000.bib1000_anthro_12m
 github | csv
-   Entity type Variables Entities Updated     Participant 10 1233 2020-11-24    Child anthropometry from the BiB 1000 subcohort at 12m
-   variable label value_type summary     has_bib1000_anthro_12m Has decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 9 1233 2020-12-01    Child anthropometry from the BiB 1000 subcohort at 12m
+   variable label value_type summary     has_bib1000_anthro_12m Has bib 1000 12m anthropometry decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
 100.00% complete
-   ChildID BiB Child ID decimal mean (sd)</description>
+   agecm_chab12 Child age (months): BiB 1000 12m anthropometry decimal mean (sd)</description>
     </item>
     
   </channel>

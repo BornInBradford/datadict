@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/</loc>
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/</loc>
   </url>
   
   <url>
@@ -15,7 +15,7 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/cohort_info/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/</loc>
   </url>
   
   <url>
@@ -31,11 +31,31 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_education_record/edrecs_context/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/</loc>
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_info/</loc>
+    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/child_info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/res_ch_6m/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/stschool_info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_congenital_anomalies/conganom_yhcar/</loc>
   </url>
   
   <url>
@@ -83,7 +103,19 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_congenital_anomalies/conganom_gp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_education_record/edrecs_eyfsp_1/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/pregnancy_gtt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/medall_qd1/</loc>
   </url>
   
   <url>
@@ -91,11 +123,15 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/preg_info/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/child_info/</loc>
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_quiz/</loc>
+    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/child_quiz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/stschool_bpvs/</loc>
   </url>
   
   <url>
@@ -115,11 +151,11 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/genotyping_info/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/</loc>
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_education_record/edrecs_eyfsp_2/</loc>
   </url>
   
   <url>
@@ -127,7 +163,19 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/medall_qd5/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/father_info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/stschool_lid/</loc>
   </url>
   
   <url>
@@ -143,6 +191,10 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_congenital_anomalies/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_childgrowth/</loc>
   </url>
   
@@ -152,6 +204,22 @@
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_prebib_inf/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/medall_qd8/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/mother_info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/stschool_ckat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_education_record/edrecs_y1_phonics/</loc>
   </url>
   
   <url>
@@ -167,11 +235,27 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_1000/</loc>
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_education_record/edrecs_ks1_1/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/preg_info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/stschool_sdq/</loc>
   </url>
   
   <url>
@@ -215,11 +299,19 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_education_record/edrecs_ks1_2/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_proteinuria/</loc>
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/m_derived_info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_medall/</loc>
   </url>
   
   <url>
@@ -243,6 +335,18 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_education_record/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/genotyping_info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_medall/medall_skinprick/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/pregnancy_bloods/</loc>
   </url>
   
@@ -260,6 +364,10 @@
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_all_in/allin12_qs/allin12_cc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_medall/medall_skinprick/medall_skinprick_qc/</loc>
   </url>
   
   <url>
@@ -307,6 +415,10 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_medall/medall_greenspace/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12qb4/</loc>
   </url>
   
@@ -351,6 +463,10 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_medall/medall_ngst/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f19/</loc>
   </url>
   
@@ -372,6 +488,10 @@
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/allin24_ct/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_medall/medall_ndvi/</loc>
   </url>
   
   <url>
@@ -543,7 +663,19 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/</loc>
+    <loc>https://borninbradford.github.io/datadict/bibplus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/</loc>
   </url>
   
   <url>

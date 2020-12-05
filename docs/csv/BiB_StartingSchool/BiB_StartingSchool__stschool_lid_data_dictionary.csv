@@ -1,0 +1,8 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPersonID,BiB_StartingSchool.stschool_lid.BiBPersonID,,text,NA,NA,NA
+has_stschool_lid,BiB_StartingSchool.stschool_lid.has_stschool_lid,Has starting school: letter identification,decimal,NA,NA,NA
+has_ssclid,BiB_StartingSchool.stschool_lid.has_ssclid,Has Starting School Letter ID,decimal,NA,1,has
+sslidceilingset,BiB_StartingSchool.stschool_lid.sslidceilingset,Letter ID Ceiling Set,decimal,NA,NA,NA
+sslidchronage,BiB_StartingSchool.stschool_lid.sslidchronage,Letter ID Chronological Age,decimal,NA,NA,NA
+sslidrawscore,BiB_StartingSchool.stschool_lid.sslidrawscore,Letter ID Raw Score,decimal,NA,NA,NA
+sslidstandardised,BiB_StartingSchool.stschool_lid.sslidstandardised,Letter ID Standardised Score,decimal,NA,NA,NA

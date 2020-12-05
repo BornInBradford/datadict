@@ -1,0 +1,14 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_medall_qd5,BiB_MeDALL.medall_qd5.has_medall_qd5,Has medall questionnaire: reactions to medicines,decimal,NA,NA,NA
+has_medqst,BiB_MeDALL.medall_qd5.has_medqst,Has MeDALL questionnaire,decimal,NA,1,has
+medd5brt,BiB_MeDALL.medall_qd5.medd5brt,Reaction was feeling of breathlessness,decimal,NA,NA,NA
+medd5des,BiB_MeDALL.medall_qd5.medd5des,Drug reacted to,text,NA,NA,NA
+medd5fac,BiB_MeDALL.medall_qd5.medd5fac,Reaction was face swelling,decimal,NA,NA,NA
+medd5fnt,BiB_MeDALL.medall_qd5.medd5fnt,Reaction was faintness,decimal,NA,NA,NA
+medd5lcn,BiB_MeDALL.medall_qd5.medd5lcn,Reaction was loss of consciousness,decimal,NA,NA,NA
+medd5lip,BiB_MeDALL.medall_qd5.medd5lip,Reaction was lips swelling,decimal,NA,NA,NA
+medd5oth,BiB_MeDALL.medall_qd5.medd5oth,Reaction was other,decimal,NA,NA,NA
+medd5qun,BiB_MeDALL.medall_qd5.medd5qun,Reaction was quincke’s oedema,decimal,NA,NA,NA
+medd5ras,BiB_MeDALL.medall_qd5.medd5ras,Reaction was generalised rash,decimal,NA,NA,NA
+medd5rds,BiB_MeDALL.medall_qd5.medd5rds,Other reaction description,text,NA,NA,NA
+medd5vom,BiB_MeDALL.medall_qd5.medd5vom,Reaction was vomiting or diarrhea,decimal,NA,NA,NA

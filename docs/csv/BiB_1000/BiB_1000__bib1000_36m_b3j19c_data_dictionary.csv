@@ -1,6 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_36m_b3j19c,BiB_1000.bib1000_36m_b3j19c.has_bib1000_36m_b3j19c,Has ,decimal,NA,NA,NA
-ChildID,BiB_1000.bib1000_36m_b3j19c.ChildID,BiB Child ID,decimal,NA,NA,NA
+has_bib1000_36m_b3j19c,BiB_1000.bib1000_36m_b3j19c.has_bib1000_36m_b3j19c,Has bib 1000 36m other supplements,decimal,NA,NA,NA
 bib36j19cadministration,BiB_1000.bib1000_36m_b3j19c.bib36j19cadministration,Method of administration,decimal,NA,1|2|3,Tablets|Teaspoons|Drops
 bib36j19camount,BiB_1000.bib1000_36m_b3j19c.bib36j19camount,Amount usually taken per week,decimal,NA,NA,NA
 bib36j19cdescription,BiB_1000.bib1000_36m_b3j19c.bib36j19cdescription,Description of other supplement,text,NA,NA,NA

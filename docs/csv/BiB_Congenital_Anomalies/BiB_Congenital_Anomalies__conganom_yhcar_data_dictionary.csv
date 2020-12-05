@@ -1,0 +1,14 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_conganom_yhcar,BiB_Congenital_Anomalies.conganom_yhcar.has_conganom_yhcar,Has yorkshire and humber congenital anomalies register,decimal,NA,NA,NA
+agecm_yhcarl,BiB_Congenital_Anomalies.conganom_yhcar.agecm_yhcarl,Child age (months): Yorkshire and Humber Congenital Anomalies Register,decimal,NA,NA,NA
+agecy_yhcarl,BiB_Congenital_Anomalies.conganom_yhcar.agecy_yhcarl,Child age (years): Yorkshire and Humber Congenital Anomalies Register,decimal,NA,NA,NA
+has_yhcarl,BiB_Congenital_Anomalies.conganom_yhcar.has_yhcarl,Has: Yorkshire and Humber Congenital Anomalies Register,decimal,NA,1,has
+yhcarlAntenatallyDetected,BiB_Congenital_Anomalies.conganom_yhcar.yhcarlAntenatallyDetected,Whether notification of anomaly was from an antenatal report.,decimal,NA,1,yes
+yhcarlAStatus,BiB_Congenital_Anomalies.conganom_yhcar.yhcarlAStatus,Status of congenital anomaly notification: indicates certainty of diagnosis.,decimal,NA,1|2|3|4|5|6,Corrected|Definitely present|Not known|Probably present|Resolved|Suspected
+yhcarlBasis,BiB_Congenital_Anomalies.conganom_yhcar.yhcarlBasis,Basis of congenital anomaly notification.,decimal,NA,1|10|11|12|2|3|4|5|6|7|8|9,AFP|Surgery|Ultrasound|X-ray|Biochemistry|Clinical examination|Haemotology|Karyotype|Neonatal screening|Not known|Other|Post-mortem
+yhcarlBasisDetails,BiB_Congenital_Anomalies.conganom_yhcar.yhcarlBasisDetails,Further details of basis for congenital anomaly notification.,text,NA,NA,NA
+yhcarlConfirmedPostnatally,BiB_Congenital_Anomalies.conganom_yhcar.yhcarlConfirmedPostnatally,Whether notification of (present) congenital anomaly was from a postnatal report,decimal,NA,1,yes
+yhcarlGeneticAnomaly,BiB_Congenital_Anomalies.conganom_yhcar.yhcarlGeneticAnomaly,Genetic status of anomaly.,decimal,NA,1|2|3|4|5|6,Autosomal dominant|Autosomal recessive|Chromosomal|Not genetic|Not known|X-linked
+yhcarlICD10Code,BiB_Congenital_Anomalies.conganom_yhcar.yhcarlICD10Code,ICD10 code for congenital anomaly notification.,text,NA,NA,NA
+yhcarlICD10Desc,BiB_Congenital_Anomalies.conganom_yhcar.yhcarlICD10Desc,ICD10 code description for congenital anomaly notification.,text,NA,NA,NA
+yhcarlPresentAtBirth,BiB_Congenital_Anomalies.conganom_yhcar.yhcarlPresentAtBirth,Whether congenital anomaly was present at birth.,decimal,NA,1,yes

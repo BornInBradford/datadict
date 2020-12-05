@@ -1,6 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_18m_b18e17,BiB_1000.bib1000_18m_b18e17.has_bib1000_18m_b18e17,Has ,decimal,NA,NA,NA
-ChildID,BiB_1000.bib1000_18m_b18e17.ChildID,BiB Child ID,decimal,NA,NA,NA
+has_bib1000_18m_b18e17,BiB_1000.bib1000_18m_b18e17.has_bib1000_18m_b18e17,Has bib 1000 18m milk or cereal-based desserts,decimal,NA,NA,NA
 bib18e17brand,BiB_1000.bib1000_18m_b18e17.bib18e17brand,Brand of milk/cereal-based desserts,decimal,NA,1|2|3|4|5|6|7|8,Annabel Karmel|Cow and Gate|Ellas Kitchen|Heinz|HiPP Organics|Mumtaz (Halal)|Organix|Other Supermarket own
 bib18e17frequency,BiB_1000.bib1000_18m_b18e17.bib18e17frequency,Number of times per week consumes milk/cereal-based desserts,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 per month|One day a week|Two days a week|Three days a week|Four days a week|Five days a week|Six days a week|Seven days a week
 bib18e17otherbrand,BiB_1000.bib1000_18m_b18e17.bib18e17otherbrand,Other brand of milk/cereal-based desserts,text,NA,NA,NA

@@ -1,0 +1,56 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPersonID,BiB_StartingSchool.stschool_sdq.BiBPersonID,,text,NA,NA,NA
+has_stschool_sdq,BiB_StartingSchool.stschool_sdq.has_stschool_sdq,Has starting school: sdq,decimal,NA,NA,NA
+has_sscsdq,BiB_StartingSchool.stschool_sdq.has_sscsdq,Has Starting School SDQ,decimal,NA,1,has
+sssdqcasecondprob,BiB_StartingSchool.stschool_sdq.sssdqcasecondprob,SDQ Conduct Subscale Caseness,decimal,NA,1|2|3,Normal|Borderline|Abnormal
+sssdqcaseemotional,BiB_StartingSchool.stschool_sdq.sssdqcaseemotional,SDQ Emotional Subscale Caseness,decimal,NA,1|2|3,Normal|Borderline|Abnormal
+sssdqcasehyper,BiB_StartingSchool.stschool_sdq.sssdqcasehyper,SDQ Hyperactivty Subscale Caseness,decimal,NA,1|2|3,Normal|Borderline|Abnormal
+sssdqcaseimpact,BiB_StartingSchool.stschool_sdq.sssdqcaseimpact,SDQ Impact Supplement Caseness,decimal,NA,1|2|3,Normal|Borderline|Abnormal
+sssdqcasepeerprob,BiB_StartingSchool.stschool_sdq.sssdqcasepeerprob,SDQ Peer Subscale Caseness,decimal,NA,1|2|3,Normal|Borderline|Abnormal
+sssdqcaseprosocial,BiB_StartingSchool.stschool_sdq.sssdqcaseprosocial,SDQ Prosocial Subscale Caseness,decimal,NA,1|2|3,Normal|Borderline|Abnormal
+sssdqcasetotal,BiB_StartingSchool.stschool_sdq.sssdqcasetotal,SDQ Total Difficulty Score Caseness,decimal,NA,1|2|3,Normal|Borderline|Abnormal
+sssdqcompage,BiB_StartingSchool.stschool_sdq.sssdqcompage,SDQ Completer Age,decimal,NA,1|2|3|4|5|6|7|8|9,20-25 yrs|26-30 yrs|31-35 yrs|36-40 yrs|41-45 yrs|46-50 yrs|51-55 yrs|56-60 yrs|60+ yrs
+sssdqcompethn,BiB_StartingSchool.stschool_sdq.sssdqcompethn,SDQ Completer Ethnicity,decimal,NA,1|2|3|4|5|6|7|8|9,White - British|White - Other|Mixed - White and Black|Mixed - White and South Asian|Black|Indian|Pakistani|Bangladeshi|Other
+sssdqcompgender,BiB_StartingSchool.stschool_sdq.sssdqcompgender,SDQ Completer Gender,decimal,NA,1|2,Male|Female
+sssdqcompleter,BiB_StartingSchool.stschool_sdq.sssdqcompleter,SDQ Completer ID,decimal,NA,NA,NA
+sssdqcompposition,BiB_StartingSchool.stschool_sdq.sssdqcompposition,SDQ Completer Postion,decimal,NA,1|2|3|4|5|6,Class Teacher|Head of Year|Teaching Assistant|Nursery Nurse|Supply Teacher|EY Phase Leader
+sssdqcp_fights,BiB_StartingSchool.stschool_sdq.sssdqcp_fights,SDQ Conduct Item 3,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqcp_lies,BiB_StartingSchool.stschool_sdq.sssdqcp_lies,SDQ Conduct Item 4,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqcp_steals,BiB_StartingSchool.stschool_sdq.sssdqcp_steals,SDQ Conduct Item 5,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqcp_temper,BiB_StartingSchool.stschool_sdq.sssdqcp_temper,SDQ Conduct Item 1,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqcp_wellbeh,BiB_StartingSchool.stschool_sdq.sssdqcp_wellbeh,SDQ Conduct Item 2,decimal,NA,1|2|3,Certainly true|Somewhat true|Not true
+sssdqcpscale,BiB_StartingSchool.stschool_sdq.sssdqcpscale,SDQ Conduct  Subscale,decimal,NA,NA,NA
+sssdqem_aches,BiB_StartingSchool.stschool_sdq.sssdqem_aches,SDQ Emotional Item 1,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqem_fears,BiB_StartingSchool.stschool_sdq.sssdqem_fears,SDQ Emotional Item 5,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqem_nervous,BiB_StartingSchool.stschool_sdq.sssdqem_nervous,SDQ Emotional Item 4,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqem_unhappy,BiB_StartingSchool.stschool_sdq.sssdqem_unhappy,SDQ Emotional Item 3,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqem_worries,BiB_StartingSchool.stschool_sdq.sssdqem_worries,SDQ Emotional Item 2,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqemscale,BiB_StartingSchool.stschool_sdq.sssdqemscale,SDQ Emotional Subscale,decimal,NA,NA,NA
+sssdqexternalising,BiB_StartingSchool.stschool_sdq.sssdqexternalising,SDQ Externalising Score,decimal,NA,NA,NA
+sssdqhy_attention,BiB_StartingSchool.stschool_sdq.sssdqhy_attention,SDQ Hyperactivity Item 5,decimal,NA,1|2|3,Certainly true|Somewhat true|Not true
+sssdqhy_distracted,BiB_StartingSchool.stschool_sdq.sssdqhy_distracted,SDQ Hyperactivity Item 3,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqhy_fidget,BiB_StartingSchool.stschool_sdq.sssdqhy_fidget,SDQ Hyperactivity Item 2,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqhy_restless,BiB_StartingSchool.stschool_sdq.sssdqhy_restless,SDQ Hyperactivity Item 1,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqhy_thinks,BiB_StartingSchool.stschool_sdq.sssdqhy_thinks,SDQ Hyperactivity Item 4,decimal,NA,1|2|3,Certainly true|Somewhat true|Not true
+sssdqhyscale,BiB_StartingSchool.stschool_sdq.sssdqhyscale,SDQ Hyperactivity Subscale,decimal,NA,NA,NA
+sssdqim_burden,BiB_StartingSchool.stschool_sdq.sssdqim_burden,SDQ Burden of Impact,decimal,NA,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
+sssdqim_distress,BiB_StartingSchool.stschool_sdq.sssdqim_distress,SDQ Distress of Impact,decimal,NA,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
+sssdqim_duration,BiB_StartingSchool.stschool_sdq.sssdqim_duration,SDQ Duration of Impact,decimal,NA,1|2|3|4,Less than a month|1-5 months|6-12 months|Over a year
+sssdqim_intclass,BiB_StartingSchool.stschool_sdq.sssdqim_intclass,SDQ Impact on Classroom Learning,decimal,NA,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
+sssdqim_intpeer,BiB_StartingSchool.stschool_sdq.sssdqim_intpeer,SDQ Impact on Peer Relationships,decimal,NA,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
+sssdqim_overall,BiB_StartingSchool.stschool_sdq.sssdqim_overall,SDQ Overall Impact,decimal,NA,1|2|3|4,No|Yes - Minor difficulties|Yes - Definite difficulties|Yes - Severe difficulties
+sssdqimscale,BiB_StartingSchool.stschool_sdq.sssdqimscale,SDQ Impact Supplement score,decimal,NA,NA,NA
+sssdqinternalising,BiB_StartingSchool.stschool_sdq.sssdqinternalising,SDQ Internalising Score,decimal,NA,NA,NA
+sssdqpp_adults,BiB_StartingSchool.stschool_sdq.sssdqpp_adults,SDQ Peer Item 5,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqpp_bullied,BiB_StartingSchool.stschool_sdq.sssdqpp_bullied,SDQ Peer Item 4,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqpp_friend,BiB_StartingSchool.stschool_sdq.sssdqpp_friend,SDQ Peer Item 2,decimal,NA,1|2|3,Certainly true|Somewhat true|Not true
+sssdqpp_liked,BiB_StartingSchool.stschool_sdq.sssdqpp_liked,SDQ Peer Item 3,decimal,NA,1|2|3,Certainly true|Somewhat true|Not true
+sssdqpp_solitary,BiB_StartingSchool.stschool_sdq.sssdqpp_solitary,SDQ Peer Item 1,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqppscale,BiB_StartingSchool.stschool_sdq.sssdqppscale,SDQ Peer Subscale,decimal,NA,NA,NA
+sssdqps_considerate,BiB_StartingSchool.stschool_sdq.sssdqps_considerate,SDQ Prosocial Item 1,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqps_helphurt,BiB_StartingSchool.stschool_sdq.sssdqps_helphurt,SDQ Prosocial Item 3,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqps_kind,BiB_StartingSchool.stschool_sdq.sssdqps_kind,SDQ Prosocial Item 4,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqps_offershelp,BiB_StartingSchool.stschool_sdq.sssdqps_offershelp,SDQ Prosocial Item 5,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqps_shares,BiB_StartingSchool.stschool_sdq.sssdqps_shares,SDQ Prosocial Item 2,decimal,NA,1|2|3,Not true|Somewhat true|Certainly true
+sssdqpsscale,BiB_StartingSchool.stschool_sdq.sssdqpsscale,SDQ Prosocial Subscale,decimal,NA,NA,NA
+sssdqtotaldiff,BiB_StartingSchool.stschool_sdq.sssdqtotaldiff,SDQ Total Difficulty Score,decimal,NA,NA,NA

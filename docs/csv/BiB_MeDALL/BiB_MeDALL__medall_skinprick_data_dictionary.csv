@@ -1,0 +1,18 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_medall_skinprick,BiB_MeDALL.medall_skinprick.has_medall_skinprick,Has medall skin prick,decimal,NA,NA,NA
+agecm_medskp,BiB_MeDALL.medall_skinprick.agecm_medskp,Child age (months): MeDALL skin prick,decimal,NA,NA,NA
+agecy_medskp,BiB_MeDALL.medall_skinprick.agecy_medskp,Child age (years): MeDALL skin prick,decimal,NA,NA,NA
+has_medskp,BiB_MeDALL.medall_skinprick.has_medskp,Has MeDALL skin prick test,decimal,NA,1,has
+medspassessor,BiB_MeDALL.medall_skinprick.medspassessor,MeDALL skin prick assessor,decimal,NA,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,Assessor01|Assessor10|Assessor11|Assessor12|Assessor13|Assessor14|Unkown|Assessor02|Assessor03|Assessor04|Assessor05|Assessor06|Assessor07|Assessor08|Assessor09
+medspatopy2mm,BiB_MeDALL.medall_skinprick.medspatopy2mm,MeDALL skin prick atopy indicator: at least one weal >=2mm,decimal,NA,NA,NA
+medspatopy3mm,BiB_MeDALL.medall_skinprick.medspatopy3mm,MeDALL skin prick atopy indicator: at least one weal >=3mm,decimal,NA,NA,NA
+medspbadnegcont,BiB_MeDALL.medall_skinprick.medspbadnegcont,MeDALL skin prick BAD NEGATIVE CONTROL >=1mm,decimal,NA,NA,NA
+medspbadposcont,BiB_MeDALL.medall_skinprick.medspbadposcont,MeDALL skin prick BAD POSITIVE CONTROL <=0mm,decimal,NA,NA,NA
+medspcat,BiB_MeDALL.medall_skinprick.medspcat,MeDALL skin prick cat weal mean diameter C,decimal,NA,NA,NA
+medspdblcode,BiB_MeDALL.medall_skinprick.medspdblcode,MeDALL skin prick has been double coded,decimal,NA,1|2,no|yes
+medspdog,BiB_MeDALL.medall_skinprick.medspdog,MeDALL skin prick dog weal mean diameter D,decimal,NA,NA,NA
+medspgrassmix,BiB_MeDALL.medall_skinprick.medspgrassmix,MeDALL skin prick grass mix weal mean diameter G,decimal,NA,NA,NA
+medspmitedfarim2,BiB_MeDALL.medall_skinprick.medspmitedfarim2,MeDALL skin prick mite d. farinae M2,decimal,NA,NA,NA
+medspmitedpterm1,BiB_MeDALL.medall_skinprick.medspmitedpterm1,MeDALL skin prick mite d. pteronyssinus M1,decimal,NA,NA,NA
+medspnegcont,BiB_MeDALL.medall_skinprick.medspnegcont,MeDALL skin prick negative control mean diameter,decimal,NA,NA,NA
+medspposcont,BiB_MeDALL.medall_skinprick.medspposcont,MeDALL skin prick positive control mean diameter,decimal,NA,NA,NA

@@ -1,6 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_anthro_12m,BiB_1000.bib1000_anthro_12m.has_bib1000_anthro_12m,Has ,decimal,NA,NA,NA
-ChildID,BiB_1000.bib1000_anthro_12m.ChildID,BiB Child ID,decimal,NA,NA,NA
+has_bib1000_anthro_12m,BiB_1000.bib1000_anthro_12m.has_bib1000_anthro_12m,Has bib 1000 12m anthropometry,decimal,NA,NA,NA
 agecm_chab12,BiB_1000.bib1000_anthro_12m.agecm_chab12,Child age (months): BiB 1000 12m anthropometry,decimal,NA,NA,NA
 agecy_chab12,BiB_1000.bib1000_anthro_12m.agecy_chab12,Child age (years): BiB 1000 12m anthropometry,decimal,NA,NA,NA
 chab12abdo,BiB_1000.bib1000_anthro_12m.chab12abdo,Child's abdominal circumference (cm),decimal,NA,NA,NA

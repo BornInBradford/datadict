@@ -1,0 +1,14 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_medall_qd8,BiB_MeDALL.medall_qd8.has_medall_qd8,Has medall questionnaire: reactions to vaccines,decimal,NA,NA,NA
+has_medqst,BiB_MeDALL.medall_qd8.has_medqst,Has MeDALL questionnaire,decimal,NA,1,has
+medd8brt,BiB_MeDALL.medall_qd8.medd8brt,Reaction was feeling of breathlessness,decimal,NA,1,Yes
+medd8des,BiB_MeDALL.medall_qd8.medd8des,Vaccination reacted to,text,NA,NA,NA
+medd8fac,BiB_MeDALL.medall_qd8.medd8fac,Reaction was face swelling,decimal,NA,1,Yes
+medd8fnt,BiB_MeDALL.medall_qd8.medd8fnt,Reaction was faintness,decimal,NA,1,Yes
+medd8lcn,BiB_MeDALL.medall_qd8.medd8lcn,Reaction was loss of consciousness,decimal,NA,1,Yes
+medd8lip,BiB_MeDALL.medall_qd8.medd8lip,Reaction was lips swelling,decimal,NA,1,Yes
+medd8oth,BiB_MeDALL.medall_qd8.medd8oth,Reaction was other,decimal,NA,1,Yes
+medd8qun,BiB_MeDALL.medall_qd8.medd8qun,Reaction was quincke’s oedema,decimal,NA,1,Yes
+medd8ras,BiB_MeDALL.medall_qd8.medd8ras,Reaction was generalised rash,decimal,NA,1,Yes
+medd8rds,BiB_MeDALL.medall_qd8.medd8rds,Other reaction description,text,NA,NA,NA
+medd8vom,BiB_MeDALL.medall_qd8.medd8vom,Reaction was vomiting or diarrhea,decimal,NA,1,Yes

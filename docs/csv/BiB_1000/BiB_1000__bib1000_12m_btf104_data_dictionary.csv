@@ -1,6 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_12m_btf104,BiB_1000.bib1000_12m_btf104.has_bib1000_12m_btf104,Has ,decimal,NA,NA,NA
-ChildID,BiB_1000.bib1000_12m_btf104.ChildID,BiB Child ID,decimal,NA,NA,NA
+has_bib1000_12m_btf104,BiB_1000.bib1000_12m_btf104.has_bib1000_12m_btf104,Has bib 1000 12m f104,decimal,NA,NA,NA
 bib12f104amount,BiB_1000.bib1000_12m_btf104.bib12f104amount,Amount,decimal,NA,NA,NA
 bib12f104description1,BiB_1000.bib1000_12m_btf104.bib12f104description1,Description of other foods (1),text,NA,NA,NA
 bib12f104description2,BiB_1000.bib1000_12m_btf104.bib12f104description2,Description of other foods (2),text,NA,NA,NA

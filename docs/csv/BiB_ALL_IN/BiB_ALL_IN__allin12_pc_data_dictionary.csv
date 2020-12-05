@@ -1,6 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
 has_allin12_pc,BiB_ALL_IN.allin12_pc.has_allin12_pc,Has all in 12m previous childcare,decimal,NA,NA,NA
-ChildID,BiB_ALL_IN.allin12_pc.ChildID,BiB Child ID,decimal,NA,NA,NA
 all12g1add,BiB_ALL_IN.allin12_pc.all12g1add,Address of nursery,text,NA,NA,NA
 all12g1ch,BiB_ALL_IN.allin12_pc.all12g1ch,Number of other children present,decimal,NA,NA,NA
 all12g1chna,BiB_ALL_IN.allin12_pc.all12g1chna,Number of other children present NA,decimal,NA,1,Yes
