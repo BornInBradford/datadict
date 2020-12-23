@@ -1,0 +1,9 @@
+variable,full_name,label,value_type,description,categories,categories_label
+ParticipantType,BiB_GrowingUp.participant_pathway.ParticipantType,,text,NA,NA,NA
+DateOfConsent,BiB_GrowingUp.participant_pathway.DateOfConsent,,date,NA,NA,NA
+is_in_gu,BiB_GrowingUp.participant_pathway.is_in_gu,,decimal,NA,NA,NA
+has_creatinine_test,BiB_GrowingUp.participant_pathway.has_creatinine_test,,decimal,NA,NA,NA
+has_renal_scan,BiB_GrowingUp.participant_pathway.has_renal_scan,,decimal,NA,NA,NA
+has_stored_serum,BiB_GrowingUp.participant_pathway.has_stored_serum,,decimal,NA,NA,NA
+has_stored_urine,BiB_GrowingUp.participant_pathway.has_stored_urine,,decimal,NA,NA,NA
+has_cystatinc_sample_sent,BiB_GrowingUp.participant_pathway.has_cystatinc_sample_sent,,decimal,NA,NA,NA

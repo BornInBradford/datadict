@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/adult_survey/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/participant_pathway/</loc>
   </url>
   
   <url>
@@ -95,7 +95,7 @@
   </url>
   
   <url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/child_survey_adult_comp/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/adult_survey/</loc>
   </url>
   
   <url>
@@ -151,6 +151,10 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/child_survey_adult_comp/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/</loc>
   </url>
   
@@ -172,6 +176,10 @@
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/father_info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ckat_data/</loc>
   </url>
   
   <url>
