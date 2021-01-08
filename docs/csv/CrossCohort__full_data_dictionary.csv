@@ -1,0 +1,165 @@
+project,table,variable,full_name,label,value_type,description,categories,categories_label
+COVID19_Survey,adult_lockdown,baseline_timestamp,COVID19_Survey.adult_lockdown.baseline_timestamp,Survey Timestamp,text,NA,NA,NA
+COVID19_Survey,adult_lockdown,hh_relship,COVID19_Survey.adult_lockdown.hh_relship,What is your current relationship status?,decimal,NA,-1|1|2|3,Do not wish to answer|Single|Married|Not married but in a relationship
+COVID19_Survey,adult_lockdown,hh_living,COVID19_Survey.adult_lockdown.hh_living,Are you currently living with your partner?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,hh_nchild,COVID19_Survey.adult_lockdown.hh_nchild,Do any children aged 16 and under live in your home?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,hh_nchild_04,COVID19_Survey.adult_lockdown.hh_nchild_04,How many children aged between 0 and 4 years live in your home?,decimal,NA,NA,NA
+COVID19_Survey,adult_lockdown,hh_nchild_510,COVID19_Survey.adult_lockdown.hh_nchild_510,How many children aged between 5 and 10 years live in your home?,decimal,NA,NA,NA
+COVID19_Survey,adult_lockdown,hh_nchild_1116,COVID19_Survey.adult_lockdown.hh_nchild_1116,How many children aged between 11 and 16 years live in your home?,decimal,NA,NA,NA
+COVID19_Survey,adult_lockdown,hh_childlw,COVID19_Survey.adult_lockdown.hh_childlw,Does your child (or children) live with you all the time?,decimal,NA,0|1,No - shared parenting|Yes
+COVID19_Survey,adult_lockdown,hh_nadult,COVID19_Survey.adult_lockdown.hh_nadult,How many adults (people aged over 16 years) live in your home?,decimal,NA,NA,NA
+COVID19_Survey,adult_lockdown,hh_nadult_70,COVID19_Survey.adult_lockdown.hh_nadult_70,How many of these adults are over the age of 70?,decimal,NA,NA,NA
+COVID19_Survey,adult_lockdown,hh_slfisol_hr___1,COVID19_Survey.adult_lockdown.hh_slfisol_hr___1,Have you or anyone else in your household been advised by a health professional ,decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,hh_slfisol_hr___2,COVID19_Survey.adult_lockdown.hh_slfisol_hr___2,Have you or anyone else in your household been advised by a health professional ,decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,hh_slfisol_hr___0,COVID19_Survey.adult_lockdown.hh_slfisol_hr___0,Have you or anyone else in your household been advised by a health professional ,decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,hh_pregyou,COVID19_Survey.adult_lockdown.hh_pregyou,Are you currently pregnant?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,hh_pregyou_wks,COVID19_Survey.adult_lockdown.hh_pregyou_wks,How many weeks pregnant are you?,decimal,NA,NA,NA
+COVID19_Survey,adult_lockdown,hh_pregoth,COVID19_Survey.adult_lockdown.hh_pregoth,Are any other women in your household pregnant?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,hh_pregoth_wks,COVID19_Survey.adult_lockdown.hh_pregoth_wks,How many weeks pregnant are they?,decimal,NA,NA,NA
+COVID19_Survey,adult_lockdown,yh_own,COVID19_Survey.adult_lockdown.yh_own,Do you (or your household) own or rent the home you live in?,decimal,NA,1|2|3|4|5|6,Own it outright|Buying it with the help of a mortgage/loan|Part own and part rent (shared ownership)|Rent it (includes all those who are on Housing Benefit or Local Housing Allowance)|Live here rent-free (including rent-free in relatives/friends property but excluding squatters)|Squatting
+COVID19_Survey,adult_lockdown,yh_own_rent,COVID19_Survey.adult_lockdown.yh_own_rent,Who is your landlord?,decimal,NA,-2|1|2|3|4|5|6|7,"Dont know|Private landlord or letting agency|Housing association, housing co-operative, charitable trust|Local authority, local council|Relative or friend (before you lived here) of a household member|Employer (individual) of a household member|Employer (company) of a household member|Another organisation"
+COVID19_Survey,adult_lockdown,yh_bdroom,COVID19_Survey.adult_lockdown.yh_bdroom,How many bedrooms are there in your home?,decimal,NA,NA,NA
+COVID19_Survey,adult_lockdown,yh_net,COVID19_Survey.adult_lockdown.yh_net,Can you access the internet from your home (e.g. broadband / data on phone)?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,yh_rpair,COVID19_Survey.adult_lockdown.yh_rpair,Does your home need any major repairs doing to it right now?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,yh_appl,COVID19_Survey.adult_lockdown.yh_appl,"Are all of your large electrical appliances (e.g. washing machine, fridge) in go",decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,yh_damp,COVID19_Survey.adult_lockdown.yh_damp,Do you have any damp or mould in your home?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,yh_vrmin,COVID19_Survey.adult_lockdown.yh_vrmin,"Do you have trouble with any vermin (mice or other rodents, cockroaches, etc.) i",decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,yh_outdr,COVID19_Survey.adult_lockdown.yh_outdr,Does your home have an outdoor space which you and your family can use?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,yh_outdr_prvsh,COVID19_Survey.adult_lockdown.yh_outdr_prvsh,Is your outdoor space private or shared?,decimal,NA,1|2,Private|Shared
+COVID19_Survey,adult_lockdown,yh_outdr_type___1,COVID19_Survey.adult_lockdown.yh_outdr_type___1,Is your outdoor space a ... (choice=Yard),decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,yh_outdr_type___2,COVID19_Survey.adult_lockdown.yh_outdr_type___2,Is your outdoor space a ... (choice=Small garden),decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,yh_outdr_type___3,COVID19_Survey.adult_lockdown.yh_outdr_type___3,Is your outdoor space a ... (choice=Medium garden),decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,yh_outdr_type___4,COVID19_Survey.adult_lockdown.yh_outdr_type___4,Is your outdoor space a ... (choice=Large garden),decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,yh_outdr_type___5,COVID19_Survey.adult_lockdown.yh_outdr_type___5,Is your outdoor space a ... (choice=Other),decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,yh_outdr_safe,COVID19_Survey.adult_lockdown.yh_outdr_safe,Is your outdoor space safe for your children to play in?,decimal,NA,-2|0|1,Dont know|No|Yes
+COVID19_Survey,adult_lockdown,jbsc_kwrker,COVID19_Survey.adult_lockdown.jbsc_kwrker,Is anyone in your home classed as a Key Worker,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,jbsc_kwrker_who___1,COVID19_Survey.adult_lockdown.jbsc_kwrker_who___1,Who is classed as a Key Worker? (choice=Myself),decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,jbsc_kwrker_who___2,COVID19_Survey.adult_lockdown.jbsc_kwrker_who___2,Who is classed as a Key Worker? (choice=My partner),decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,jbsc_kwrker_who___3,COVID19_Survey.adult_lockdown.jbsc_kwrker_who___3,Who is classed as a Key Worker? (choice=Other household member),decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,jbsc_main,COVID19_Survey.adult_lockdown.jbsc_main,Who is the main earner in the household?,decimal,NA,1|2|3|4,Me|My partner|Other household member|Me and my partner earn the same amount
+COVID19_Survey,adult_lockdown,jbsc_main_crntly,COVID19_Survey.adult_lockdown.jbsc_main_crntly,Is the main earner in your household currently...,decimal,NA,-2|1|2|3|4|5,Dont know|Employed|Employed but not working (on furlough)|Self employed and working|Self employed and not working|Unemployed
+COVID19_Survey,adult_lockdown,jbsc_main_hmwfh,COVID19_Survey.adult_lockdown.jbsc_main_hmwfh,"Are they mainly working from home, or going out to work?",decimal,NA,1|2,Working from home|Going out to work
+COVID19_Survey,adult_lockdown,jbsc_main_wry_1,COVID19_Survey.adult_lockdown.jbsc_main_wry_1,I worry about the job security of the main earner,decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
+COVID19_Survey,adult_lockdown,jbsc_main_wry_2,COVID19_Survey.adult_lockdown.jbsc_main_wry_2,"In the next 12 months, do you expect the income of the main earner is likely to ",decimal,NA,-2|0|1,Dont know|No|Yes
+COVID19_Survey,adult_lockdown,jbsc_main_wry_3,COVID19_Survey.adult_lockdown.jbsc_main_wry_3,"In 12 months time, do you expect the main earner to still have their job?",decimal,NA,-2|0|1,Dont know|No|Yes
+COVID19_Survey,adult_lockdown,hhe_buyfood,COVID19_Survey.adult_lockdown.hhe_buyfood,I have been able to buy the food I needed in the shops.,decimal,NA,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
+COVID19_Survey,adult_lockdown,hhe_ddntlast,COVID19_Survey.adult_lockdown.hhe_ddntlast,"The food that (I/we) bought just didnt last, and (I/we) didnt have money to get ",decimal,NA,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
+COVID19_Survey,adult_lockdown,hhe_balancd,COVID19_Survey.adult_lockdown.hhe_balancd,(I/we) couldnt afford to eat balanced meals. ,decimal,NA,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
+COVID19_Survey,adult_lockdown,hhe_skip,COVID19_Survey.adult_lockdown.hhe_skip,Did you or other adults in your household ever cut the size of your meals or ski,decimal,NA,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
+COVID19_Survey,adult_lockdown,hhe_skipoftn,COVID19_Survey.adult_lockdown.hhe_skipoftn,How often did you or other adults cut the size of meals or skip meals?,decimal,NA,-1|-2|1|2|3,Do not wish to answer|Dont know|Only 1 or 2 days|Some days but not every day|Almost every day
+COVID19_Survey,adult_lockdown,hhe_eatless,COVID19_Survey.adult_lockdown.hhe_eatless,Did you or other adults ever eat less than you felt you should because there was,decimal,NA,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
+COVID19_Survey,adult_lockdown,hhe_hungry,COVID19_Survey.adult_lockdown.hhe_hungry,Were you ever hungry but didnt eat because there wasnt enough money for food?,decimal,NA,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
+COVID19_Survey,adult_lockdown,hhe_finannow,COVID19_Survey.adult_lockdown.hhe_finannow,How well would you say you are managing financially right now?,decimal,NA,-1|-2|1|2|3|4|5,Do not wish to answer|Dont know|Living comfortably|Doing alright|Just about getting by|Finding it quite difficult|Finding it very difficult
+COVID19_Survey,adult_lockdown,hhe_finan3m,COVID19_Survey.adult_lockdown.hhe_finan3m,"Compared to 3 months ago, how would you say you are doing financially right now?",decimal,NA,-1|-2|1|2|3,Do not wish to answer|Dont know|Better off|About the same|Worse off
+COVID19_Survey,adult_lockdown,hhe_bills,COVID19_Survey.adult_lockdown.hhe_bills,Sometimes people are not able to pay every bill when it is due. Are you currentl,decimal,NA,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
+COVID19_Survey,adult_lockdown,hhe_relief,COVID19_Survey.adult_lockdown.hhe_relief,Did you know that some households can apply to take mortgage holidays or rent re,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,hhe_relief_tkn,COVID19_Survey.adult_lockdown.hhe_relief_tkn,Are you taking the mortgage holiday or the rent relief loan at the moment?,decimal,NA,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
+COVID19_Survey,adult_lockdown,hhe_relief_nxt,COVID19_Survey.adult_lockdown.hhe_relief_nxt,Do you think you will take the mortgage holiday / rent relief in the next month?,decimal,NA,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
+COVID19_Survey,adult_lockdown,hhe_wrypay,COVID19_Survey.adult_lockdown.hhe_wrypay,I worry about paying the rent / mortgage,decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
+COVID19_Survey,adult_lockdown,hhe_wryevic,COVID19_Survey.adult_lockdown.hhe_wryevic,I worry about getting evicted / having my home repossessed,decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
+COVID19_Survey,adult_lockdown,fh_slfisol_nw,COVID19_Survey.adult_lockdown.fh_slfisol_nw,"Is your household currently self isolating (that is, not leaving the house at al",decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,fh_slfisol_nw_why___1,COVID19_Survey.adult_lockdown.fh_slfisol_nw_why___1,Why are you self isolating? (choice=Contact with someone with symptoms of corona,decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,fh_slfisol_nw_why___2,COVID19_Survey.adult_lockdown.fh_slfisol_nw_why___2,Why are you self isolating? (choice=Had coronavirus symptoms yourself),decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,fh_slfisol_nw_why___3,COVID19_Survey.adult_lockdown.fh_slfisol_nw_why___3,Why are you self isolating? (choice=Someone in the household had symptoms of cor,decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,fh_slfisol_nw_why___4,COVID19_Survey.adult_lockdown.fh_slfisol_nw_why___4,Why are you self isolating? (choice=To protect a vulnerable person in the househ,decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,fh_slfisol_nw_why___5,COVID19_Survey.adult_lockdown.fh_slfisol_nw_why___5,Why are you self isolating? (choice=Other),decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,fh_slfisol_past,COVID19_Survey.adult_lockdown.fh_slfisol_past,"Has your household had to self-isolate for any reason (that is, not leaving the ",decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,fh_slfisol_past_why___1,COVID19_Survey.adult_lockdown.fh_slfisol_past_why___1,What was the reason you had to self-isolate? (choice=Contact with someone with s,decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,fh_slfisol_past_why___2,COVID19_Survey.adult_lockdown.fh_slfisol_past_why___2,What was the reason you had to self-isolate? (choice=Had coronavirus symptoms yo,decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,fh_slfisol_past_why___3,COVID19_Survey.adult_lockdown.fh_slfisol_past_why___3,What was the reason you had to self-isolate? (choice=Someone in the household ha,decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,fh_slfisol_past_why___4,COVID19_Survey.adult_lockdown.fh_slfisol_past_why___4,What was the reason you had to self-isolate? (choice=To protect a vulnerable per,decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,fh_slfisol_past_why___5,COVID19_Survey.adult_lockdown.fh_slfisol_past_why___5,What was the reason you had to self-isolate? (choice=Other),decimal,NA,0|1,Unchecked|Checked
+COVID19_Survey,adult_lockdown,fh_slfisol_past_days,COVID19_Survey.adult_lockdown.fh_slfisol_past_days,How many days did you self-isolate for?,decimal,NA,NA,NA
+COVID19_Survey,adult_lockdown,fh_smoke,COVID19_Survey.adult_lockdown.fh_smoke,Do you smoke?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,fh_smoke_hwmch,COVID19_Survey.adult_lockdown.fh_smoke_hwmch,Over the past week have you smoked...,decimal,NA,0|1|2,About the same|Less than usual|More than usual
+COVID19_Survey,adult_lockdown,fh_ecig,COVID19_Survey.adult_lockdown.fh_ecig,Do you vape or use e-cigarettes?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,fh_ecig_hwmch,COVID19_Survey.adult_lockdown.fh_ecig_hwmch,Over the past week have you vaped or used e-cigarettes...,decimal,NA,0|1|2,About the same|Less than usual|More than usual
+COVID19_Survey,adult_lockdown,fh_alc,COVID19_Survey.adult_lockdown.fh_alc,Do you drink alcohol?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,fh_alc_hwmch,COVID19_Survey.adult_lockdown.fh_alc_hwmch,Over the past week have you drunk...,decimal,NA,0|1|2,About the same|Less than usual|More than usual
+COVID19_Survey,adult_lockdown,fh_feeling,COVID19_Survey.adult_lockdown.fh_feeling,Which of the following best describes how youve been feeling over the past week?,decimal,NA,0|1|2|3,I do not worry about my health|I occasionally worry about my health|I spend much of my time worrying about my health|I spend most of my time worrying about health
+COVID19_Survey,adult_lockdown,fh_genhealth,COVID19_Survey.adult_lockdown.fh_genhealth,How would you describe your health generally?,decimal,NA,-1|-2|1|2|3|4|5,Do not wish to answer|Dont know|Excellent|Very good|Good|Fair|Poor
+COVID19_Survey,adult_lockdown,fh_phq_1,COVID19_Survey.adult_lockdown.fh_phq_1,Little interest or pleasure in doing things,decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,fh_phq_2,COVID19_Survey.adult_lockdown.fh_phq_2,"Feeling down, depressed, or hopeless",decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,fh_phq_3,COVID19_Survey.adult_lockdown.fh_phq_3,"Trouble falling or staying asleep, or sleeping too much",decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,fh_phq_4,COVID19_Survey.adult_lockdown.fh_phq_4,Feeling tired or having little energy,decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,fh_phq_5,COVID19_Survey.adult_lockdown.fh_phq_5,Poor appetite or overeating,decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,fh_phq_6,COVID19_Survey.adult_lockdown.fh_phq_6,Feeling bad about yourself,decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,fh_phq_7,COVID19_Survey.adult_lockdown.fh_phq_7,"Trouble concentrating on things, such as reading the newspaper or watching telev",decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,fh_phq_8,COVID19_Survey.adult_lockdown.fh_phq_8,Moving or speaking so slowly that other people could have noticed? Or the opposi,decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,fh_phq_hwdiff,COVID19_Survey.adult_lockdown.fh_phq_hwdiff,"If you checked off any problems, how difficult have these problems made it for y",decimal,NA,0|1|2|3,Not at all|Somewhat difficult|Very difficult|Extremely difficult
+COVID19_Survey,adult_lockdown,fh_gad_1,COVID19_Survey.adult_lockdown.fh_gad_1,"Feeling nervous, anxious or on an edge?",decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,fh_gad_2,COVID19_Survey.adult_lockdown.fh_gad_2,Not being able to stop or control worrying?,decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,fh_gad_3,COVID19_Survey.adult_lockdown.fh_gad_3,Worrying too much about different things?,decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,fh_gad_4,COVID19_Survey.adult_lockdown.fh_gad_4,Trouble relaxing?,decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,fh_gad_5,COVID19_Survey.adult_lockdown.fh_gad_5,Being so restless that it is hard to sit still?,decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,fh_gad_6,COVID19_Survey.adult_lockdown.fh_gad_6,Becoming easily annoyed or irritable?,decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,fh_gad_7,COVID19_Survey.adult_lockdown.fh_gad_7,Feeling afraid as if something awful might happen?,decimal,NA,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+COVID19_Survey,adult_lockdown,as_gp,COVID19_Survey.adult_lockdown.as_gp,Your doctor (GP) or nurse,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,as_acc_gp,COVID19_Survey.adult_lockdown.as_acc_gp,Were you able to get an appointment with your GP or nurse?,decimal,NA,0|1|2,No|Yes|Havent tried
+COVID19_Survey,adult_lockdown,as_acc_gp_mode,COVID19_Survey.adult_lockdown.as_acc_gp_mode,Was the appointment with your GP or nurse in person or over the phone?,decimal,NA,1|2,In person|Phone
+COVID19_Survey,adult_lockdown,as_gp_satis,COVID19_Survey.adult_lockdown.as_gp_satis,Did you receive the support you needed?,decimal,NA,0|1|2,No|Definitely|Mostly
+COVID19_Survey,adult_lockdown,as_111,COVID19_Survey.adult_lockdown.as_111,NHS 111 by telephone or online,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,as_acc_111,COVID19_Survey.adult_lockdown.as_acc_111,"Were you able to speak to someone, or gain advice online through NHS 111?",decimal,NA,0|1|2,No|Yes|Havent tried
+COVID19_Survey,adult_lockdown,as_111_satis,COVID19_Survey.adult_lockdown.as_111_satis,Did you receive the support you needed?,decimal,NA,0|1|2,No|Definitely|Mostly
+COVID19_Survey,adult_lockdown,as_ae,COVID19_Survey.adult_lockdown.as_ae,Health emergency services (A&E) ,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,as_acc_ae,COVID19_Survey.adult_lockdown.as_acc_ae,Were you able to access emergency care?,decimal,NA,0|1|2,No|Yes|Havent tried
+COVID19_Survey,adult_lockdown,as_ae_satis,COVID19_Survey.adult_lockdown.as_ae_satis,Did you receive the support you needed?,decimal,NA,0|1|2,No|Definitely|Mostly
+COVID19_Survey,adult_lockdown,as_spec,COVID19_Survey.adult_lockdown.as_spec,A specialist (consultant) doctor or specialist clinic (hospital outpatient) appo,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,as_acc_spec,COVID19_Survey.adult_lockdown.as_acc_spec,Were you able to access specialist support?,decimal,NA,0|1|2,No|Yes|Havent tried
+COVID19_Survey,adult_lockdown,as_acc_spec_mode,COVID19_Survey.adult_lockdown.as_acc_spec_mode,Was specialist support given in person or over the phone?,decimal,NA,1|2,In person|Phone
+COVID19_Survey,adult_lockdown,as_spec_satis,COVID19_Survey.adult_lockdown.as_spec_satis,Did you receive the support you needed?,decimal,NA,0|1|2,No|Definitely|Mostly
+COVID19_Survey,adult_lockdown,as_mh,COVID19_Survey.adult_lockdown.as_mh,Mental health services,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,as_acc_mh,COVID19_Survey.adult_lockdown.as_acc_mh,Were you able to access support from a mental health service?,decimal,NA,0|1|2,No|Yes|Havent tried
+COVID19_Survey,adult_lockdown,as_acc_mh_mode,COVID19_Survey.adult_lockdown.as_acc_mh_mode,Was mental health support given in person or over the phone?,decimal,NA,1|2,In person|Phone
+COVID19_Survey,adult_lockdown,as_mh_satis,COVID19_Survey.adult_lockdown.as_mh_satis,Did you receive the support you needed?,decimal,NA,0|1|2,No|Definitely|Mostly
+COVID19_Survey,adult_lockdown,as_mdwife,COVID19_Survey.adult_lockdown.as_mdwife,A midwife,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,as_acc_mdwife,COVID19_Survey.adult_lockdown.as_acc_mdwife,Were you able to access support from a midwife?,decimal,NA,0|1|2,No|Yes|Havent tried
+COVID19_Survey,adult_lockdown,as_acc_mdwife_mode,COVID19_Survey.adult_lockdown.as_acc_mdwife_mode,Did the midwife provide support in person or over the phone?,decimal,NA,1|2,In person|Phone
+COVID19_Survey,adult_lockdown,as_mdwife_satis,COVID19_Survey.adult_lockdown.as_mdwife_satis,Did you receive the support you needed?,decimal,NA,0|1|2,No|Definitely|Mostly
+COVID19_Survey,adult_lockdown,as_hvsn,COVID19_Survey.adult_lockdown.as_hvsn,A health visitor or school nurse,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,as_acc_hvsn,COVID19_Survey.adult_lockdown.as_acc_hvsn,Were you able to access support from a health visitor or school nurse?,decimal,NA,0|1|2,No|Yes|Havent tried
+COVID19_Survey,adult_lockdown,as_acc_hvsn_mode,COVID19_Survey.adult_lockdown.as_acc_hvsn_mode,Did the health visitor or school nurse provide support in person or over the pho,decimal,NA,1|2,In person|Phone
+COVID19_Survey,adult_lockdown,as_hvsn_satis,COVID19_Survey.adult_lockdown.as_hvsn_satis,Did you receive the support you needed?,decimal,NA,0|1|2,No|Definitely|Mostly
+COVID19_Survey,adult_lockdown,as_ehss,COVID19_Survey.adult_lockdown.as_ehss,Early Help or social services,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,as_acc_ehss,COVID19_Survey.adult_lockdown.as_acc_ehss,Were you able to access support from Early Help or social services?,decimal,NA,0|1|2,No|Yes|Havent tried
+COVID19_Survey,adult_lockdown,as_acc_ehss_mode,COVID19_Survey.adult_lockdown.as_acc_ehss_mode,Was support from Early Help or social services provided in person or over the ph,decimal,NA,1|2,In person|Phone
+COVID19_Survey,adult_lockdown,as_ehss_satis,COVID19_Survey.adult_lockdown.as_ehss_satis,Did you receive the support you needed?,decimal,NA,0|1|2,No|Definitely|Mostly
+COVID19_Survey,adult_lockdown,as_pharm,COVID19_Survey.adult_lockdown.as_pharm,Pharmacy services,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,as_acc_pharm,COVID19_Survey.adult_lockdown.as_acc_pharm,Were you able to access support from a pharmacy?,decimal,NA,0|1|2,No|Yes|Havent tried
+COVID19_Survey,adult_lockdown,as_acc_pharm_mode,COVID19_Survey.adult_lockdown.as_acc_pharm_mode,Was pharmacy support given in person or over the phone?,decimal,NA,1|2,In person|Phone
+COVID19_Survey,adult_lockdown,as_pharm_satis,COVID19_Survey.adult_lockdown.as_pharm_satis,Did you receive the support you needed?,decimal,NA,0|1|2,No|Definitely|Mostly
+COVID19_Survey,adult_lockdown,as_othr,COVID19_Survey.adult_lockdown.as_othr,Other services e.g. charity/volunteer support,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,as_acc_othr,COVID19_Survey.adult_lockdown.as_acc_othr,Were you able to access support from a charity or voluntary organisation?,decimal,NA,0|1|2,No|Yes|Havent tried
+COVID19_Survey,adult_lockdown,as_acc_othr_mode,COVID19_Survey.adult_lockdown.as_acc_othr_mode,Did the charity or voluntary organisation provide support in person or over the ,decimal,NA,1|2,In person|Phone
+COVID19_Survey,adult_lockdown,as_othr_satis,COVID19_Survey.adult_lockdown.as_othr_satis,Did you receive the support you needed?,decimal,NA,0|1|2,No|Definitely|Mostly
+COVID19_Survey,adult_lockdown,fl_physact,COVID19_Survey.adult_lockdown.fl_physact,How often do you currently do any kind of physical activity?,decimal,NA,1|2|3|4,Never|1 or 2 days a week|Most days|Every day
+COVID19_Survey,adult_lockdown,fl_physact_hwmch,COVID19_Survey.adult_lockdown.fl_physact_hwmch,"Is this more, less or about the same as you did before lockdown?",decimal,NA,1|2|3,Less than before|About the same as before|More than before
+COVID19_Survey,adult_lockdown,fl_physact_outdr,COVID19_Survey.adult_lockdown.fl_physact_outdr,How often do you do any kind of physical activity outside?,decimal,NA,1|2|3|4,Never|1 or 2 days a week|Most days|Every day
+COVID19_Survey,adult_lockdown,fl_sleephrs,COVID19_Survey.adult_lockdown.fl_sleephrs,What was the average number of hours you slept per night in the last 7 days,decimal,NA,NA,NA
+COVID19_Survey,adult_lockdown,fl_physact_ch,COVID19_Survey.adult_lockdown.fl_physact_ch,How often do your children do any kind of physical activity?,decimal,NA,1|2|3|4,Never|1 or 2 days a week|Most days|Every day
+COVID19_Survey,adult_lockdown,fl_physact_ch_outdr,COVID19_Survey.adult_lockdown.fl_physact_ch_outdr,How often do your children do any kind of physical activity outside?,decimal,NA,1|2|3|4,Never|1 or 2 days a week|Most days|Every day
+COVID19_Survey,adult_lockdown,fl_nurs,COVID19_Survey.adult_lockdown.fl_nurs,Do any of your children usually go to nursery?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,fl_nurs_still,COVID19_Survey.adult_lockdown.fl_nurs_still,Are any of your children still going to nursery during the coronavirus lockdown?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,fl_nurs_eli,COVID19_Survey.adult_lockdown.fl_nurs_eli,Were any of your children eligible for or offered a place at nursery?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,fl_nurs_eli_why,COVID19_Survey.adult_lockdown.fl_nurs_eli_why,Why didnt you take up this place at nursery?,text,NA,NA,NA
+COVID19_Survey,adult_lockdown,fl_sch,COVID19_Survey.adult_lockdown.fl_sch,Do any of your children usually go to primary or secondary school?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,fl_sch_still,COVID19_Survey.adult_lockdown.fl_sch_still,Are any of your children still going to school during the coronavirus lockdown?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,fl_sch_eli,COVID19_Survey.adult_lockdown.fl_sch_eli,Were any of your children eligible for or offered a place at school?,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,fl_sch_eli_why,COVID19_Survey.adult_lockdown.fl_sch_eli_why,Why didnt you take up this place at school?,text,NA,NA,NA
+COVID19_Survey,adult_lockdown,fl_suprtlearn,COVID19_Survey.adult_lockdown.fl_suprtlearn,I feel confident in my ability to support my childrens learning at home,decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
+COVID19_Survey,adult_lockdown,fl_skillsprnt,COVID19_Survey.adult_lockdown.fl_skillsprnt,I honestly believe I have all the skills necessary to be a good parent to my chi,decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
+COVID19_Survey,adult_lockdown,ywb_relshipq,COVID19_Survey.adult_lockdown.ywb_relshipq,How would you describe the quality of your relationship with your current partne,decimal,NA,-1|1|2|3|4|5,Do not wish to answer|Excellent|Good|Average|Poor|Very poor
+COVID19_Survey,adult_lockdown,ywb_comm,COVID19_Survey.adult_lockdown.ywb_comm,No/poor communication (e.g. silent treatment),decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,ywb_argu,COVID19_Survey.adult_lockdown.ywb_argu,Arguments now and then about trivial matters,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,ywb_disagr,COVID19_Survey.adult_lockdown.ywb_disagr,"Regular disagreements (e.g. about chores, children, finances, etc.)",decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,ywb_conflct,COVID19_Survey.adult_lockdown.ywb_conflct,Unpredictable but severe conflict,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,ywb_strggoth,COVID19_Survey.adult_lockdown.ywb_strggoth,Struggle with something else,decimal,NA,0|1,No|Yes
+COVID19_Survey,adult_lockdown,ywb_pplcount,COVID19_Survey.adult_lockdown.ywb_pplcount,How many people can you count on in times of need?,decimal,NA,0|1|10|2|3|4|5|6|7|8|9,0|1|10 or more|2|3|4|5|6|7|8|9
+COVID19_Survey,adult_lockdown,ywb_pplcount_lcl,COVID19_Survey.adult_lockdown.ywb_pplcount_lcl,"How many of these people live in your local area? That is, within about a mile o",decimal,NA,0|1|10|2|3|4|5|6|7|8|9,0|1|10 or more|2|3|4|5|6|7|8|9
+COVID19_Survey,adult_lockdown,ywb_help,COVID19_Survey.adult_lockdown.ywb_help,How easy is it to get practical help from friends/family/neighbours if you shoul,decimal,NA,1|2|3|4|5,Very difficult|Difficult|Possible|Easy|Very easy
+COVID19_Survey,adult_lockdown,ywb_lonely,COVID19_Survey.adult_lockdown.ywb_lonely,How often have you felt lonely during the past week?,decimal,NA,-1|-2|0|1|2|3,"Do not wish to answer|Dont know|None, or almost none of the time|Some of the time|Most of the time|All, or almost all of the time"
+COVID19_Survey,adult_lockdown,wc_wrynow_1,COVID19_Survey.adult_lockdown.wc_wrynow_1,Worry 1:,text,NA,NA,NA
+COVID19_Survey,adult_lockdown,wc_wrynow_2,COVID19_Survey.adult_lockdown.wc_wrynow_2,Worry 2:,text,NA,NA,NA
+COVID19_Survey,adult_lockdown,wc_wrynow_3,COVID19_Survey.adult_lockdown.wc_wrynow_3,Worry 3:,text,NA,NA,NA
+COVID19_Survey,adult_lockdown,wc_chllnge,COVID19_Survey.adult_lockdown.wc_chllnge,Can you tell us about a challenge you have faced in the last two weeks?,text,NA,NA,NA
+COVID19_Survey,adult_lockdown,wc_easier,COVID19_Survey.adult_lockdown.wc_easier,Can you tell us how lockdown has made any parts of your life easier or more enjo,text,NA,NA,NA
