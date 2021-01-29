@@ -1,26 +1,26 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_MeDALL.medall_ndvi.BiBPregNumber,,decimal,NA,NA,NA
-has_medall_ndvi,BiB_MeDALL.medall_ndvi.has_medall_ndvi,Has medall residential ndvi and green space,decimal,NA,NA,NA
-agemm_mdndvi,BiB_MeDALL.medall_ndvi.agemm_mdndvi,Mother age (months): MeDALL residential NDVI and green space,decimal,NA,NA,NA
-agemy_mdndvi,BiB_MeDALL.medall_ndvi.agemy_mdndvi,Mother age (years): MeDALL residential NDVI and green space,decimal,NA,NA,NA
-has_mdndvi,BiB_MeDALL.medall_ndvi.has_mdndvi,Has: MeDALL residential NDVI and green space,decimal,NA,1,has
-mndvicb1lndvi,BiB_MeDALL.medall_ndvi.mndvicb1lndvi,MeDALL address: Mean NDVI 100m,decimal,NA,NA,NA
-mndvicb2lndvi,BiB_MeDALL.medall_ndvi.mndvicb2lndvi,MeDALL address: Mean NDVI 300m,decimal,NA,NA,NA
-mndvicb3lndvi,BiB_MeDALL.medall_ndvi.mndvicb3lndvi,MeDALL address: Mean NDVI 500m,decimal,NA,NA,NA
-mndvidistamty,BiB_MeDALL.medall_ndvi.mndvidistamty,MeDALL address: Distance to nearest green space: Amenity green space (m),decimal,NA,NA,NA
-mndvidistgrn,BiB_MeDALL.medall_ndvi.mndvidistgrn,MeDALL address: Distance to nearest green space (m) - all categories,decimal,NA,NA,NA
-mndvidistpkgdn,BiB_MeDALL.medall_ndvi.mndvidistpkgdn,MeDALL address: Distance to nearest green space: Parks and Gardens (m),decimal,NA,NA,NA
-mndvidistplygd,BiB_MeDALL.medall_ndvi.mndvidistplygd,MeDALL address: Distance to nearest green space: Playgrounds (m),decimal,NA,NA,NA
-mndvidistsprt,BiB_MeDALL.medall_ndvi.mndvidistsprt,MeDALL address: Distance to nearest green space: Outdoor Sports (m),decimal,NA,NA,NA
-mndvilocamty,BiB_MeDALL.medall_ndvi.mndvilocamty,MeDALL address: Location of nearest green space: Amenity green space,text,NA,NA,NA
-mndvilocpkgdn,BiB_MeDALL.medall_ndvi.mndvilocpkgdn,MeDALL address: Location of nearest green space: Parks and Gardens,text,NA,NA,NA
-mndvilocplygd,BiB_MeDALL.medall_ndvi.mndvilocplygd,MeDALL address: Location of nearest green space: Playgrounds,text,NA,NA,NA
-mndvilocsprt,BiB_MeDALL.medall_ndvi.mndvilocsprt,MeDALL address: Location of nearest green space: Outdoor Sports,text,NA,NA,NA
-mndvinameamty,BiB_MeDALL.medall_ndvi.mndvinameamty,MeDALL address: Name of nearest green space: Amenity green space,text,NA,NA,NA
-mndvinamepkgdn,BiB_MeDALL.medall_ndvi.mndvinamepkgdn,MeDALL address: Name of nearest green space: Parks and Gardens,text,NA,NA,NA
-mndvinameplygd,BiB_MeDALL.medall_ndvi.mndvinameplygd,MeDALL address: Name of nearest green space: Playgrounds,text,NA,NA,NA
-mndvinamesprt,BiB_MeDALL.medall_ndvi.mndvinamesprt,MeDALL address: Name of nearest green space: Outdoor Sports,text,NA,NA,NA
-mndvisizeamty,BiB_MeDALL.medall_ndvi.mndvisizeamty,MeDALL address: Size of nearest green space: Amenity green space (hectares),decimal,NA,NA,NA
-mndvisizepkgdn,BiB_MeDALL.medall_ndvi.mndvisizepkgdn,MeDALL address: Size of nearest green space: Parks and Gardens (hectares),decimal,NA,NA,NA
-mndvisizeplygd,BiB_MeDALL.medall_ndvi.mndvisizeplygd,MeDALL address: Size of nearest green space: Playgrounds (hectares),decimal,NA,NA,NA
-mndvisizesprt,BiB_MeDALL.medall_ndvi.mndvisizesprt,MeDALL address: Size of nearest green space: Outdoor Sports (hectares),decimal,NA,NA,NA
+BiBPregNumber,BiB_MeDALL.medall_ndvi.BiBPregNumber,"",decimal,,,
+has_medall_ndvi,BiB_MeDALL.medall_ndvi.has_medall_ndvi,Has medall residential ndvi and green space,decimal,,,
+agemm_mdndvi,BiB_MeDALL.medall_ndvi.agemm_mdndvi,Mother age (months): MeDALL residential NDVI and green space,decimal,,,
+agemy_mdndvi,BiB_MeDALL.medall_ndvi.agemy_mdndvi,Mother age (years): MeDALL residential NDVI and green space,decimal,,,
+has_mdndvi,BiB_MeDALL.medall_ndvi.has_mdndvi,Has: MeDALL residential NDVI and green space,decimal,,1,has
+mndvicb1lndvi,BiB_MeDALL.medall_ndvi.mndvicb1lndvi,MeDALL address: Mean NDVI 100m,decimal,,,
+mndvicb2lndvi,BiB_MeDALL.medall_ndvi.mndvicb2lndvi,MeDALL address: Mean NDVI 300m,decimal,,,
+mndvicb3lndvi,BiB_MeDALL.medall_ndvi.mndvicb3lndvi,MeDALL address: Mean NDVI 500m,decimal,,,
+mndvidistamty,BiB_MeDALL.medall_ndvi.mndvidistamty,MeDALL address: Distance to nearest green space: Amenity green space (m),decimal,,,
+mndvidistgrn,BiB_MeDALL.medall_ndvi.mndvidistgrn,MeDALL address: Distance to nearest green space (m) - all categories,decimal,,,
+mndvidistpkgdn,BiB_MeDALL.medall_ndvi.mndvidistpkgdn,MeDALL address: Distance to nearest green space: Parks and Gardens (m),decimal,,,
+mndvidistplygd,BiB_MeDALL.medall_ndvi.mndvidistplygd,MeDALL address: Distance to nearest green space: Playgrounds (m),decimal,,,
+mndvidistsprt,BiB_MeDALL.medall_ndvi.mndvidistsprt,MeDALL address: Distance to nearest green space: Outdoor Sports (m),decimal,,,
+mndvilocamty,BiB_MeDALL.medall_ndvi.mndvilocamty,MeDALL address: Location of nearest green space: Amenity green space,text,,,
+mndvilocpkgdn,BiB_MeDALL.medall_ndvi.mndvilocpkgdn,MeDALL address: Location of nearest green space: Parks and Gardens,text,,,
+mndvilocplygd,BiB_MeDALL.medall_ndvi.mndvilocplygd,MeDALL address: Location of nearest green space: Playgrounds,text,,,
+mndvilocsprt,BiB_MeDALL.medall_ndvi.mndvilocsprt,MeDALL address: Location of nearest green space: Outdoor Sports,text,,,
+mndvinameamty,BiB_MeDALL.medall_ndvi.mndvinameamty,MeDALL address: Name of nearest green space: Amenity green space,text,,,
+mndvinamepkgdn,BiB_MeDALL.medall_ndvi.mndvinamepkgdn,MeDALL address: Name of nearest green space: Parks and Gardens,text,,,
+mndvinameplygd,BiB_MeDALL.medall_ndvi.mndvinameplygd,MeDALL address: Name of nearest green space: Playgrounds,text,,,
+mndvinamesprt,BiB_MeDALL.medall_ndvi.mndvinamesprt,MeDALL address: Name of nearest green space: Outdoor Sports,text,,,
+mndvisizeamty,BiB_MeDALL.medall_ndvi.mndvisizeamty,MeDALL address: Size of nearest green space: Amenity green space (hectares),decimal,,,
+mndvisizepkgdn,BiB_MeDALL.medall_ndvi.mndvisizepkgdn,MeDALL address: Size of nearest green space: Parks and Gardens (hectares),decimal,,,
+mndvisizeplygd,BiB_MeDALL.medall_ndvi.mndvisizeplygd,MeDALL address: Size of nearest green space: Playgrounds (hectares),decimal,,,
+mndvisizesprt,BiB_MeDALL.medall_ndvi.mndvisizesprt,MeDALL address: Size of nearest green space: Outdoor Sports (hectares),decimal,,,

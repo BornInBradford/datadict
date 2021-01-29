@@ -1,0 +1,11 @@
+variable,full_name,label,value_type,description,categories,categories_label
+TotalTests,BiB_GrowingUp.renal_blood_tests.TotalTests,Total blood test occasions within GU renal study,decimal,,,
+TestDateOrder,BiB_GrowingUp.renal_blood_tests.TestDateOrder,Date order of test occasions within GU renal study,decimal,,,
+AgeInYears,BiB_GrowingUp.renal_blood_tests.AgeInYears,"Age at GU renal blood test, years",decimal,,,
+AgeInMonths,BiB_GrowingUp.renal_blood_tests.AgeInMonths,"Age at GU renal blood test, months",decimal,,,
+TestYear,BiB_GrowingUp.renal_blood_tests.TestYear,Year of GU renal blood test,decimal,,,
+TestMonth,BiB_GrowingUp.renal_blood_tests.TestMonth,Month of GU renal blood test,decimal,,,
+sodium,BiB_GrowingUp.renal_blood_tests.sodium,Sodium (mmol/L),decimal,,,
+potassium,BiB_GrowingUp.renal_blood_tests.potassium,Potassium (mmol/L),decimal,,,
+urea,BiB_GrowingUp.renal_blood_tests.urea,Urea (mmol/L),decimal,,,
+creatinine,BiB_GrowingUp.renal_blood_tests.creatinine,Creatinine (umol/L),decimal,,,

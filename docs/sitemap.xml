@@ -355,6 +355,10 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/blood_pressure/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_medall/medall_skinprick/</loc>
   </url>
   
@@ -379,6 +383,10 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/blood_tests/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_medall/medall_skinprick/medall_skinprick_qc/</loc>
   </url>
   
@@ -395,7 +403,15 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/renal_blood_tests/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_all_in/allin12_qs/allin12_dd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/renal_urine_rbp/</loc>
   </url>
   
   <url>

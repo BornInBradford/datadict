@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-gt_chip,BiB_CohortInfo.genotyping_info.gt_chip,Genotyping chip type,decimal,NA,1|2,Core Exome|GSA
-ethnicity,BiB_CohortInfo.genotyping_info.ethnicity,Ethnic group determined by genotype PCA,decimal,NA,1|2|3,Other|Pakistani|White European
-ptype,BiB_CohortInfo.genotyping_info.ptype,BiB participant type,decimal,NA,1|2|3,Child|Father|Mother
-Gender,BiB_CohortInfo.genotyping_info.Gender,Participant gender,text,NA,NA,NA
+gt_chip,BiB_CohortInfo.genotyping_info.gt_chip,Genotyping chip type,decimal,,1|2,Core Exome|GSA
+ethnicity,BiB_CohortInfo.genotyping_info.ethnicity,Ethnic group determined by genotype PCA,decimal,,1|2|3,Other|Pakistani|White European
+ptype,BiB_CohortInfo.genotyping_info.ptype,BiB participant type,decimal,,1|2|3,Child|Father|Mother
+Gender,BiB_CohortInfo.genotyping_info.Gender,Participant gender,text,,,

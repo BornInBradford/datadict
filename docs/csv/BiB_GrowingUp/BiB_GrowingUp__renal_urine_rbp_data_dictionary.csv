@@ -1,0 +1,2 @@
+variable,full_name,label,value_type,description,categories,categories_label
+rbpu_result,BiB_GrowingUp.renal_urine_rbp.rbpu_result,Urine RBP result mg/L,decimal,,-1|-2|1|3,<12.8mg/L at 1 in 5 dilution. No result from undiluted sample due to turbidity.|missing|<2 mg/L|3 mg/L

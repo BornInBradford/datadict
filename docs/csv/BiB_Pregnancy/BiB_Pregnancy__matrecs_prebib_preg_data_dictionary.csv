@@ -1,14 +1,14 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_matrecs_prebib_preg,BiB_Pregnancy.matrecs_prebib_preg.has_matrecs_prebib_preg,Has maternity records pre-bib pregnancy,decimal,NA,NA,NA
-prnprebprgbirthyr,BiB_Pregnancy.matrecs_prebib_preg.prnprebprgbirthyr,Pre BiB preg birth year,decimal,NA,NA,NA
-prnprebprggdm,BiB_Pregnancy.matrecs_prebib_preg.prnprebprggdm,Pre BiB preg GDM diagnosis,decimal,NA,1|2|3,No|Yes|Not documented
-prnprebprggdmt_diet,BiB_Pregnancy.matrecs_prebib_preg.prnprebprggdmt_diet,Pre BiB preg GDM trt: Diet,decimal,NA,1|2|3,No|Yes|Not documented
-prnprebprggdmt_insulin,BiB_Pregnancy.matrecs_prebib_preg.prnprebprggdmt_insulin,Pre BiB preg GDM trt: Insulin,decimal,NA,1|2|3,No|Yes|Not documented
-prnprebprggdmt_lifestyle,BiB_Pregnancy.matrecs_prebib_preg.prnprebprggdmt_lifestyle,Pre BiB preg GDM trt: Lifestyle,decimal,NA,1|2|3,No|Yes|Not documented
-prnprebprggdmt_metaformin,BiB_Pregnancy.matrecs_prebib_preg.prnprebprggdmt_metaformin,Pre BiB preg GDM trt: Metaformin,decimal,NA,1|2|3,No|Yes|Not documented
-prnprebprggdmt_none,BiB_Pregnancy.matrecs_prebib_preg.prnprebprggdmt_none,Pre BiB preg GDM trt: None,decimal,NA,1|2|3,No|Yes|Not documented
-prnprebprggdmt_notdoc,BiB_Pregnancy.matrecs_prebib_preg.prnprebprggdmt_notdoc,Pre BiB preg GDM trt: not documented,decimal,NA,1|2|3,No|Yes|Not documented
-prnprebprgmultipreg,BiB_Pregnancy.matrecs_prebib_preg.prnprebprgmultipreg,Pre BiB preg number of births,decimal,NA,NA,NA
-prnprebprgogtt,BiB_Pregnancy.matrecs_prebib_preg.prnprebprgogtt,Pre BiB preg OGTT done,decimal,NA,1|2|3,No|Yes|Not documented
-prnprebprgperineal,BiB_Pregnancy.matrecs_prebib_preg.prnprebprgperineal,Pre BiB preg perineal trauma,decimal,NA,1|10|2|3|4|5|6|7|8|9,None|Not documented|1st degree|2nd degree|3rd degree|4th degree|Episiotomy|Laceration|Tear|Graze
-prnprebprgpregid,BiB_Pregnancy.matrecs_prebib_preg.prnprebprgpregid,Pre BiB preg ID - links to pre-BiB infant data,decimal,NA,NA,NA
+has_matrecs_prebib_preg,BiB_Pregnancy.matrecs_prebib_preg.has_matrecs_prebib_preg,Has maternity records pre-bib pregnancy,decimal,,,
+prnprebprgbirthyr,BiB_Pregnancy.matrecs_prebib_preg.prnprebprgbirthyr,Pre BiB preg birth year,decimal,,,
+prnprebprggdm,BiB_Pregnancy.matrecs_prebib_preg.prnprebprggdm,Pre BiB preg GDM diagnosis,decimal,,1|2|3,No|Yes|Not documented
+prnprebprggdmt_diet,BiB_Pregnancy.matrecs_prebib_preg.prnprebprggdmt_diet,Pre BiB preg GDM trt: Diet,decimal,,1|2|3,No|Yes|Not documented
+prnprebprggdmt_insulin,BiB_Pregnancy.matrecs_prebib_preg.prnprebprggdmt_insulin,Pre BiB preg GDM trt: Insulin,decimal,,1|2|3,No|Yes|Not documented
+prnprebprggdmt_lifestyle,BiB_Pregnancy.matrecs_prebib_preg.prnprebprggdmt_lifestyle,Pre BiB preg GDM trt: Lifestyle,decimal,,1|2|3,No|Yes|Not documented
+prnprebprggdmt_metaformin,BiB_Pregnancy.matrecs_prebib_preg.prnprebprggdmt_metaformin,Pre BiB preg GDM trt: Metaformin,decimal,,1|2|3,No|Yes|Not documented
+prnprebprggdmt_none,BiB_Pregnancy.matrecs_prebib_preg.prnprebprggdmt_none,Pre BiB preg GDM trt: None,decimal,,1|2|3,No|Yes|Not documented
+prnprebprggdmt_notdoc,BiB_Pregnancy.matrecs_prebib_preg.prnprebprggdmt_notdoc,Pre BiB preg GDM trt: not documented,decimal,,1|2|3,No|Yes|Not documented
+prnprebprgmultipreg,BiB_Pregnancy.matrecs_prebib_preg.prnprebprgmultipreg,Pre BiB preg number of births,decimal,,,
+prnprebprgogtt,BiB_Pregnancy.matrecs_prebib_preg.prnprebprgogtt,Pre BiB preg OGTT done,decimal,,1|2|3,No|Yes|Not documented
+prnprebprgperineal,BiB_Pregnancy.matrecs_prebib_preg.prnprebprgperineal,Pre BiB preg perineal trauma,decimal,,1|10|2|3|4|5|6|7|8|9,None|Not documented|1st degree|2nd degree|3rd degree|4th degree|Episiotomy|Laceration|Tear|Graze
+prnprebprgpregid,BiB_Pregnancy.matrecs_prebib_preg.prnprebprgpregid,Pre BiB preg ID - links to pre-BiB infant data,decimal,,,

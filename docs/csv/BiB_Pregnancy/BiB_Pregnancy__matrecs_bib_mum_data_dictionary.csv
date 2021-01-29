@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_matrecs_bib_mum,BiB_Pregnancy.matrecs_bib_mum.has_matrecs_bib_mum,Has ,decimal,NA,NA,NA
-has_prnmum,BiB_Pregnancy.matrecs_bib_mum.has_prnmum,Has: Mother data from pregnancy notes extraction,decimal,NA,1,has
-prnmum1stchmagem,BiB_Pregnancy.matrecs_bib_mum.prnmum1stchmagem,Mother age at birth of first child (mths),decimal,NA,NA,NA
-prnmum1stchmagey,BiB_Pregnancy.matrecs_bib_mum.prnmum1stchmagey,Mother age at birth of first child (yrs),decimal,NA,NA,NA
+has_matrecs_bib_mum,BiB_Pregnancy.matrecs_bib_mum.has_matrecs_bib_mum,Has ,decimal,,,
+has_prnmum,BiB_Pregnancy.matrecs_bib_mum.has_prnmum,Has: Mother data from pregnancy notes extraction,decimal,,1,has
+prnmum1stchmagem,BiB_Pregnancy.matrecs_bib_mum.prnmum1stchmagem,Mother age at birth of first child (mths),decimal,,,
+prnmum1stchmagey,BiB_Pregnancy.matrecs_bib_mum.prnmum1stchmagey,Mother age at birth of first child (yrs),decimal,,,

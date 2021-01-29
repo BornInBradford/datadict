@@ -1,14 +1,14 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_growth_12m,BiB_1000.bib1000_growth_12m.has_bib1000_growth_12m,Has bib 1000 12m growth,decimal,NA,NA,NA
-agecm_chgb12,BiB_1000.bib1000_growth_12m.agecm_chgb12,Child age (months): BiB 1000 12m Growth,decimal,NA,NA,NA
-agecy_chgb12,BiB_1000.bib1000_growth_12m.agecy_chgb12,Child age (years): BiB 1000 12m Growth,decimal,NA,NA,NA
-chgb12_zbmiuk90,BiB_1000.bib1000_growth_12m.chgb12_zbmiuk90,BMI SDS - UK1990,decimal,NA,NA,NA
-chgb12_zbmiwho06,BiB_1000.bib1000_growth_12m.chgb12_zbmiwho06,BMI SDS - WHO 2006,decimal,NA,NA,NA
-chgb12_zheiuk90,BiB_1000.bib1000_growth_12m.chgb12_zheiuk90,Height SDS - UK1990,decimal,NA,NA,NA
-chgb12_zheiwho06,BiB_1000.bib1000_growth_12m.chgb12_zheiwho06,Height SDS - WHO 2006,decimal,NA,NA,NA
-chgb12_zweiuk90,BiB_1000.bib1000_growth_12m.chgb12_zweiuk90,Weight SDS - UK1990,decimal,NA,NA,NA
-chgb12_zweiwho06,BiB_1000.bib1000_growth_12m.chgb12_zweiwho06,Weight SDS - WHO 2006,decimal,NA,NA,NA
-chgb12bmi,BiB_1000.bib1000_growth_12m.chgb12bmi,BMI,decimal,NA,NA,NA
-chgb12height,BiB_1000.bib1000_growth_12m.chgb12height,Height (cm),decimal,NA,NA,NA
-chgb12weight,BiB_1000.bib1000_growth_12m.chgb12weight,Weight (kg),decimal,NA,NA,NA
-has_chgb12,BiB_1000.bib1000_growth_12m.has_chgb12,Has: BiB 1000 12m Growth,decimal,NA,1,has
+has_bib1000_growth_12m,BiB_1000.bib1000_growth_12m.has_bib1000_growth_12m,Has bib 1000 12m growth,decimal,,,
+agecm_chgb12,BiB_1000.bib1000_growth_12m.agecm_chgb12,Child age (months): BiB 1000 12m Growth,decimal,,,
+agecy_chgb12,BiB_1000.bib1000_growth_12m.agecy_chgb12,Child age (years): BiB 1000 12m Growth,decimal,,,
+chgb12_zbmiuk90,BiB_1000.bib1000_growth_12m.chgb12_zbmiuk90,BMI SDS - UK1990,decimal,,,
+chgb12_zbmiwho06,BiB_1000.bib1000_growth_12m.chgb12_zbmiwho06,BMI SDS - WHO 2006,decimal,,,
+chgb12_zheiuk90,BiB_1000.bib1000_growth_12m.chgb12_zheiuk90,Height SDS - UK1990,decimal,,,
+chgb12_zheiwho06,BiB_1000.bib1000_growth_12m.chgb12_zheiwho06,Height SDS - WHO 2006,decimal,,,
+chgb12_zweiuk90,BiB_1000.bib1000_growth_12m.chgb12_zweiuk90,Weight SDS - UK1990,decimal,,,
+chgb12_zweiwho06,BiB_1000.bib1000_growth_12m.chgb12_zweiwho06,Weight SDS - WHO 2006,decimal,,,
+chgb12bmi,BiB_1000.bib1000_growth_12m.chgb12bmi,BMI,decimal,,,
+chgb12height,BiB_1000.bib1000_growth_12m.chgb12height,Height (cm),decimal,,,
+chgb12weight,BiB_1000.bib1000_growth_12m.chgb12weight,Weight (kg),decimal,,,
+has_chgb12,BiB_1000.bib1000_growth_12m.has_chgb12,Has: BiB 1000 12m Growth,decimal,,1,has

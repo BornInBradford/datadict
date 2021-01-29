@@ -1,10 +1,10 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_bioimpedance,BiB_ChildGrowth.bioimpedance.has_bioimpedance,Has child bioimpedance,decimal,NA,NA,NA
-agedays,BiB_ChildGrowth.bioimpedance.agedays,,decimal,NA,NA,NA
-agemths,BiB_ChildGrowth.bioimpedance.agemths,,decimal,NA,NA,NA
-fatp,BiB_ChildGrowth.bioimpedance.fatp,Fat %,decimal,NA,NA,NA
-fatm,BiB_ChildGrowth.bioimpedance.fatm,Fat mass,decimal,NA,NA,NA
-pmm,BiB_ChildGrowth.bioimpedance.pmm,Predicted muscle mass,decimal,NA,NA,NA
-ffm,BiB_ChildGrowth.bioimpedance.ffm,Fat free mass,decimal,NA,NA,NA
-tbw,BiB_ChildGrowth.bioimpedance.tbw,Total body water,decimal,NA,NA,NA
-imp,BiB_ChildGrowth.bioimpedance.imp,Impedence,decimal,NA,NA,NA
+has_bioimpedance,BiB_ChildGrowth.bioimpedance.has_bioimpedance,Has child bioimpedance,decimal,,,
+agedays,BiB_ChildGrowth.bioimpedance.agedays,"",decimal,,,
+agemths,BiB_ChildGrowth.bioimpedance.agemths,"",decimal,,,
+fatp,BiB_ChildGrowth.bioimpedance.fatp,Fat %,decimal,,,
+fatm,BiB_ChildGrowth.bioimpedance.fatm,Fat mass,decimal,,,
+pmm,BiB_ChildGrowth.bioimpedance.pmm,Predicted muscle mass,decimal,,,
+ffm,BiB_ChildGrowth.bioimpedance.ffm,Fat free mass,decimal,,,
+tbw,BiB_ChildGrowth.bioimpedance.tbw,Total body water,decimal,,,
+imp,BiB_ChildGrowth.bioimpedance.imp,Impedence,decimal,,,

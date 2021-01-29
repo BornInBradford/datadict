@@ -1,15 +1,15 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPersonID,BiB_StartingSchool.stschool_info.BiBPersonID,,text,NA,NA,NA
-has_stschool_info,BiB_StartingSchool.stschool_info.has_stschool_info,Has starting school child info,decimal,NA,NA,NA
-agecm_ssbpvs,BiB_StartingSchool.stschool_info.agecm_ssbpvs,Age in months at BPVS,decimal,NA,NA,NA
-agecm_ssckat,BiB_StartingSchool.stschool_info.agecm_ssckat,Age in months at CKAT,decimal,NA,NA,NA
-agecm_ssclid,BiB_StartingSchool.stschool_info.agecm_ssclid,Age in months at Letter ID,decimal,NA,NA,NA
-agecm_sscsdq,BiB_StartingSchool.stschool_info.agecm_sscsdq,Age in months at SDQ,decimal,NA,NA,NA
-has_ssbpvs,BiB_StartingSchool.stschool_info.has_ssbpvs,Has Starting School BPVS,decimal,NA,1,has
-has_ssckat,BiB_StartingSchool.stschool_info.has_ssckat,Has Starting School CKAT,decimal,NA,1,has
-has_ssclid,BiB_StartingSchool.stschool_info.has_ssclid,Has Starting School Letter ID,decimal,NA,1,has
-has_sscsdq,BiB_StartingSchool.stschool_info.has_sscsdq,Has Starting School SDQ,decimal,NA,1,has
-has_stschl,BiB_StartingSchool.stschool_info.has_stschl,Is in Starting School cohort,decimal,NA,1,has
-ssgender,BiB_StartingSchool.stschool_info.ssgender,Child gender,decimal,NA,1|2,Male|Female
-ssschoolid,BiB_StartingSchool.stschool_info.ssschoolid,School reference number,decimal,NA,NA,NA
-sstermofbirth,BiB_StartingSchool.stschool_info.sstermofbirth,Term of birth,decimal,NA,1|2|3,Autumn|Spring|Summer
+BiBPersonID,BiB_StartingSchool.stschool_info.BiBPersonID,"",text,,,
+has_stschool_info,BiB_StartingSchool.stschool_info.has_stschool_info,Has starting school child info,decimal,,,
+agecm_ssbpvs,BiB_StartingSchool.stschool_info.agecm_ssbpvs,Age in months at BPVS,decimal,,,
+agecm_ssckat,BiB_StartingSchool.stschool_info.agecm_ssckat,Age in months at CKAT,decimal,,,
+agecm_ssclid,BiB_StartingSchool.stschool_info.agecm_ssclid,Age in months at Letter ID,decimal,,,
+agecm_sscsdq,BiB_StartingSchool.stschool_info.agecm_sscsdq,Age in months at SDQ,decimal,,,
+has_ssbpvs,BiB_StartingSchool.stschool_info.has_ssbpvs,Has Starting School BPVS,decimal,,1,has
+has_ssckat,BiB_StartingSchool.stschool_info.has_ssckat,Has Starting School CKAT,decimal,,1,has
+has_ssclid,BiB_StartingSchool.stschool_info.has_ssclid,Has Starting School Letter ID,decimal,,1,has
+has_sscsdq,BiB_StartingSchool.stschool_info.has_sscsdq,Has Starting School SDQ,decimal,,1,has
+has_stschl,BiB_StartingSchool.stschool_info.has_stschl,Is in Starting School cohort,decimal,,1,has
+ssgender,BiB_StartingSchool.stschool_info.ssgender,Child gender,decimal,,1|2,Male|Female
+ssschoolid,BiB_StartingSchool.stschool_info.ssschoolid,School reference number,decimal,,,
+sstermofbirth,BiB_StartingSchool.stschool_info.sstermofbirth,Term of birth,decimal,,1|2|3,Autumn|Spring|Summer

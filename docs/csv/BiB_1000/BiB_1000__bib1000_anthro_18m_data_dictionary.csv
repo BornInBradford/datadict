@@ -1,10 +1,10 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_anthro_18m,BiB_1000.bib1000_anthro_18m.has_bib1000_anthro_18m,Has bib 1000 18m anthropometry,decimal,NA,NA,NA
-agecm_chab18,BiB_1000.bib1000_anthro_18m.agecm_chab18,Child age (months): BiB 1000 18m anthropometry,decimal,NA,NA,NA
-agecy_chab18,BiB_1000.bib1000_anthro_18m.agecy_chab18,Child age (years): BiB 1000 18m anthropometry,decimal,NA,NA,NA
-chab18abdo,BiB_1000.bib1000_anthro_18m.chab18abdo,Child's abdominal circumference (cm),decimal,NA,NA,NA
-chab18head,BiB_1000.bib1000_anthro_18m.chab18head,Child's head circumference (cm),decimal,NA,NA,NA
-chab18subscap,BiB_1000.bib1000_anthro_18m.chab18subscap,Child's subscapular skinfold (mm),decimal,NA,NA,NA
-chab18thigh,BiB_1000.bib1000_anthro_18m.chab18thigh,Child's thigh skinfold (mm),decimal,NA,NA,NA
-chab18triceps,BiB_1000.bib1000_anthro_18m.chab18triceps,Child's triceps skinfold (mm),decimal,NA,NA,NA
-has_chab18,BiB_1000.bib1000_anthro_18m.has_chab18,Has: BiB 1000 18m anthropometry,decimal,NA,1,has
+has_bib1000_anthro_18m,BiB_1000.bib1000_anthro_18m.has_bib1000_anthro_18m,Has bib 1000 18m anthropometry,decimal,,,
+agecm_chab18,BiB_1000.bib1000_anthro_18m.agecm_chab18,Child age (months): BiB 1000 18m anthropometry,decimal,,,
+agecy_chab18,BiB_1000.bib1000_anthro_18m.agecy_chab18,Child age (years): BiB 1000 18m anthropometry,decimal,,,
+chab18abdo,BiB_1000.bib1000_anthro_18m.chab18abdo,Child's abdominal circumference (cm),decimal,,,
+chab18head,BiB_1000.bib1000_anthro_18m.chab18head,Child's head circumference (cm),decimal,,,
+chab18subscap,BiB_1000.bib1000_anthro_18m.chab18subscap,Child's subscapular skinfold (mm),decimal,,,
+chab18thigh,BiB_1000.bib1000_anthro_18m.chab18thigh,Child's thigh skinfold (mm),decimal,,,
+chab18triceps,BiB_1000.bib1000_anthro_18m.chab18triceps,Child's triceps skinfold (mm),decimal,,,
+has_chab18,BiB_1000.bib1000_anthro_18m.has_chab18,Has: BiB 1000 18m anthropometry,decimal,,1,has

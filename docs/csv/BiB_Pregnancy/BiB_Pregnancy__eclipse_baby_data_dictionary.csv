@@ -1,31 +1,31 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_eclipse_baby,BiB_Pregnancy.eclipse_baby.has_eclipse_baby,Has eclipse neonatal record,decimal,NA,NA,NA
-ChildID,BiB_Pregnancy.eclipse_baby.ChildID,BiB Child ID,decimal,NA,NA,NA
-eclabdcirc,BiB_Pregnancy.eclipse_baby.eclabdcirc,Abdominal circumference (cm),decimal,NA,NA,NA
-eclapgar1m,BiB_Pregnancy.eclipse_baby.eclapgar1m,APGAR at 1 minute,decimal,NA,NA,NA
-eclapgar5m,BiB_Pregnancy.eclipse_baby.eclapgar5m,APGAR at 5 minutes,decimal,NA,NA,NA
-eclbabysex,BiB_Pregnancy.eclipse_baby.eclbabysex,Sex of baby,decimal,NA,1|2,Male|Female
-eclbirthwt,BiB_Pregnancy.eclipse_baby.eclbirthwt,Birth weight (g),decimal,NA,NA,NA
-eclbrtasst,BiB_Pregnancy.eclipse_baby.eclbrtasst,Assistance during birth,decimal,NA,1|2|3|4,None|Forceps|Ventouse|Forceps and ventouse
-eclbrthocm,BiB_Pregnancy.eclipse_baby.eclbrthocm,Outcome of birth,decimal,NA,1|2,Livebirth|Stillbirth
-eclbrthord,BiB_Pregnancy.eclipse_baby.eclbrthord,Birth order,decimal,NA,NA,NA
-eclbrtpres,BiB_Pregnancy.eclipse_baby.eclbrtpres,Presentation at birth,decimal,NA,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,Cephalic|Breech dorso-anterior|Breech complete|Compound|Oblique|Transverse|Unknown|Cephalic brow|Cephalic face|Cephalic vertex|Breech|Breech extended|Breech flexed|Breech footling|Breech frank
-eclheadcir,BiB_Pregnancy.eclipse_baby.eclheadcir,Head circumference (cm),decimal,NA,NA,NA
-ecllgaukwho,BiB_Pregnancy.eclipse_baby.ecllgaukwho,Large for gestational age (>90th centile),decimal,NA,1|2,No|Yes
-eclmidarmc,BiB_Pregnancy.eclipse_baby.eclmidarmc,Mid-arm circumference (cm),decimal,NA,NA,NA
-eclrtbirth,BiB_Pregnancy.eclipse_baby.eclrtbirth,Route of birth,decimal,NA,1|2,Vaginal|Caesarean
-eclrupbrth,BiB_Pregnancy.eclipse_baby.eclrupbrth,Time from membrane rupture to birth,text,NA,NA,NA
-eclsdystoc,BiB_Pregnancy.eclipse_baby.eclsdystoc,Shoulder dystocia,decimal,NA,1|2,No|Yes
-eclsgaukwho,BiB_Pregnancy.eclipse_baby.eclsgaukwho,Small for gestational age (<10th centile),decimal,NA,1|2,No|Yes
-eclsubscap,BiB_Pregnancy.eclipse_baby.eclsubscap,Subscapular skinfold thickness (cm),decimal,NA,NA,NA
-ecltmpbrth,BiB_Pregnancy.eclipse_baby.ecltmpbrth,Temperature at birth,decimal,NA,NA,NA
-ecltriceps,BiB_Pregnancy.eclipse_baby.ecltriceps,Triceps skinfold thickness (cm),decimal,NA,NA,NA
-eclvitk1st,BiB_Pregnancy.eclipse_baby.eclvitk1st,Vitamin K first dose,text,NA,NA,NA
-eclvitkcon,BiB_Pregnancy.eclipse_baby.eclvitkcon,Vitamin K consent,decimal,NA,1|2|3|4|5|6,Not indicated|Consent declined|Consent obtained|Given with consent|Given without consent in an emergency|Offer being considered
-flgabdcirc,BiB_Pregnancy.eclipse_baby.flgabdcirc,Abdominal circ. flag,decimal,NA,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
-flgbirthwt,BiB_Pregnancy.eclipse_baby.flgbirthwt,Birth weight flag,decimal,NA,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
-flgheadcir,BiB_Pregnancy.eclipse_baby.flgheadcir,Head circ. flag,decimal,NA,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
-flgmidarmc,BiB_Pregnancy.eclipse_baby.flgmidarmc,Midarm circ. flag,decimal,NA,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
-flgsubscap,BiB_Pregnancy.eclipse_baby.flgsubscap,Subscap. skinfold thickness flag,decimal,NA,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
-flgtricep,BiB_Pregnancy.eclipse_baby.flgtricep,Tricep skinfold thickness flag,decimal,NA,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
-has_eclbby,BiB_Pregnancy.eclipse_baby.has_eclbby,Has eClipse baby data,decimal,NA,1,has
+has_eclipse_baby,BiB_Pregnancy.eclipse_baby.has_eclipse_baby,Has eclipse neonatal record,decimal,,,
+ChildID,BiB_Pregnancy.eclipse_baby.ChildID,BiB Child ID,decimal,,,
+eclabdcirc,BiB_Pregnancy.eclipse_baby.eclabdcirc,Abdominal circumference (cm),decimal,,,
+eclapgar1m,BiB_Pregnancy.eclipse_baby.eclapgar1m,APGAR at 1 minute,decimal,,,
+eclapgar5m,BiB_Pregnancy.eclipse_baby.eclapgar5m,APGAR at 5 minutes,decimal,,,
+eclbabysex,BiB_Pregnancy.eclipse_baby.eclbabysex,Sex of baby,decimal,,1|2,Male|Female
+eclbirthwt,BiB_Pregnancy.eclipse_baby.eclbirthwt,Birth weight (g),decimal,,,
+eclbrtasst,BiB_Pregnancy.eclipse_baby.eclbrtasst,Assistance during birth,decimal,,1|2|3|4,None|Forceps|Ventouse|Forceps and ventouse
+eclbrthocm,BiB_Pregnancy.eclipse_baby.eclbrthocm,Outcome of birth,decimal,,1|2,Livebirth|Stillbirth
+eclbrthord,BiB_Pregnancy.eclipse_baby.eclbrthord,Birth order,decimal,,,
+eclbrtpres,BiB_Pregnancy.eclipse_baby.eclbrtpres,Presentation at birth,decimal,,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,Cephalic|Breech dorso-anterior|Breech complete|Compound|Oblique|Transverse|Unknown|Cephalic brow|Cephalic face|Cephalic vertex|Breech|Breech extended|Breech flexed|Breech footling|Breech frank
+eclheadcir,BiB_Pregnancy.eclipse_baby.eclheadcir,Head circumference (cm),decimal,,,
+ecllgaukwho,BiB_Pregnancy.eclipse_baby.ecllgaukwho,Large for gestational age (>90th centile),decimal,,1|2,No|Yes
+eclmidarmc,BiB_Pregnancy.eclipse_baby.eclmidarmc,Mid-arm circumference (cm),decimal,,,
+eclrtbirth,BiB_Pregnancy.eclipse_baby.eclrtbirth,Route of birth,decimal,,1|2,Vaginal|Caesarean
+eclrupbrth,BiB_Pregnancy.eclipse_baby.eclrupbrth,Time from membrane rupture to birth,text,,,
+eclsdystoc,BiB_Pregnancy.eclipse_baby.eclsdystoc,Shoulder dystocia,decimal,,1|2,No|Yes
+eclsgaukwho,BiB_Pregnancy.eclipse_baby.eclsgaukwho,Small for gestational age (<10th centile),decimal,,1|2,No|Yes
+eclsubscap,BiB_Pregnancy.eclipse_baby.eclsubscap,Subscapular skinfold thickness (cm),decimal,,,
+ecltmpbrth,BiB_Pregnancy.eclipse_baby.ecltmpbrth,Temperature at birth,decimal,,,
+ecltriceps,BiB_Pregnancy.eclipse_baby.ecltriceps,Triceps skinfold thickness (cm),decimal,,,
+eclvitk1st,BiB_Pregnancy.eclipse_baby.eclvitk1st,Vitamin K first dose,text,,,
+eclvitkcon,BiB_Pregnancy.eclipse_baby.eclvitkcon,Vitamin K consent,decimal,,1|2|3|4|5|6,Not indicated|Consent declined|Consent obtained|Given with consent|Given without consent in an emergency|Offer being considered
+flgabdcirc,BiB_Pregnancy.eclipse_baby.flgabdcirc,Abdominal circ. flag,decimal,,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
+flgbirthwt,BiB_Pregnancy.eclipse_baby.flgbirthwt,Birth weight flag,decimal,,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
+flgheadcir,BiB_Pregnancy.eclipse_baby.flgheadcir,Head circ. flag,decimal,,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
+flgmidarmc,BiB_Pregnancy.eclipse_baby.flgmidarmc,Midarm circ. flag,decimal,,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
+flgsubscap,BiB_Pregnancy.eclipse_baby.flgsubscap,Subscap. skinfold thickness flag,decimal,,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
+flgtricep,BiB_Pregnancy.eclipse_baby.flgtricep,Tricep skinfold thickness flag,decimal,,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
+has_eclbby,BiB_Pregnancy.eclipse_baby.has_eclbby,Has eClipse baby data,decimal,,1,has

@@ -1,56 +1,56 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_12m_bib12n,BiB_1000.bib1000_12m_bib12n.has_bib1000_12m_bib12n,Has bib 1000 12 month child nutrients intake,decimal,NA,NA,NA
-agecm_bib12n,BiB_1000.bib1000_12m_bib12n.agecm_bib12n,Child age (months): BiB1000 12 month child nutrients intake,decimal,NA,NA,NA
-agecy_bib12n,BiB_1000.bib1000_12m_bib12n.agecy_bib12n,Child age (years): BiB1000 12 month child nutrients intake,decimal,NA,NA,NA
-bib12ncalcium,BiB_1000.bib1000_12m_bib12n.bib12ncalcium,Calcium (mg/day),decimal,NA,NA,NA
-bib12ncarbohydrate,BiB_1000.bib1000_12m_bib12n.bib12ncarbohydrate,Carbohydrate (g/day),decimal,NA,NA,NA
-bib12ncarbohydrate_cat,BiB_1000.bib1000_12m_bib12n.bib12ncarbohydrate_cat,Carbohydrate (g/day) (categorised into thirds),decimal,NA,1|2|3,lowest third|middle third|highest third
-bib12nchloride,BiB_1000.bib1000_12m_bib12n.bib12nchloride,Chloride (mg/day),decimal,NA,NA,NA
-bib12ncholest,BiB_1000.bib1000_12m_bib12n.bib12ncholest,Cholesterol (g/day),decimal,NA,NA,NA
-bib12ncopper,BiB_1000.bib1000_12m_bib12n.bib12ncopper,Copper (mg/day),decimal,NA,NA,NA
-bib12nenergyfromcho,BiB_1000.bib1000_12m_bib12n.bib12nenergyfromcho,Energy from carbohydrate (kcal),decimal,NA,NA,NA
-bib12nenergyfromcho_cat,BiB_1000.bib1000_12m_bib12n.bib12nenergyfromcho_cat,energy from carbohydrate (kcal) (categorised into thirds),decimal,NA,1|2|3,lowest third|middle third|highest third
-bib12nenergyfromfat,BiB_1000.bib1000_12m_bib12n.bib12nenergyfromfat,Energy from fat (kcal),decimal,NA,NA,NA
-bib12nenergyfromfat_cat,BiB_1000.bib1000_12m_bib12n.bib12nenergyfromfat_cat,energy from fat (kcal) (categorised into thirds),decimal,NA,1|2|3,lowest third|middle third|highest third
-bib12nenergyfromsugar,BiB_1000.bib1000_12m_bib12n.bib12nenergyfromsugar,Energy from sugars (kcal),decimal,NA,NA,NA
-bib12nenglyst,BiB_1000.bib1000_12m_bib12n.bib12nenglyst,Englyst fibre (g/day),decimal,NA,NA,NA
-bib12nenglyst_cat,BiB_1000.bib1000_12m_bib12n.bib12nenglyst_cat,Englyst fibre (g/day) (categorised into thirds),decimal,NA,1|2|3,lowest third|middle third|highest third
-bib12nfat,BiB_1000.bib1000_12m_bib12n.bib12nfat,Fat (g/day),decimal,NA,NA,NA
-bib12nfat_cat,BiB_1000.bib1000_12m_bib12n.bib12nfat_cat,Fat (g/day) (categorised into thirds),decimal,NA,1|2|3,lowest third|middle third|highest third
-bib12nfolate,BiB_1000.bib1000_12m_bib12n.bib12nfolate,Folate (microg/day),decimal,NA,NA,NA
-bib12niron,BiB_1000.bib1000_12m_bib12n.bib12niron,Iron (mg/day),decimal,NA,NA,NA
-bib12nkcal,BiB_1000.bib1000_12m_bib12n.bib12nkcal,Total energy intake (kcal/day),decimal,NA,NA,NA
-bib12nkcal_cat,BiB_1000.bib1000_12m_bib12n.bib12nkcal_cat,Total energy intake (kcal/day) (categorised into thirds),decimal,NA,1|2|3,lowest third|middle third|highest third
-bib12nkcal_cho,BiB_1000.bib1000_12m_bib12n.bib12nkcal_cho,Energy from carbohydrate (kcal/day),decimal,NA,NA,NA
-bib12nkcal_fat,BiB_1000.bib1000_12m_bib12n.bib12nkcal_fat,Energy from fat (kcal/day),decimal,NA,NA,NA
-bib12nkcal_prot,BiB_1000.bib1000_12m_bib12n.bib12nkcal_prot,Energy from protein (kcal/day),decimal,NA,NA,NA
-bib12nkj,BiB_1000.bib1000_12m_bib12n.bib12nkj,Total energy intake (kJ/day),decimal,NA,NA,NA
-bib12nkj_cat,BiB_1000.bib1000_12m_bib12n.bib12nkj_cat,Total energy intake (kJ/day) (categorised into thirds),decimal,NA,1|2|3,lowest third|middle third|highest third
-bib12nlncarbohydrate,BiB_1000.bib1000_12m_bib12n.bib12nlncarbohydrate,log Carbohydrate (g/day),decimal,NA,NA,NA
-bib12nlnenergyfromcho,BiB_1000.bib1000_12m_bib12n.bib12nlnenergyfromcho,log energy from carbohydrate (kcal),decimal,NA,NA,NA
-bib12nlnenergyfromfat,BiB_1000.bib1000_12m_bib12n.bib12nlnenergyfromfat,log energy from fat (kcal),decimal,NA,NA,NA
-bib12nlnenglyst,BiB_1000.bib1000_12m_bib12n.bib12nlnenglyst,log Englyst fibre (g/day),decimal,NA,NA,NA
-bib12nlnfat,BiB_1000.bib1000_12m_bib12n.bib12nlnfat,log Fat (g/day),decimal,NA,NA,NA
-bib12nlnkcal,BiB_1000.bib1000_12m_bib12n.bib12nlnkcal,log Total energy intake (kcal/day),decimal,NA,NA,NA
-bib12nlnkj,BiB_1000.bib1000_12m_bib12n.bib12nlnkj,log Total energy intake (kJ/day),decimal,NA,NA,NA
-bib12nlnprotein,BiB_1000.bib1000_12m_bib12n.bib12nlnprotein,log Protein (g/day),decimal,NA,NA,NA
-bib12nmagnesium,BiB_1000.bib1000_12m_bib12n.bib12nmagnesium,Magnesium (mg/day),decimal,NA,NA,NA
-bib12nniacin,BiB_1000.bib1000_12m_bib12n.bib12nniacin,Niacin (mg/day),decimal,NA,NA,NA
-bib12nphosphorus,BiB_1000.bib1000_12m_bib12n.bib12nphosphorus,Phosphorus (mg/day),decimal,NA,NA,NA
-bib12npotassium,BiB_1000.bib1000_12m_bib12n.bib12npotassium,Potassium (mg/day),decimal,NA,NA,NA
-bib12nprotein,BiB_1000.bib1000_12m_bib12n.bib12nprotein,Protein (g/day),decimal,NA,NA,NA
-bib12nprotein_cat,BiB_1000.bib1000_12m_bib12n.bib12nprotein_cat,Protein (g/day) (categorised into thirds),decimal,NA,1|2|3,lowest third|middle third|highest third
-bib12nretinol,BiB_1000.bib1000_12m_bib12n.bib12nretinol,Retinol (microg/day),decimal,NA,NA,NA
-bib12nsodium,BiB_1000.bib1000_12m_bib12n.bib12nsodium,Sodium (mg/day),decimal,NA,NA,NA
-bib12nstarch,BiB_1000.bib1000_12m_bib12n.bib12nstarch,Starch (g/day),decimal,NA,NA,NA
-bib12nsugars,BiB_1000.bib1000_12m_bib12n.bib12nsugars,Total sugars (g/day),decimal,NA,NA,NA
-bib12nvitb1,BiB_1000.bib1000_12m_bib12n.bib12nvitb1,Vitamin B1 (Thiamin)(mg/day),decimal,NA,NA,NA
-bib12nvitb12,BiB_1000.bib1000_12m_bib12n.bib12nvitb12,Vitamin B12 (microg/day),decimal,NA,NA,NA
-bib12nvitb2,BiB_1000.bib1000_12m_bib12n.bib12nvitb2,Vitamin B2 (Riboflavin)(mg/day),decimal,NA,NA,NA
-bib12nvitb6,BiB_1000.bib1000_12m_bib12n.bib12nvitb6,Vitamin B6 (mg/day),decimal,NA,NA,NA
-bib12nvitc,BiB_1000.bib1000_12m_bib12n.bib12nvitc,Vitamin C (mg/day),decimal,NA,NA,NA
-bib12nvitd,BiB_1000.bib1000_12m_bib12n.bib12nvitd,Vitamin D (microg/day),decimal,NA,NA,NA
-bib12nvite,BiB_1000.bib1000_12m_bib12n.bib12nvite,Vitamin E (alpha-tocopherol)(mg/day),decimal,NA,NA,NA
-bib12nwater,BiB_1000.bib1000_12m_bib12n.bib12nwater,Water (g/day),decimal,NA,NA,NA
-bib12nzinc,BiB_1000.bib1000_12m_bib12n.bib12nzinc,Zinc (mg/day),decimal,NA,NA,NA
-has_bib12n,BiB_1000.bib1000_12m_bib12n.has_bib12n,Has: BiB1000 12 month child nutrients intake,decimal,NA,1,has
+has_bib1000_12m_bib12n,BiB_1000.bib1000_12m_bib12n.has_bib1000_12m_bib12n,Has bib 1000 12 month child nutrients intake,decimal,,,
+agecm_bib12n,BiB_1000.bib1000_12m_bib12n.agecm_bib12n,Child age (months): BiB1000 12 month child nutrients intake,decimal,,,
+agecy_bib12n,BiB_1000.bib1000_12m_bib12n.agecy_bib12n,Child age (years): BiB1000 12 month child nutrients intake,decimal,,,
+bib12ncalcium,BiB_1000.bib1000_12m_bib12n.bib12ncalcium,Calcium (mg/day),decimal,,,
+bib12ncarbohydrate,BiB_1000.bib1000_12m_bib12n.bib12ncarbohydrate,Carbohydrate (g/day),decimal,,,
+bib12ncarbohydrate_cat,BiB_1000.bib1000_12m_bib12n.bib12ncarbohydrate_cat,Carbohydrate (g/day) (categorised into thirds),decimal,,1|2|3,lowest third|middle third|highest third
+bib12nchloride,BiB_1000.bib1000_12m_bib12n.bib12nchloride,Chloride (mg/day),decimal,,,
+bib12ncholest,BiB_1000.bib1000_12m_bib12n.bib12ncholest,Cholesterol (g/day),decimal,,,
+bib12ncopper,BiB_1000.bib1000_12m_bib12n.bib12ncopper,Copper (mg/day),decimal,,,
+bib12nenergyfromcho,BiB_1000.bib1000_12m_bib12n.bib12nenergyfromcho,Energy from carbohydrate (kcal),decimal,,,
+bib12nenergyfromcho_cat,BiB_1000.bib1000_12m_bib12n.bib12nenergyfromcho_cat,energy from carbohydrate (kcal) (categorised into thirds),decimal,,1|2|3,lowest third|middle third|highest third
+bib12nenergyfromfat,BiB_1000.bib1000_12m_bib12n.bib12nenergyfromfat,Energy from fat (kcal),decimal,,,
+bib12nenergyfromfat_cat,BiB_1000.bib1000_12m_bib12n.bib12nenergyfromfat_cat,energy from fat (kcal) (categorised into thirds),decimal,,1|2|3,lowest third|middle third|highest third
+bib12nenergyfromsugar,BiB_1000.bib1000_12m_bib12n.bib12nenergyfromsugar,Energy from sugars (kcal),decimal,,,
+bib12nenglyst,BiB_1000.bib1000_12m_bib12n.bib12nenglyst,Englyst fibre (g/day),decimal,,,
+bib12nenglyst_cat,BiB_1000.bib1000_12m_bib12n.bib12nenglyst_cat,Englyst fibre (g/day) (categorised into thirds),decimal,,1|2|3,lowest third|middle third|highest third
+bib12nfat,BiB_1000.bib1000_12m_bib12n.bib12nfat,Fat (g/day),decimal,,,
+bib12nfat_cat,BiB_1000.bib1000_12m_bib12n.bib12nfat_cat,Fat (g/day) (categorised into thirds),decimal,,1|2|3,lowest third|middle third|highest third
+bib12nfolate,BiB_1000.bib1000_12m_bib12n.bib12nfolate,Folate (microg/day),decimal,,,
+bib12niron,BiB_1000.bib1000_12m_bib12n.bib12niron,Iron (mg/day),decimal,,,
+bib12nkcal,BiB_1000.bib1000_12m_bib12n.bib12nkcal,Total energy intake (kcal/day),decimal,,,
+bib12nkcal_cat,BiB_1000.bib1000_12m_bib12n.bib12nkcal_cat,Total energy intake (kcal/day) (categorised into thirds),decimal,,1|2|3,lowest third|middle third|highest third
+bib12nkcal_cho,BiB_1000.bib1000_12m_bib12n.bib12nkcal_cho,Energy from carbohydrate (kcal/day),decimal,,,
+bib12nkcal_fat,BiB_1000.bib1000_12m_bib12n.bib12nkcal_fat,Energy from fat (kcal/day),decimal,,,
+bib12nkcal_prot,BiB_1000.bib1000_12m_bib12n.bib12nkcal_prot,Energy from protein (kcal/day),decimal,,,
+bib12nkj,BiB_1000.bib1000_12m_bib12n.bib12nkj,Total energy intake (kJ/day),decimal,,,
+bib12nkj_cat,BiB_1000.bib1000_12m_bib12n.bib12nkj_cat,Total energy intake (kJ/day) (categorised into thirds),decimal,,1|2|3,lowest third|middle third|highest third
+bib12nlncarbohydrate,BiB_1000.bib1000_12m_bib12n.bib12nlncarbohydrate,log Carbohydrate (g/day),decimal,,,
+bib12nlnenergyfromcho,BiB_1000.bib1000_12m_bib12n.bib12nlnenergyfromcho,log energy from carbohydrate (kcal),decimal,,,
+bib12nlnenergyfromfat,BiB_1000.bib1000_12m_bib12n.bib12nlnenergyfromfat,log energy from fat (kcal),decimal,,,
+bib12nlnenglyst,BiB_1000.bib1000_12m_bib12n.bib12nlnenglyst,log Englyst fibre (g/day),decimal,,,
+bib12nlnfat,BiB_1000.bib1000_12m_bib12n.bib12nlnfat,log Fat (g/day),decimal,,,
+bib12nlnkcal,BiB_1000.bib1000_12m_bib12n.bib12nlnkcal,log Total energy intake (kcal/day),decimal,,,
+bib12nlnkj,BiB_1000.bib1000_12m_bib12n.bib12nlnkj,log Total energy intake (kJ/day),decimal,,,
+bib12nlnprotein,BiB_1000.bib1000_12m_bib12n.bib12nlnprotein,log Protein (g/day),decimal,,,
+bib12nmagnesium,BiB_1000.bib1000_12m_bib12n.bib12nmagnesium,Magnesium (mg/day),decimal,,,
+bib12nniacin,BiB_1000.bib1000_12m_bib12n.bib12nniacin,Niacin (mg/day),decimal,,,
+bib12nphosphorus,BiB_1000.bib1000_12m_bib12n.bib12nphosphorus,Phosphorus (mg/day),decimal,,,
+bib12npotassium,BiB_1000.bib1000_12m_bib12n.bib12npotassium,Potassium (mg/day),decimal,,,
+bib12nprotein,BiB_1000.bib1000_12m_bib12n.bib12nprotein,Protein (g/day),decimal,,,
+bib12nprotein_cat,BiB_1000.bib1000_12m_bib12n.bib12nprotein_cat,Protein (g/day) (categorised into thirds),decimal,,1|2|3,lowest third|middle third|highest third
+bib12nretinol,BiB_1000.bib1000_12m_bib12n.bib12nretinol,Retinol (microg/day),decimal,,,
+bib12nsodium,BiB_1000.bib1000_12m_bib12n.bib12nsodium,Sodium (mg/day),decimal,,,
+bib12nstarch,BiB_1000.bib1000_12m_bib12n.bib12nstarch,Starch (g/day),decimal,,,
+bib12nsugars,BiB_1000.bib1000_12m_bib12n.bib12nsugars,Total sugars (g/day),decimal,,,
+bib12nvitb1,BiB_1000.bib1000_12m_bib12n.bib12nvitb1,Vitamin B1 (Thiamin)(mg/day),decimal,,,
+bib12nvitb12,BiB_1000.bib1000_12m_bib12n.bib12nvitb12,Vitamin B12 (microg/day),decimal,,,
+bib12nvitb2,BiB_1000.bib1000_12m_bib12n.bib12nvitb2,Vitamin B2 (Riboflavin)(mg/day),decimal,,,
+bib12nvitb6,BiB_1000.bib1000_12m_bib12n.bib12nvitb6,Vitamin B6 (mg/day),decimal,,,
+bib12nvitc,BiB_1000.bib1000_12m_bib12n.bib12nvitc,Vitamin C (mg/day),decimal,,,
+bib12nvitd,BiB_1000.bib1000_12m_bib12n.bib12nvitd,Vitamin D (microg/day),decimal,,,
+bib12nvite,BiB_1000.bib1000_12m_bib12n.bib12nvite,Vitamin E (alpha-tocopherol)(mg/day),decimal,,,
+bib12nwater,BiB_1000.bib1000_12m_bib12n.bib12nwater,Water (g/day),decimal,,,
+bib12nzinc,BiB_1000.bib1000_12m_bib12n.bib12nzinc,Zinc (mg/day),decimal,,,
+has_bib12n,BiB_1000.bib1000_12m_bib12n.has_bib12n,Has: BiB1000 12 month child nutrients intake,decimal,,1,has

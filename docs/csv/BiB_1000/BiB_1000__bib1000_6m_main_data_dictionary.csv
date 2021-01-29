@@ -1,390 +1,390 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_6m_main,BiB_1000.bib1000_6m_main.has_bib1000_6m_main,Has bib 1000 6m questionnaire main table,decimal,NA,NA,NA
-agecm_b6mtab,BiB_1000.bib1000_6m_main.agecm_b6mtab,Child age (months) BiB1000 6m questionnaire,decimal,NA,NA,NA
-agecy_b6mtab,BiB_1000.bib1000_6m_main.agecy_b6mtab,Child age (years) BiB1000 6m questionnaire,decimal,NA,NA,NA
-agemm_b6mtab,BiB_1000.bib1000_6m_main.agemm_b6mtab,Mother age (months) BiB1000 6m questionnaire,decimal,NA,NA,NA
-agemy_b6mtab,BiB_1000.bib1000_6m_main.agemy_b6mtab,Mother age (years) BiB1000 6m questionnaire,decimal,NA,NA,NA
-bib6a01,BiB_1000.bib1000_6m_main.bib6a01,Describe your own health,decimal,NA,1|2|3|4|5,Excellent|Very good|Good|Fair|Poor
-bib6a02,BiB_1000.bib1000_6m_main.bib6a02,Describe your child's health,decimal,NA,1|2|3|4|5,Excellent|Very good|Good|Fair|Poor
-bib6b01,BiB_1000.bib1000_6m_main.bib6b01,Has child seen a doctor/nurse since birth,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b02,BiB_1000.bib1000_6m_main.bib6b02,How many times seen doctor/nurse,decimal,NA,1|2|3|4|5|6|7,Once|Twice|3-4 times|5-10 times|11+ times|Don't know|Refused to answer
-bib6b03abreathprob,BiB_1000.bib1000_6m_main.bib6b03abreathprob,Saw doctor - breathing problems,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03achestinf,BiB_1000.bib1000_6m_main.bib6b03achestinf,Saw doctor - chest infection,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03aconstipation,BiB_1000.bib1000_6m_main.bib6b03aconstipation,Saw doctor - constipation,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03aconvulsions,BiB_1000.bib1000_6m_main.bib6b03aconvulsions,Saw doctor - convulsions,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03acough,BiB_1000.bib1000_6m_main.bib6b03acough,Saw doctor - cough,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03acrying,BiB_1000.bib1000_6m_main.bib6b03acrying,Saw doctor - crying,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03adiarrhoea,BiB_1000.bib1000_6m_main.bib6b03adiarrhoea,Saw doctor - diarrhoea,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03aearprob,BiB_1000.bib1000_6m_main.bib6b03aearprob,Saw doctor - ear problems,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03againmuchwt,BiB_1000.bib1000_6m_main.bib6b03againmuchwt,Saw doctor - gaining too much weight,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03ahightemp,BiB_1000.bib1000_6m_main.bib6b03ahightemp,Saw doctor - high temperature,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03anogainwt,BiB_1000.bib1000_6m_main.bib6b03anogainwt,Saw doctor - not gaining weight,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03aother,BiB_1000.bib1000_6m_main.bib6b03aother,Saw doctor - other reason,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03aotherspecified,BiB_1000.bib1000_6m_main.bib6b03aotherspecified,Specify why saw doctor because of other reason,text,NA,NA,NA
-bib6b03askinprob,BiB_1000.bib1000_6m_main.bib6b03askinprob,Saw doctor - skin problems,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03asnuffles,BiB_1000.bib1000_6m_main.bib6b03asnuffles,Saw doctor - snuffles,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03athrush,BiB_1000.bib1000_6m_main.bib6b03athrush,Saw doctor - thrush,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03atummy,BiB_1000.bib1000_6m_main.bib6b03atummy,Saw doctor - tummy upset,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03auti,BiB_1000.bib1000_6m_main.bib6b03auti,Saw doctor - urinary tract infection,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03avomiting,BiB_1000.bib1000_6m_main.bib6b03avomiting,Saw doctor - vomiting,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bbreathprob,BiB_1000.bib1000_6m_main.bib6b03bbreathprob,Saw nurse - breathing problems,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bchestinf,BiB_1000.bib1000_6m_main.bib6b03bchestinf,Saw nurse - chest infection,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bconstipation,BiB_1000.bib1000_6m_main.bib6b03bconstipation,Saw nurse - constipation,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bconvulsions,BiB_1000.bib1000_6m_main.bib6b03bconvulsions,Saw nurse - convulsions,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bcough,BiB_1000.bib1000_6m_main.bib6b03bcough,Saw nurse - cough,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bcrying,BiB_1000.bib1000_6m_main.bib6b03bcrying,Saw nurse - crying,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bdiarrhoea,BiB_1000.bib1000_6m_main.bib6b03bdiarrhoea,Saw nurse - diarrhoea,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bearprob,BiB_1000.bib1000_6m_main.bib6b03bearprob,Saw nurse - ear problems,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bgainmuchwt,BiB_1000.bib1000_6m_main.bib6b03bgainmuchwt,Saw nurse - gaining too much weight,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bhightemp,BiB_1000.bib1000_6m_main.bib6b03bhightemp,Saw nurse - high temperature,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bnogainwt,BiB_1000.bib1000_6m_main.bib6b03bnogainwt,Saw nurse - not gaining weight,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bother,BiB_1000.bib1000_6m_main.bib6b03bother,Saw nurse - other reason,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03botherspecified,BiB_1000.bib1000_6m_main.bib6b03botherspecified,Specify why saw nurse because of other reason,text,NA,NA,NA
-bib6b03bskinprob,BiB_1000.bib1000_6m_main.bib6b03bskinprob,Saw nurse - skin problems,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bsnuffles,BiB_1000.bib1000_6m_main.bib6b03bsnuffles,Saw nurse - snuffles,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bthrush,BiB_1000.bib1000_6m_main.bib6b03bthrush,Saw nurse - thrush,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03btummy,BiB_1000.bib1000_6m_main.bib6b03btummy,Saw nurse - tummy upset,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03buti,BiB_1000.bib1000_6m_main.bib6b03buti,Saw nurse - urinary tract infection,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b03bvomiting,BiB_1000.bib1000_6m_main.bib6b03bvomiting,Saw nurse - vomiting,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b04,BiB_1000.bib1000_6m_main.bib6b04,Has child been given a medical diagnosis,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b05,BiB_1000.bib1000_6m_main.bib6b05,Has child been admitted to hospital since birth,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b05a,BiB_1000.bib1000_6m_main.bib6b05a,Number of hospital admissions,decimal,NA,NA,NA
-bib6b06,BiB_1000.bib1000_6m_main.bib6b06,Has child been to an outpatient clinic since birth,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b06a,BiB_1000.bib1000_6m_main.bib6b06a,Number of outpatient clinics attended,decimal,NA,NA,NA
-bib6b07,BiB_1000.bib1000_6m_main.bib6b07,Has child been hurt/injured/had accident and needed medical attention,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6b07a,BiB_1000.bib1000_6m_main.bib6b07a,Number of times child has been hurt etc,decimal,NA,NA,NA
-bib6c01,BiB_1000.bib1000_6m_main.bib6c01,Was child ever breastfed,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6c02,BiB_1000.bib1000_6m_main.bib6c02,Is child still being breastfed,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6c03days,BiB_1000.bib1000_6m_main.bib6c03days,Age stopped breastfeeding (days)(derived),decimal,NA,NA,NA
-bib6c04,BiB_1000.bib1000_6m_main.bib6c04,Has child had formula,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6c04days,BiB_1000.bib1000_6m_main.bib6c04days,Age first had formula (days)(derived),decimal,NA,NA,NA
-bib6c05a,BiB_1000.bib1000_6m_main.bib6c05a,Has child had unsweetened drinks,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6c05adays,BiB_1000.bib1000_6m_main.bib6c05adays,Age first had unsweetened drinks (days)(derived),decimal,NA,NA,NA
-bib6c05b,BiB_1000.bib1000_6m_main.bib6c05b,Has child had sweetened drinks,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6c05bdays,BiB_1000.bib1000_6m_main.bib6c05bdays,Age first had sweetened drinks (days)(derived),decimal,NA,NA,NA
-bib6c06a,BiB_1000.bib1000_6m_main.bib6c06a,Has child had savoury food,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6c06adays,BiB_1000.bib1000_6m_main.bib6c06adays,Age first had savoury food (days)(derived),decimal,NA,NA,NA
-bib6c06b,BiB_1000.bib1000_6m_main.bib6c06b,Has child had sweetened food,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6c06bdays,BiB_1000.bib1000_6m_main.bib6c06bdays,Age first had sweetened food (days)(derived),decimal,NA,NA,NA
-bib6c07a,BiB_1000.bib1000_6m_main.bib6c07a,How often do you feed your child at home,decimal,NA,1|2|3|4|5|6|7|8,Never|Seldom|Half the time|Most of the time|Always|Don't know|Refused to answer|NA
-bib6c07b,BiB_1000.bib1000_6m_main.bib6c07b,Who else feeds your child at home,decimal,NA,1|2|3|4|5,Father|Maternal grandmother|Child's sibling|Paternal grandmother|Other
-bib6c07botherspecified,BiB_1000.bib1000_6m_main.bib6c07botherspecified,Specify other person who feeds your baby eats at home,text,NA,NA,NA
-bib6c07c,BiB_1000.bib1000_6m_main.bib6c07c,How often do you decide what your baby eats at home,decimal,NA,1|2|3|4|5|6|7|8,Never|Seldom|Half the time|Most of the time|Always|Don't know|Refused to answer|NA
-bib6c07d,BiB_1000.bib1000_6m_main.bib6c07d,Who else decides what your baby eats at home,decimal,NA,1|2|3|4|5,Father|Maternal grandmother|Child's sibling|Paternal grandmother|Other
-bib6c07dotherspecified,BiB_1000.bib1000_6m_main.bib6c07dotherspecified,Specify other person who decides what your baby at home,text,NA,NA,NA
-bib6c08a,BiB_1000.bib1000_6m_main.bib6c08a,Number of hours child sleeps during the day,decimal,NA,NA,NA
-bib6c08b,BiB_1000.bib1000_6m_main.bib6c08b,Number of hours child sleeps during the night,decimal,NA,NA,NA
-bib6d01,BiB_1000.bib1000_6m_main.bib6d01,How do you see the weight of your child,decimal,NA,1|2|3|4|5,Much too low|A little too low|Just right|A little too high|Much too high
-bib6d02,BiB_1000.bib1000_6m_main.bib6d02,How would you classify your child's weight,decimal,NA,1|2|3|4|5,Very underweight|Underweight|Average|Overweight|Very overweight
-bib6d03,BiB_1000.bib1000_6m_main.bib6d03,What is your child's weight compared to other children,decimal,NA,1|2|3|4|5,Much thinner|A little bit thinner|About the same|A little heavier|Much heavier
-bib6d04,BiB_1000.bib1000_6m_main.bib6d04,How quickly has your child gained weight compared to other children,decimal,NA,1|2|3|4|5,Much slower|A little slower|About the same|A little quicker|Much quicker
-bib6d05,BiB_1000.bib1000_6m_main.bib6d05,I am worried my child will become overweight,decimal,NA,1|2|3|4|5,Disagree a lot|Disagree a little|Neither agree nor disagree|Agree a little|Agree a lot
-bib6d06,BiB_1000.bib1000_6m_main.bib6d06,I would be concerned if my child was undereating and not gaining weight,decimal,NA,1|2|3|4|5,Disagree a lot|Disagree a little|Neither agree nor disagree|Agree a little|Agree a lot
-bib6d07,BiB_1000.bib1000_6m_main.bib6d07,How would you describe yourself,decimal,NA,1|2|3|4|5|6|7,Very overweight|Moderately overweight|Slightly overweight|Just right|Slightly underweight|Moderately underweight|Very underweight
-bib6d08mother,BiB_1000.bib1000_6m_main.bib6d08mother,Select the picture that looks most like you (mother),decimal,NA,NA,NA
-bib6d08partner,BiB_1000.bib1000_6m_main.bib6d08partner,Select the picture that looks most like you (partner),decimal,NA,NA,NA
-bib6e01,BiB_1000.bib1000_6m_main.bib6e01,Marital status,decimal,NA,1|2|3|4|5|6,Married|Re-married|Single|Separated|Divorced|Widowed
-bib6e01marcohab,BiB_1000.bib1000_6m_main.bib6e01marcohab,Marital/cohabitation status (derived),decimal,NA,1|2|3|4,"Married|Cohabiting with partner|Partner, not cohabiting|Single"
-bib6e02,BiB_1000.bib1000_6m_main.bib6e02,Living arrangements,decimal,NA,1|2|3|4,Living with baby's father|Living with another partner|Not living with partner but in a relationship|Not living with partner and not in a relationship
-bib6e03,BiB_1000.bib1000_6m_main.bib6e03,Number of people living in household,decimal,NA,NA,NA
-bib6f01,BiB_1000.bib1000_6m_main.bib6f01,Current employment status,decimal,NA,1|2|3|4|5|6,"In a job, working for an employer|On maternity leave from employer| Self employed|Full-time student|Looking after home and family|Doing something else"
-bib6f01otherspecified,BiB_1000.bib1000_6m_main.bib6f01otherspecified,Specify if other employment status,text,NA,NA,NA
-bib6f02,BiB_1000.bib1000_6m_main.bib6f02,Have you returned to work since child was born,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6f03,BiB_1000.bib1000_6m_main.bib6f03,Do you work as an employee or are you self-employed,decimal,NA,1|2|3|4,Employee|Self employed with employees|Self employed without employees|Student
-bib6f04,BiB_1000.bib1000_6m_main.bib6f04,How many people work for your employer,decimal,NA,1|2|3,1-24|25+|Don't know
-bib6f05,BiB_1000.bib1000_6m_main.bib6f05,Do you supervise other employees,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6f06,BiB_1000.bib1000_6m_main.bib6f06,What best describes your work,decimal,NA,1|2|3|4|5|6|7|8,Modern professional occupations|Clerical and intermediate occupations|Senior managers or administrators|Technical and craft occupations|Semi-rountine manual and service occupations|Routine manual and service occupations|Middle or junior managers|Traditional professional occupations
-bib6f07,BiB_1000.bib1000_6m_main.bib6f07,Has your partner ever been employed,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6f08,BiB_1000.bib1000_6m_main.bib6f08,Is your partner an employee or self-employed,decimal,NA,1|2|3|4,Employee|Self employed with employees|Self employed without employees|Student
-bib6f09,BiB_1000.bib1000_6m_main.bib6f09,How many people work for your partners employer,decimal,NA,1|2|3,1-24|25+|Don't know
-bib6f10,BiB_1000.bib1000_6m_main.bib6f10,Does your partner supervise any other employees,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6f11,BiB_1000.bib1000_6m_main.bib6f11,What best describes your partners work,decimal,NA,1|2|3|4|5|6|7|8,Modern professional occupations|Clerical and intermediate occupations|Senior managers or administrators|Technical and craft occupations|Semi-rountine manual and service occupations|Routine manual and service occupations|Middle or junior managers|Traditional professional occupations
-bib6g01,BiB_1000.bib1000_6m_main.bib6g01,Do you have regular arrangement to have your child looked after,decimal,NA,NA,NA
-bib6g2acarerfeed,BiB_1000.bib1000_6m_main.bib6g2acarerfeed,Does your partner feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2ahome,BiB_1000.bib1000_6m_main.bib6g2ahome,Is your child looked after in your home by partner,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2ahrs,BiB_1000.bib1000_6m_main.bib6g2ahrs,Hours/week child looked after by partner,decimal,NA,NA,NA
-bib6g2aothercchildren,BiB_1000.bib1000_6m_main.bib6g2aothercchildren,How many other children does your partner look after,decimal,NA,NA,NA
-bib6g2bcarerfeed,BiB_1000.bib1000_6m_main.bib6g2bcarerfeed,Does your non-resident partner feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2bhome,BiB_1000.bib1000_6m_main.bib6g2bhome,Is your child looked after in your home by non-resident partner,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2bhrs,BiB_1000.bib1000_6m_main.bib6g2bhrs,Hours/week child looked after by non-resident partner,decimal,NA,NA,NA
-bib6g2botherchildren,BiB_1000.bib1000_6m_main.bib6g2botherchildren,How many other children does your non-resident partner look after,decimal,NA,NA,NA
-bib6g2ccarerfeed,BiB_1000.bib1000_6m_main.bib6g2ccarerfeed,Does your mother feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2chome,BiB_1000.bib1000_6m_main.bib6g2chome,Is your child looked after in your home by your mother,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2chrs,BiB_1000.bib1000_6m_main.bib6g2chrs,Hours/week child looked after by your mother,decimal,NA,NA,NA
-bib6g2cotherchildren,BiB_1000.bib1000_6m_main.bib6g2cotherchildren,How many other children does your mother look after,decimal,NA,NA,NA
-bib6g2dcarerfeed,BiB_1000.bib1000_6m_main.bib6g2dcarerfeed,Does your father feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2dhome,BiB_1000.bib1000_6m_main.bib6g2dhome,Is your child looked after in your home by your father,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2dhrs,BiB_1000.bib1000_6m_main.bib6g2dhrs,Hours/week child looked after by your father,decimal,NA,NA,NA
-bib6g2dotherchildren,BiB_1000.bib1000_6m_main.bib6g2dotherchildren,How many other children does your father look after,decimal,NA,NA,NA
-bib6g2ecarerfeed,BiB_1000.bib1000_6m_main.bib6g2ecarerfeed,Does your partner's mother feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2ehome,BiB_1000.bib1000_6m_main.bib6g2ehome,Is your child looked after in your home by your partner's mother,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2ehrs,BiB_1000.bib1000_6m_main.bib6g2ehrs,Hours/week child looked after by your partner's mother,decimal,NA,NA,NA
-bib6g2eotherchildren,BiB_1000.bib1000_6m_main.bib6g2eotherchildren,How many other children does your partner's mother look after,decimal,NA,NA,NA
-bib6g2fcarerfeed,BiB_1000.bib1000_6m_main.bib6g2fcarerfeed,Does your partner's father feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2fhome,BiB_1000.bib1000_6m_main.bib6g2fhome,Is your child looked after in your home by your partner's father,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2fhrs,BiB_1000.bib1000_6m_main.bib6g2fhrs,Hours/week child looked after by your partner's father,decimal,NA,NA,NA
-bib6g2fotherchildren,BiB_1000.bib1000_6m_main.bib6g2fotherchildren,How many other children does your partner's father look after,decimal,NA,NA,NA
-bib6g2gcarerfeed,BiB_1000.bib1000_6m_main.bib6g2gcarerfeed,Does your non-resident partner's mother feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2ghome,BiB_1000.bib1000_6m_main.bib6g2ghome,Is your child looked after in your home by non-resident partner's mother,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2ghrs,BiB_1000.bib1000_6m_main.bib6g2ghrs,Hours/week child looked after by non-resident partner's mother,decimal,NA,NA,NA
-bib6g2gotherchildren,BiB_1000.bib1000_6m_main.bib6g2gotherchildren,How many other children does your non-resident partner's mother look after,decimal,NA,NA,NA
-bib6g2hcarerfeed,BiB_1000.bib1000_6m_main.bib6g2hcarerfeed,Does your non-resident partner's father feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2hhome,BiB_1000.bib1000_6m_main.bib6g2hhome,Is your child looked after in your home by non-resident partner's father,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2hhrs,BiB_1000.bib1000_6m_main.bib6g2hhrs,Hours/week child looked after by non-resident partner's father,decimal,NA,NA,NA
-bib6g2hotherchildren,BiB_1000.bib1000_6m_main.bib6g2hotherchildren,How many other children does your non-resident partner's father look after,decimal,NA,NA,NA
-bib6g2icarerfeed,BiB_1000.bib1000_6m_main.bib6g2icarerfeed,Does your other relative feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2ihome,BiB_1000.bib1000_6m_main.bib6g2ihome,Is your child looked after in your home by other relative,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2ihrs,BiB_1000.bib1000_6m_main.bib6g2ihrs,Hours/week child looked after by other relative,decimal,NA,NA,NA
-bib6g2iotherchildren,BiB_1000.bib1000_6m_main.bib6g2iotherchildren,How many other children does your other relative look after,decimal,NA,NA,NA
-bib6g2jcarerfeed,BiB_1000.bib1000_6m_main.bib6g2jcarerfeed,Does your friend/neighbour feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2jhome,BiB_1000.bib1000_6m_main.bib6g2jhome,Is your child looked after in your home by your friend/neighbour,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2jhrs,BiB_1000.bib1000_6m_main.bib6g2jhrs,Hours/week child looked after by your friend/neighbour,decimal,NA,NA,NA
-bib6g2jotherchildren,BiB_1000.bib1000_6m_main.bib6g2jotherchildren,How many other children does your friend/neighbour look after,decimal,NA,NA,NA
-bib6g2kcarerfeed,BiB_1000.bib1000_6m_main.bib6g2kcarerfeed,Does your live-in nanny/au-pair feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2khome,BiB_1000.bib1000_6m_main.bib6g2khome,Is your child looked after in your home by your live-in nanny/au-pair,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2khrs,BiB_1000.bib1000_6m_main.bib6g2khrs,Hours/week child looked after by your live-in nanny/au-pair,decimal,NA,NA,NA
-bib6g2kotherchildren,BiB_1000.bib1000_6m_main.bib6g2kotherchildren,How many other children does your live-in nanny/au-pair look after,decimal,NA,NA,NA
-bib6g2lcarerfeed,BiB_1000.bib1000_6m_main.bib6g2lcarerfeed,Does your other nanny/au-pair feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2lhome,BiB_1000.bib1000_6m_main.bib6g2lhome,Is your child looked after in your home by your other nanny/au-pair,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2lhrs,BiB_1000.bib1000_6m_main.bib6g2lhrs,Hours/week child looked after by your other nanny/au-pair,decimal,NA,NA,NA
-bib6g2lotherchildren,BiB_1000.bib1000_6m_main.bib6g2lotherchildren,How many other children does your other nanny/au-pair look after,decimal,NA,NA,NA
-bib6g2mcarerfeed,BiB_1000.bib1000_6m_main.bib6g2mcarerfeed,Does a registered child-minderfeed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2mhome,BiB_1000.bib1000_6m_main.bib6g2mhome,Is your child looked after in your home by a registered child-minder,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2mhrs,BiB_1000.bib1000_6m_main.bib6g2mhrs,Hours/week child looked after by a registered child-minder,decimal,NA,NA,NA
-bib6g2motherchildren,BiB_1000.bib1000_6m_main.bib6g2motherchildren,How many other children does a registered child-minder look after,decimal,NA,NA,NA
-bib6g2ncarerfeed,BiB_1000.bib1000_6m_main.bib6g2ncarerfeed,Does an unregistered child-minder feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2nhome,BiB_1000.bib1000_6m_main.bib6g2nhome,Is your child looked after in your home by an unregistered child-minder,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2nhrs,BiB_1000.bib1000_6m_main.bib6g2nhrs,Hours/week child looked after by an unregistered child-minder,decimal,NA,NA,NA
-bib6g2notherchildren,BiB_1000.bib1000_6m_main.bib6g2notherchildren,How many other children does an unregistered child-minder look after,decimal,NA,NA,NA
-bib6g2ocarerfeed,BiB_1000.bib1000_6m_main.bib6g2ocarerfeed,Does a workplace creche feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2ohome,BiB_1000.bib1000_6m_main.bib6g2ohome,Is your child looked after in your home by a workplace creche,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2ohrs,BiB_1000.bib1000_6m_main.bib6g2ohrs,Hours/week child looked after by a workplace creche,decimal,NA,NA,NA
-bib6g2pcarerfeed,BiB_1000.bib1000_6m_main.bib6g2pcarerfeed,Does a local authority creche feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2phome,BiB_1000.bib1000_6m_main.bib6g2phome,Is your child looked after in your home by a local authority creche,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2phrs,BiB_1000.bib1000_6m_main.bib6g2phrs,Hours/week child looked after by a local authority creche,decimal,NA,NA,NA
-bib6g2qcarerfeed,BiB_1000.bib1000_6m_main.bib6g2qcarerfeed,Does a private creche feed your child,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2qhome,BiB_1000.bib1000_6m_main.bib6g2qhome,Is your child looked after in your home by a private creche,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6g2qhrs,BiB_1000.bib1000_6m_main.bib6g2qhrs,Hours/week child looked after by a private creche,decimal,NA,NA,NA
-bib6h01,BiB_1000.bib1000_6m_main.bib6h01,Have you ever regularly smoked cigarettes,decimal,NA,1|2|3,"Yes, for >1 year|Yes, for <1 year|No"
-bib6h02,BiB_1000.bib1000_6m_main.bib6h02,Do you smoke nowadays,decimal,NA,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib6h02a,BiB_1000.bib1000_6m_main.bib6h02a,"If no, age stopped smoking",decimal,NA,NA,NA
-bib6h02adr,BiB_1000.bib1000_6m_main.bib6h02adr,Don't remember age stopped smoking,decimal,NA,1,Don't remember
-bib6h03,BiB_1000.bib1000_6m_main.bib6h03,"If yes, number of cigs smoked since giving birth",decimal,NA,1|2|3|4|5,None|1-5 per day|6-10 per day|11-20 per day|20+ per day
-bib6h04,BiB_1000.bib1000_6m_main.bib6h04,Are you exposed to other peoples' smoke,decimal,NA,1|2|3,Yes|No|<1 hour per day/occasionally
-bib6h04hrs,BiB_1000.bib1000_6m_main.bib6h04hrs,"If yes, for how many hours",decimal,NA,NA,NA
-bib6h05,BiB_1000.bib1000_6m_main.bib6h05,Is child exposed to other peoples' smoke,decimal,NA,1|2|3,Yes|No|<1 hour per day/occasionally
-bib6h05hrs,BiB_1000.bib1000_6m_main.bib6h05hrs,"If yes, for how many hours",decimal,NA,NA,NA
-bib6h06,BiB_1000.bib1000_6m_main.bib6h06,Have you drunk alcohol since giving birth,decimal,NA,1|2|3|4,"Yes, once a week or more|Yes, occasionally|No|Don't remember"
-bib6h07beeravg,BiB_1000.bib1000_6m_main.bib6h07beeravg,Average number of units/week of beer,decimal,NA,NA,NA
-bib6h07beerdr,BiB_1000.bib1000_6m_main.bib6h07beerdr,Don't remember the number of units/week of beer,decimal,NA,1,Don't remember
-bib6h07beermax,BiB_1000.bib1000_6m_main.bib6h07beermax,Maximum number of units/week of beer,decimal,NA,NA,NA
-bib6h07beerna,BiB_1000.bib1000_6m_main.bib6h07beerna,Question not applicable,decimal,NA,1,Not applicable
-bib6h07otheravg,BiB_1000.bib1000_6m_main.bib6h07otheravg,Average number of units/week of other,decimal,NA,NA,NA
-bib6h07otherdr,BiB_1000.bib1000_6m_main.bib6h07otherdr,Don't remember the number of units/week of other,decimal,NA,1,Don't remember
-bib6h07othermax,BiB_1000.bib1000_6m_main.bib6h07othermax,Maximum number of units/week of other,decimal,NA,NA,NA
-bib6h07otherna,BiB_1000.bib1000_6m_main.bib6h07otherna,Question not applicable,decimal,NA,1,Not applicable
-bib6h07spiritsavg,BiB_1000.bib1000_6m_main.bib6h07spiritsavg,Average number of units/week of spirits,decimal,NA,NA,NA
-bib6h07spiritsdr,BiB_1000.bib1000_6m_main.bib6h07spiritsdr,Don't remember the number of units/week of spirits,decimal,NA,1,Don't remember
-bib6h07spiritsmax,BiB_1000.bib1000_6m_main.bib6h07spiritsmax,Maximum number of units/week of spirits,decimal,NA,NA,NA
-bib6h07spiritsna,BiB_1000.bib1000_6m_main.bib6h07spiritsna,Question not applicable,decimal,NA,1,Not applicable
-bib6h07wineavg,BiB_1000.bib1000_6m_main.bib6h07wineavg,Average number of units/week of wine,decimal,NA,NA,NA
-bib6h07winedr,BiB_1000.bib1000_6m_main.bib6h07winedr,Don't remember the number of units/week of wine,decimal,NA,1,Don't remember
-bib6h07winemax,BiB_1000.bib1000_6m_main.bib6h07winemax,Maximum number of units/week of wine,decimal,NA,NA,NA
-bib6h07winena,BiB_1000.bib1000_6m_main.bib6h07winena,Question not applicable,decimal,NA,1,Not applicable
-bib6h08,BiB_1000.bib1000_6m_main.bib6h08,How often have you drank 5+ units of alcohol/week since giving birth,decimal,NA,1|2|3|4|5|6,Everyday|Nearly everyday|1-4 times per week|1-3 times per month|Rarely|Never
-bib6i01,BiB_1000.bib1000_6m_main.bib6i01,"In last week, number of times spent walking 10+ minutes",decimal,NA,NA,NA
-bib6i01na,BiB_1000.bib1000_6m_main.bib6i01na,Question I1 not applicable,decimal,NA,1,Not applicable
-bib6i02mumwalktot,BiB_1000.bib1000_6m_main.bib6i02mumwalktot,Total mins mother walked continuously >10 mins,decimal,NA,NA,NA
-bib6i03,BiB_1000.bib1000_6m_main.bib6i03,"In last week, number of times spent doing vigorous gardening",decimal,NA,NA,NA
-bib6i03mumgardtot,BiB_1000.bib1000_6m_main.bib6i03mumgardtot,Total mins mother did vigorous gardening continuously >10 mins,decimal,NA,NA,NA
-bib6i03na,BiB_1000.bib1000_6m_main.bib6i03na,Question I3 not applicable,decimal,NA,1,Not applicable
-bib6i05,BiB_1000.bib1000_6m_main.bib6i05,"In last week, number of times spent doing vigorous physical activity",decimal,NA,NA,NA
-bib6i05na,BiB_1000.bib1000_6m_main.bib6i05na,Question I5 not applicable,decimal,NA,1,Not applicable
-bib6i06mumvigpatot,BiB_1000.bib1000_6m_main.bib6i06mumvigpatot,Total mins mother did vigorous physical activity continuously >10 mins,decimal,NA,NA,NA
-bib6i07,BiB_1000.bib1000_6m_main.bib6i07,"In last week, number of times spent doing other moderate physical activity",decimal,NA,NA,NA
-bib6i07mummodpatot,BiB_1000.bib1000_6m_main.bib6i07mummodpatot,Total mins mother did modoerate physical activity continuously >10 mins,decimal,NA,NA,NA
-bib6i07na,BiB_1000.bib1000_6m_main.bib6i07na,Question I7 not applicable,decimal,NA,1,Not applicable
-bib6i09a,BiB_1000.bib1000_6m_main.bib6i09a,Taking stairs/being active 30+ mins a day is enough to improve health,decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
-bib6i09b,BiB_1000.bib1000_6m_main.bib6i09b,Half hour brisk walking on most days is enough to improve health,decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
-bib6i09c,BiB_1000.bib1000_6m_main.bib6i09c,Essential to do vigorous exercise for 20+ mins 3 times/week to improve health,decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
-bib6i09d,BiB_1000.bib1000_6m_main.bib6i09d,"Exercise doesn't have to be done all at once, 10 minute blocks are OK",decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
-bib6i09e,BiB_1000.bib1000_6m_main.bib6i09e,Moderate exercise that increases your heart rate slightly can improve health,decimal,NA,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
-bib6imumactdurtot,BiB_1000.bib1000_6m_main.bib6imumactdurtot,Total mins mother did walking/mod/vig activity continuously >10 mins,decimal,NA,NA,NA
-bib6imumactfreqtot,BiB_1000.bib1000_6m_main.bib6imumactfreqtot,Total sessions mother did walking/mod/vig activity continuously >10 mins,decimal,NA,NA,NA
-bib6imumsuffactvol,BiB_1000.bib1000_6m_main.bib6imumsuffactvol,Physical activity group based on total activity time only,decimal,NA,0|1|2,Not active at all|Active for 1 to 149 minutes|Active for 150+ minutes
-bib6imumsuffactvolfreq,BiB_1000.bib1000_6m_main.bib6imumsuffactvolfreq,Physical activity group based on total activity time and frequency,decimal,NA,0|1|2,Not active at all|Active for 1+ minutes less than 5 times per week|Active for 150+ minutes more than 5 times per week
-bib6j01wk,BiB_1000.bib1000_6m_main.bib6j01wk,Number of hours per day TV on week days,decimal,NA,NA,NA
-bib6j01wkend,BiB_1000.bib1000_6m_main.bib6j01wkend,Number of hours per day TV on weekends,decimal,NA,NA,NA
-bib6j01wkendna,BiB_1000.bib1000_6m_main.bib6j01wkendna,Question J1 (weekend) not applicable,decimal,NA,1,Not applicable
-bib6j01wkna,BiB_1000.bib1000_6m_main.bib6j01wkna,Question J1 (week day) not applicable,decimal,NA,1,Not applicable
-bib6j02a,BiB_1000.bib1000_6m_main.bib6j02a,Number of hours per day mum watched TV on week days before 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
-bib6j02b,BiB_1000.bib1000_6m_main.bib6j02b,Number of hours per day mum watched TV on week days after 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
-bib6j02c,BiB_1000.bib1000_6m_main.bib6j02c,Number of hours per day mum watched TV on weekends before 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
-bib6j02d,BiB_1000.bib1000_6m_main.bib6j02d,Number of hours per day mum watched TV on weekends after 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
-bib6j02mumhravday,BiB_1000.bib1000_6m_main.bib6j02mumhravday,Average hours of daily TV viewing by mother,decimal,NA,NA,NA
-bib6j02mumhrdaywk,BiB_1000.bib1000_6m_main.bib6j02mumhrdaywk,Hours of daily weekday TV viewing by mother,decimal,NA,NA,NA
-bib6j02mumhrdaywkend,BiB_1000.bib1000_6m_main.bib6j02mumhrdaywkend,Hours of daily weekend TV viewing by mother,decimal,NA,NA,NA
-bib6j03a,BiB_1000.bib1000_6m_main.bib6j03a,Number of hours/day child watched TV on week days before 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
-bib6j03b,BiB_1000.bib1000_6m_main.bib6j03b,Number of hours/day child watched TV on week days after 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
-bib6j03c,BiB_1000.bib1000_6m_main.bib6j03c,Number of hours/day child watched TV on weekends before 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
-bib6j03chdhravday,BiB_1000.bib1000_6m_main.bib6j03chdhravday,Average hours of daily TV viewing by child,decimal,NA,NA,NA
-bib6j03chdhrdaywk,BiB_1000.bib1000_6m_main.bib6j03chdhrdaywk,Hours of daily weekday TV viewing by child,decimal,NA,NA,NA
-bib6j03chdhrdaywkend,BiB_1000.bib1000_6m_main.bib6j03chdhrdaywkend,Hours of daily weekend TV viewing by child,decimal,NA,NA,NA
-bib6j03d,BiB_1000.bib1000_6m_main.bib6j03d,Number of hours/day child watched TV on weekends after 6pm,decimal,NA,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
-bib6k01,BiB_1000.bib1000_6m_main.bib6k01,How many portions of fruit do you eat/day,decimal,NA,NA,NA
-bib6k01na,BiB_1000.bib1000_6m_main.bib6k01na,Question K1 not applicable,decimal,NA,1,Not applicable
-bib6k02,BiB_1000.bib1000_6m_main.bib6k02,How many portions of vegetables do you eat/day,decimal,NA,NA,NA
-bib6k02na,BiB_1000.bib1000_6m_main.bib6k02na,Question K2 not applicable,decimal,NA,1,Not applicable
-bib6k03,BiB_1000.bib1000_6m_main.bib6k03,What milk do you usually drink,decimal,NA,1|2|3|4|5|6,Whole/full fat milk|Semi-skimmed milk|Skimmed milk|Rarely/never use milk|Condensed milk|Other
-bib6k03otherspecified,BiB_1000.bib1000_6m_main.bib6k03otherspecified,Specify other type of milk,text,NA,NA,NA
-bib6k04a,BiB_1000.bib1000_6m_main.bib6k04a,"In the last 7 days, on how many days did you eat breakfast",decimal,NA,0|1|2|3|4|5|6|7,None|1 day|2 days|3 days|4 days|5 days|6 days|7 days
-bib6k04b,BiB_1000.bib1000_6m_main.bib6k04b,"In the last 7 days, on how many days did you eat meals cooked with fresh ingredi",decimal,NA,0|1|2|3|4|5|6|7,None|1 day|2 days|3 days|4 days|5 days|6 days|7 days
-bib6k04c,BiB_1000.bib1000_6m_main.bib6k04c,"In the last 7 days, how often did you have take-away food",decimal,NA,0|1|2|3|4|5|6|7,None|1 day|2 days|3 days|4 days|5 days|6 days|7 days
-bib6k04d,BiB_1000.bib1000_6m_main.bib6k04d,"In the last 7 days, how often did you have a meal away from home",decimal,NA,0|1|2|3|4|5|6|7,None|1 day|2 days|3 days|4 days|5 days|6 days|7 days
-bib6k05,BiB_1000.bib1000_6m_main.bib6k05,What sort of milk do you usually drink in your house,decimal,NA,1|2|3|4|5,Full cream|Semi-skimmed|Skimmed|None|Don't know
-bib6k06,BiB_1000.bib1000_6m_main.bib6k06,What sort of bread do you usually eat in your house,decimal,NA,1|2|3|4|5,White|High fibre white|Wholemeal/granary|None|Don't know
-bib6k07,BiB_1000.bib1000_6m_main.bib6k07,What sort of spread do you usually eat in your house,decimal,NA,1|2|3|4|5,Butter|Margarine|Low fat spread|None|Don't know
-bib6k08a,BiB_1000.bib1000_6m_main.bib6k08a,How do you rate your eating pace,decimal,NA,1|2|3,Slow|Average|Fast
-bib6k08b,BiB_1000.bib1000_6m_main.bib6k08b,How do you rate your partner's eating pace,decimal,NA,1|2|3,Slow|Average|Fast
-bib6k08bna,BiB_1000.bib1000_6m_main.bib6k08bna,Question K8 not applicable,decimal,NA,1,Not applicable
-bib6k09a,BiB_1000.bib1000_6m_main.bib6k09a,How long does it take you to eat your evening meal,decimal,NA,1|2|3|4,5-10 minutes|11-20 minutes|21-30 minutes|>30 minutes
-bib6k09b,BiB_1000.bib1000_6m_main.bib6k09b,How long does it take your partner to eat your evening meal,decimal,NA,1|2|3|4,5-10 minutes|11-20 minutes|21-30 minutes|>30 minutes
-bib6k09bna,BiB_1000.bib1000_6m_main.bib6k09bna,Question K9 not applicable,decimal,NA,1,Not applicable
-bib6k10a,BiB_1000.bib1000_6m_main.bib6k10a,How often do you take a second helping,decimal,NA,1|2|3|4|5,Never|Almost never|Sometimes|Frequently|Always
-bib6k10b,BiB_1000.bib1000_6m_main.bib6k10b,How often does your partner take a second helping,decimal,NA,1|2|3|4|5,Never|Almost never|Sometimes|Frequently|Always
-bib6k10bna,BiB_1000.bib1000_6m_main.bib6k10bna,Question K10 not applicable,decimal,NA,1,Not applicable
-bib6k11,BiB_1000.bib1000_6m_main.bib6k11,Do you usually eat until you are full,decimal,NA,NA,NA
-bib6l01,BiB_1000.bib1000_6m_main.bib6l01,Fruit,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l02,BiB_1000.bib1000_6m_main.bib6l02,Salad,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l03,BiB_1000.bib1000_6m_main.bib6l03,Vegetables,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l04,BiB_1000.bib1000_6m_main.bib6l04,"Boiled, mashed or jacket potatoes",decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l05,BiB_1000.bib1000_6m_main.bib6l05,Fried or roasted potatoes,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l06,BiB_1000.bib1000_6m_main.bib6l06,Oven-cooked chips,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l07,BiB_1000.bib1000_6m_main.bib6l07,Fried chips,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l08,BiB_1000.bib1000_6m_main.bib6l08,Fried rice/biryani,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l09,BiB_1000.bib1000_6m_main.bib6l09,Chapattis/parathas/puris/nan with butter,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l10,BiB_1000.bib1000_6m_main.bib6l10,Boiled rice,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l11,BiB_1000.bib1000_6m_main.bib6l11,Chapattis/parathas/puris/nan without butter,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l12,BiB_1000.bib1000_6m_main.bib6l12,Biscuits,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l13,BiB_1000.bib1000_6m_main.bib6l13,Cakes/pastries,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l14,BiB_1000.bib1000_6m_main.bib6l14,Crisps/other savoury snacks,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l15,BiB_1000.bib1000_6m_main.bib6l15,"Chevda,Bombay mix etc",decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l16,BiB_1000.bib1000_6m_main.bib6l16,Indian sweets,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l17,BiB_1000.bib1000_6m_main.bib6l17,Samosas/pakoras/spring rolls,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l18,BiB_1000.bib1000_6m_main.bib6l18,Sausage rolls/pork pies/pasties,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l19,BiB_1000.bib1000_6m_main.bib6l19,Other snacks,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l19otherspecified,BiB_1000.bib1000_6m_main.bib6l19otherspecified,Specify other snacks,text,NA,NA,NA
-bib6l20,BiB_1000.bib1000_6m_main.bib6l20,Natural fruit juice,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l21,BiB_1000.bib1000_6m_main.bib6l21,Mango juice,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l22,BiB_1000.bib1000_6m_main.bib6l22,Fruit drinks/squash - sugar-free,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l23,BiB_1000.bib1000_6m_main.bib6l23,Fruit drinks/squash - contains sugar,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l24,BiB_1000.bib1000_6m_main.bib6l24,Coke/Pepsi/Fanta,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l25,BiB_1000.bib1000_6m_main.bib6l25,Diet Coke/diet Pepsi/diet Fanta,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l26,BiB_1000.bib1000_6m_main.bib6l26,"Meat pies/pasties, vegetarian pies",decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l27,BiB_1000.bib1000_6m_main.bib6l27,Pizza/quiche/flan,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l28,BiB_1000.bib1000_6m_main.bib6l28,Chip-shop meal,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l29,BiB_1000.bib1000_6m_main.bib6l29,Beef/veggie burgers,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l30,BiB_1000.bib1000_6m_main.bib6l30,Fried chicken take-away,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l31,BiB_1000.bib1000_6m_main.bib6l31,Indian take-away,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l32,BiB_1000.bib1000_6m_main.bib6l32,Donner kebab,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l33,BiB_1000.bib1000_6m_main.bib6l33,Chinese take-away,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l34,BiB_1000.bib1000_6m_main.bib6l34,Other ready meal/take-away,decimal,NA,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
-bib6l34otherspecified,BiB_1000.bib1000_6m_main.bib6l34otherspecified,Specify other ready meal/take-away,text,NA,NA,NA
-bib6language,BiB_1000.bib1000_6m_main.bib6language,Language questionnaire administered in,decimal,NA,1|2|3|4,English|Mirpuri|Urdu|Other
-bib6m01,BiB_1000.bib1000_6m_main.bib6m01,Physically struggle to get child to eat,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m02,BiB_1000.bib1000_6m_main.bib6m02,Promise child something other than food if he eats,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m03,BiB_1000.bib1000_6m_main.bib6m03,Encourage child to eat by arranging food to make it more interesting,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m04,BiB_1000.bib1000_6m_main.bib6m04,Ask child questions about food during dinner,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m05,BiB_1000.bib1000_6m_main.bib6m05,Tell child to eat at least a little bit on their plate,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m06,BiB_1000.bib1000_6m_main.bib6m06,Reason with child to get him to eat,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m07,BiB_1000.bib1000_6m_main.bib6m07,Show your disapproval of child for not eating dinner,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m08,BiB_1000.bib1000_6m_main.bib6m08,Allow child to choose from food already prepared,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m09,BiB_1000.bib1000_6m_main.bib6m09,Compliment child for eating food,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m10,BiB_1000.bib1000_6m_main.bib6m10,Suggest child that he eats dinner,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m11,BiB_1000.bib1000_6m_main.bib6m11,Tell child to 'Hurry up and eat food',decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m12,BiB_1000.bib1000_6m_main.bib6m12,Warn child will take something other than food if he doesn't eat,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m13,BiB_1000.bib1000_6m_main.bib6m13,Tell child to eat something on the plate,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m14,BiB_1000.bib1000_6m_main.bib6m14,Warn child you will take food away if he doesn't eat,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m15,BiB_1000.bib1000_6m_main.bib6m15,Say something positive about the food child is eating,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m16,BiB_1000.bib1000_6m_main.bib6m16,Spoon-feed child to get him to eat,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m17,BiB_1000.bib1000_6m_main.bib6m17,Help child eat dinner,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m18,BiB_1000.bib1000_6m_main.bib6m18,Encourage child to eat by using food as a reward,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6m19,BiB_1000.bib1000_6m_main.bib6m19,Beg child to eat dinner,decimal,NA,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
-bib6motherweight,BiB_1000.bib1000_6m_main.bib6motherweight,Mother's weight (kg),decimal,NA,NA,NA
-bib6motherweightunable,BiB_1000.bib1000_6m_main.bib6motherweightunable,Mother's weight unavailable,decimal,NA,1,Not available
-bib6n01,BiB_1000.bib1000_6m_main.bib6n01,Feeling perfectly well and in good health,decimal,NA,1|2|3|4,Better than usual|Same as usual|Worse than usual|Much worse than usual
-bib6n02,BiB_1000.bib1000_6m_main.bib6n02,Feeling in need of a good tonic,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n03,BiB_1000.bib1000_6m_main.bib6n03,Feeling run down and out of sort,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n04,BiB_1000.bib1000_6m_main.bib6n04,Felt ill,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n05,BiB_1000.bib1000_6m_main.bib6n05,Getting pains in head,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n06,BiB_1000.bib1000_6m_main.bib6n06,Feeling tightness/pains in head,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n07,BiB_1000.bib1000_6m_main.bib6n07,Having hot/cold spells,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n08,BiB_1000.bib1000_6m_main.bib6n08,Lost much sleep over worry,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n09,BiB_1000.bib1000_6m_main.bib6n09,Difficulty staying asleep,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n10,BiB_1000.bib1000_6m_main.bib6n10,Felt constantly under strain,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n11,BiB_1000.bib1000_6m_main.bib6n11,Getting edgy/bad tempered,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n12,BiB_1000.bib1000_6m_main.bib6n12,Getting scared/panicky,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n13,BiB_1000.bib1000_6m_main.bib6n13,Found everything getting on top of you,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n14,BiB_1000.bib1000_6m_main.bib6n14,Feeling nervous/strung-up,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n15,BiB_1000.bib1000_6m_main.bib6n15,Managing to keep yourself busy/occupied,decimal,NA,1|2|3|4,More so than usual|Same as usual|Rather less than usual|Much less than usual
-bib6n16,BiB_1000.bib1000_6m_main.bib6n16,Taking longer over things you do,decimal,NA,1|2|3|4,Quicker than usual|Same as usual|Longer than usual|Much longer than usual
-bib6n17,BiB_1000.bib1000_6m_main.bib6n17,Felt you were doing things well,decimal,NA,1|2|3|4,Better than usual|Same as usual|Less well than usual|Much less well than usual
-bib6n18,BiB_1000.bib1000_6m_main.bib6n18,Been satisfied with the way you've carried out tasks,decimal,NA,1|2|3|4,More satisfied than usual|About the same as usual|Less satisfied than usual|Much less satisfied than usual
-bib6n19,BiB_1000.bib1000_6m_main.bib6n19,Felt you're playing a useful part in things,decimal,NA,1|2|3|4,More so than usual|Same as usual|Rather less than usual|Much less than usual
-bib6n20,BiB_1000.bib1000_6m_main.bib6n20,Capable fo making decisions about things,decimal,NA,1|2|3|4,More so than usual|Same as usual|Rather less than usual|Much less than usual
-bib6n21,BiB_1000.bib1000_6m_main.bib6n21,Able to enjoy normal day-to-day activities,decimal,NA,1|2|3|4,More so than usual|Same as usual|Rather less than usual|Much less than usual
-bib6n22,BiB_1000.bib1000_6m_main.bib6n22,Thinking of yourself as worthless,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n23,BiB_1000.bib1000_6m_main.bib6n23,Felt life is hopeless,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n24,BiB_1000.bib1000_6m_main.bib6n24,Felt life isn't worth living,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n25,BiB_1000.bib1000_6m_main.bib6n25,Thought you might make away with yourself,decimal,NA,1|2|3|4,Definitely  not|I don't think so|Has crossed my mind|Definitely have
-bib6n26,BiB_1000.bib1000_6m_main.bib6n26,Found you couldn't do anything because nerves were bad,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n27,BiB_1000.bib1000_6m_main.bib6n27,Found yourself wishing you were dead,decimal,NA,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
-bib6n28,BiB_1000.bib1000_6m_main.bib6n28,Found the idea of taking your own life coming inot your mind,decimal,NA,1|2|3|4,Definitely  not|I don't think so|Has crossed my mind|Definitely have
-bib6o01,BiB_1000.bib1000_6m_main.bib6o01,How easy/difficult is it to calm/soothe your baby when upset,decimal,NA,NA,NA
-bib6o02,BiB_1000.bib1000_6m_main.bib6o02,How easy/difficult is it to predict when baby will go to sleep and wake up,decimal,NA,NA,NA
-bib6o03,BiB_1000.bib1000_6m_main.bib6o03,How easy/difficult is it to predict when baby will become hungry,decimal,NA,NA,NA
-bib6o04,BiB_1000.bib1000_6m_main.bib6o04,How easy/difficult is it to know what's bothering baby when he cries,decimal,NA,NA,NA
-bib6o05,BiB_1000.bib1000_6m_main.bib6o05,How many times per day does child get fussy/irritable,decimal,NA,1|2|3|4|5|6|7,Never|1-2 times per day|3-4 times per day|5-6 times per day|7-9 times per day|10-14 times per day|>15 times per day
-bib6o06,BiB_1000.bib1000_6m_main.bib6o06,How much does baby cry/fuss,decimal,NA,NA,NA
-bib6o07,BiB_1000.bib1000_6m_main.bib6o07,How did baby response to first bath,decimal,NA,NA,NA
-bib6o08,BiB_1000.bib1000_6m_main.bib6o08,How did baby respond to first solid food,decimal,NA,NA,NA
-bib6o09,BiB_1000.bib1000_6m_main.bib6o09,How does baby respond to a new person,decimal,NA,NA,NA
-bib6o10,BiB_1000.bib1000_6m_main.bib6o10,How does baby respond to being in a new place,decimal,NA,NA,NA
-bib6o11,BiB_1000.bib1000_6m_main.bib6o11,How well does baby adapt to things,decimal,NA,NA,NA
-bib6o12,BiB_1000.bib1000_6m_main.bib6o12,How easily does baby get upset,decimal,NA,NA,NA
-bib6o13,BiB_1000.bib1000_6m_main.bib6o13,"When baby is upset, how vigorously does he cry",decimal,NA,NA,NA
-bib6o14,BiB_1000.bib1000_6m_main.bib6o14,How does baby react when being dressed,decimal,NA,NA,NA
-bib6o15,BiB_1000.bib1000_6m_main.bib6o15,How active is baby,decimal,NA,NA,NA
-bib6o16,BiB_1000.bib1000_6m_main.bib6o16,How much does baby smile/make happy sounds,decimal,NA,NA,NA
-bib6o17,BiB_1000.bib1000_6m_main.bib6o17,What kind of mood is baby generally in,decimal,NA,NA,NA
-bib6o18,BiB_1000.bib1000_6m_main.bib6o18,How much does baby enjoying playing games,decimal,NA,NA,NA
-bib6o19,BiB_1000.bib1000_6m_main.bib6o19,How much does baby want to be held,decimal,NA,NA,NA
-bib6o20,BiB_1000.bib1000_6m_main.bib6o20,How does baby respond to disruptions/changes,decimal,NA,NA,NA
-bib6o21,BiB_1000.bib1000_6m_main.bib6o21,How easy can you predict a nappy change,decimal,NA,NA,NA
-bib6o22,BiB_1000.bib1000_6m_main.bib6o22,How changeable is baby's mood,decimal,NA,NA,NA
-bib6o23,BiB_1000.bib1000_6m_main.bib6o23,How excited does baby become when being played with,decimal,NA,NA,NA
-bib6o24,BiB_1000.bib1000_6m_main.bib6o24,Rate overall degree of difficulty baby would present for average mother,decimal,NA,NA,NA
-bib6p01,BiB_1000.bib1000_6m_main.bib6p01,"Overall as a parent, do you feel that you are",decimal,NA,1|2|3|4|5,Not very good at being a parent|A person who has some trouble being a parent|An average parent|A better than average parent|A very good parent
-bib6p02,BiB_1000.bib1000_6m_main.bib6p02,I am very good at keeping child amused,decimal,NA,NA,NA
-bib6p03,BiB_1000.bib1000_6m_main.bib6p03,I am very good at calming child when upset,decimal,NA,NA,NA
-bib6p04,BiB_1000.bib1000_6m_main.bib6p04,I am very good at keeping child busy while doing housework,decimal,NA,NA,NA
-bib6p05,BiB_1000.bib1000_6m_main.bib6p05,I am very good at routine tasks of caring for child,decimal,NA,NA,NA
-bib6p06,BiB_1000.bib1000_6m_main.bib6p06,How often do you express affection by hugging etc child,decimal,NA,1|2|3|4|5,Never|Rarely|Sometimes|Often|Always/almost always
-bib6p07,BiB_1000.bib1000_6m_main.bib6p07,How often do you hug child for no particular reason,decimal,NA,1|2|3|4|5,Never|Rarely|Sometimes|Often|Always/almost always
-bib6p08,BiB_1000.bib1000_6m_main.bib6p08,How often do you tell child how happy he makes you,decimal,NA,1|2|3|4|5,Never|Rarely|Sometimes|Often|Always/almost always
-bib6p09,BiB_1000.bib1000_6m_main.bib6p09,How often do you have warm/close times with child,decimal,NA,1|2|3|4|5,Never|Rarely|Sometimes|Often|Always/almost always
-bib6p10,BiB_1000.bib1000_6m_main.bib6p10,How often do you enjoy doing things with child,decimal,NA,1|2|3|4|5,Never|Rarely|Sometimes|Often|Always/almost always
-bib6p11,BiB_1000.bib1000_6m_main.bib6p11,How often do you feel close to child when he is happy or upset,decimal,NA,1|2|3|4|5,Never|Rarely|Sometimes|Often|Always/almost always
-bib6p12,BiB_1000.bib1000_6m_main.bib6p12,I have been angry with child,decimal,NA,NA,NA
-bib6p13,BiB_1000.bib1000_6m_main.bib6p13,I have raise dmy voice/shouted at child,decimal,NA,NA,NA
-bib6p14,BiB_1000.bib1000_6m_main.bib6p14,When child cries he gets on my nerves,decimal,NA,NA,NA
-bib6p15,BiB_1000.bib1000_6m_main.bib6p15,I have lost my temper with child,decimal,NA,NA,NA
-bib6p16,BiB_1000.bib1000_6m_main.bib6p16,I have left child alone in his bedroom when he was upset,decimal,NA,NA,NA
-bib6p17,BiB_1000.bib1000_6m_main.bib6p17,I always check on child immediately when he is crying,decimal,NA,1|2|3|4|5,Strongly agree|Agree|Neither agree or disagree|Disagree|Strongly disagree
-bib6p18,BiB_1000.bib1000_6m_main.bib6p18,Child is happier with me than with babysitters,decimal,NA,1|2|3|4|5,Strongly agree|Agree|Neither agree or disagree|Disagree|Strongly disagree
-bib6p19,BiB_1000.bib1000_6m_main.bib6p19,When away from child I worry whether sitter is able to soothe child,decimal,NA,1|2|3|4|5,Strongly agree|Agree|Neither agree or disagree|Disagree|Strongly disagree
-bib6p20,BiB_1000.bib1000_6m_main.bib6p20,Only a mother naturally knows how to comfort her distressed child,decimal,NA,1|2|3|4|5,Strongly agree|Agree|Neither agree or disagree|Disagree|Strongly disagree
-bib6p21,BiB_1000.bib1000_6m_main.bib6p21,I worry when someone else cares for child,decimal,NA,1|2|3|4|5,Strongly agree|Agree|Neither agree or disagree|Disagree|Strongly disagree
-bib6p22,BiB_1000.bib1000_6m_main.bib6p22,I'm naturally better at keeping child safe than any other person,decimal,NA,1|2|3|4|5,Strongly agree|Agree|Neither agree or disagree|Disagree|Strongly disagree
-bib6p23,BiB_1000.bib1000_6m_main.bib6p23,Child is likely to get upset when left with babysitter,decimal,NA,1|2|3|4|5,Strongly agree|Agree|Neither agree or disagree|Disagree|Strongly disagree
-has_bib1kc,BiB_1000.bib1000_6m_main.has_bib1kc,Child was recruited to BiB 1000,decimal,NA,1,has
+has_bib1000_6m_main,BiB_1000.bib1000_6m_main.has_bib1000_6m_main,Has bib 1000 6m questionnaire main table,decimal,,,
+agecm_b6mtab,BiB_1000.bib1000_6m_main.agecm_b6mtab,Child age (months) BiB1000 6m questionnaire,decimal,,,
+agecy_b6mtab,BiB_1000.bib1000_6m_main.agecy_b6mtab,Child age (years) BiB1000 6m questionnaire,decimal,,,
+agemm_b6mtab,BiB_1000.bib1000_6m_main.agemm_b6mtab,Mother age (months) BiB1000 6m questionnaire,decimal,,,
+agemy_b6mtab,BiB_1000.bib1000_6m_main.agemy_b6mtab,Mother age (years) BiB1000 6m questionnaire,decimal,,,
+bib6a01,BiB_1000.bib1000_6m_main.bib6a01,Describe your own health,decimal,,1|2|3|4|5,Excellent|Very good|Good|Fair|Poor
+bib6a02,BiB_1000.bib1000_6m_main.bib6a02,Describe your child's health,decimal,,1|2|3|4|5,Excellent|Very good|Good|Fair|Poor
+bib6b01,BiB_1000.bib1000_6m_main.bib6b01,Has child seen a doctor/nurse since birth,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b02,BiB_1000.bib1000_6m_main.bib6b02,How many times seen doctor/nurse,decimal,,1|2|3|4|5|6|7,Once|Twice|3-4 times|5-10 times|11+ times|Don't know|Refused to answer
+bib6b03abreathprob,BiB_1000.bib1000_6m_main.bib6b03abreathprob,Saw doctor - breathing problems,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03achestinf,BiB_1000.bib1000_6m_main.bib6b03achestinf,Saw doctor - chest infection,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03aconstipation,BiB_1000.bib1000_6m_main.bib6b03aconstipation,Saw doctor - constipation,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03aconvulsions,BiB_1000.bib1000_6m_main.bib6b03aconvulsions,Saw doctor - convulsions,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03acough,BiB_1000.bib1000_6m_main.bib6b03acough,Saw doctor - cough,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03acrying,BiB_1000.bib1000_6m_main.bib6b03acrying,Saw doctor - crying,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03adiarrhoea,BiB_1000.bib1000_6m_main.bib6b03adiarrhoea,Saw doctor - diarrhoea,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03aearprob,BiB_1000.bib1000_6m_main.bib6b03aearprob,Saw doctor - ear problems,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03againmuchwt,BiB_1000.bib1000_6m_main.bib6b03againmuchwt,Saw doctor - gaining too much weight,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03ahightemp,BiB_1000.bib1000_6m_main.bib6b03ahightemp,Saw doctor - high temperature,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03anogainwt,BiB_1000.bib1000_6m_main.bib6b03anogainwt,Saw doctor - not gaining weight,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03aother,BiB_1000.bib1000_6m_main.bib6b03aother,Saw doctor - other reason,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03aotherspecified,BiB_1000.bib1000_6m_main.bib6b03aotherspecified,Specify why saw doctor because of other reason,text,,,
+bib6b03askinprob,BiB_1000.bib1000_6m_main.bib6b03askinprob,Saw doctor - skin problems,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03asnuffles,BiB_1000.bib1000_6m_main.bib6b03asnuffles,Saw doctor - snuffles,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03athrush,BiB_1000.bib1000_6m_main.bib6b03athrush,Saw doctor - thrush,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03atummy,BiB_1000.bib1000_6m_main.bib6b03atummy,Saw doctor - tummy upset,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03auti,BiB_1000.bib1000_6m_main.bib6b03auti,Saw doctor - urinary tract infection,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03avomiting,BiB_1000.bib1000_6m_main.bib6b03avomiting,Saw doctor - vomiting,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bbreathprob,BiB_1000.bib1000_6m_main.bib6b03bbreathprob,Saw nurse - breathing problems,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bchestinf,BiB_1000.bib1000_6m_main.bib6b03bchestinf,Saw nurse - chest infection,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bconstipation,BiB_1000.bib1000_6m_main.bib6b03bconstipation,Saw nurse - constipation,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bconvulsions,BiB_1000.bib1000_6m_main.bib6b03bconvulsions,Saw nurse - convulsions,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bcough,BiB_1000.bib1000_6m_main.bib6b03bcough,Saw nurse - cough,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bcrying,BiB_1000.bib1000_6m_main.bib6b03bcrying,Saw nurse - crying,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bdiarrhoea,BiB_1000.bib1000_6m_main.bib6b03bdiarrhoea,Saw nurse - diarrhoea,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bearprob,BiB_1000.bib1000_6m_main.bib6b03bearprob,Saw nurse - ear problems,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bgainmuchwt,BiB_1000.bib1000_6m_main.bib6b03bgainmuchwt,Saw nurse - gaining too much weight,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bhightemp,BiB_1000.bib1000_6m_main.bib6b03bhightemp,Saw nurse - high temperature,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bnogainwt,BiB_1000.bib1000_6m_main.bib6b03bnogainwt,Saw nurse - not gaining weight,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bother,BiB_1000.bib1000_6m_main.bib6b03bother,Saw nurse - other reason,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03botherspecified,BiB_1000.bib1000_6m_main.bib6b03botherspecified,Specify why saw nurse because of other reason,text,,,
+bib6b03bskinprob,BiB_1000.bib1000_6m_main.bib6b03bskinprob,Saw nurse - skin problems,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bsnuffles,BiB_1000.bib1000_6m_main.bib6b03bsnuffles,Saw nurse - snuffles,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bthrush,BiB_1000.bib1000_6m_main.bib6b03bthrush,Saw nurse - thrush,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03btummy,BiB_1000.bib1000_6m_main.bib6b03btummy,Saw nurse - tummy upset,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03buti,BiB_1000.bib1000_6m_main.bib6b03buti,Saw nurse - urinary tract infection,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b03bvomiting,BiB_1000.bib1000_6m_main.bib6b03bvomiting,Saw nurse - vomiting,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b04,BiB_1000.bib1000_6m_main.bib6b04,Has child been given a medical diagnosis,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b05,BiB_1000.bib1000_6m_main.bib6b05,Has child been admitted to hospital since birth,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b05a,BiB_1000.bib1000_6m_main.bib6b05a,Number of hospital admissions,decimal,,,
+bib6b06,BiB_1000.bib1000_6m_main.bib6b06,Has child been to an outpatient clinic since birth,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b06a,BiB_1000.bib1000_6m_main.bib6b06a,Number of outpatient clinics attended,decimal,,,
+bib6b07,BiB_1000.bib1000_6m_main.bib6b07,Has child been hurt/injured/had accident and needed medical attention,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6b07a,BiB_1000.bib1000_6m_main.bib6b07a,Number of times child has been hurt etc,decimal,,,
+bib6c01,BiB_1000.bib1000_6m_main.bib6c01,Was child ever breastfed,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6c02,BiB_1000.bib1000_6m_main.bib6c02,Is child still being breastfed,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6c03days,BiB_1000.bib1000_6m_main.bib6c03days,Age stopped breastfeeding (days)(derived),decimal,,,
+bib6c04,BiB_1000.bib1000_6m_main.bib6c04,Has child had formula,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6c04days,BiB_1000.bib1000_6m_main.bib6c04days,Age first had formula (days)(derived),decimal,,,
+bib6c05a,BiB_1000.bib1000_6m_main.bib6c05a,Has child had unsweetened drinks,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6c05adays,BiB_1000.bib1000_6m_main.bib6c05adays,Age first had unsweetened drinks (days)(derived),decimal,,,
+bib6c05b,BiB_1000.bib1000_6m_main.bib6c05b,Has child had sweetened drinks,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6c05bdays,BiB_1000.bib1000_6m_main.bib6c05bdays,Age first had sweetened drinks (days)(derived),decimal,,,
+bib6c06a,BiB_1000.bib1000_6m_main.bib6c06a,Has child had savoury food,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6c06adays,BiB_1000.bib1000_6m_main.bib6c06adays,Age first had savoury food (days)(derived),decimal,,,
+bib6c06b,BiB_1000.bib1000_6m_main.bib6c06b,Has child had sweetened food,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6c06bdays,BiB_1000.bib1000_6m_main.bib6c06bdays,Age first had sweetened food (days)(derived),decimal,,,
+bib6c07a,BiB_1000.bib1000_6m_main.bib6c07a,How often do you feed your child at home,decimal,,1|2|3|4|5|6|7|8,Never|Seldom|Half the time|Most of the time|Always|Don't know|Refused to answer|NA
+bib6c07b,BiB_1000.bib1000_6m_main.bib6c07b,Who else feeds your child at home,decimal,,1|2|3|4|5,Father|Maternal grandmother|Child's sibling|Paternal grandmother|Other
+bib6c07botherspecified,BiB_1000.bib1000_6m_main.bib6c07botherspecified,Specify other person who feeds your baby eats at home,text,,,
+bib6c07c,BiB_1000.bib1000_6m_main.bib6c07c,How often do you decide what your baby eats at home,decimal,,1|2|3|4|5|6|7|8,Never|Seldom|Half the time|Most of the time|Always|Don't know|Refused to answer|NA
+bib6c07d,BiB_1000.bib1000_6m_main.bib6c07d,Who else decides what your baby eats at home,decimal,,1|2|3|4|5,Father|Maternal grandmother|Child's sibling|Paternal grandmother|Other
+bib6c07dotherspecified,BiB_1000.bib1000_6m_main.bib6c07dotherspecified,Specify other person who decides what your baby at home,text,,,
+bib6c08a,BiB_1000.bib1000_6m_main.bib6c08a,Number of hours child sleeps during the day,decimal,,,
+bib6c08b,BiB_1000.bib1000_6m_main.bib6c08b,Number of hours child sleeps during the night,decimal,,,
+bib6d01,BiB_1000.bib1000_6m_main.bib6d01,How do you see the weight of your child,decimal,,1|2|3|4|5,Much too low|A little too low|Just right|A little too high|Much too high
+bib6d02,BiB_1000.bib1000_6m_main.bib6d02,How would you classify your child's weight,decimal,,1|2|3|4|5,Very underweight|Underweight|Average|Overweight|Very overweight
+bib6d03,BiB_1000.bib1000_6m_main.bib6d03,What is your child's weight compared to other children,decimal,,1|2|3|4|5,Much thinner|A little bit thinner|About the same|A little heavier|Much heavier
+bib6d04,BiB_1000.bib1000_6m_main.bib6d04,How quickly has your child gained weight compared to other children,decimal,,1|2|3|4|5,Much slower|A little slower|About the same|A little quicker|Much quicker
+bib6d05,BiB_1000.bib1000_6m_main.bib6d05,I am worried my child will become overweight,decimal,,1|2|3|4|5,Disagree a lot|Disagree a little|Neither agree nor disagree|Agree a little|Agree a lot
+bib6d06,BiB_1000.bib1000_6m_main.bib6d06,I would be concerned if my child was undereating and not gaining weight,decimal,,1|2|3|4|5,Disagree a lot|Disagree a little|Neither agree nor disagree|Agree a little|Agree a lot
+bib6d07,BiB_1000.bib1000_6m_main.bib6d07,How would you describe yourself,decimal,,1|2|3|4|5|6|7,Very overweight|Moderately overweight|Slightly overweight|Just right|Slightly underweight|Moderately underweight|Very underweight
+bib6d08mother,BiB_1000.bib1000_6m_main.bib6d08mother,Select the picture that looks most like you (mother),decimal,,,
+bib6d08partner,BiB_1000.bib1000_6m_main.bib6d08partner,Select the picture that looks most like you (partner),decimal,,,
+bib6e01,BiB_1000.bib1000_6m_main.bib6e01,Marital status,decimal,,1|2|3|4|5|6,Married|Re-married|Single|Separated|Divorced|Widowed
+bib6e01marcohab,BiB_1000.bib1000_6m_main.bib6e01marcohab,Marital/cohabitation status (derived),decimal,,1|2|3|4,"Married|Cohabiting with partner|Partner, not cohabiting|Single"
+bib6e02,BiB_1000.bib1000_6m_main.bib6e02,Living arrangements,decimal,,1|2|3|4,Living with baby's father|Living with another partner|Not living with partner but in a relationship|Not living with partner and not in a relationship
+bib6e03,BiB_1000.bib1000_6m_main.bib6e03,Number of people living in household,decimal,,,
+bib6f01,BiB_1000.bib1000_6m_main.bib6f01,Current employment status,decimal,,1|2|3|4|5|6,"In a job, working for an employer|On maternity leave from employer| Self employed|Full-time student|Looking after home and family|Doing something else"
+bib6f01otherspecified,BiB_1000.bib1000_6m_main.bib6f01otherspecified,Specify if other employment status,text,,,
+bib6f02,BiB_1000.bib1000_6m_main.bib6f02,Have you returned to work since child was born,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6f03,BiB_1000.bib1000_6m_main.bib6f03,Do you work as an employee or are you self-employed,decimal,,1|2|3|4,Employee|Self employed with employees|Self employed without employees|Student
+bib6f04,BiB_1000.bib1000_6m_main.bib6f04,How many people work for your employer,decimal,,1|2|3,1-24|25+|Don't know
+bib6f05,BiB_1000.bib1000_6m_main.bib6f05,Do you supervise other employees,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6f06,BiB_1000.bib1000_6m_main.bib6f06,What best describes your work,decimal,,1|2|3|4|5|6|7|8,Modern professional occupations|Clerical and intermediate occupations|Senior managers or administrators|Technical and craft occupations|Semi-rountine manual and service occupations|Routine manual and service occupations|Middle or junior managers|Traditional professional occupations
+bib6f07,BiB_1000.bib1000_6m_main.bib6f07,Has your partner ever been employed,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6f08,BiB_1000.bib1000_6m_main.bib6f08,Is your partner an employee or self-employed,decimal,,1|2|3|4,Employee|Self employed with employees|Self employed without employees|Student
+bib6f09,BiB_1000.bib1000_6m_main.bib6f09,How many people work for your partners employer,decimal,,1|2|3,1-24|25+|Don't know
+bib6f10,BiB_1000.bib1000_6m_main.bib6f10,Does your partner supervise any other employees,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6f11,BiB_1000.bib1000_6m_main.bib6f11,What best describes your partners work,decimal,,1|2|3|4|5|6|7|8,Modern professional occupations|Clerical and intermediate occupations|Senior managers or administrators|Technical and craft occupations|Semi-rountine manual and service occupations|Routine manual and service occupations|Middle or junior managers|Traditional professional occupations
+bib6g01,BiB_1000.bib1000_6m_main.bib6g01,Do you have regular arrangement to have your child looked after,decimal,,,
+bib6g2acarerfeed,BiB_1000.bib1000_6m_main.bib6g2acarerfeed,Does your partner feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2ahome,BiB_1000.bib1000_6m_main.bib6g2ahome,Is your child looked after in your home by partner,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2ahrs,BiB_1000.bib1000_6m_main.bib6g2ahrs,Hours/week child looked after by partner,decimal,,,
+bib6g2aothercchildren,BiB_1000.bib1000_6m_main.bib6g2aothercchildren,How many other children does your partner look after,decimal,,,
+bib6g2bcarerfeed,BiB_1000.bib1000_6m_main.bib6g2bcarerfeed,Does your non-resident partner feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2bhome,BiB_1000.bib1000_6m_main.bib6g2bhome,Is your child looked after in your home by non-resident partner,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2bhrs,BiB_1000.bib1000_6m_main.bib6g2bhrs,Hours/week child looked after by non-resident partner,decimal,,,
+bib6g2botherchildren,BiB_1000.bib1000_6m_main.bib6g2botherchildren,How many other children does your non-resident partner look after,decimal,,,
+bib6g2ccarerfeed,BiB_1000.bib1000_6m_main.bib6g2ccarerfeed,Does your mother feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2chome,BiB_1000.bib1000_6m_main.bib6g2chome,Is your child looked after in your home by your mother,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2chrs,BiB_1000.bib1000_6m_main.bib6g2chrs,Hours/week child looked after by your mother,decimal,,,
+bib6g2cotherchildren,BiB_1000.bib1000_6m_main.bib6g2cotherchildren,How many other children does your mother look after,decimal,,,
+bib6g2dcarerfeed,BiB_1000.bib1000_6m_main.bib6g2dcarerfeed,Does your father feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2dhome,BiB_1000.bib1000_6m_main.bib6g2dhome,Is your child looked after in your home by your father,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2dhrs,BiB_1000.bib1000_6m_main.bib6g2dhrs,Hours/week child looked after by your father,decimal,,,
+bib6g2dotherchildren,BiB_1000.bib1000_6m_main.bib6g2dotherchildren,How many other children does your father look after,decimal,,,
+bib6g2ecarerfeed,BiB_1000.bib1000_6m_main.bib6g2ecarerfeed,Does your partner's mother feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2ehome,BiB_1000.bib1000_6m_main.bib6g2ehome,Is your child looked after in your home by your partner's mother,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2ehrs,BiB_1000.bib1000_6m_main.bib6g2ehrs,Hours/week child looked after by your partner's mother,decimal,,,
+bib6g2eotherchildren,BiB_1000.bib1000_6m_main.bib6g2eotherchildren,How many other children does your partner's mother look after,decimal,,,
+bib6g2fcarerfeed,BiB_1000.bib1000_6m_main.bib6g2fcarerfeed,Does your partner's father feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2fhome,BiB_1000.bib1000_6m_main.bib6g2fhome,Is your child looked after in your home by your partner's father,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2fhrs,BiB_1000.bib1000_6m_main.bib6g2fhrs,Hours/week child looked after by your partner's father,decimal,,,
+bib6g2fotherchildren,BiB_1000.bib1000_6m_main.bib6g2fotherchildren,How many other children does your partner's father look after,decimal,,,
+bib6g2gcarerfeed,BiB_1000.bib1000_6m_main.bib6g2gcarerfeed,Does your non-resident partner's mother feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2ghome,BiB_1000.bib1000_6m_main.bib6g2ghome,Is your child looked after in your home by non-resident partner's mother,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2ghrs,BiB_1000.bib1000_6m_main.bib6g2ghrs,Hours/week child looked after by non-resident partner's mother,decimal,,,
+bib6g2gotherchildren,BiB_1000.bib1000_6m_main.bib6g2gotherchildren,How many other children does your non-resident partner's mother look after,decimal,,,
+bib6g2hcarerfeed,BiB_1000.bib1000_6m_main.bib6g2hcarerfeed,Does your non-resident partner's father feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2hhome,BiB_1000.bib1000_6m_main.bib6g2hhome,Is your child looked after in your home by non-resident partner's father,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2hhrs,BiB_1000.bib1000_6m_main.bib6g2hhrs,Hours/week child looked after by non-resident partner's father,decimal,,,
+bib6g2hotherchildren,BiB_1000.bib1000_6m_main.bib6g2hotherchildren,How many other children does your non-resident partner's father look after,decimal,,,
+bib6g2icarerfeed,BiB_1000.bib1000_6m_main.bib6g2icarerfeed,Does your other relative feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2ihome,BiB_1000.bib1000_6m_main.bib6g2ihome,Is your child looked after in your home by other relative,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2ihrs,BiB_1000.bib1000_6m_main.bib6g2ihrs,Hours/week child looked after by other relative,decimal,,,
+bib6g2iotherchildren,BiB_1000.bib1000_6m_main.bib6g2iotherchildren,How many other children does your other relative look after,decimal,,,
+bib6g2jcarerfeed,BiB_1000.bib1000_6m_main.bib6g2jcarerfeed,Does your friend/neighbour feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2jhome,BiB_1000.bib1000_6m_main.bib6g2jhome,Is your child looked after in your home by your friend/neighbour,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2jhrs,BiB_1000.bib1000_6m_main.bib6g2jhrs,Hours/week child looked after by your friend/neighbour,decimal,,,
+bib6g2jotherchildren,BiB_1000.bib1000_6m_main.bib6g2jotherchildren,How many other children does your friend/neighbour look after,decimal,,,
+bib6g2kcarerfeed,BiB_1000.bib1000_6m_main.bib6g2kcarerfeed,Does your live-in nanny/au-pair feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2khome,BiB_1000.bib1000_6m_main.bib6g2khome,Is your child looked after in your home by your live-in nanny/au-pair,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2khrs,BiB_1000.bib1000_6m_main.bib6g2khrs,Hours/week child looked after by your live-in nanny/au-pair,decimal,,,
+bib6g2kotherchildren,BiB_1000.bib1000_6m_main.bib6g2kotherchildren,How many other children does your live-in nanny/au-pair look after,decimal,,,
+bib6g2lcarerfeed,BiB_1000.bib1000_6m_main.bib6g2lcarerfeed,Does your other nanny/au-pair feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2lhome,BiB_1000.bib1000_6m_main.bib6g2lhome,Is your child looked after in your home by your other nanny/au-pair,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2lhrs,BiB_1000.bib1000_6m_main.bib6g2lhrs,Hours/week child looked after by your other nanny/au-pair,decimal,,,
+bib6g2lotherchildren,BiB_1000.bib1000_6m_main.bib6g2lotherchildren,How many other children does your other nanny/au-pair look after,decimal,,,
+bib6g2mcarerfeed,BiB_1000.bib1000_6m_main.bib6g2mcarerfeed,Does a registered child-minderfeed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2mhome,BiB_1000.bib1000_6m_main.bib6g2mhome,Is your child looked after in your home by a registered child-minder,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2mhrs,BiB_1000.bib1000_6m_main.bib6g2mhrs,Hours/week child looked after by a registered child-minder,decimal,,,
+bib6g2motherchildren,BiB_1000.bib1000_6m_main.bib6g2motherchildren,How many other children does a registered child-minder look after,decimal,,,
+bib6g2ncarerfeed,BiB_1000.bib1000_6m_main.bib6g2ncarerfeed,Does an unregistered child-minder feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2nhome,BiB_1000.bib1000_6m_main.bib6g2nhome,Is your child looked after in your home by an unregistered child-minder,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2nhrs,BiB_1000.bib1000_6m_main.bib6g2nhrs,Hours/week child looked after by an unregistered child-minder,decimal,,,
+bib6g2notherchildren,BiB_1000.bib1000_6m_main.bib6g2notherchildren,How many other children does an unregistered child-minder look after,decimal,,,
+bib6g2ocarerfeed,BiB_1000.bib1000_6m_main.bib6g2ocarerfeed,Does a workplace creche feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2ohome,BiB_1000.bib1000_6m_main.bib6g2ohome,Is your child looked after in your home by a workplace creche,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2ohrs,BiB_1000.bib1000_6m_main.bib6g2ohrs,Hours/week child looked after by a workplace creche,decimal,,,
+bib6g2pcarerfeed,BiB_1000.bib1000_6m_main.bib6g2pcarerfeed,Does a local authority creche feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2phome,BiB_1000.bib1000_6m_main.bib6g2phome,Is your child looked after in your home by a local authority creche,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2phrs,BiB_1000.bib1000_6m_main.bib6g2phrs,Hours/week child looked after by a local authority creche,decimal,,,
+bib6g2qcarerfeed,BiB_1000.bib1000_6m_main.bib6g2qcarerfeed,Does a private creche feed your child,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2qhome,BiB_1000.bib1000_6m_main.bib6g2qhome,Is your child looked after in your home by a private creche,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6g2qhrs,BiB_1000.bib1000_6m_main.bib6g2qhrs,Hours/week child looked after by a private creche,decimal,,,
+bib6h01,BiB_1000.bib1000_6m_main.bib6h01,Have you ever regularly smoked cigarettes,decimal,,1|2|3,"Yes, for >1 year|Yes, for <1 year|No"
+bib6h02,BiB_1000.bib1000_6m_main.bib6h02,Do you smoke nowadays,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib6h02a,BiB_1000.bib1000_6m_main.bib6h02a,"If no, age stopped smoking",decimal,,,
+bib6h02adr,BiB_1000.bib1000_6m_main.bib6h02adr,Don't remember age stopped smoking,decimal,,1,Don't remember
+bib6h03,BiB_1000.bib1000_6m_main.bib6h03,"If yes, number of cigs smoked since giving birth",decimal,,1|2|3|4|5,None|1-5 per day|6-10 per day|11-20 per day|20+ per day
+bib6h04,BiB_1000.bib1000_6m_main.bib6h04,Are you exposed to other peoples' smoke,decimal,,1|2|3,Yes|No|<1 hour per day/occasionally
+bib6h04hrs,BiB_1000.bib1000_6m_main.bib6h04hrs,"If yes, for how many hours",decimal,,,
+bib6h05,BiB_1000.bib1000_6m_main.bib6h05,Is child exposed to other peoples' smoke,decimal,,1|2|3,Yes|No|<1 hour per day/occasionally
+bib6h05hrs,BiB_1000.bib1000_6m_main.bib6h05hrs,"If yes, for how many hours",decimal,,,
+bib6h06,BiB_1000.bib1000_6m_main.bib6h06,Have you drunk alcohol since giving birth,decimal,,1|2|3|4,"Yes, once a week or more|Yes, occasionally|No|Don't remember"
+bib6h07beeravg,BiB_1000.bib1000_6m_main.bib6h07beeravg,Average number of units/week of beer,decimal,,,
+bib6h07beerdr,BiB_1000.bib1000_6m_main.bib6h07beerdr,Don't remember the number of units/week of beer,decimal,,1,Don't remember
+bib6h07beermax,BiB_1000.bib1000_6m_main.bib6h07beermax,Maximum number of units/week of beer,decimal,,,
+bib6h07beerna,BiB_1000.bib1000_6m_main.bib6h07beerna,Question not applicable,decimal,,1,Not applicable
+bib6h07otheravg,BiB_1000.bib1000_6m_main.bib6h07otheravg,Average number of units/week of other,decimal,,,
+bib6h07otherdr,BiB_1000.bib1000_6m_main.bib6h07otherdr,Don't remember the number of units/week of other,decimal,,1,Don't remember
+bib6h07othermax,BiB_1000.bib1000_6m_main.bib6h07othermax,Maximum number of units/week of other,decimal,,,
+bib6h07otherna,BiB_1000.bib1000_6m_main.bib6h07otherna,Question not applicable,decimal,,1,Not applicable
+bib6h07spiritsavg,BiB_1000.bib1000_6m_main.bib6h07spiritsavg,Average number of units/week of spirits,decimal,,,
+bib6h07spiritsdr,BiB_1000.bib1000_6m_main.bib6h07spiritsdr,Don't remember the number of units/week of spirits,decimal,,1,Don't remember
+bib6h07spiritsmax,BiB_1000.bib1000_6m_main.bib6h07spiritsmax,Maximum number of units/week of spirits,decimal,,,
+bib6h07spiritsna,BiB_1000.bib1000_6m_main.bib6h07spiritsna,Question not applicable,decimal,,1,Not applicable
+bib6h07wineavg,BiB_1000.bib1000_6m_main.bib6h07wineavg,Average number of units/week of wine,decimal,,,
+bib6h07winedr,BiB_1000.bib1000_6m_main.bib6h07winedr,Don't remember the number of units/week of wine,decimal,,1,Don't remember
+bib6h07winemax,BiB_1000.bib1000_6m_main.bib6h07winemax,Maximum number of units/week of wine,decimal,,,
+bib6h07winena,BiB_1000.bib1000_6m_main.bib6h07winena,Question not applicable,decimal,,1,Not applicable
+bib6h08,BiB_1000.bib1000_6m_main.bib6h08,How often have you drank 5+ units of alcohol/week since giving birth,decimal,,1|2|3|4|5|6,Everyday|Nearly everyday|1-4 times per week|1-3 times per month|Rarely|Never
+bib6i01,BiB_1000.bib1000_6m_main.bib6i01,"In last week, number of times spent walking 10+ minutes",decimal,,,
+bib6i01na,BiB_1000.bib1000_6m_main.bib6i01na,Question I1 not applicable,decimal,,1,Not applicable
+bib6i02mumwalktot,BiB_1000.bib1000_6m_main.bib6i02mumwalktot,Total mins mother walked continuously >10 mins,decimal,,,
+bib6i03,BiB_1000.bib1000_6m_main.bib6i03,"In last week, number of times spent doing vigorous gardening",decimal,,,
+bib6i03mumgardtot,BiB_1000.bib1000_6m_main.bib6i03mumgardtot,Total mins mother did vigorous gardening continuously >10 mins,decimal,,,
+bib6i03na,BiB_1000.bib1000_6m_main.bib6i03na,Question I3 not applicable,decimal,,1,Not applicable
+bib6i05,BiB_1000.bib1000_6m_main.bib6i05,"In last week, number of times spent doing vigorous physical activity",decimal,,,
+bib6i05na,BiB_1000.bib1000_6m_main.bib6i05na,Question I5 not applicable,decimal,,1,Not applicable
+bib6i06mumvigpatot,BiB_1000.bib1000_6m_main.bib6i06mumvigpatot,Total mins mother did vigorous physical activity continuously >10 mins,decimal,,,
+bib6i07,BiB_1000.bib1000_6m_main.bib6i07,"In last week, number of times spent doing other moderate physical activity",decimal,,,
+bib6i07mummodpatot,BiB_1000.bib1000_6m_main.bib6i07mummodpatot,Total mins mother did modoerate physical activity continuously >10 mins,decimal,,,
+bib6i07na,BiB_1000.bib1000_6m_main.bib6i07na,Question I7 not applicable,decimal,,1,Not applicable
+bib6i09a,BiB_1000.bib1000_6m_main.bib6i09a,Taking stairs/being active 30+ mins a day is enough to improve health,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib6i09b,BiB_1000.bib1000_6m_main.bib6i09b,Half hour brisk walking on most days is enough to improve health,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib6i09c,BiB_1000.bib1000_6m_main.bib6i09c,Essential to do vigorous exercise for 20+ mins 3 times/week to improve health,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib6i09d,BiB_1000.bib1000_6m_main.bib6i09d,"Exercise doesn't have to be done all at once, 10 minute blocks are OK",decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib6i09e,BiB_1000.bib1000_6m_main.bib6i09e,Moderate exercise that increases your heart rate slightly can improve health,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib6imumactdurtot,BiB_1000.bib1000_6m_main.bib6imumactdurtot,Total mins mother did walking/mod/vig activity continuously >10 mins,decimal,,,
+bib6imumactfreqtot,BiB_1000.bib1000_6m_main.bib6imumactfreqtot,Total sessions mother did walking/mod/vig activity continuously >10 mins,decimal,,,
+bib6imumsuffactvol,BiB_1000.bib1000_6m_main.bib6imumsuffactvol,Physical activity group based on total activity time only,decimal,,0|1|2,Not active at all|Active for 1 to 149 minutes|Active for 150+ minutes
+bib6imumsuffactvolfreq,BiB_1000.bib1000_6m_main.bib6imumsuffactvolfreq,Physical activity group based on total activity time and frequency,decimal,,0|1|2,Not active at all|Active for 1+ minutes less than 5 times per week|Active for 150+ minutes more than 5 times per week
+bib6j01wk,BiB_1000.bib1000_6m_main.bib6j01wk,Number of hours per day TV on week days,decimal,,,
+bib6j01wkend,BiB_1000.bib1000_6m_main.bib6j01wkend,Number of hours per day TV on weekends,decimal,,,
+bib6j01wkendna,BiB_1000.bib1000_6m_main.bib6j01wkendna,Question J1 (weekend) not applicable,decimal,,1,Not applicable
+bib6j01wkna,BiB_1000.bib1000_6m_main.bib6j01wkna,Question J1 (week day) not applicable,decimal,,1,Not applicable
+bib6j02a,BiB_1000.bib1000_6m_main.bib6j02a,Number of hours per day mum watched TV on week days before 6pm,decimal,,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib6j02b,BiB_1000.bib1000_6m_main.bib6j02b,Number of hours per day mum watched TV on week days after 6pm,decimal,,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib6j02c,BiB_1000.bib1000_6m_main.bib6j02c,Number of hours per day mum watched TV on weekends before 6pm,decimal,,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib6j02d,BiB_1000.bib1000_6m_main.bib6j02d,Number of hours per day mum watched TV on weekends after 6pm,decimal,,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib6j02mumhravday,BiB_1000.bib1000_6m_main.bib6j02mumhravday,Average hours of daily TV viewing by mother,decimal,,,
+bib6j02mumhrdaywk,BiB_1000.bib1000_6m_main.bib6j02mumhrdaywk,Hours of daily weekday TV viewing by mother,decimal,,,
+bib6j02mumhrdaywkend,BiB_1000.bib1000_6m_main.bib6j02mumhrdaywkend,Hours of daily weekend TV viewing by mother,decimal,,,
+bib6j03a,BiB_1000.bib1000_6m_main.bib6j03a,Number of hours/day child watched TV on week days before 6pm,decimal,,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib6j03b,BiB_1000.bib1000_6m_main.bib6j03b,Number of hours/day child watched TV on week days after 6pm,decimal,,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib6j03c,BiB_1000.bib1000_6m_main.bib6j03c,Number of hours/day child watched TV on weekends before 6pm,decimal,,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib6j03chdhravday,BiB_1000.bib1000_6m_main.bib6j03chdhravday,Average hours of daily TV viewing by child,decimal,,,
+bib6j03chdhrdaywk,BiB_1000.bib1000_6m_main.bib6j03chdhrdaywk,Hours of daily weekday TV viewing by child,decimal,,,
+bib6j03chdhrdaywkend,BiB_1000.bib1000_6m_main.bib6j03chdhrdaywkend,Hours of daily weekend TV viewing by child,decimal,,,
+bib6j03d,BiB_1000.bib1000_6m_main.bib6j03d,Number of hours/day child watched TV on weekends after 6pm,decimal,,1|2|3|4|5|6,None|<1 hour per day|1 - 2 hours per day|2 - 3 hours per day|3 - 4 hours per day|4+ hours per day
+bib6k01,BiB_1000.bib1000_6m_main.bib6k01,How many portions of fruit do you eat/day,decimal,,,
+bib6k01na,BiB_1000.bib1000_6m_main.bib6k01na,Question K1 not applicable,decimal,,1,Not applicable
+bib6k02,BiB_1000.bib1000_6m_main.bib6k02,How many portions of vegetables do you eat/day,decimal,,,
+bib6k02na,BiB_1000.bib1000_6m_main.bib6k02na,Question K2 not applicable,decimal,,1,Not applicable
+bib6k03,BiB_1000.bib1000_6m_main.bib6k03,What milk do you usually drink,decimal,,1|2|3|4|5|6,Whole/full fat milk|Semi-skimmed milk|Skimmed milk|Rarely/never use milk|Condensed milk|Other
+bib6k03otherspecified,BiB_1000.bib1000_6m_main.bib6k03otherspecified,Specify other type of milk,text,,,
+bib6k04a,BiB_1000.bib1000_6m_main.bib6k04a,"In the last 7 days, on how many days did you eat breakfast",decimal,,0|1|2|3|4|5|6|7,None|1 day|2 days|3 days|4 days|5 days|6 days|7 days
+bib6k04b,BiB_1000.bib1000_6m_main.bib6k04b,"In the last 7 days, on how many days did you eat meals cooked with fresh ingredi",decimal,,0|1|2|3|4|5|6|7,None|1 day|2 days|3 days|4 days|5 days|6 days|7 days
+bib6k04c,BiB_1000.bib1000_6m_main.bib6k04c,"In the last 7 days, how often did you have take-away food",decimal,,0|1|2|3|4|5|6|7,None|1 day|2 days|3 days|4 days|5 days|6 days|7 days
+bib6k04d,BiB_1000.bib1000_6m_main.bib6k04d,"In the last 7 days, how often did you have a meal away from home",decimal,,0|1|2|3|4|5|6|7,None|1 day|2 days|3 days|4 days|5 days|6 days|7 days
+bib6k05,BiB_1000.bib1000_6m_main.bib6k05,What sort of milk do you usually drink in your house,decimal,,1|2|3|4|5,Full cream|Semi-skimmed|Skimmed|None|Don't know
+bib6k06,BiB_1000.bib1000_6m_main.bib6k06,What sort of bread do you usually eat in your house,decimal,,1|2|3|4|5,White|High fibre white|Wholemeal/granary|None|Don't know
+bib6k07,BiB_1000.bib1000_6m_main.bib6k07,What sort of spread do you usually eat in your house,decimal,,1|2|3|4|5,Butter|Margarine|Low fat spread|None|Don't know
+bib6k08a,BiB_1000.bib1000_6m_main.bib6k08a,How do you rate your eating pace,decimal,,1|2|3,Slow|Average|Fast
+bib6k08b,BiB_1000.bib1000_6m_main.bib6k08b,How do you rate your partner's eating pace,decimal,,1|2|3,Slow|Average|Fast
+bib6k08bna,BiB_1000.bib1000_6m_main.bib6k08bna,Question K8 not applicable,decimal,,1,Not applicable
+bib6k09a,BiB_1000.bib1000_6m_main.bib6k09a,How long does it take you to eat your evening meal,decimal,,1|2|3|4,5-10 minutes|11-20 minutes|21-30 minutes|>30 minutes
+bib6k09b,BiB_1000.bib1000_6m_main.bib6k09b,How long does it take your partner to eat your evening meal,decimal,,1|2|3|4,5-10 minutes|11-20 minutes|21-30 minutes|>30 minutes
+bib6k09bna,BiB_1000.bib1000_6m_main.bib6k09bna,Question K9 not applicable,decimal,,1,Not applicable
+bib6k10a,BiB_1000.bib1000_6m_main.bib6k10a,How often do you take a second helping,decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Frequently|Always
+bib6k10b,BiB_1000.bib1000_6m_main.bib6k10b,How often does your partner take a second helping,decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Frequently|Always
+bib6k10bna,BiB_1000.bib1000_6m_main.bib6k10bna,Question K10 not applicable,decimal,,1,Not applicable
+bib6k11,BiB_1000.bib1000_6m_main.bib6k11,Do you usually eat until you are full,decimal,,,
+bib6l01,BiB_1000.bib1000_6m_main.bib6l01,Fruit,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l02,BiB_1000.bib1000_6m_main.bib6l02,Salad,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l03,BiB_1000.bib1000_6m_main.bib6l03,Vegetables,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l04,BiB_1000.bib1000_6m_main.bib6l04,"Boiled, mashed or jacket potatoes",decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l05,BiB_1000.bib1000_6m_main.bib6l05,Fried or roasted potatoes,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l06,BiB_1000.bib1000_6m_main.bib6l06,Oven-cooked chips,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l07,BiB_1000.bib1000_6m_main.bib6l07,Fried chips,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l08,BiB_1000.bib1000_6m_main.bib6l08,Fried rice/biryani,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l09,BiB_1000.bib1000_6m_main.bib6l09,Chapattis/parathas/puris/nan with butter,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l10,BiB_1000.bib1000_6m_main.bib6l10,Boiled rice,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l11,BiB_1000.bib1000_6m_main.bib6l11,Chapattis/parathas/puris/nan without butter,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l12,BiB_1000.bib1000_6m_main.bib6l12,Biscuits,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l13,BiB_1000.bib1000_6m_main.bib6l13,Cakes/pastries,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l14,BiB_1000.bib1000_6m_main.bib6l14,Crisps/other savoury snacks,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l15,BiB_1000.bib1000_6m_main.bib6l15,"Chevda,Bombay mix etc",decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l16,BiB_1000.bib1000_6m_main.bib6l16,Indian sweets,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l17,BiB_1000.bib1000_6m_main.bib6l17,Samosas/pakoras/spring rolls,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l18,BiB_1000.bib1000_6m_main.bib6l18,Sausage rolls/pork pies/pasties,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l19,BiB_1000.bib1000_6m_main.bib6l19,Other snacks,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l19otherspecified,BiB_1000.bib1000_6m_main.bib6l19otherspecified,Specify other snacks,text,,,
+bib6l20,BiB_1000.bib1000_6m_main.bib6l20,Natural fruit juice,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l21,BiB_1000.bib1000_6m_main.bib6l21,Mango juice,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l22,BiB_1000.bib1000_6m_main.bib6l22,Fruit drinks/squash - sugar-free,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l23,BiB_1000.bib1000_6m_main.bib6l23,Fruit drinks/squash - contains sugar,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l24,BiB_1000.bib1000_6m_main.bib6l24,Coke/Pepsi/Fanta,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l25,BiB_1000.bib1000_6m_main.bib6l25,Diet Coke/diet Pepsi/diet Fanta,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l26,BiB_1000.bib1000_6m_main.bib6l26,"Meat pies/pasties, vegetarian pies",decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l27,BiB_1000.bib1000_6m_main.bib6l27,Pizza/quiche/flan,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l28,BiB_1000.bib1000_6m_main.bib6l28,Chip-shop meal,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l29,BiB_1000.bib1000_6m_main.bib6l29,Beef/veggie burgers,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l30,BiB_1000.bib1000_6m_main.bib6l30,Fried chicken take-away,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l31,BiB_1000.bib1000_6m_main.bib6l31,Indian take-away,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l32,BiB_1000.bib1000_6m_main.bib6l32,Donner kebab,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l33,BiB_1000.bib1000_6m_main.bib6l33,Chinese take-away,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l34,BiB_1000.bib1000_6m_main.bib6l34,Other ready meal/take-away,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 per week|Once per week|2-3 times per week|4-6 times per week|1-2 times per day|3-4 times per day|5+ times per day
+bib6l34otherspecified,BiB_1000.bib1000_6m_main.bib6l34otherspecified,Specify other ready meal/take-away,text,,,
+bib6language,BiB_1000.bib1000_6m_main.bib6language,Language questionnaire administered in,decimal,,1|2|3|4,English|Mirpuri|Urdu|Other
+bib6m01,BiB_1000.bib1000_6m_main.bib6m01,Physically struggle to get child to eat,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m02,BiB_1000.bib1000_6m_main.bib6m02,Promise child something other than food if he eats,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m03,BiB_1000.bib1000_6m_main.bib6m03,Encourage child to eat by arranging food to make it more interesting,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m04,BiB_1000.bib1000_6m_main.bib6m04,Ask child questions about food during dinner,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m05,BiB_1000.bib1000_6m_main.bib6m05,Tell child to eat at least a little bit on their plate,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m06,BiB_1000.bib1000_6m_main.bib6m06,Reason with child to get him to eat,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m07,BiB_1000.bib1000_6m_main.bib6m07,Show your disapproval of child for not eating dinner,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m08,BiB_1000.bib1000_6m_main.bib6m08,Allow child to choose from food already prepared,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m09,BiB_1000.bib1000_6m_main.bib6m09,Compliment child for eating food,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m10,BiB_1000.bib1000_6m_main.bib6m10,Suggest child that he eats dinner,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m11,BiB_1000.bib1000_6m_main.bib6m11,Tell child to 'Hurry up and eat food',decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m12,BiB_1000.bib1000_6m_main.bib6m12,Warn child will take something other than food if he doesn't eat,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m13,BiB_1000.bib1000_6m_main.bib6m13,Tell child to eat something on the plate,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m14,BiB_1000.bib1000_6m_main.bib6m14,Warn child you will take food away if he doesn't eat,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m15,BiB_1000.bib1000_6m_main.bib6m15,Say something positive about the food child is eating,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m16,BiB_1000.bib1000_6m_main.bib6m16,Spoon-feed child to get him to eat,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m17,BiB_1000.bib1000_6m_main.bib6m17,Help child eat dinner,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m18,BiB_1000.bib1000_6m_main.bib6m18,Encourage child to eat by using food as a reward,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6m19,BiB_1000.bib1000_6m_main.bib6m19,Beg child to eat dinner,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Most of the time|Always|Not applicable
+bib6motherweight,BiB_1000.bib1000_6m_main.bib6motherweight,Mother's weight (kg),decimal,,,
+bib6motherweightunable,BiB_1000.bib1000_6m_main.bib6motherweightunable,Mother's weight unavailable,decimal,,1,Not available
+bib6n01,BiB_1000.bib1000_6m_main.bib6n01,Feeling perfectly well and in good health,decimal,,1|2|3|4,Better than usual|Same as usual|Worse than usual|Much worse than usual
+bib6n02,BiB_1000.bib1000_6m_main.bib6n02,Feeling in need of a good tonic,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n03,BiB_1000.bib1000_6m_main.bib6n03,Feeling run down and out of sort,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n04,BiB_1000.bib1000_6m_main.bib6n04,Felt ill,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n05,BiB_1000.bib1000_6m_main.bib6n05,Getting pains in head,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n06,BiB_1000.bib1000_6m_main.bib6n06,Feeling tightness/pains in head,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n07,BiB_1000.bib1000_6m_main.bib6n07,Having hot/cold spells,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n08,BiB_1000.bib1000_6m_main.bib6n08,Lost much sleep over worry,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n09,BiB_1000.bib1000_6m_main.bib6n09,Difficulty staying asleep,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n10,BiB_1000.bib1000_6m_main.bib6n10,Felt constantly under strain,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n11,BiB_1000.bib1000_6m_main.bib6n11,Getting edgy/bad tempered,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n12,BiB_1000.bib1000_6m_main.bib6n12,Getting scared/panicky,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n13,BiB_1000.bib1000_6m_main.bib6n13,Found everything getting on top of you,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n14,BiB_1000.bib1000_6m_main.bib6n14,Feeling nervous/strung-up,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n15,BiB_1000.bib1000_6m_main.bib6n15,Managing to keep yourself busy/occupied,decimal,,1|2|3|4,More so than usual|Same as usual|Rather less than usual|Much less than usual
+bib6n16,BiB_1000.bib1000_6m_main.bib6n16,Taking longer over things you do,decimal,,1|2|3|4,Quicker than usual|Same as usual|Longer than usual|Much longer than usual
+bib6n17,BiB_1000.bib1000_6m_main.bib6n17,Felt you were doing things well,decimal,,1|2|3|4,Better than usual|Same as usual|Less well than usual|Much less well than usual
+bib6n18,BiB_1000.bib1000_6m_main.bib6n18,Been satisfied with the way you've carried out tasks,decimal,,1|2|3|4,More satisfied than usual|About the same as usual|Less satisfied than usual|Much less satisfied than usual
+bib6n19,BiB_1000.bib1000_6m_main.bib6n19,Felt you're playing a useful part in things,decimal,,1|2|3|4,More so than usual|Same as usual|Rather less than usual|Much less than usual
+bib6n20,BiB_1000.bib1000_6m_main.bib6n20,Capable fo making decisions about things,decimal,,1|2|3|4,More so than usual|Same as usual|Rather less than usual|Much less than usual
+bib6n21,BiB_1000.bib1000_6m_main.bib6n21,Able to enjoy normal day-to-day activities,decimal,,1|2|3|4,More so than usual|Same as usual|Rather less than usual|Much less than usual
+bib6n22,BiB_1000.bib1000_6m_main.bib6n22,Thinking of yourself as worthless,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n23,BiB_1000.bib1000_6m_main.bib6n23,Felt life is hopeless,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n24,BiB_1000.bib1000_6m_main.bib6n24,Felt life isn't worth living,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n25,BiB_1000.bib1000_6m_main.bib6n25,Thought you might make away with yourself,decimal,,1|2|3|4,Definitely  not|I don't think so|Has crossed my mind|Definitely have
+bib6n26,BiB_1000.bib1000_6m_main.bib6n26,Found you couldn't do anything because nerves were bad,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n27,BiB_1000.bib1000_6m_main.bib6n27,Found yourself wishing you were dead,decimal,,1|2|3|4,Not at all|No more than usual|Rather more than usual|Much more than usual
+bib6n28,BiB_1000.bib1000_6m_main.bib6n28,Found the idea of taking your own life coming inot your mind,decimal,,1|2|3|4,Definitely  not|I don't think so|Has crossed my mind|Definitely have
+bib6o01,BiB_1000.bib1000_6m_main.bib6o01,How easy/difficult is it to calm/soothe your baby when upset,decimal,,,
+bib6o02,BiB_1000.bib1000_6m_main.bib6o02,How easy/difficult is it to predict when baby will go to sleep and wake up,decimal,,,
+bib6o03,BiB_1000.bib1000_6m_main.bib6o03,How easy/difficult is it to predict when baby will become hungry,decimal,,,
+bib6o04,BiB_1000.bib1000_6m_main.bib6o04,How easy/difficult is it to know what's bothering baby when he cries,decimal,,,
+bib6o05,BiB_1000.bib1000_6m_main.bib6o05,How many times per day does child get fussy/irritable,decimal,,1|2|3|4|5|6|7,Never|1-2 times per day|3-4 times per day|5-6 times per day|7-9 times per day|10-14 times per day|>15 times per day
+bib6o06,BiB_1000.bib1000_6m_main.bib6o06,How much does baby cry/fuss,decimal,,,
+bib6o07,BiB_1000.bib1000_6m_main.bib6o07,How did baby response to first bath,decimal,,,
+bib6o08,BiB_1000.bib1000_6m_main.bib6o08,How did baby respond to first solid food,decimal,,,
+bib6o09,BiB_1000.bib1000_6m_main.bib6o09,How does baby respond to a new person,decimal,,,
+bib6o10,BiB_1000.bib1000_6m_main.bib6o10,How does baby respond to being in a new place,decimal,,,
+bib6o11,BiB_1000.bib1000_6m_main.bib6o11,How well does baby adapt to things,decimal,,,
+bib6o12,BiB_1000.bib1000_6m_main.bib6o12,How easily does baby get upset,decimal,,,
+bib6o13,BiB_1000.bib1000_6m_main.bib6o13,"When baby is upset, how vigorously does he cry",decimal,,,
+bib6o14,BiB_1000.bib1000_6m_main.bib6o14,How does baby react when being dressed,decimal,,,
+bib6o15,BiB_1000.bib1000_6m_main.bib6o15,How active is baby,decimal,,,
+bib6o16,BiB_1000.bib1000_6m_main.bib6o16,How much does baby smile/make happy sounds,decimal,,,
+bib6o17,BiB_1000.bib1000_6m_main.bib6o17,What kind of mood is baby generally in,decimal,,,
+bib6o18,BiB_1000.bib1000_6m_main.bib6o18,How much does baby enjoying playing games,decimal,,,
+bib6o19,BiB_1000.bib1000_6m_main.bib6o19,How much does baby want to be held,decimal,,,
+bib6o20,BiB_1000.bib1000_6m_main.bib6o20,How does baby respond to disruptions/changes,decimal,,,
+bib6o21,BiB_1000.bib1000_6m_main.bib6o21,How easy can you predict a nappy change,decimal,,,
+bib6o22,BiB_1000.bib1000_6m_main.bib6o22,How changeable is baby's mood,decimal,,,
+bib6o23,BiB_1000.bib1000_6m_main.bib6o23,How excited does baby become when being played with,decimal,,,
+bib6o24,BiB_1000.bib1000_6m_main.bib6o24,Rate overall degree of difficulty baby would present for average mother,decimal,,,
+bib6p01,BiB_1000.bib1000_6m_main.bib6p01,"Overall as a parent, do you feel that you are",decimal,,1|2|3|4|5,Not very good at being a parent|A person who has some trouble being a parent|An average parent|A better than average parent|A very good parent
+bib6p02,BiB_1000.bib1000_6m_main.bib6p02,I am very good at keeping child amused,decimal,,,
+bib6p03,BiB_1000.bib1000_6m_main.bib6p03,I am very good at calming child when upset,decimal,,,
+bib6p04,BiB_1000.bib1000_6m_main.bib6p04,I am very good at keeping child busy while doing housework,decimal,,,
+bib6p05,BiB_1000.bib1000_6m_main.bib6p05,I am very good at routine tasks of caring for child,decimal,,,
+bib6p06,BiB_1000.bib1000_6m_main.bib6p06,How often do you express affection by hugging etc child,decimal,,1|2|3|4|5,Never|Rarely|Sometimes|Often|Always/almost always
+bib6p07,BiB_1000.bib1000_6m_main.bib6p07,How often do you hug child for no particular reason,decimal,,1|2|3|4|5,Never|Rarely|Sometimes|Often|Always/almost always
+bib6p08,BiB_1000.bib1000_6m_main.bib6p08,How often do you tell child how happy he makes you,decimal,,1|2|3|4|5,Never|Rarely|Sometimes|Often|Always/almost always
+bib6p09,BiB_1000.bib1000_6m_main.bib6p09,How often do you have warm/close times with child,decimal,,1|2|3|4|5,Never|Rarely|Sometimes|Often|Always/almost always
+bib6p10,BiB_1000.bib1000_6m_main.bib6p10,How often do you enjoy doing things with child,decimal,,1|2|3|4|5,Never|Rarely|Sometimes|Often|Always/almost always
+bib6p11,BiB_1000.bib1000_6m_main.bib6p11,How often do you feel close to child when he is happy or upset,decimal,,1|2|3|4|5,Never|Rarely|Sometimes|Often|Always/almost always
+bib6p12,BiB_1000.bib1000_6m_main.bib6p12,I have been angry with child,decimal,,,
+bib6p13,BiB_1000.bib1000_6m_main.bib6p13,I have raise dmy voice/shouted at child,decimal,,,
+bib6p14,BiB_1000.bib1000_6m_main.bib6p14,When child cries he gets on my nerves,decimal,,,
+bib6p15,BiB_1000.bib1000_6m_main.bib6p15,I have lost my temper with child,decimal,,,
+bib6p16,BiB_1000.bib1000_6m_main.bib6p16,I have left child alone in his bedroom when he was upset,decimal,,,
+bib6p17,BiB_1000.bib1000_6m_main.bib6p17,I always check on child immediately when he is crying,decimal,,1|2|3|4|5,Strongly agree|Agree|Neither agree or disagree|Disagree|Strongly disagree
+bib6p18,BiB_1000.bib1000_6m_main.bib6p18,Child is happier with me than with babysitters,decimal,,1|2|3|4|5,Strongly agree|Agree|Neither agree or disagree|Disagree|Strongly disagree
+bib6p19,BiB_1000.bib1000_6m_main.bib6p19,When away from child I worry whether sitter is able to soothe child,decimal,,1|2|3|4|5,Strongly agree|Agree|Neither agree or disagree|Disagree|Strongly disagree
+bib6p20,BiB_1000.bib1000_6m_main.bib6p20,Only a mother naturally knows how to comfort her distressed child,decimal,,1|2|3|4|5,Strongly agree|Agree|Neither agree or disagree|Disagree|Strongly disagree
+bib6p21,BiB_1000.bib1000_6m_main.bib6p21,I worry when someone else cares for child,decimal,,1|2|3|4|5,Strongly agree|Agree|Neither agree or disagree|Disagree|Strongly disagree
+bib6p22,BiB_1000.bib1000_6m_main.bib6p22,I'm naturally better at keeping child safe than any other person,decimal,,1|2|3|4|5,Strongly agree|Agree|Neither agree or disagree|Disagree|Strongly disagree
+bib6p23,BiB_1000.bib1000_6m_main.bib6p23,Child is likely to get upset when left with babysitter,decimal,,1|2|3|4|5,Strongly agree|Agree|Neither agree or disagree|Disagree|Strongly disagree
+has_bib1kc,BiB_1000.bib1000_6m_main.has_bib1kc,Child was recruited to BiB 1000,decimal,,1,has

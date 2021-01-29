@@ -1,7 +1,7 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_36m_b3j19b,BiB_1000.bib1000_36m_b3j19b.has_bib1000_36m_b3j19b,Has bib 1000 36m cod liver oil or other oil,decimal,NA,NA,NA
-bib36j19badministration,BiB_1000.bib1000_36m_b3j19b.bib36j19badministration,Method of administration,decimal,NA,1|2|3,Tablets|Teaspoons|Drops
-bib36j19bamount,BiB_1000.bib1000_36m_b3j19b.bib36j19bamount,Amount usually taken per week,decimal,NA,NA,NA
-bib36j19bbrand,BiB_1000.bib1000_36m_b3j19b.bib36j19bbrand,Brand of oil supplement,decimal,NA,1|2|3|4|5|6|7|8|9,Efalex|Boots|Tesco|ProEFA|Healthspan|Smartfish|Valupak|Biocare|Other
-bib36j19bother,BiB_1000.bib1000_36m_b3j19b.bib36j19bother,Brand of oil supplement if other,text,NA,NA,NA
-has_b36tab,BiB_1000.bib1000_36m_b3j19b.has_b36tab,Has: BiB 1000 Questionnaire: bib36_maintable,decimal,NA,1,has
+has_bib1000_36m_b3j19b,BiB_1000.bib1000_36m_b3j19b.has_bib1000_36m_b3j19b,Has bib 1000 36m cod liver oil or other oil,decimal,,,
+bib36j19badministration,BiB_1000.bib1000_36m_b3j19b.bib36j19badministration,Method of administration,decimal,,1|2|3,Tablets|Teaspoons|Drops
+bib36j19bamount,BiB_1000.bib1000_36m_b3j19b.bib36j19bamount,Amount usually taken per week,decimal,,,
+bib36j19bbrand,BiB_1000.bib1000_36m_b3j19b.bib36j19bbrand,Brand of oil supplement,decimal,,1|2|3|4|5|6|7|8|9,Efalex|Boots|Tesco|ProEFA|Healthspan|Smartfish|Valupak|Biocare|Other
+bib36j19bother,BiB_1000.bib1000_36m_b3j19b.bib36j19bother,Brand of oil supplement if other,text,,,
+has_b36tab,BiB_1000.bib1000_36m_b3j19b.has_b36tab,Has: BiB 1000 Questionnaire: bib36_maintable,decimal,,1,has

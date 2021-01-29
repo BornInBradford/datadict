@@ -1,6 +1,6 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_allin24_ta,BiB_ALL_IN.allin24_ta.has_allin24_ta,Has all in 24m treatment abroad,decimal,NA,NA,NA
-all24k5age,BiB_ALL_IN.allin24_ta.all24k5age,,decimal,NA,NA,NA
-all24k5country,BiB_ALL_IN.allin24_ta.all24k5country,,text,NA,NA,NA
-all24k5type,BiB_ALL_IN.allin24_ta.all24k5type,,text,NA,NA,NA
-has_all2qs,BiB_ALL_IN.allin24_ta.has_all2qs,Has ALL IN 24m questionnaire,decimal,NA,1,has
+has_allin24_ta,BiB_ALL_IN.allin24_ta.has_allin24_ta,Has all in 24m treatment abroad,decimal,,,
+all24k5age,BiB_ALL_IN.allin24_ta.all24k5age,"",decimal,,,
+all24k5country,BiB_ALL_IN.allin24_ta.all24k5country,"",text,,,
+all24k5type,BiB_ALL_IN.allin24_ta.all24k5type,"",text,,,
+has_all2qs,BiB_ALL_IN.allin24_ta.has_all2qs,Has ALL IN 24m questionnaire,decimal,,1,has

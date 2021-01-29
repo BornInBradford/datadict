@@ -1,18 +1,18 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Pregnancy.matrecs_bib_admiss.BiBPregNumber,Cohort recruited pregnancy number,decimal,NA,NA,NA
-has_matrecs_bib_admiss,BiB_Pregnancy.matrecs_bib_admiss.has_matrecs_bib_admiss,Has maternity records admissions,decimal,NA,NA,NA
-has_prnadm,BiB_Pregnancy.matrecs_bib_admiss.has_prnadm,Has: Maternal records abstraction: Admissions info,decimal,NA,1,has
-prnpradeventtype,BiB_Pregnancy.matrecs_bib_admiss.prnpradeventtype,Maternal hosp adm event type,decimal,NA,1|2|3,Pregnancy|Labour|Postpartum
-prnpradmdayspostpartum,BiB_Pregnancy.matrecs_bib_admiss.prnpradmdayspostpartum,N days postpartum at maternal hosp adm,decimal,NA,NA,NA
-prnpradmgestaged,BiB_Pregnancy.matrecs_bib_admiss.prnpradmgestaged,Gest. age (days) at maternal hosp adm,decimal,NA,NA,NA
-prnpradmgestagew,BiB_Pregnancy.matrecs_bib_admiss.prnpradmgestagew,Gest. age (wks) at maternal hosp adm,decimal,NA,NA,NA
-prnpradmlos,BiB_Pregnancy.matrecs_bib_admiss.prnpradmlos,Maternal hosp adm los (days),decimal,NA,NA,NA
-prnpradmmonth,BiB_Pregnancy.matrecs_bib_admiss.prnpradmmonth,Month of maternal hosp adm,decimal,NA,1|10|11|12|2|3|4|5|6|7|8|9,Jan|Oct|Nov|Dec|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep
-prnpradmtime,BiB_Pregnancy.matrecs_bib_admiss.prnpradmtime,Maternal hosp adm time,text,NA,NA,NA
-prnpradreason1,BiB_Pregnancy.matrecs_bib_admiss.prnpradreason1,Maternal hosp adm reason (1),text,NA,NA,NA
-prnpradreason2,BiB_Pregnancy.matrecs_bib_admiss.prnpradreason2,Maternal hosp adm reason (2),text,NA,NA,NA
-prnpradreason3,BiB_Pregnancy.matrecs_bib_admiss.prnpradreason3,Maternal hosp adm reason (3),text,NA,NA,NA
-prnpradreason4,BiB_Pregnancy.matrecs_bib_admiss.prnpradreason4,Maternal hosp adm reason (4),text,NA,NA,NA
-prnpradreason5,BiB_Pregnancy.matrecs_bib_admiss.prnpradreason5,Maternal hosp adm reason (5),text,NA,NA,NA
-prnpradreason6,BiB_Pregnancy.matrecs_bib_admiss.prnpradreason6,Maternal hosp adm reason (6),text,NA,NA,NA
-prnprdistime,BiB_Pregnancy.matrecs_bib_admiss.prnprdistime,Maternal hosp adm discharge time,text,NA,NA,NA
+BiBPregNumber,BiB_Pregnancy.matrecs_bib_admiss.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
+has_matrecs_bib_admiss,BiB_Pregnancy.matrecs_bib_admiss.has_matrecs_bib_admiss,Has maternity records admissions,decimal,,,
+has_prnadm,BiB_Pregnancy.matrecs_bib_admiss.has_prnadm,Has: Maternal records abstraction: Admissions info,decimal,,1,has
+prnpradeventtype,BiB_Pregnancy.matrecs_bib_admiss.prnpradeventtype,Maternal hosp adm event type,decimal,,1|2|3,Pregnancy|Labour|Postpartum
+prnpradmdayspostpartum,BiB_Pregnancy.matrecs_bib_admiss.prnpradmdayspostpartum,N days postpartum at maternal hosp adm,decimal,,,
+prnpradmgestaged,BiB_Pregnancy.matrecs_bib_admiss.prnpradmgestaged,Gest. age (days) at maternal hosp adm,decimal,,,
+prnpradmgestagew,BiB_Pregnancy.matrecs_bib_admiss.prnpradmgestagew,Gest. age (wks) at maternal hosp adm,decimal,,,
+prnpradmlos,BiB_Pregnancy.matrecs_bib_admiss.prnpradmlos,Maternal hosp adm los (days),decimal,,,
+prnpradmmonth,BiB_Pregnancy.matrecs_bib_admiss.prnpradmmonth,Month of maternal hosp adm,decimal,,1|10|11|12|2|3|4|5|6|7|8|9,Jan|Oct|Nov|Dec|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep
+prnpradmtime,BiB_Pregnancy.matrecs_bib_admiss.prnpradmtime,Maternal hosp adm time,text,,,
+prnpradreason1,BiB_Pregnancy.matrecs_bib_admiss.prnpradreason1,Maternal hosp adm reason (1),text,,,
+prnpradreason2,BiB_Pregnancy.matrecs_bib_admiss.prnpradreason2,Maternal hosp adm reason (2),text,,,
+prnpradreason3,BiB_Pregnancy.matrecs_bib_admiss.prnpradreason3,Maternal hosp adm reason (3),text,,,
+prnpradreason4,BiB_Pregnancy.matrecs_bib_admiss.prnpradreason4,Maternal hosp adm reason (4),text,,,
+prnpradreason5,BiB_Pregnancy.matrecs_bib_admiss.prnpradreason5,Maternal hosp adm reason (5),text,,,
+prnpradreason6,BiB_Pregnancy.matrecs_bib_admiss.prnpradreason6,Maternal hosp adm reason (6),text,,,
+prnprdistime,BiB_Pregnancy.matrecs_bib_admiss.prnprdistime,Maternal hosp adm discharge time,text,,,

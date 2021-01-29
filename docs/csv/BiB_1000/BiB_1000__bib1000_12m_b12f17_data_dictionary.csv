@@ -1,8 +1,8 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_12m_b12f17,BiB_1000.bib1000_12m_b12f17.has_bib1000_12m_b12f17,Has bib 1000 12m milk or cereal-based desserts,decimal,NA,NA,NA
-bib12f17brand,BiB_1000.bib1000_12m_b12f17.bib12f17brand,Brand,decimal,NA,1|2|3|4|5|6|7|8,Annabel Karmel|Cow and Gate|Ellas Kitchen|Heinz|HiPP Organics|Mumtaz (Halal)|Organix|Other Supermarket own
-bib12f17frequency,BiB_1000.bib1000_12m_b12f17.bib12f17frequency,Frequency,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 per month|One day a week|Two days a week|Three days a week|Four days a week|Five days a week|Six days a week|Seven days a week
-bib12f17otherbrand,BiB_1000.bib1000_12m_b12f17.bib12f17otherbrand,OtherBrand,text,NA,NA,NA
-bib12f17quantity,BiB_1000.bib1000_12m_b12f17.bib12f17quantity,Quantity,decimal,NA,NA,NA
-bib12f17timesperday,BiB_1000.bib1000_12m_b12f17.bib12f17timesperday,TimesPerDay,decimal,NA,NA,NA
-has_b12tab,BiB_1000.bib1000_12m_b12f17.has_b12tab,Has BiB1000 12m questionnaire,decimal,NA,1,has
+has_bib1000_12m_b12f17,BiB_1000.bib1000_12m_b12f17.has_bib1000_12m_b12f17,Has bib 1000 12m milk or cereal-based desserts,decimal,,,
+bib12f17brand,BiB_1000.bib1000_12m_b12f17.bib12f17brand,Brand,decimal,,1|2|3|4|5|6|7|8,Annabel Karmel|Cow and Gate|Ellas Kitchen|Heinz|HiPP Organics|Mumtaz (Halal)|Organix|Other Supermarket own
+bib12f17frequency,BiB_1000.bib1000_12m_b12f17.bib12f17frequency,Frequency,decimal,,1|2|3|4|5|6|7|8|9,Never|1-3 per month|One day a week|Two days a week|Three days a week|Four days a week|Five days a week|Six days a week|Seven days a week
+bib12f17otherbrand,BiB_1000.bib1000_12m_b12f17.bib12f17otherbrand,OtherBrand,text,,,
+bib12f17quantity,BiB_1000.bib1000_12m_b12f17.bib12f17quantity,Quantity,decimal,,,
+bib12f17timesperday,BiB_1000.bib1000_12m_b12f17.bib12f17timesperday,TimesPerDay,decimal,,,
+has_b12tab,BiB_1000.bib1000_12m_b12f17.has_b12tab,Has BiB1000 12m questionnaire,decimal,,1,has

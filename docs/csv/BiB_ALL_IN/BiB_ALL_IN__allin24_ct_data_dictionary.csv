@@ -1,7 +1,7 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_allin24_ct,BiB_ALL_IN.allin24_ct.has_allin24_ct,Has all in 24m child travel,decimal,NA,NA,NA
-all24k2age,BiB_ALL_IN.allin24_ct.all24k2age,,decimal,NA,NA,NA
-all24k2agena,BiB_ALL_IN.allin24_ct.all24k2agena,,decimal,NA,NA,NA
-all24k2country,BiB_ALL_IN.allin24_ct.all24k2country,,text,NA,NA,NA
-all24k2visitlength,BiB_ALL_IN.allin24_ct.all24k2visitlength,,decimal,NA,NA,NA
-has_all2qs,BiB_ALL_IN.allin24_ct.has_all2qs,Has ALL IN 24m questionnaire,decimal,NA,1,has
+has_allin24_ct,BiB_ALL_IN.allin24_ct.has_allin24_ct,Has all in 24m child travel,decimal,,,
+all24k2age,BiB_ALL_IN.allin24_ct.all24k2age,"",decimal,,,
+all24k2agena,BiB_ALL_IN.allin24_ct.all24k2agena,"",decimal,,,
+all24k2country,BiB_ALL_IN.allin24_ct.all24k2country,"",text,,,
+all24k2visitlength,BiB_ALL_IN.allin24_ct.all24k2visitlength,"",decimal,,,
+has_all2qs,BiB_ALL_IN.allin24_ct.has_all2qs,Has ALL IN 24m questionnaire,decimal,,1,has

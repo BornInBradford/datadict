@@ -1,15 +1,15 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_edrecs_y1_phonics,BiB_Education_Record.edrecs_y1_phonics.has_edrecs_y1_phonics,Has year 1 phonics assessment,decimal,NA,NA,NA
-has_edphon,BiB_Education_Record.edrecs_y1_phonics.has_edphon,Has: Year 1 Phonics Assessment,decimal,NA,1,has
-phonics_acyrtested1,BiB_Education_Record.edrecs_y1_phonics.phonics_acyrtested1,School year of phonics test - Test 1,decimal,NA,1|2|3|4|5|6|7,R|Y1|Y2|Y3|Y4|Y5|Y6
-phonics_acyrtested2,BiB_Education_Record.edrecs_y1_phonics.phonics_acyrtested2,School year of phonics test - Test 2,decimal,NA,1|2|3|4|5|6|7,R|Y1|Y2|Y3|Y4|Y5|Y6
-phonics_grade1,BiB_Education_Record.edrecs_y1_phonics.phonics_grade1,Phonics test grade - Test 1,decimal,NA,1|2|3|4,Wa - Acheived expected standard for end of Y1|Wt - Did not acheive expected standard for end of Y1|A - Absent for long periods or recently arrived|D - Pupil disapplied from test
-phonics_grade2,BiB_Education_Record.edrecs_y1_phonics.phonics_grade2,Phonics test grade - Test 2,decimal,NA,1|2|3|4,Wa - Acheived expected standard for end of Y1|Wt - Did not acheive expected standard for end of Y1|A - Absent for long periods or recently arrived|D - Pupil disapplied from test
-phonics_mark1,BiB_Education_Record.edrecs_y1_phonics.phonics_mark1,Phonics test mark - Test 1,decimal,NA,NA,NA
-phonics_mark2,BiB_Education_Record.edrecs_y1_phonics.phonics_mark2,Phonics test mark - Test 2,decimal,NA,NA,NA
-phonics_standard1,BiB_Education_Record.edrecs_y1_phonics.phonics_standard1,Whether reached phonics standard - Test 1,decimal,NA,1|2,No|Yes
-phonics_standard2,BiB_Education_Record.edrecs_y1_phonics.phonics_standard2,Whether reached phonics standard - Test 2,decimal,NA,1|2,No|Yes
-phonics_testestablishment1,BiB_Education_Record.edrecs_y1_phonics.phonics_testestablishment1,School Code where Test 1 conducted: Phonics,text,NA,NA,NA
-phonics_testestablishment2,BiB_Education_Record.edrecs_y1_phonics.phonics_testestablishment2,School Code where Test 2 conducted: Phonics,text,NA,NA,NA
-phonics_yeartested1,BiB_Education_Record.edrecs_y1_phonics.phonics_yeartested1,Year of Test 1: Phonics,decimal,NA,NA,NA
-phonics_yeartested2,BiB_Education_Record.edrecs_y1_phonics.phonics_yeartested2,Year of Test 2: Phonics,decimal,NA,NA,NA
+has_edrecs_y1_phonics,BiB_Education_Record.edrecs_y1_phonics.has_edrecs_y1_phonics,Has year 1 phonics assessment,decimal,,,
+has_edphon,BiB_Education_Record.edrecs_y1_phonics.has_edphon,Has: Year 1 Phonics Assessment,decimal,,1,has
+phonics_acyrtested1,BiB_Education_Record.edrecs_y1_phonics.phonics_acyrtested1,School year of phonics test - Test 1,decimal,,1|2|3|4|5|6|7,R|Y1|Y2|Y3|Y4|Y5|Y6
+phonics_acyrtested2,BiB_Education_Record.edrecs_y1_phonics.phonics_acyrtested2,School year of phonics test - Test 2,decimal,,1|2|3|4|5|6|7,R|Y1|Y2|Y3|Y4|Y5|Y6
+phonics_grade1,BiB_Education_Record.edrecs_y1_phonics.phonics_grade1,Phonics test grade - Test 1,decimal,,1|2|3|4,Wa - Acheived expected standard for end of Y1|Wt - Did not acheive expected standard for end of Y1|A - Absent for long periods or recently arrived|D - Pupil disapplied from test
+phonics_grade2,BiB_Education_Record.edrecs_y1_phonics.phonics_grade2,Phonics test grade - Test 2,decimal,,1|2|3|4,Wa - Acheived expected standard for end of Y1|Wt - Did not acheive expected standard for end of Y1|A - Absent for long periods or recently arrived|D - Pupil disapplied from test
+phonics_mark1,BiB_Education_Record.edrecs_y1_phonics.phonics_mark1,Phonics test mark - Test 1,decimal,,,
+phonics_mark2,BiB_Education_Record.edrecs_y1_phonics.phonics_mark2,Phonics test mark - Test 2,decimal,,,
+phonics_standard1,BiB_Education_Record.edrecs_y1_phonics.phonics_standard1,Whether reached phonics standard - Test 1,decimal,,1|2,No|Yes
+phonics_standard2,BiB_Education_Record.edrecs_y1_phonics.phonics_standard2,Whether reached phonics standard - Test 2,decimal,,1|2,No|Yes
+phonics_testestablishment1,BiB_Education_Record.edrecs_y1_phonics.phonics_testestablishment1,School Code where Test 1 conducted: Phonics,text,,,
+phonics_testestablishment2,BiB_Education_Record.edrecs_y1_phonics.phonics_testestablishment2,School Code where Test 2 conducted: Phonics,text,,,
+phonics_yeartested1,BiB_Education_Record.edrecs_y1_phonics.phonics_yeartested1,Year of Test 1: Phonics,decimal,,,
+phonics_yeartested2,BiB_Education_Record.edrecs_y1_phonics.phonics_yeartested2,Year of Test 2: Phonics,decimal,,,

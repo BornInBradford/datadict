@@ -1,8 +1,8 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_18m_b18qe9,BiB_1000.bib1000_18m_b18qe9.has_bib1000_18m_b18qe9,Has bib 1000 18m dried baby cereals,decimal,NA,NA,NA
-bib18e9brand,BiB_1000.bib1000_18m_b18qe9.bib18e9brand,Brand of dried baby cereal,decimal,NA,1|2|3|4|5|6|7|8|9,Bebivita|Cow and Gate|Farleys|Heinz|HiPP Organics|Mumtaz (Halal)|Organix|Plum Baby Organic|Other/Supermarket own
-bib18e9frequency,BiB_1000.bib1000_18m_b18qe9.bib18e9frequency,Number of times per week consumes dried baby cereal,decimal,NA,1|2|3|4|5|6|7|8|9,Never|1-3 per month|One day a week|Two days a week|Three days a week|Four days a week|Five days a week|Six days a week|Seven days a week
-bib18e9otherbrand,BiB_1000.bib1000_18m_b18qe9.bib18e9otherbrand,Other brand of dried baby cereal,text,NA,NA,NA
-bib18e9quantity,BiB_1000.bib1000_18m_b18qe9.bib18e9quantity,Average number of dessert spoons consumed,decimal,NA,NA,NA
-bib18e9timesperday,BiB_1000.bib1000_18m_b18qe9.bib18e9timesperday,Number of times per day consumes dried baby cereal,decimal,NA,NA,NA
-has_b18tab,BiB_1000.bib1000_18m_b18qe9.has_b18tab,Has: BiB 1000 Questionnaire: bib18_maintable,decimal,NA,1,has
+has_bib1000_18m_b18qe9,BiB_1000.bib1000_18m_b18qe9.has_bib1000_18m_b18qe9,Has bib 1000 18m dried baby cereals,decimal,,,
+bib18e9brand,BiB_1000.bib1000_18m_b18qe9.bib18e9brand,Brand of dried baby cereal,decimal,,1|2|3|4|5|6|7|8|9,Bebivita|Cow and Gate|Farleys|Heinz|HiPP Organics|Mumtaz (Halal)|Organix|Plum Baby Organic|Other/Supermarket own
+bib18e9frequency,BiB_1000.bib1000_18m_b18qe9.bib18e9frequency,Number of times per week consumes dried baby cereal,decimal,,1|2|3|4|5|6|7|8|9,Never|1-3 per month|One day a week|Two days a week|Three days a week|Four days a week|Five days a week|Six days a week|Seven days a week
+bib18e9otherbrand,BiB_1000.bib1000_18m_b18qe9.bib18e9otherbrand,Other brand of dried baby cereal,text,,,
+bib18e9quantity,BiB_1000.bib1000_18m_b18qe9.bib18e9quantity,Average number of dessert spoons consumed,decimal,,,
+bib18e9timesperday,BiB_1000.bib1000_18m_b18qe9.bib18e9timesperday,Number of times per day consumes dried baby cereal,decimal,,,
+has_b18tab,BiB_1000.bib1000_18m_b18qe9.has_b18tab,Has: BiB 1000 Questionnaire: bib18_maintable,decimal,,1,has

@@ -1,12 +1,12 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_res_ch_6m,BiB_Geographic.res_ch_6m.has_res_ch_6m,Has six monthly residential information child,decimal,NA,NA,NA
-has_res6mc,BiB_Geographic.res_ch_6m.has_res6mc,Has: Six monthly residential information: Child,decimal,NA,1,has
-res6mcage,BiB_Geographic.res_ch_6m.res6mcage,Age in months at this address,decimal,NA,NA,NA
-res6mcbetterstart,BiB_Geographic.res_ch_6m.res6mcbetterstart,Whether in Better Start Area,decimal,NA,1|2,No|Yes
-res6mcbradford,BiB_Geographic.res_ch_6m.res6mcbradford,Whether in Bradford Local Authority Area,decimal,NA,1|2,No|Yes
-res6mccountry,BiB_Geographic.res_ch_6m.res6mccountry,Country of residence,text,NA,NA,NA
-res6mclastrec,BiB_Geographic.res_ch_6m.res6mclastrec,Age in months at last known address,decimal,NA,NA,NA
-res6mclocal_a_code,BiB_Geographic.res_ch_6m.res6mclocal_a_code,Local Authority Code,text,NA,NA,NA
-res6mclocal_a_name,BiB_Geographic.res_ch_6m.res6mclocal_a_name,Local Authority Name,text,NA,NA,NA
-res6mclsoa_code,BiB_Geographic.res_ch_6m.res6mclsoa_code,Lower Super Output Area Code,text,NA,NA,NA
-res6mclsoa_name,BiB_Geographic.res_ch_6m.res6mclsoa_name,Lower Super Output Area Name,text,NA,NA,NA
+has_res_ch_6m,BiB_Geographic.res_ch_6m.has_res_ch_6m,Has six monthly residential information child,decimal,,,
+has_res6mc,BiB_Geographic.res_ch_6m.has_res6mc,Has: Six monthly residential information: Child,decimal,,1,has
+res6mcage,BiB_Geographic.res_ch_6m.res6mcage,Age in months at this address,decimal,,,
+res6mcbetterstart,BiB_Geographic.res_ch_6m.res6mcbetterstart,Whether in Better Start Area,decimal,,1|2,No|Yes
+res6mcbradford,BiB_Geographic.res_ch_6m.res6mcbradford,Whether in Bradford Local Authority Area,decimal,,1|2,No|Yes
+res6mccountry,BiB_Geographic.res_ch_6m.res6mccountry,Country of residence,text,,,
+res6mclastrec,BiB_Geographic.res_ch_6m.res6mclastrec,Age in months at last known address,decimal,,,
+res6mclocal_a_code,BiB_Geographic.res_ch_6m.res6mclocal_a_code,Local Authority Code,text,,,
+res6mclocal_a_name,BiB_Geographic.res_ch_6m.res6mclocal_a_name,Local Authority Name,text,,,
+res6mclsoa_code,BiB_Geographic.res_ch_6m.res6mclsoa_code,Lower Super Output Area Code,text,,,
+res6mclsoa_name,BiB_Geographic.res_ch_6m.res6mclsoa_name,Lower Super Output Area Name,text,,,

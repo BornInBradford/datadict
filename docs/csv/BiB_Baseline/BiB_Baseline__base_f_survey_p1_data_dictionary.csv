@@ -1,26 +1,26 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_base_f_survey_p1,BiB_Baseline.base_f_survey_p1.has_base_f_survey_p1,Has father baseline survey,decimal,NA,NA,NA
-agefm_fbqall_p1,BiB_Baseline.base_f_survey_p1.agefm_fbqall_p1,Father age (months): Father baseline questionnaire,decimal,NA,NA,NA
-agefy_fbqall_p1,BiB_Baseline.base_f_survey_p1.agefy_fbqall_p1,Father age (years): Father baseline questionnaire,decimal,NA,NA,NA
-fbqageeduc_p1,BiB_Baseline.base_f_survey_p1.fbqageeduc_p1,Age completed education,decimal,NA,1|2|3,16 or under|17-19|20 or over
-fbqageuk_p1,BiB_Baseline.base_f_survey_p1.fbqageuk_p1,Age moved to the UK,decimal,NA,NA,NA
-fbqalcohol_p1,BiB_Baseline.base_f_survey_p1.fbqalcohol_p1,Do you drink alcohol,decimal,NA,1|2,Yes|No
-fbqalcoholamt_p1,BiB_Baseline.base_f_survey_p1.fbqalcoholamt_p1,Weekly average no. of units,decimal,NA,NA,NA
-fbqbiosample_p1,BiB_Baseline.base_f_survey_p1.fbqbiosample_p1,Was a biological sample taken,decimal,NA,1|2,Yes|No
-fbqcountrybirth_p1,BiB_Baseline.base_f_survey_p1.fbqcountrybirth_p1,Country born,decimal,NA,1|2|3,United Kingdom|Pakistan|Other
-fbqcountrybirthother_p1,BiB_Baseline.base_f_survey_p1.fbqcountrybirthother_p1,Country of birth if other,text,NA,NA,NA
-fbqethnicgrp_p1,BiB_Baseline.base_f_survey_p1.fbqethnicgrp_p1,Ethnic group,decimal,NA,1|2|3|4|5|6,White|Mixed|Black/Black British|Asian/Asian British|Chinese|Other
-fbqethnicgrpother_p1,BiB_Baseline.base_f_survey_p1.fbqethnicgrpother_p1,Ethnic group if other,text,NA,NA,NA
-fbqheight_p1,BiB_Baseline.base_f_survey_p1.fbqheight_p1,Father's height (cm),decimal,NA,NA,NA
-fbqjobtitle_p1,BiB_Baseline.base_f_survey_p1.fbqjobtitle_p1,Job title,text,NA,NA,NA
-fbqobstime_p1,BiB_Baseline.base_f_survey_p1.fbqobstime_p1,How did date of completion relate to point of mother's pregnancy?,decimal,NA,1|2|3|4|5|6,Scan 1 - dating scan|Scan 2 - 20 wk scan|GTT|Delivery|Post natal ward|Other
-fbqobstimeother_p1,BiB_Baseline.base_f_survey_p1.fbqobstimeother_p1,Specify other time point in mother's pregnancy,text,NA,NA,NA
-fbqquestadmin_p1,BiB_Baseline.base_f_survey_p1.fbqquestadmin_p1,Questionnaire administered independently or assisted,decimal,NA,1|2,Independently|Assisted
-fbqquestlang_p1,BiB_Baseline.base_f_survey_p1.fbqquestlang_p1,Language used to complete questionnaire,decimal,NA,1|2|3,English|Mirpuri/Punjabi|Urdu
-fbqselfemployed_p1,BiB_Baseline.base_f_survey_p1.fbqselfemployed_p1,Are/were you self-employed,decimal,NA,1|2,Yes|No
-fbqsmokes_p1,BiB_Baseline.base_f_survey_p1.fbqsmokes_p1,Do you smoke cigarettes nowadays,decimal,NA,1|2,Yes|No
-fbqsmokesamt_p1,BiB_Baseline.base_f_survey_p1.fbqsmokesamt_p1,How many cigarettes per day,decimal,NA,1|2|3|4|5|6,Less than 1 a day|1-5|6-10|11-20|Over 20|Don't know
-fbqweight_p1,BiB_Baseline.base_f_survey_p1.fbqweight_p1,Father's weight (kg),decimal,NA,NA,NA
-fbqworkforce_p1,BiB_Baseline.base_f_survey_p1.fbqworkforce_p1,No. people work at your place of work,decimal,NA,NA,NA
-fbqworklevel_p1,BiB_Baseline.base_f_survey_p1.fbqworklevel_p1,Level worked at,decimal,NA,1|2|3,Manager|Supervisor|Other employee
-has_fbqall_p1,BiB_Baseline.base_f_survey_p1.has_fbqall_p1,Has: Father baseline questionnaire,decimal,NA,1,has
+has_base_f_survey_p1,BiB_Baseline.base_f_survey_p1.has_base_f_survey_p1,Has father baseline survey,decimal,,,
+agefm_fbqall_p1,BiB_Baseline.base_f_survey_p1.agefm_fbqall_p1,Father age (months): Father baseline questionnaire,decimal,,,
+agefy_fbqall_p1,BiB_Baseline.base_f_survey_p1.agefy_fbqall_p1,Father age (years): Father baseline questionnaire,decimal,,,
+fbqageeduc_p1,BiB_Baseline.base_f_survey_p1.fbqageeduc_p1,Age completed education,decimal,,1|2|3,16 or under|17-19|20 or over
+fbqageuk_p1,BiB_Baseline.base_f_survey_p1.fbqageuk_p1,Age moved to the UK,decimal,,,
+fbqalcohol_p1,BiB_Baseline.base_f_survey_p1.fbqalcohol_p1,Do you drink alcohol,decimal,,1|2,Yes|No
+fbqalcoholamt_p1,BiB_Baseline.base_f_survey_p1.fbqalcoholamt_p1,Weekly average no. of units,decimal,,,
+fbqbiosample_p1,BiB_Baseline.base_f_survey_p1.fbqbiosample_p1,Was a biological sample taken,decimal,,1|2,Yes|No
+fbqcountrybirth_p1,BiB_Baseline.base_f_survey_p1.fbqcountrybirth_p1,Country born,decimal,,1|2|3,United Kingdom|Pakistan|Other
+fbqcountrybirthother_p1,BiB_Baseline.base_f_survey_p1.fbqcountrybirthother_p1,Country of birth if other,text,,,
+fbqethnicgrp_p1,BiB_Baseline.base_f_survey_p1.fbqethnicgrp_p1,Ethnic group,decimal,,1|2|3|4|5|6,White|Mixed|Black/Black British|Asian/Asian British|Chinese|Other
+fbqethnicgrpother_p1,BiB_Baseline.base_f_survey_p1.fbqethnicgrpother_p1,Ethnic group if other,text,,,
+fbqheight_p1,BiB_Baseline.base_f_survey_p1.fbqheight_p1,Father's height (cm),decimal,,,
+fbqjobtitle_p1,BiB_Baseline.base_f_survey_p1.fbqjobtitle_p1,Job title,text,,,
+fbqobstime_p1,BiB_Baseline.base_f_survey_p1.fbqobstime_p1,How did date of completion relate to point of mother's pregnancy?,decimal,,1|2|3|4|5|6,Scan 1 - dating scan|Scan 2 - 20 wk scan|GTT|Delivery|Post natal ward|Other
+fbqobstimeother_p1,BiB_Baseline.base_f_survey_p1.fbqobstimeother_p1,Specify other time point in mother's pregnancy,text,,,
+fbqquestadmin_p1,BiB_Baseline.base_f_survey_p1.fbqquestadmin_p1,Questionnaire administered independently or assisted,decimal,,1|2,Independently|Assisted
+fbqquestlang_p1,BiB_Baseline.base_f_survey_p1.fbqquestlang_p1,Language used to complete questionnaire,decimal,,1|2|3,English|Mirpuri/Punjabi|Urdu
+fbqselfemployed_p1,BiB_Baseline.base_f_survey_p1.fbqselfemployed_p1,Are/were you self-employed,decimal,,1|2,Yes|No
+fbqsmokes_p1,BiB_Baseline.base_f_survey_p1.fbqsmokes_p1,Do you smoke cigarettes nowadays,decimal,,1|2,Yes|No
+fbqsmokesamt_p1,BiB_Baseline.base_f_survey_p1.fbqsmokesamt_p1,How many cigarettes per day,decimal,,1|2|3|4|5|6,Less than 1 a day|1-5|6-10|11-20|Over 20|Don't know
+fbqweight_p1,BiB_Baseline.base_f_survey_p1.fbqweight_p1,Father's weight (kg),decimal,,,
+fbqworkforce_p1,BiB_Baseline.base_f_survey_p1.fbqworkforce_p1,No. people work at your place of work,decimal,,,
+fbqworklevel_p1,BiB_Baseline.base_f_survey_p1.fbqworklevel_p1,Level worked at,decimal,,1|2|3,Manager|Supervisor|Other employee
+has_fbqall_p1,BiB_Baseline.base_f_survey_p1.has_fbqall_p1,Has: Father baseline questionnaire,decimal,,1,has

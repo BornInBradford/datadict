@@ -1,9 +1,9 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_father_info,BiB_CohortInfo.father_info.has_father_info,Has person information father,decimal,NA,NA,NA
-adminfagerecm,BiB_CohortInfo.father_info.adminfagerecm,Father age at recruitment (months),decimal,NA,NA,NA
-adminfagerecy,BiB_CohortInfo.father_info.adminfagerecy,Father age at recruitment (years),decimal,NA,NA,NA
-adminfgender,BiB_CohortInfo.father_info.adminfgender,Father gender,decimal,NA,1|2,Male|Female
-adminfnbibch,BiB_CohortInfo.father_info.adminfnbibch,Number of BiB children (father),decimal,NA,NA,NA
-adminfnbibpr,BiB_CohortInfo.father_info.adminfnbibpr,Number of BiB pregnancies (father),decimal,NA,NA,NA
-adminfnfbqall,BiB_CohortInfo.father_info.adminfnfbqall,Number of baseline questionnaires (father),decimal,NA,NA,NA
-adminfrecdate,BiB_CohortInfo.father_info.adminfrecdate,Father date of recruitment,date,NA,NA,NA
+has_father_info,BiB_CohortInfo.father_info.has_father_info,Has person information father,decimal,,,
+adminfagerecm,BiB_CohortInfo.father_info.adminfagerecm,Father age at recruitment (months),decimal,,,
+adminfagerecy,BiB_CohortInfo.father_info.adminfagerecy,Father age at recruitment (years),decimal,,,
+adminfgender,BiB_CohortInfo.father_info.adminfgender,Father gender,decimal,,1|2,Male|Female
+adminfnbibch,BiB_CohortInfo.father_info.adminfnbibch,Number of BiB children (father),decimal,,,
+adminfnbibpr,BiB_CohortInfo.father_info.adminfnbibpr,Number of BiB pregnancies (father),decimal,,,
+adminfnfbqall,BiB_CohortInfo.father_info.adminfnfbqall,Number of baseline questionnaires (father),decimal,,,
+adminfrecdate,BiB_CohortInfo.father_info.adminfrecdate,Father date of recruitment,date,,,
