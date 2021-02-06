@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BiB genotyping data availability on Born in Bradford Data Dictionary</title>
+    <title>BiB genotyping data linkage on Born in Bradford Data Dictionary</title>
     <link>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/genotyping_info/</link>
-    <description>Recent content in BiB genotyping data availability on Born in Bradford Data Dictionary</description>
+    <description>Recent content in BiB genotyping data linkage on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     

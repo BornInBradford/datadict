@@ -43,6 +43,10 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairm_s/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/child_info/</loc>
   </url>
   
@@ -123,6 +127,10 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairm_s/metms_pairm_r/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/child_info/</loc>
   </url>
   
@@ -175,6 +183,10 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairm_s/metms_pairm_h/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/father_info/</loc>
   </url>
   
@@ -188,6 +200,10 @@
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/base_m23_survey_p1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/</loc>
   </url>
   
   <url>
@@ -216,6 +232,10 @@
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/medall_qd8/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairm_s/metms_pairm_c/</loc>
   </url>
   
   <url>
@@ -260,6 +280,10 @@
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/</loc>
   </url>
   
   <url>
@@ -323,6 +347,10 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_r/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_medall/</loc>
   </url>
   
@@ -331,11 +359,23 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_h/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_c/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/pregnancy_ultrasound/</loc>
   </url>
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/fetal_renal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_2k_s/</loc>
   </url>
   
   <url>
@@ -363,6 +403,10 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_2k_s/metms_2k_r/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/pregnancy_bloods/</loc>
   </url>
   
@@ -383,11 +427,19 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/exomeseq_info/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/blood_tests/</loc>
   </url>
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_medall/medall_skinprick/medall_skinprick_qc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_2k_s/metms_2k_h/</loc>
   </url>
   
   <url>
@@ -403,11 +455,23 @@
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/dnam_info/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/renal_blood_tests/</loc>
   </url>
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_2k_s/metms_2k_c/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_all_in/allin12_qs/allin12_dd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/dnam_info/dnam_controls/</loc>
   </url>
   
   <url>

@@ -3,7 +3,7 @@
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title>BiB genotyping data availability - Born in Bradford Data Dictionary</title>
+<title>BiB genotyping data linkage - Born in Bradford Data Dictionary</title>
 <meta name="generator" content="Hugo 0.74.3" />
 <link href="https://borninbradford.github.io/datadict//index.xml" rel="alternate" type="application/rss+xml">
 <link rel="canonical" href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/genotyping_info/">
@@ -16,15 +16,15 @@
 <script src="https://borninbradford.github.io/datadict/js/bundle.js"></script><style>
 :root {--custom-background-color: #0F79BE;}
 </style>
-<meta property="og:title" content="BiB genotyping data availability" />
+<meta property="og:title" content="BiB genotyping data linkage" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/genotyping_info/" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="BiB genotyping data availability"/>
+<meta name="twitter:title" content="BiB genotyping data linkage"/>
 <meta name="twitter:description" content=""/>
-<meta itemprop="name" content="BiB genotyping data availability">
+<meta itemprop="name" content="BiB genotyping data linkage">
 <meta itemprop="description" content="">
 </head>
 <body><div class="container"><header>
@@ -38,7 +38,7 @@
 </nav>
 </div>
 <div class="content-container">
-<main><h1>BiB genotyping data availability</h1><p>Table ID: BiB_CohortInfo.genotyping_info</p>
+<main><h1>BiB genotyping data linkage</h1><p>Table ID: BiB_CohortInfo.genotyping_info</p>
 <p><a href="https://github.com/BornInBradford/datadict/blob/main/docs/csv/BiB_CohortInfo/BiB_CohortInfo__genotyping_info_data_dictionary.csv">github</a> | <a href="https://borninbradford.github.io/datadict/csv/BiB_CohortInfo/BiB_CohortInfo__genotyping_info_data_dictionary.csv">csv</a></p>
 <table>
 <thead>
@@ -53,14 +53,14 @@
 <tbody>
 <tr>
 <td align="left">Participant</td>
-<td align="left">4</td>
-<td align="left">19241</td>
-<td align="left">2020-12-03</td>
+<td align="left">7</td>
+<td align="left">20710</td>
+<td align="left">2021-02-05</td>
 <td align="left">NA</td>
 </tr>
 </tbody>
 </table>
-<p>Information about available genotyping data.</p>
+<p>Information about available genotyping data including links to sample IDs.</p>
 <table>
 <thead>
 <tr>
@@ -72,6 +72,24 @@
 </thead>
 <tbody>
 <tr>
+<td align="left">ParticipantType</td>
+<td align="left">BiB participant type</td>
+<td align="left">decimal</td>
+<td align="left">1 : Child<br>2 : Father<br>3 : Mother<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">Gender</td>
+<td align="left">Participant Gender</td>
+<td align="left">decimal</td>
+<td align="left">1 : Female<br>2 : Male<br>100.00% complete<br><br></td>
+</tr>
+<tr>
+<td align="left">lab_id</td>
+<td align="left">Lab-assigned sample ID</td>
+<td align="left">text</td>
+<td align="left">21256 unique values<br>21256 non-missing values<br>17 to 19 characters<br></td>
+</tr>
+<tr>
 <td align="left">gt_chip</td>
 <td align="left">Genotyping chip type</td>
 <td align="left">decimal</td>
@@ -81,26 +99,26 @@
 <td align="left">ethnicity</td>
 <td align="left">Ethnic group determined by genotype PCA</td>
 <td align="left">decimal</td>
-<td align="left">1 : Other<br>2 : Pakistani<br>3 : White European<br>100.00% complete<br><br></td>
+<td align="left">1 : Not in PCA<br>2 : Other<br>3 : Pakistani<br>4 : White European<br>100.00% complete<br><br></td>
 </tr>
 <tr>
-<td align="left">ptype</td>
-<td align="left">BiB participant type</td>
+<td align="left">passed_qc</td>
+<td align="left">Sample included in curated dataset</td>
 <td align="left">decimal</td>
-<td align="left">1 : Child<br>2 : Father<br>3 : Mother<br>100.00% complete<br><br></td>
+<td align="left">0 : No<br>1 : Yes<br>100.00% complete<br><br></td>
 </tr>
 <tr>
-<td align="left">Gender</td>
-<td align="left">Participant gender</td>
-<td align="left">text</td>
-<td align="left">2 unique values<br>19241 non-missing values<br>4 to 6 characters<br></td>
+<td align="left">copies</td>
+<td align="left">Copies e.g. samples from other pregnancies</td>
+<td align="left">decimal</td>
+<td align="left">mean (sd)<br>0.05 (0.23)<br><br>min &lt; median &lt; max<br>0.00 &lt; 0.00 &lt; 2.00<br><br>100.00% complete<br><br></td>
 </tr>
 </tbody>
 </table>
 <div class="edit-meta">
 
 <br></div><nav class="pagination"><a class="nav nav-prev" href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/m_derived_info/" title="Mother info derived from various sources"><i class="fas fa-arrow-left" aria-hidden="true"></i> Prev - Mother info derived from various sources</a>
-<a class="nav nav-next" href="https://borninbradford.github.io/datadict/bib/bib_baseline/" title="BiB Baseline">Next - BiB Baseline <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+<a class="nav nav-next" href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/exomeseq_info/" title="BiB exome sequencing data linkage">Next - BiB exome sequencing data linkage <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
 </nav><footer></footer>
 </main>
 <div class="sidebar">
@@ -135,7 +153,19 @@
   
 </li>
 
-<li class="parent active"><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/genotyping_info/">BiB genotyping data availability</a>
+<li class="parent active"><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/genotyping_info/">BiB genotyping data linkage</a>
+  
+</li>
+
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/exomeseq_info/">BiB exome sequencing data linkage</a>
+  
+</li>
+
+<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/dnam_info/">BiB DNA methylation data linkage<span class="mark closed">+</span></a>
+  
+<ul class="sub-menu">
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/dnam_info/dnam_controls/">BiB DNA methylation control sample IDs</a></li>
+</ul>
   
 </li>
 </ul>
@@ -263,6 +293,43 @@
 </li>
 
 <li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_pregnancy/cord_bloods/">Baby cord blood biomarkers</a>
+  
+</li>
+</ul>
+  
+</li>
+
+<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/">BiB Metabolomics<span class="mark closed">+</span></a>
+  
+<ul class="sub-menu">
+
+<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairm_s/">MS metabolomics paired mother samples scaled<span class="mark closed">+</span></a>
+  
+<ul class="sub-menu">
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairm_s/metms_pairm_r/">MS metabolomics paired mother samples raw</a></li>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairm_s/metms_pairm_h/">MS metabolomics paired mother samples header</a></li>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairm_s/metms_pairm_c/">MS metabolomics paired mother samples compound metadata</a></li>
+</ul>
+  
+</li>
+
+<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/">MS metabolomics paired child samples scaled<span class="mark closed">+</span></a>
+  
+<ul class="sub-menu">
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_r/">MS metabolomics paired child samples raw</a></li>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_h/">MS metabolomics paired child samples header</a></li>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_c/">MS metabolomics paired child samples compound metadata</a></li>
+</ul>
+  
+</li>
+
+<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_2k_s/">MS metabolomics 2000 mothers scaled<span class="mark closed">+</span></a>
+  
+<ul class="sub-menu">
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_2k_s/metms_2k_r/">MS metabolomics 2000 mothers raw</a></li>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_2k_s/metms_2k_h/">MS metabolomics 2000 mothers header</a></li>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_2k_s/metms_2k_c/">MS metabolomics 2000 mothers compound metadata</a></li>
+</ul>
   
 </li>
 </ul>
