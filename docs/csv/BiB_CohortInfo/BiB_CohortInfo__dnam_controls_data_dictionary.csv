@@ -1,0 +1,2 @@
+variable,full_name,label,value_type,description,categories,categories_label
+ParticipantType,BiB_CohortInfo.dnam_controls.ParticipantType,BiB Participant Type vs Control,decimal,,1|2|3,Child|Mother|Control
