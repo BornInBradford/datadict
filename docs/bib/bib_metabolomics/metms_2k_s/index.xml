@@ -18,13 +18,12 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_2k_s/metms_2k_r/</guid>
       <description>Table ID: BiB_Metabolomics.metms_2k_r
 github | csv
-   Entity type Variables Entities Updated     Participant 1241 2000 2021-02-05    Mass spectrometry metabolomics with over 1200 markers from 2000 selected pregnancy samples. Raw values.
+   Entity type Variables Entities Updated     Participant 1241 2000 2021-02-05    Mass spectrometry metabolomics (Metabolon) with over 1200 markers from 2000 selected pregnancy samples. Raw values.
    variable label value_type summary     BiBPregNumber  decimal mean (sd)
 1.09 (0.30)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 3.00
-100.00% complete
-   has_metms_2k_r Has ms metabolomics 2000 mothers raw decimal mean (sd)</description>
+100.00% complete</description>
     </item>
     
     <item>
@@ -35,7 +34,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_2k_s/metms_2k_h/</guid>
       <description>Table ID: BiB_Metabolomics.metms_2k_h
 github | csv
-   Entity type Variables Entities Updated     Participant 6 2000 2021-02-05    Sample header information (meta data) from mass spectrometry metabolomics on 2000 pregnancy samples.
+   Entity type Variables Entities Updated     Participant 6 2000 2021-02-05    Sample header information (meta data) from mass spectrometry metabolomics (Metabolon) on 2000 pregnancy samples.
    variable label value_type summary     BiBPregNumber  decimal mean (sd)
 1.09 (0.30)
 min &amp;lt; median &amp;lt; max
@@ -52,7 +51,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_2k_s/metms_2k_c/</guid>
       <description>Table ID: BiB_Metabolomics.metms_2k_c
 github | csv
-   Entity type Variables Entities Updated     Compound 14 1239 2021-02-05    Meta data about compounds (markers) from mass spectrometry metabolomics on 2000 pregnancy samples.
+   Entity type Variables Entities Updated     Compound 14 1239 2021-02-05    Meta data about compounds (markers) from mass spectrometry metabolomics (Metabolon) on 2000 pregnancy samples.
    variable value_type summary     VariableNameRaw text 1239 unique values
 1239 non-missing values
 8 to 11 characters

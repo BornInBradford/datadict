@@ -1,0 +1,6 @@
+variable,full_name,label,value_type,description,categories,categories_label
+Description,BiB_Metabolomics.metnmr_baby_a.Description,NMR metabolomics compound description,text,,,
+Units,BiB_Metabolomics.metnmr_baby_a.Units,NMR metabolomics compound variable units,text,,,
+SuccessRate,BiB_Metabolomics.metnmr_baby_a.SuccessRate,NMR metabolomics compound success rate,decimal,,,
+Group,BiB_Metabolomics.metnmr_baby_a.Group,NMR metabolomics compound group,text,,,
+Subgroup,BiB_Metabolomics.metnmr_baby_a.Subgroup,NMR metabolomics compound subgroup,text,,,
