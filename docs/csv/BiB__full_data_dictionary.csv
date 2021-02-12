@@ -17678,4 +17678,13 @@ BiB_GrowingUp,renal_blood_tests,sodium,BiB_GrowingUp.renal_blood_tests.sodium,So
 BiB_GrowingUp,renal_blood_tests,potassium,BiB_GrowingUp.renal_blood_tests.potassium,Potassium (mmol/L),decimal,,,
 BiB_GrowingUp,renal_blood_tests,urea,BiB_GrowingUp.renal_blood_tests.urea,Urea (mmol/L),decimal,,,
 BiB_GrowingUp,renal_blood_tests,creatinine,BiB_GrowingUp.renal_blood_tests.creatinine,Creatinine (umol/L),decimal,,,
-BiB_GrowingUp,renal_urine_rbp,rbpu_result,BiB_GrowingUp.renal_urine_rbp.rbpu_result,Urine RBP result mg/L,decimal,,-1|-2|1|3,<12.8mg/L at 1 in 5 dilution. No result from undiluted sample due to turbidity.|missing|<2 mg/L|3 mg/L
+BiB_GrowingUp,renal_urines,urine_rbp,BiB_GrowingUp.renal_urines.urine_rbp,Urine RBP result mg/L,decimal,,-1|-2|1|3,<12.8mg/L at 1 in 5 dilution. No result from undiluted sample due to turbidity.|missing|<2 mg/L|3 mg/L
+BiB_GrowingUp,renal_urines,urine_creat,BiB_GrowingUp.renal_urines.urine_creat,GU renal: urine creatinine,decimal,,,
+BiB_GrowingUp,renal_urines,urine_creat_low,BiB_GrowingUp.renal_urines.urine_creat_low,Indicates urine creatinine below 1.00,decimal,,,
+BiB_GrowingUp,renal_urines,urine_album,BiB_GrowingUp.renal_urines.urine_album,GU renal: urine albumin,decimal,,,
+BiB_GrowingUp,renal_urines,urine_album_low,BiB_GrowingUp.renal_urines.urine_album_low,Indicates urine albumin below 3.00,decimal,,,
+BiB_GrowingUp,renal_urines,urine_prot,BiB_GrowingUp.renal_urines.urine_prot,GU renal: urine protein,decimal,,,
+BiB_GrowingUp,renal_urines,urine_prot_low,BiB_GrowingUp.renal_urines.urine_prot_low,Indicates urine protein below 0.06,decimal,,,
+BiB_GrowingUp,renal_urines,alb_creat_rat,BiB_GrowingUp.renal_urines.alb_creat_rat,GU renal: albumin creatinine ratio,decimal,,,
+BiB_GrowingUp,renal_urines,prot_creat_rat,BiB_GrowingUp.renal_urines.prot_creat_rat,GU renal: protein creatinine ratio,decimal,,,
+BiB_GrowingUp,renal_cystatinc,cystatinc,BiB_GrowingUp.renal_cystatinc.cystatinc,Cystatic C from serum,decimal,,,
