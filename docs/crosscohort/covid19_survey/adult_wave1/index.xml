@@ -10,37 +10,5 @@
 	<atom:link href="https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_wave1/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>COVID19 Adult Survey Wave 2 (BiB)</title>
-      <link>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_wave1/adult_bib_w2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_wave1/adult_bib_w2/</guid>
-      <description>Table ID: COVID19_Survey.adult_bib_w2
-github | csv
-   Entity type Variables Entities Updated     Participant 447 631 2021-03-15    COVID19 adult-completed survey wave 2. Just respondents from the BiB cohort.
-   variable label value_type summary     Cohort Cohort decimal 1 : BiB
-2 : Better Start
-100.00% complete
-   Date Date of completion date from 1978-11-18
-to 2030-10-20</description>
-    </item>
-    
-    <item>
-      <title>COVID19 Adult Survey Wave 2 (BiBBS)</title>
-      <link>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_wave1/adult_bibbs_w2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_wave1/adult_bibbs_w2/</guid>
-      <description>Table ID: COVID19_Survey.adult_bibbs_w2
-github | csv
-   Entity type Variables Entities Updated     Participant 269 136 2021-03-15    COVID19 adult-completed survey wave 2. Just respondents from the BiBBS cohort.
-   variable label value_type summary     Cohort Cohort decimal 1 : BiB
-2 : Better Start
-100.00% complete
-   Date Date of completion date from 1981-09-12
-to 2021-02-05</description>
-    </item>
-    
   </channel>
 </rss>
