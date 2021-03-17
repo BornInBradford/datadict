@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COVID19 Child  Survey Wave 1 on Born in Bradford Data Dictionary</title>
+    <link>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_wave1/</link>
+    <description>Recent content in COVID19 Child  Survey Wave 1 on Born in Bradford Data Dictionary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_wave1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COVID19 Child  Survey Wave 2</title>
+      <link>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_wave1/child_wave2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_wave1/child_wave2/</guid>
+      <description>Table ID: COVID19_Survey.child_wave2
+github | csv
+   Entity type Variables Entities Updated     Participant 133 633 2021-03-15    COVID19 child survey. The first section is child-completed and the SDQ setion is parent-completed. Respondents from the BiB cohort. Wave 2.
+   variable label value_type summary     Cohort Cohort text 1 unique values
+633 non-missing values
+3 characters
+   Gender Child&amp;rsquo;s gender decimal 1 : Male</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,134 @@
+variable,full_name,label,value_type,description,categories,categories_label
+Cohort,COVID19_Survey.child_wave2.Cohort,Cohort,text,,,
+Gender,COVID19_Survey.child_wave2.Gender,Child's gender,decimal,,1|2,Male|Female
+age_in_years,COVID19_Survey.child_wave2.age_in_years,Age in years,decimal,,,
+ethnicity_mother,COVID19_Survey.child_wave2.ethnicity_mother,Ethnic group (mother),decimal,,1|2|3,White British|Pakistani|Other
+ward,COVID19_Survey.child_wave2.ward,Ward as at March 2020,text,,,
+imdrank,COVID19_Survey.child_wave2.imdrank,IMD 2019 National Rank (1 = most deprived),decimal,,,
+imddecile,COVID19_Survey.child_wave2.imddecile,IMD 2019 National Decile (1 = most deprived),decimal,,,
+edcont_ethnic_origin,COVID19_Survey.child_wave2.edcont_ethnic_origin,Child Ethnic Origin Code,decimal,,1|10|2|3|4|5|6|7|8|9,Bangladeshi|Other Ethnic Groups|Indian|Pakistani|Chinese/ Other Asian|African|Black Carribbean/ Black Other|Mixed|White British|White Other
+edcont_eal,COVID19_Survey.child_wave2.edcont_eal,Whether English is an adittional language,decimal,,1|2|3,No|Unknown|Yes
+edcont_fsm,COVID19_Survey.child_wave2.edcont_fsm,Whether child in receipt of freee school meals,decimal,,1|2,No|Yes
+edcont_sen,COVID19_Survey.child_wave2.edcont_sen,Special educational needs catagory,decimal,,1|2|3|4|5|6,EHCP|Not SEN|SEN Support|School Action|School Action Plus|Statement
+c19c2_date_id,COVID19_Survey.child_wave2.c19c2_date_id,Please write todays date,date,,,
+chys_7timesleep_c19c2,COVID19_Survey.child_wave2.chys_7timesleep_c19c2,1A) In the last 7 days what time have you normally fallen asleep (please write):,text,,,
+chys_7wknp_c19c2,COVID19_Survey.child_wave2.chys_7wknp_c19c2,1B) In the last 7 days what time have you normally woken up (please write):,text,,,
+chfl_7physactwkdy_c19c2,COVID19_Survey.child_wave2.chfl_7physactwkdy_c19c2,2A) On a normal weekday (Monday to Friday) (please tick one),decimal,,1|2|3|4|5,No activity (0 minutes)|Small amount of activity (1 to 30 minutes)|Small to Moderate amount activity (31 to 60 minutes)|Moderate to Large amount of activity (1 to 2 hours)|Large amount of activity (more than 2 hours)
+chfl_7physactwknd_c19c2,COVID19_Survey.child_wave2.chfl_7physactwknd_c19c2,   2B) On a normal weekend day (Saturday and Sunday) (please tick one)      ,decimal,,1|2|3|4|5,No activity (0 minutes)|Small amount of activity (1 to 30 minutes)|Small to Moderate amount activity (31 to 60 minutes)|Moderate to Large amount of activity (1 to 2 hours)|Large amount of activity (more than 2 hours)
+c19c2_chfl_acttrvl_mor,COVID19_Survey.child_wave2.c19c2_chfl_acttrvl_mor,"If in school holidays: When you are at school, on how many mornings do you activ",decimal,,1|2|3|4|5,None|1 time last week|2-3 times last week|4 times last week|5 times last week
+c19c2_chfl_brktme_act,COVID19_Survey.child_wave2.c19c2_chfl_brktme_act,"If in school holidays or not currently going to school: when you are at school, ",decimal,,1|2|3|4|5,"Sat down (talking, reading, doing schoolwork)|Stood around or walked around|Ran or played a little bit|Ran around and played quite a bit|Ran and played hard most of the time"
+c19c2_chfl_lchtme_act,COVID19_Survey.child_wave2.c19c2_chfl_lchtme_act,If in school holidays: when you are at school what do you normally do at lunch (,decimal,,1|2|3|4|5,"Sat down (talking, reading, doing schoolwork)|Stood around or walked around|Ran or played a little bit|Ran around and played quite a bit|Ran and played hard most of the time"
+c19c2_chfl_acttrvl_aft,COVID19_Survey.child_wave2.c19c2_chfl_acttrvl_aft,"If in school holidays: when you are at school, on how many afternoons do you act",decimal,,1|2|3|4|5,None|1 time last week|2-3 times last week|4 times last week|5 times last week
+c19c2_chfl_actsprt_aftscl,COVID19_Survey.child_wave2.c19c2_chfl_actsprt_aftscl,"If in school holidays: when you are at school, on how many days right after scho",decimal,,1|2|3|4|5,None|1 time last week|2-3 times last week|4 times last week|5 times last week
+c19c2_chfl_actsprt_eve,COVID19_Survey.child_wave2.c19c2_chfl_actsprt_eve,"If in school holidays: when you are at school, on how many evenings (from tea ti",decimal,,1|2|3|4|5,None|1 time last week|2-3 times last week|4 times last week|5 times last week
+c19c2_chfl_actsprt_wknd,COVID19_Survey.child_wave2.c19c2_chfl_actsprt_wknd,"2I) On the last weekend (Saturday and Sunday), how many times did you do sports,",decimal,,1|2|3|4|5,None|1 time|2-3 times|4-5 times|6 times or more
+chtss_7timesitly_c19c2,COVID19_Survey.child_wave2.chtss_7timesitly_c19c2,"3A) In the last 7 days, on a normal day, how much time have you spent sitting or",decimal,,1|2|3|4|5,I spent almost none of my free time sitting or lying down|I spent little time sitting during my free time or lying down|I spent about half of my free time sitting or lying down|I spent a lot of time sitting during my free time or lying down|I spent almost all of my free time sitting or lying down
+chtss_7timesitlyacttv_c19c2,COVID19_Survey.child_wave2.chtss_7timesitlyacttv_c19c2,Watching TV but NOT time spent playing video games,decimal,,1|2|3|4|5,No time|1 hour or less|1-2 hours|3-4 hours|4+ hours
+chtss_7timesitlyactvg_c19c2,COVID19_Survey.child_wave2.chtss_7timesitlyactvg_c19c2,"Playing video games on a game console (e.g. Playstation or Switch), mobile phone",decimal,,1|2|3|4|5,No time|1 hour or less|1-2 hours|3-4 hours|4+ hours
+chtss_7timesitlyactcom_c19c2,COVID19_Survey.child_wave2.chtss_7timesitlyactcom_c19c2,"Using computers/tablets for social activity (e.g. Instagram, Facebook), surfing ",decimal,,1|2|3|4|5,No time|1 hour or less|1-2 hours|3-4 hours|4+ hours
+chtss_7timesitlyactmb_c19c2,COVID19_Survey.child_wave2.chtss_7timesitlyactmb_c19c2,"Using your mobile phone to talk, text, or socialise (Instagram and Facebook) but",decimal,,1|2|3|4|5,No time|1 hour or less|1-2 hours|3-4 hours|4+ hours
+chtss_7timesitlyactschw_c19c2,COVID19_Survey.child_wave2.chtss_7timesitlyactschw_c19c2,"Doing school work in books or on a computer/tablet (e.g. maths, reading, topic w",decimal,,1|2|3|4|5,No time|1 hour or less|1-2 hours|3-4 hours|4+ hours
+c19c2_chsch_rtn,COVID19_Survey.child_wave2.c19c2_chsch_rtn,"4A) First, wed like to know whether you have gone back to school. ",decimal,,0|1,No|Yes (go to question 4c)
+c19c2_chsch_rtn_no,COVID19_Survey.child_wave2.c19c2_chsch_rtn_no,"4B) If No, what is the main reason you havent gone back? ",text,,,
+c19c2_chsch_dyswk,COVID19_Survey.child_wave2.c19c2_chsch_dyswk,4C) How many days do you normally go to school each week?,decimal,,1|2|3,1-2 days a week|3-4 days a week|5 days a week
+c19c2_chsch_yr,COVID19_Survey.child_wave2.c19c2_chsch_yr,4D) What year group are you in now?,decimal,,1|2|3|4|5|6,Year 4|Year 5|Year 6|Year 7|Year 8|Year 9
+c19c2_chsch_nwsch,COVID19_Survey.child_wave2.c19c2_chsch_nwsch,4E) Have you started a new school?,decimal,,0|1,No|Yes
+c19c2_chsch_nwtch,COVID19_Survey.child_wave2.c19c2_chsch_nwtch,4F) Have you got a new teacher? (If you are in secondary school we mean new form,decimal,,0|1,No|Yes
+c19c2_chsch_hpysch,COVID19_Survey.child_wave2.c19c2_chsch_hpysch,I was happy to go back to school ,decimal,,1|2|3|4|5,I agree a lot|I agree a little|Neither agree or disagree|I disagree a little|I disagree a lot
+c19c2_chsch_scdsch,COVID19_Survey.child_wave2.c19c2_chsch_scdsch,I was scared to go back to school,decimal,,1|2|3|4|5,I agree a lot|I agree a little|Neither agree or disagree|I disagree a little|I disagree a lot
+c19c2_chsch_fgtn,COVID19_Survey.child_wave2.c19c2_chsch_fgtn,I was worried I had forgotten lots of things during lockdown,decimal,,1|2|3|4|5,I agree a lot|I agree a little|Neither agree or disagree|I disagree a little|I disagree a lot
+c19c2_chsch_lrnscl,COVID19_Survey.child_wave2.c19c2_chsch_lrnscl,I find it easier to learn things at school than at home,decimal,,1|2|3|4|5,I agree a lot|I agree a little|Neither agree or disagree|I disagree a little|I disagree a lot
+c19c2_chsch_pasch,COVID19_Survey.child_wave2.c19c2_chsch_pasch,I am more physically active at school,decimal,,1|2|3|4|5,I agree a lot|I agree a little|Neither agree or disagree|I disagree a little|I disagree a lot
+c19c2_chsch_tch,COVID19_Survey.child_wave2.c19c2_chsch_tch,I like my school teacher,decimal,,1|2|3|4|5,I agree a lot|I agree a little|Neither agree or disagree|I disagree a little|I disagree a lot
+c19c2_chsch_cls,COVID19_Survey.child_wave2.c19c2_chsch_cls,I like my class,decimal,,1|2|3|4|5,I agree a lot|I agree a little|Neither agree or disagree|I disagree a little|I disagree a lot
+c19c2_chsch_smrt,COVID19_Survey.child_wave2.c19c2_chsch_smrt,I feel that I am just as smart as other kids my age,decimal,,1|2|3|4|5,I agree a lot|I agree a little|Neither agree or disagree|I disagree a little|I disagree a lot
+c19c2_chsch_wellclswk,COVID19_Survey.child_wave2.c19c2_chsch_wellclswk,I do very well at my classwork,decimal,,1|2|3|4|5,I agree a lot|I agree a little|Neither agree or disagree|I disagree a little|I disagree a lot
+c19c2_chsch_fgt,COVID19_Survey.child_wave2.c19c2_chsch_fgt,I often forget what I learn ,decimal,,1|2|3|4|5,I agree a lot|I agree a little|Neither agree or disagree|I disagree a little|I disagree a lot
+c19c2_chsch_trbans,COVID19_Survey.child_wave2.c19c2_chsch_trbans,I have trouble figuring out the answers in school,decimal,,1|2|3|4|5,I agree a lot|I agree a little|Neither agree or disagree|I disagree a little|I disagree a lot
+chhs_hrdnxt_c19c2,COVID19_Survey.child_wave2.chhs_hrdnxt_c19c2,4H) When I find something really hard I can work out what to do next?,decimal,,1|2|3,Never|Some of the time|All of the time
+c19c2_chsch_tvlnow,COVID19_Survey.child_wave2.c19c2_chsch_tvlnow,4I) How do you normally get to school now? (Tick one),decimal,,1|2|3|4|5|6|7|8,Car/Van|School Bus|Other bus|Walk|Bicycle|Taxi|Train|Other
+c19c2_chsch_tvlbfe,COVID19_Survey.child_wave2.c19c2_chsch_tvlbfe,4J) How did you normally get to school before the lockdown (e.g. in January/Febr,decimal,,1|2|3|4|5|6|7|8,Car/Van|School Bus|Other bus|Walk|Bicycle|Taxi|Train|Other
+c19c2_chsch_vclcnt,COVID19_Survey.child_wave2.c19c2_chsch_vclcnt,"4K) Thinking about the person or people you usually live with, how many cars/tax",decimal,,1|2|3|4|5,None|1|2|3|More than 3
+c19c2_chsch_10wlk,COVID19_Survey.child_wave2.c19c2_chsch_10wlk,4L) How would you feel about walking for a short time as part of your journey to,decimal,,1|2|3|4,Very happy|Quite happy|Quite unhappy|Very unhappy
+c19c2_yhw_hdache,COVID19_Survey.child_wave2.c19c2_yhw_hdache,Headache ,decimal,,1|2|3|4|5,About every day|More than once a week|About every week|About every month|Rarely or never
+c19c2_yhw_sache,COVID19_Survey.child_wave2.c19c2_yhw_sache,Stomach Ache,decimal,,1|2|3|4|5,About every day|More than once a week|About every week|About every month|Rarely or never
+c19c2_yhw_bkache,COVID19_Survey.child_wave2.c19c2_yhw_bkache,Back Ache ,decimal,,1|2|3|4|5,About every day|More than once a week|About every week|About every month|Rarely or never
+c19c2_yhw_low,COVID19_Survey.child_wave2.c19c2_yhw_low,Feeling Low,decimal,,1|2|3|4|5,About every day|More than once a week|About every week|About every month|Rarely or never
+c19c2_yhw_irri,COVID19_Survey.child_wave2.c19c2_yhw_irri,Irritability or Bad Temper,decimal,,1|2|3|4|5,About every day|More than once a week|About every week|About every month|Rarely or never
+c19c2_yhw_nerv,COVID19_Survey.child_wave2.c19c2_yhw_nerv,Feeling Nervous,decimal,,1|2|3|4|5,About every day|More than once a week|About every week|About every month|Rarely or never
+c19c2_yhw_difslp,COVID19_Survey.child_wave2.c19c2_yhw_difslp,Difficulties in Sleeping,decimal,,1|2|3|4|5,About every day|More than once a week|About every week|About every month|Rarely or never
+c19c2_yhw_diz,COVID19_Survey.child_wave2.c19c2_yhw_diz,Feeling Dizzy,decimal,,1|2|3|4|5,About every day|More than once a week|About every week|About every month|Rarely or never
+c19c2_yhw_gnrlhth,COVID19_Survey.child_wave2.c19c2_yhw_gnrlhth,5B) Would you say your health is?,decimal,,1|2|3|4,Excellent|Good|Fair|Poor
+c19c2_eq5d_mob,COVID19_Survey.child_wave2.c19c2_eq5d_mob,5C) Mobility,decimal,,1|2|3,I have no problems walking about|I have some problems walking about|I have a lot of problems walking about
+c19c2_eq5d_lkaft,COVID19_Survey.child_wave2.c19c2_eq5d_lkaft,5D) Looking after myself,decimal,,1|2|3,I have no problems washing or dressing myself|I have some problems washing or dressing myself|I have a lot of problems washing or dressing myself
+c19c2_eq5d_act,COVID19_Survey.child_wave2.c19c2_eq5d_act,"5E) Doing usual activites (for example going to school, hobbies, sports, playing",decimal,,1|2|3,I have no problems doing my usual activities|I have some problems doing my usual activities|I have a lot of problems doing my usual activities
+c19c2_eq5d_pain,COVID19_Survey.child_wave2.c19c2_eq5d_pain,5F) Having pain or discomfort,decimal,,1|2|3,I have no pain or discomfort|I have a lot pain or discomfort|I have some pain or discomfort
+c19c2_eq5d_wrdsad,COVID19_Survey.child_wave2.c19c2_eq5d_wrdsad,"5G) Feeling worried, sad or unhappy",decimal,,1|2|3,"I am not worried, sad or unhappy|I am a bit worried, sad or unhappy|I am very worried, sad or unhappy"
+c19c2_yhw_lfescle,COVID19_Survey.child_wave2.c19c2_yhw_lfescle,Tick the number that best describes where you stand ,decimal,,1|10|2|3|4|5|6|7|8|9,1 Worst possible life|10 Best possible life|2|3|4|5|6|7|8|9
+chch_lftout_c19c2,COVID19_Survey.child_wave2.chch_lftout_c19c2,5I) How often do you feel left out of things by other children? (Please tick one,decimal,,1|2|3,Never|Some of the time|All of the time
+chch_hppy_c19c2,COVID19_Survey.child_wave2.chch_hppy_c19c2,5J) How often do you feel happy? (Please tick one),decimal,,1|2|3,Never|Some of the time|All of the time
+chch_sad_c19c2,COVID19_Survey.child_wave2.chch_sad_c19c2,5K) How often do you feel sad? (Please tick one),decimal,,1|2|3,Never|Some of the time|All of the time
+chch_frnds_c19c2,COVID19_Survey.child_wave2.chch_frnds_c19c2,6A) How many friends do you have? (Please tick one),decimal,,1|2|3,Not many|Some|Lots
+chch_bstfrnds_c19c2,COVID19_Survey.child_wave2.chch_bstfrnds_c19c2,6B) Do you have any best friends?,decimal,,0|1,No|Yes
+c19c2_chch_mnothrs_rev1,COVID19_Survey.child_wave2.c19c2_chch_mnothrs_rev1,"6C) How often are you mean to others at home, in the neighbourhood, online, at s",decimal,,1|2|3,Never|Some of the time|All of the time
+chwk_2cybrblyng_c19c2,COVID19_Survey.child_wave2.chwk_2cybrblyng_c19c2,6D) In the past two weeks how often have you taken part in cyberbullying (e.g. s,decimal,,1|2|3|4,I have not cyberbullied another person|About once a week|2 or 3 times a week|Several times a week
+choftnhppn_bly_c19c2,COVID19_Survey.child_wave2.choftnhppn_bly_c19c2,6E) How often do other children bully you? (Please tick one),decimal,,1|2|3,Never|Some of the time|All of the time
+chwk_2cybrblyngu_c19c2,COVID19_Survey.child_wave2.chwk_2cybrblyngu_c19c2,6F) In the past two weeks how often have you been cyberbullied? (e.g. sent mean ,decimal,,1|2|3|4,I have not been cyberbullied by another person|About once a week|2 or 3 times a week|Several times a week
+chfm_fun_c19c2,COVID19_Survey.child_wave2.chfm_fun_c19c2,7A) My family and the people I live with: How often do you have fun with your fa,decimal,,1|2|3,Never|Some of the time|All of the time
+chfm_gtalong_c19c2,COVID19_Survey.child_wave2.chfm_gtalong_c19c2,7B) How often does your family get along well together? (Please tick one),decimal,,1|2|3,Never|Some of the time|All of the time
+chfm_siblngs_c19c2,COVID19_Survey.child_wave2.chfm_siblngs_c19c2,"7C) How often do you get along with your brothers, sisters and other children yo",decimal,,1|2|3|4,Never|Some of the time|All of the time|I dont have brothers or sister or live with other children
+chwd_dudo_c19c2___1,COVID19_Survey.child_wave2.chwd_dudo_c19c2___1,8A) What do you do if you are worried about something? You can tick more than on,decimal,,0|1,Unchecked|Checked
+chwd_dudo_c19c2___2,COVID19_Survey.child_wave2.chwd_dudo_c19c2___2,8A) What do you do if you are worried about something? You can tick more than on,decimal,,0|1,Unchecked|Checked
+chwd_dudo_c19c2___3,COVID19_Survey.child_wave2.chwd_dudo_c19c2___3,8A) What do you do if you are worried about something? You can tick more than on,decimal,,0|1,Unchecked|Checked
+chwd_dudo_c19c2___4,COVID19_Survey.child_wave2.chwd_dudo_c19c2___4,8A) What do you do if you are worried about something? You can tick more than on,decimal,,0|1,Unchecked|Checked
+chwd_dudo_c19c2___5,COVID19_Survey.child_wave2.chwd_dudo_c19c2___5,8A) What do you do if you are worried about something? You can tick more than on,decimal,,0|1,Unchecked|Checked
+chwd_dudo_c19c2___6,COVID19_Survey.child_wave2.chwd_dudo_c19c2___6,8A) What do you do if you are worried about something? You can tick more than on,decimal,,0|1,Unchecked|Checked
+chwd_dudo_c19c2___7,COVID19_Survey.child_wave2.chwd_dudo_c19c2___7,8A) What do you do if you are worried about something? You can tick more than on,decimal,,0|1,Unchecked|Checked
+chwr_lstfd_c19c2,COVID19_Survey.child_wave2.chwr_lstfd_c19c2,We cant get the food we want because there is not enough money,decimal,,1|2|3,Many times|1 or 2 times|Never
+chwr_lsteat_c19c2,COVID19_Survey.child_wave2.chwr_lsteat_c19c2,I worry about not having enough to eat,decimal,,1|2|3,Many times|1 or 2 times|Never
+chwr_lstprtsfood_c19c2,COVID19_Survey.child_wave2.chwr_lstprtsfood_c19c2,I worry about how hard it is for my parents to get enough food for us,decimal,,1|2|3,Many times|1 or 2 times|Never
+chwr_lsthngry_c19c2,COVID19_Survey.child_wave2.chwr_lsthngry_c19c2,I feel hungry because there is not enough food to eat,decimal,,1|2|3,Many times|1 or 2 times|Never
+chwr_lsteatlt_c19c2,COVID19_Survey.child_wave2.chwr_lsteatlt_c19c2,I try not to eat a lot so that our food will last,decimal,,1|2|3,Many times|1 or 2 times|Never
+chwr_lstmny_c19c2,COVID19_Survey.child_wave2.chwr_lstmny_c19c2,How often do you worry about how much money your family has,decimal,,1|2|3,Many times|1 or 2 times|Never
+ch_wrynow_1_c19c2,COVID19_Survey.child_wave2.ch_wrynow_1_c19c2, 1: ,text,,,
+ch_wrynow_2_c19c2,COVID19_Survey.child_wave2.ch_wrynow_2_c19c2, 2: ,text,,,
+ch_wrynow_3_c19c2,COVID19_Survey.child_wave2.ch_wrynow_3_c19c2, 3: ,text,,,
+ch_easier_1_c19c2,COVID19_Survey.child_wave2.ch_easier_1_c19c2, 1: ,text,,,
+ch_easier_2_c19c2,COVID19_Survey.child_wave2.ch_easier_2_c19c2, 2: ,text,,,
+ch_easier_3_c19c2,COVID19_Survey.child_wave2.ch_easier_3_c19c2, 3: ,text,,,
+child_complete,COVID19_Survey.child_wave2.child_complete,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
+sdq_consid,COVID19_Survey.child_wave2.sdq_consid,Considerate of other peoples feelings,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_restles,COVID19_Survey.child_wave2.sdq_restles,"Restless, overactive, cannot stay still for long",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_somatic,COVID19_Survey.child_wave2.sdq_somatic,"Often complains of headaches, stomach-aches or sickness",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_shares,COVID19_Survey.child_wave2.sdq_shares,"Shares readily with other children (treats, toys, pencils etc.)",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_tantrum,COVID19_Survey.child_wave2.sdq_tantrum,Often has temper tantrums or hot tempers,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_loner,COVID19_Survey.child_wave2.sdq_loner,"Rather solitary, tends to play alone",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_obeys,COVID19_Survey.child_wave2.sdq_obeys,"Generally obedient, usually does what adults request",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_worries,COVID19_Survey.child_wave2.sdq_worries,"Many worries, often seems worried",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_caring,COVID19_Survey.child_wave2.sdq_caring,"Helpful if someone is hurt, upset or feeling ill",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_fidgety,COVID19_Survey.child_wave2.sdq_fidgety,Constantly fidgeting or squirming,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_friend,COVID19_Survey.child_wave2.sdq_friend,Has at least one good friend,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_fights,COVID19_Survey.child_wave2.sdq_fights,Often fights with other children or bullies them,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_unhappy,COVID19_Survey.child_wave2.sdq_unhappy,"Often unhappy, down-hearted or tearful",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_popular,COVID19_Survey.child_wave2.sdq_popular,Generally liked by other children,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_distrac,COVID19_Survey.child_wave2.sdq_distrac,"Easily distracted, concentration wanders",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_clingy,COVID19_Survey.child_wave2.sdq_clingy,"Nervous or clingy in new situations, easily loses confidence",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_kind,COVID19_Survey.child_wave2.sdq_kind,Kind to younger children,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_lies,COVID19_Survey.child_wave2.sdq_lies,Often lies or cheats,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_bullied,COVID19_Survey.child_wave2.sdq_bullied,Picked on or bullied by other children,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_helpout,COVID19_Survey.child_wave2.sdq_helpout,"Often volunteers to help others (parents, teachers, other children)",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_reflect,COVID19_Survey.child_wave2.sdq_reflect,Thinks things out before acting,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_steals,COVID19_Survey.child_wave2.sdq_steals,"Steals from home, school or elsewhere",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_oldbest,COVID19_Survey.child_wave2.sdq_oldbest,Gets on better with adults than with other children,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_afraid,COVID19_Survey.child_wave2.sdq_afraid,"Many fears, easily scared",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_attends,COVID19_Survey.child_wave2.sdq_attends,"Sees tasks through to the end, good attention span",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_comments,COVID19_Survey.child_wave2.sdq_comments,Do you have any other comments or concerns?,decimal,,,
+sdq_ebddiff,COVID19_Survey.child_wave2.sdq_ebddiff,"Overall, do you think that your child has difficulties in one or more of the fol",decimal,,0|1|2|3,No|Yes - minor difficulties|Yes - definite difficulties|Yes - severe difficulties
+sdq_ebddiff_hwlong,COVID19_Survey.child_wave2.sdq_ebddiff_hwlong,How long have these difficulties been present?,decimal,,0|1|2|3,Less than a month|1-5 months|6-12 months|Over a year
+sdq_distres,COVID19_Survey.child_wave2.sdq_distres,Do the difficulties upset or distress your child?,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+sdq_imphome,COVID19_Survey.child_wave2.sdq_imphome,HOME LIFE,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+sdq_impfrie,COVID19_Survey.child_wave2.sdq_impfrie,FRIENDSHIPS,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+sdq_impclas,COVID19_Survey.child_wave2.sdq_impclas,CLASSROOM LEARNING,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+sdq_impleis,COVID19_Survey.child_wave2.sdq_impleis,LEISURE ACTIVITIES,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+sdq_burden,COVID19_Survey.child_wave2.sdq_burden,Do the difficulties put a burden on you or the family as a whole?,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+childsdq_complete,COVID19_Survey.child_wave2.childsdq_complete,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
