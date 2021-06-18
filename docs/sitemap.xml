@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_dental/dsurvey_5yo/</loc>
+  </url>
+  
+  <url>
     <loc>https://borninbradford.github.io/datadict/bib/</loc>
   </url>
   
@@ -112,6 +116,10 @@
   
   <url>
     <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_bib_w2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_dental/dental_ga/</loc>
   </url>
   
   <url>
@@ -376,6 +384,10 @@
   
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_h/</loc>
+  </url>
+  
+  <url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_dental/</loc>
   </url>
   
   <url>

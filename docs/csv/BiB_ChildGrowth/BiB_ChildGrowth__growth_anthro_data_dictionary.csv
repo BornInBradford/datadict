@@ -1,18 +1,20 @@
 variable,full_name,label,value_type,description,categories,categories_label
 has_growth_anthro,BiB_ChildGrowth.growth_anthro.has_growth_anthro,Has child growth and anthropometry,decimal,,,
+sex,BiB_ChildGrowth.growth_anthro.sex,Sex,decimal,,1|2,Male|Female
+cgrowthsource,BiB_ChildGrowth.growth_anthro.cgrowthsource,Source of data,decimal,,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,eClipse|Primary care|HCP|SMP|NCMP|Dental caries study|Growing Up|BiB1000-6 mths|BiB1000-12 mths|BiB1000-18 mths|BiB1000-24 mths|BiB1000-36 mths|ALLIN-12 mths|ALLIN-24 mths|MeDALL
+cgupindicator,BiB_ChildGrowth.growth_anthro.cgupindicator,Location where Growing Up measurement taken,text,,,
 agecd_cgrowth,BiB_ChildGrowth.growth_anthro.agecd_cgrowth,Age at measurements (days),decimal,,,
-agecm_cgrowth,BiB_ChildGrowth.growth_anthro.agecm_cgrowth,Age at measurements (months),decimal,,,
+agecm_cgrowth,BiB_ChildGrowth.growth_anthro.agecm_cgrowth,Age at measurement (months),decimal,,,
 agecy_cgrowth,BiB_ChildGrowth.growth_anthro.agecy_cgrowth,Age at measurement (years),decimal,,,
-cgrowthsource,BiB_ChildGrowth.growth_anthro.cgrowthsource,Source of data,decimal,,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,eClipse|Primary care|HCP|School nurses|NCMP|Dental caries study|Growing Up|BiB1000-6 mths|BiB1000-12 mths|BiB1000-18 mths|BiB1000-24 mths|BiB1000-36 mths|ALLIN-12 mths|ALLIN-24 mths|MeDALL
 cheight,BiB_ChildGrowth.growth_anthro.cheight,Height (cm),decimal,,,
+czheiuk90,BiB_ChildGrowth.growth_anthro.czheiuk90,Height SDS (UK-90),decimal,,,
 cweight,BiB_ChildGrowth.growth_anthro.cweight,Weight (kg),decimal,,,
-cbmi,BiB_ChildGrowth.growth_anthro.cbmi,BMI (kg/m2),decimal,,,
+czweiuk90,BiB_ChildGrowth.growth_anthro.czweiuk90,Weight SDS (UK-90),decimal,,,
+cbmi,BiB_ChildGrowth.growth_anthro.cbmi,BMI,decimal,,,
+czbmiuk90,BiB_ChildGrowth.growth_anthro.czbmiuk90,BMI SDS (UK-90),decimal,,,
 cabdo,BiB_ChildGrowth.growth_anthro.cabdo,Abdominal/waist circumference (cm),decimal,,,
 chead,BiB_ChildGrowth.growth_anthro.chead,Head circumference (cm),decimal,,,
 cmidarm,BiB_ChildGrowth.growth_anthro.cmidarm,Mid arm circumference (cm),decimal,,,
-csubcap,BiB_ChildGrowth.growth_anthro.csubcap,Subscapular skinfold thickness (mm),decimal,,,
-cthigh,BiB_ChildGrowth.growth_anthro.cthigh,Thigh skinfold thickness (mm),decimal,,,
+csubscap,BiB_ChildGrowth.growth_anthro.csubscap,Subscapular skinfold thickness (mm),decimal,,,
 ctriceps,BiB_ChildGrowth.growth_anthro.ctriceps,Tricep skinfold thickness (mm),decimal,,,
-czheiuk90,BiB_ChildGrowth.growth_anthro.czheiuk90,Height SDS (UK-90),decimal,,,
-czweiuk90,BiB_ChildGrowth.growth_anthro.czweiuk90,Weight SDS (UK-90),decimal,,,
-czbmiuk90,BiB_ChildGrowth.growth_anthro.czbmiuk90,BMI SDS (UK-90),decimal,,,
+cthigh,BiB_ChildGrowth.growth_anthro.cthigh,Thigh skinfold thickness (mm),decimal,,,

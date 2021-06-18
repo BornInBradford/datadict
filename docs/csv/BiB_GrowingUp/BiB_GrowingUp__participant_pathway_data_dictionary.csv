@@ -1,9 +1,29 @@
 variable,full_name,label,value_type,description,categories,categories_label
-ParticipantType,BiB_GrowingUp.participant_pathway.ParticipantType,"",text,,,
-DateOfConsent,BiB_GrowingUp.participant_pathway.DateOfConsent,"",date,,,
-is_in_gu,BiB_GrowingUp.participant_pathway.is_in_gu,"",decimal,,,
-has_creatinine_test,BiB_GrowingUp.participant_pathway.has_creatinine_test,"",decimal,,,
-has_renal_scan,BiB_GrowingUp.participant_pathway.has_renal_scan,"",decimal,,,
-has_stored_serum,BiB_GrowingUp.participant_pathway.has_stored_serum,"",decimal,,,
-has_stored_urine,BiB_GrowingUp.participant_pathway.has_stored_urine,"",decimal,,,
-has_cystatinc_sample_sent,BiB_GrowingUp.participant_pathway.has_cystatinc_sample_sent,"",decimal,,,
+participant_type,BiB_GrowingUp.participant_pathway.participant_type,Participant type,decimal,,1|2|3,Mother|Child|Father
+invited,BiB_GrowingUp.participant_pathway.invited,Growing Up invitation letter sent,decimal,,0|1,No|Yes
+recruited,BiB_GrowingUp.participant_pathway.recruited,Recruited to Growing Up,decimal,,0|1,No|Yes
+recruited_pre_pandemic,BiB_GrowingUp.participant_pathway.recruited_pre_pandemic,Recruited to Growing Up: pre covid-19 pandemic,decimal,,0|1,No|Yes
+seen_in_school,BiB_GrowingUp.participant_pathway.seen_in_school,Seen in school for Growing Up,decimal,,0|1,No|Yes
+seen_in_community,BiB_GrowingUp.participant_pathway.seen_in_community,Seen in community visit for Growing Up,decimal,,0|1,No|Yes
+notrecruited,BiB_GrowingUp.participant_pathway.notrecruited,Not recruited to Growing Up,decimal,,0|1,No|Yes
+notrec_declined,BiB_GrowingUp.participant_pathway.notrec_declined,Not recruited to Growing Up: Declined,decimal,,0|1,No|Yes
+notrec_outofarea,BiB_GrowingUp.participant_pathway.notrec_outofarea,Not recruited to Growing Up: Out of area,decimal,,0|1,No|Yes
+notrec_notinvited,BiB_GrowingUp.participant_pathway.notrec_notinvited,Not recruited to Growing Up: No invitation sent,decimal,,0|1,No|Yes
+notrec_withdrawn,BiB_GrowingUp.participant_pathway.notrec_withdrawn,Not recruited to Growing Up: Withdrawn from cohort,decimal,,0|1,No|Yes
+notrec_deceased,BiB_GrowingUp.participant_pathway.notrec_deceased,Not recruited to Growing Up: Deceased,decimal,,0|1,No|Yes
+study_cont_total,BiB_GrowingUp.participant_pathway.study_cont_total,Total recruitment contacts for Growing Up,decimal,,,
+study_cont_school,BiB_GrowingUp.participant_pathway.study_cont_school,Total school recruitment contacts for Growing Up,decimal,,,
+study_cont_community,BiB_GrowingUp.participant_pathway.study_cont_community,Total community recruitment contacts for Growing Up,decimal,,,
+recruit_year_first,BiB_GrowingUp.participant_pathway.recruit_year_first,Year of first Growing Up recruitment visit,decimal,,,
+recruit_month_first,BiB_GrowingUp.participant_pathway.recruit_month_first,Month of first Growing Up recruitment visit,decimal,,,
+recruit_year_schl_1,BiB_GrowingUp.participant_pathway.recruit_year_schl_1,Year of first Growing Up recruitment visit in school,decimal,,,
+recruit_month_schl_1,BiB_GrowingUp.participant_pathway.recruit_month_schl_1,Month of first Growing Up recruitment visit in school,decimal,,,
+recruit_year_schl_2,BiB_GrowingUp.participant_pathway.recruit_year_schl_2,Year of second Growing Up recruitment visit in school,decimal,,,
+recruit_month_schl_2,BiB_GrowingUp.participant_pathway.recruit_month_schl_2,Month of second Growing Up recruitment visit in school,decimal,,,
+recruit_year_comm_1,BiB_GrowingUp.participant_pathway.recruit_year_comm_1,Year of first Growing Up recruitment visit in community,decimal,,,
+recruit_month_comm_1,BiB_GrowingUp.participant_pathway.recruit_month_comm_1,Month of first Growing Up recruitment visit in community,decimal,,,
+recruit_year_comm_2,BiB_GrowingUp.participant_pathway.recruit_year_comm_2,Year of second Growing Up recruitment visit in community,decimal,,,
+recruit_month_comm_2,BiB_GrowingUp.participant_pathway.recruit_month_comm_2,Month of second Growing Up recruitment visit in community,decimal,,,
+has_fetal_renal_scan,BiB_GrowingUp.participant_pathway.has_fetal_renal_scan,Child has fetal renal ultrasound scan,decimal,,0|1,No|Yes
+has_gu_blood_sample,BiB_GrowingUp.participant_pathway.has_gu_blood_sample,Has Growing Up stored blood samples,decimal,,0|1,No|Yes
+has_gu_urine_sample,BiB_GrowingUp.participant_pathway.has_gu_urine_sample,Has Growing Up stored urine samples,decimal,,0|1,No|Yes

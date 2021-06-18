@@ -12586,22 +12586,24 @@ BiB_Congenital_Anomalies,conganom_gp,cagpchctv3order,BiB_Congenital_Anomalies.co
 BiB_Congenital_Anomalies,conganom_gp,cagpchicd10,BiB_Congenital_Anomalies.conganom_gp.cagpchicd10,CA from GP records: ICD10 code,text,,,
 BiB_Congenital_Anomalies,conganom_gp,has_cagpch,BiB_Congenital_Anomalies.conganom_gp.has_cagpch,Has: Congenital Anomalies: GP record linkage to 5yo,decimal,,1,has
 BiB_ChildGrowth,growth_anthro,has_growth_anthro,BiB_ChildGrowth.growth_anthro.has_growth_anthro,Has child growth and anthropometry,decimal,,,
+BiB_ChildGrowth,growth_anthro,sex,BiB_ChildGrowth.growth_anthro.sex,Sex,decimal,,1|2,Male|Female
+BiB_ChildGrowth,growth_anthro,cgrowthsource,BiB_ChildGrowth.growth_anthro.cgrowthsource,Source of data,decimal,,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,eClipse|Primary care|HCP|SMP|NCMP|Dental caries study|Growing Up|BiB1000-6 mths|BiB1000-12 mths|BiB1000-18 mths|BiB1000-24 mths|BiB1000-36 mths|ALLIN-12 mths|ALLIN-24 mths|MeDALL
+BiB_ChildGrowth,growth_anthro,cgupindicator,BiB_ChildGrowth.growth_anthro.cgupindicator,Location where Growing Up measurement taken,text,,,
 BiB_ChildGrowth,growth_anthro,agecd_cgrowth,BiB_ChildGrowth.growth_anthro.agecd_cgrowth,Age at measurements (days),decimal,,,
-BiB_ChildGrowth,growth_anthro,agecm_cgrowth,BiB_ChildGrowth.growth_anthro.agecm_cgrowth,Age at measurements (months),decimal,,,
+BiB_ChildGrowth,growth_anthro,agecm_cgrowth,BiB_ChildGrowth.growth_anthro.agecm_cgrowth,Age at measurement (months),decimal,,,
 BiB_ChildGrowth,growth_anthro,agecy_cgrowth,BiB_ChildGrowth.growth_anthro.agecy_cgrowth,Age at measurement (years),decimal,,,
-BiB_ChildGrowth,growth_anthro,cgrowthsource,BiB_ChildGrowth.growth_anthro.cgrowthsource,Source of data,decimal,,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,eClipse|Primary care|HCP|School nurses|NCMP|Dental caries study|Growing Up|BiB1000-6 mths|BiB1000-12 mths|BiB1000-18 mths|BiB1000-24 mths|BiB1000-36 mths|ALLIN-12 mths|ALLIN-24 mths|MeDALL
 BiB_ChildGrowth,growth_anthro,cheight,BiB_ChildGrowth.growth_anthro.cheight,Height (cm),decimal,,,
+BiB_ChildGrowth,growth_anthro,czheiuk90,BiB_ChildGrowth.growth_anthro.czheiuk90,Height SDS (UK-90),decimal,,,
 BiB_ChildGrowth,growth_anthro,cweight,BiB_ChildGrowth.growth_anthro.cweight,Weight (kg),decimal,,,
-BiB_ChildGrowth,growth_anthro,cbmi,BiB_ChildGrowth.growth_anthro.cbmi,BMI (kg/m2),decimal,,,
+BiB_ChildGrowth,growth_anthro,czweiuk90,BiB_ChildGrowth.growth_anthro.czweiuk90,Weight SDS (UK-90),decimal,,,
+BiB_ChildGrowth,growth_anthro,cbmi,BiB_ChildGrowth.growth_anthro.cbmi,BMI,decimal,,,
+BiB_ChildGrowth,growth_anthro,czbmiuk90,BiB_ChildGrowth.growth_anthro.czbmiuk90,BMI SDS (UK-90),decimal,,,
 BiB_ChildGrowth,growth_anthro,cabdo,BiB_ChildGrowth.growth_anthro.cabdo,Abdominal/waist circumference (cm),decimal,,,
 BiB_ChildGrowth,growth_anthro,chead,BiB_ChildGrowth.growth_anthro.chead,Head circumference (cm),decimal,,,
 BiB_ChildGrowth,growth_anthro,cmidarm,BiB_ChildGrowth.growth_anthro.cmidarm,Mid arm circumference (cm),decimal,,,
-BiB_ChildGrowth,growth_anthro,csubcap,BiB_ChildGrowth.growth_anthro.csubcap,Subscapular skinfold thickness (mm),decimal,,,
-BiB_ChildGrowth,growth_anthro,cthigh,BiB_ChildGrowth.growth_anthro.cthigh,Thigh skinfold thickness (mm),decimal,,,
+BiB_ChildGrowth,growth_anthro,csubscap,BiB_ChildGrowth.growth_anthro.csubscap,Subscapular skinfold thickness (mm),decimal,,,
 BiB_ChildGrowth,growth_anthro,ctriceps,BiB_ChildGrowth.growth_anthro.ctriceps,Tricep skinfold thickness (mm),decimal,,,
-BiB_ChildGrowth,growth_anthro,czheiuk90,BiB_ChildGrowth.growth_anthro.czheiuk90,Height SDS (UK-90),decimal,,,
-BiB_ChildGrowth,growth_anthro,czweiuk90,BiB_ChildGrowth.growth_anthro.czweiuk90,Weight SDS (UK-90),decimal,,,
-BiB_ChildGrowth,growth_anthro,czbmiuk90,BiB_ChildGrowth.growth_anthro.czbmiuk90,BMI SDS (UK-90),decimal,,,
+BiB_ChildGrowth,growth_anthro,cthigh,BiB_ChildGrowth.growth_anthro.cthigh,Thigh skinfold thickness (mm),decimal,,,
 BiB_ChildGrowth,bioimpedance,has_bioimpedance,BiB_ChildGrowth.bioimpedance.has_bioimpedance,Has child bioimpedance,decimal,,,
 BiB_ChildGrowth,bioimpedance,agedays,BiB_ChildGrowth.bioimpedance.agedays,"",decimal,,,
 BiB_ChildGrowth,bioimpedance,agemths,BiB_ChildGrowth.bioimpedance.agemths,"",decimal,,,
@@ -16788,6 +16790,53 @@ BiB_MeDALL,medall_ndvi,mndvisizeamty,BiB_MeDALL.medall_ndvi.mndvisizeamty,MeDALL
 BiB_MeDALL,medall_ndvi,mndvisizepkgdn,BiB_MeDALL.medall_ndvi.mndvisizepkgdn,MeDALL address: Size of nearest green space: Parks and Gardens (hectares),decimal,,,
 BiB_MeDALL,medall_ndvi,mndvisizeplygd,BiB_MeDALL.medall_ndvi.mndvisizeplygd,MeDALL address: Size of nearest green space: Playgrounds (hectares),decimal,,,
 BiB_MeDALL,medall_ndvi,mndvisizesprt,BiB_MeDALL.medall_ndvi.mndvisizesprt,MeDALL address: Size of nearest green space: Outdoor Sports (hectares),decimal,,,
+BiB_Dental,dsurvey_5yo,has_dsurvey_5yo,BiB_Dental.dsurvey_5yo.has_dsurvey_5yo,Has 5yo dental survey,decimal,,,
+BiB_Dental,dsurvey_5yo,AgeMths,BiB_Dental.dsurvey_5yo.AgeMths,"Age at treatment, months",decimal,,,
+BiB_Dental,dsurvey_5yo,ddsdt,BiB_Dental.dsurvey_5yo.ddsdt,Number of decayed teeth,decimal,,,
+BiB_Dental,dsurvey_5yo,ddsmt,BiB_Dental.dsurvey_5yo.ddsmt,Number of missing teeth,decimal,,,
+BiB_Dental,dsurvey_5yo,ddsft,BiB_Dental.dsurvey_5yo.ddsft,Number of filled teeth,decimal,,,
+BiB_Dental,dsurvey_5yo,ddsdmft,BiB_Dental.dsurvey_5yo.ddsdmft,"Number of decayed, missing and filled teeth",decimal,,,
+BiB_Dental,dsurvey_5yo,ddscareindex,BiB_Dental.dsurvey_5yo.ddscareindex,Number of filled teeth divided by the dmft,decimal,,,
+BiB_Dental,dental_ga,has_dental_ga,BiB_Dental.dental_ga.has_dental_ga,Has dental extractions under ga,decimal,,,
+BiB_Dental,dental_ga,AgeMths,BiB_Dental.dental_ga.AgeMths,"Age at treatment, months",decimal,,,
+BiB_Dental,dental_ga,GAType,BiB_Dental.dental_ga.GAType,Type of dental extraction under GA,decimal,,1|2,Exodontia|Comprehensive care
+BiB_Dental,dental_ga,GATotal,BiB_Dental.dental_ga.GATotal,Total number of GAs for dental extraction,decimal,,,
+BiB_Dental,dental_ga,GASequence,BiB_Dental.dental_ga.GASequence,GA number in sequence,decimal,,,
+BiB_Dental,dental_ga,Weight,BiB_Dental.dental_ga.Weight,Weight,decimal,,,
+BiB_Dental,dental_ga,dgaUR6,BiB_Dental.dental_ga.dgaUR6,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaURE,BiB_Dental.dental_ga.dgaURE,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaURD,BiB_Dental.dental_ga.dgaURD,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaURC,BiB_Dental.dental_ga.dgaURC,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaURB,BiB_Dental.dental_ga.dgaURB,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaURA,BiB_Dental.dental_ga.dgaURA,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaULA,BiB_Dental.dental_ga.dgaULA,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaULB,BiB_Dental.dental_ga.dgaULB,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaULC,BiB_Dental.dental_ga.dgaULC,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaULD,BiB_Dental.dental_ga.dgaULD,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaULE,BiB_Dental.dental_ga.dgaULE,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaUL6,BiB_Dental.dental_ga.dgaUL6,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLL6,BiB_Dental.dental_ga.dgaLL6,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLLE,BiB_Dental.dental_ga.dgaLLE,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLLD,BiB_Dental.dental_ga.dgaLLD,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLLC,BiB_Dental.dental_ga.dgaLLC,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLLB,BiB_Dental.dental_ga.dgaLLB,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLLA,BiB_Dental.dental_ga.dgaLLA,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLRA,BiB_Dental.dental_ga.dgaLRA,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLRB,BiB_Dental.dental_ga.dgaLRB,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLRC,BiB_Dental.dental_ga.dgaLRC,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLRD,BiB_Dental.dental_ga.dgaLRD,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLRE,BiB_Dental.dental_ga.dgaLRE,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLR6,BiB_Dental.dental_ga.dgaLR6,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaUR4,BiB_Dental.dental_ga.dgaUR4,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaUR1,BiB_Dental.dental_ga.dgaUR1,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaUL1,BiB_Dental.dental_ga.dgaUL1,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaUL4,BiB_Dental.dental_ga.dgaUL4,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLL5,BiB_Dental.dental_ga.dgaLL5,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLL4,BiB_Dental.dental_ga.dgaLL4,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLL1,BiB_Dental.dental_ga.dgaLL1,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLR1,BiB_Dental.dental_ga.dgaLR1,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLR4,BiB_Dental.dental_ga.dgaLR4,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+BiB_Dental,dental_ga,dgaLR5,BiB_Dental.dental_ga.dgaLR5,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
 BiB_Education_Record,edrecs_context,has_edrecs_context,BiB_Education_Record.edrecs_context.has_edrecs_context,Has local authority education record contextual data,decimal,,,
 BiB_Education_Record,edrecs_context,edcont_academicyear,BiB_Education_Record.edrecs_context.edcont_academicyear,Academic year started school,decimal,,1|2|3|4|5,2011/2012|2012/2013|2013/2014|2014/2015|2015/2016
 BiB_Education_Record,edrecs_context,edcont_actermbirth,BiB_Education_Record.edrecs_context.edcont_actermbirth,Academic term of child's birthday,decimal,,1|2|3,Autumn|Spring|Summer
@@ -16876,14 +16925,34 @@ BiB_Education_Record,edrecs_ks1_2,ks1_post2016_science,BiB_Education_Record.edre
 BiB_Education_Record,edrecs_ks1_2,ks1_post2016_testestablishment,BiB_Education_Record.edrecs_ks1_2.ks1_post2016_testestablishment,School Code where test conducted: Key Stage 1 (post 2016),text,,,
 BiB_Education_Record,edrecs_ks1_2,ks1_post2016_writing,BiB_Education_Record.edrecs_ks1_2.ks1_post2016_writing,Key Stage 1 (post 2016)- Writing,decimal,,1|2|3|4|5|6|7,"BLW - Below the standard of the interim pre-key stage standards|PKF - Pre-key stage – foundations for the expected standard|WTS - Working towards the expected standard|EXS - Working at the expected standard|GDS - Working at greater depth within the expected standard|A - Absent for long periods or recently arrived|D - In exceptional circumstances, pupil disapplied from national curriculum"
 BiB_Education_Record,edrecs_ks1_2,ks1_post2016_yeartested,BiB_Education_Record.edrecs_ks1_2.ks1_post2016_yeartested,Year of test: Key Stage 1 (post 2016),decimal,,,
-BiB_GrowingUp,participant_pathway,ParticipantType,BiB_GrowingUp.participant_pathway.ParticipantType,"",text,,,
-BiB_GrowingUp,participant_pathway,DateOfConsent,BiB_GrowingUp.participant_pathway.DateOfConsent,"",date,,,
-BiB_GrowingUp,participant_pathway,is_in_gu,BiB_GrowingUp.participant_pathway.is_in_gu,"",decimal,,,
-BiB_GrowingUp,participant_pathway,has_creatinine_test,BiB_GrowingUp.participant_pathway.has_creatinine_test,"",decimal,,,
-BiB_GrowingUp,participant_pathway,has_renal_scan,BiB_GrowingUp.participant_pathway.has_renal_scan,"",decimal,,,
-BiB_GrowingUp,participant_pathway,has_stored_serum,BiB_GrowingUp.participant_pathway.has_stored_serum,"",decimal,,,
-BiB_GrowingUp,participant_pathway,has_stored_urine,BiB_GrowingUp.participant_pathway.has_stored_urine,"",decimal,,,
-BiB_GrowingUp,participant_pathway,has_cystatinc_sample_sent,BiB_GrowingUp.participant_pathway.has_cystatinc_sample_sent,"",decimal,,,
+BiB_GrowingUp,participant_pathway,participant_type,BiB_GrowingUp.participant_pathway.participant_type,Participant type,decimal,,1|2|3,Mother|Child|Father
+BiB_GrowingUp,participant_pathway,invited,BiB_GrowingUp.participant_pathway.invited,Growing Up invitation letter sent,decimal,,0|1,No|Yes
+BiB_GrowingUp,participant_pathway,recruited,BiB_GrowingUp.participant_pathway.recruited,Recruited to Growing Up,decimal,,0|1,No|Yes
+BiB_GrowingUp,participant_pathway,recruited_pre_pandemic,BiB_GrowingUp.participant_pathway.recruited_pre_pandemic,Recruited to Growing Up: pre covid-19 pandemic,decimal,,0|1,No|Yes
+BiB_GrowingUp,participant_pathway,seen_in_school,BiB_GrowingUp.participant_pathway.seen_in_school,Seen in school for Growing Up,decimal,,0|1,No|Yes
+BiB_GrowingUp,participant_pathway,seen_in_community,BiB_GrowingUp.participant_pathway.seen_in_community,Seen in community visit for Growing Up,decimal,,0|1,No|Yes
+BiB_GrowingUp,participant_pathway,notrecruited,BiB_GrowingUp.participant_pathway.notrecruited,Not recruited to Growing Up,decimal,,0|1,No|Yes
+BiB_GrowingUp,participant_pathway,notrec_declined,BiB_GrowingUp.participant_pathway.notrec_declined,Not recruited to Growing Up: Declined,decimal,,0|1,No|Yes
+BiB_GrowingUp,participant_pathway,notrec_outofarea,BiB_GrowingUp.participant_pathway.notrec_outofarea,Not recruited to Growing Up: Out of area,decimal,,0|1,No|Yes
+BiB_GrowingUp,participant_pathway,notrec_notinvited,BiB_GrowingUp.participant_pathway.notrec_notinvited,Not recruited to Growing Up: No invitation sent,decimal,,0|1,No|Yes
+BiB_GrowingUp,participant_pathway,notrec_withdrawn,BiB_GrowingUp.participant_pathway.notrec_withdrawn,Not recruited to Growing Up: Withdrawn from cohort,decimal,,0|1,No|Yes
+BiB_GrowingUp,participant_pathway,notrec_deceased,BiB_GrowingUp.participant_pathway.notrec_deceased,Not recruited to Growing Up: Deceased,decimal,,0|1,No|Yes
+BiB_GrowingUp,participant_pathway,study_cont_total,BiB_GrowingUp.participant_pathway.study_cont_total,Total recruitment contacts for Growing Up,decimal,,,
+BiB_GrowingUp,participant_pathway,study_cont_school,BiB_GrowingUp.participant_pathway.study_cont_school,Total school recruitment contacts for Growing Up,decimal,,,
+BiB_GrowingUp,participant_pathway,study_cont_community,BiB_GrowingUp.participant_pathway.study_cont_community,Total community recruitment contacts for Growing Up,decimal,,,
+BiB_GrowingUp,participant_pathway,recruit_year_first,BiB_GrowingUp.participant_pathway.recruit_year_first,Year of first Growing Up recruitment visit,decimal,,,
+BiB_GrowingUp,participant_pathway,recruit_month_first,BiB_GrowingUp.participant_pathway.recruit_month_first,Month of first Growing Up recruitment visit,decimal,,,
+BiB_GrowingUp,participant_pathway,recruit_year_schl_1,BiB_GrowingUp.participant_pathway.recruit_year_schl_1,Year of first Growing Up recruitment visit in school,decimal,,,
+BiB_GrowingUp,participant_pathway,recruit_month_schl_1,BiB_GrowingUp.participant_pathway.recruit_month_schl_1,Month of first Growing Up recruitment visit in school,decimal,,,
+BiB_GrowingUp,participant_pathway,recruit_year_schl_2,BiB_GrowingUp.participant_pathway.recruit_year_schl_2,Year of second Growing Up recruitment visit in school,decimal,,,
+BiB_GrowingUp,participant_pathway,recruit_month_schl_2,BiB_GrowingUp.participant_pathway.recruit_month_schl_2,Month of second Growing Up recruitment visit in school,decimal,,,
+BiB_GrowingUp,participant_pathway,recruit_year_comm_1,BiB_GrowingUp.participant_pathway.recruit_year_comm_1,Year of first Growing Up recruitment visit in community,decimal,,,
+BiB_GrowingUp,participant_pathway,recruit_month_comm_1,BiB_GrowingUp.participant_pathway.recruit_month_comm_1,Month of first Growing Up recruitment visit in community,decimal,,,
+BiB_GrowingUp,participant_pathway,recruit_year_comm_2,BiB_GrowingUp.participant_pathway.recruit_year_comm_2,Year of second Growing Up recruitment visit in community,decimal,,,
+BiB_GrowingUp,participant_pathway,recruit_month_comm_2,BiB_GrowingUp.participant_pathway.recruit_month_comm_2,Month of second Growing Up recruitment visit in community,decimal,,,
+BiB_GrowingUp,participant_pathway,has_fetal_renal_scan,BiB_GrowingUp.participant_pathway.has_fetal_renal_scan,Child has fetal renal ultrasound scan,decimal,,0|1,No|Yes
+BiB_GrowingUp,participant_pathway,has_gu_blood_sample,BiB_GrowingUp.participant_pathway.has_gu_blood_sample,Has Growing Up stored blood samples,decimal,,0|1,No|Yes
+BiB_GrowingUp,participant_pathway,has_gu_urine_sample,BiB_GrowingUp.participant_pathway.has_gu_urine_sample,Has Growing Up stored urine samples,decimal,,0|1,No|Yes
 BiB_GrowingUp,adult_survey,guadtDateQuestion,BiB_GrowingUp.adult_survey.guadtDateQuestion,Date of questionnaire,datetime,,,
 BiB_GrowingUp,adult_survey,guadtMF,BiB_GrowingUp.adult_survey.guadtMF,Is the particpant male or female?,decimal,,1|2,Male|Female
 BiB_GrowingUp,adult_survey,guadtMainCarer,BiB_GrowingUp.adult_survey.guadtMainCarer,Is the participant the main carer for the child?,decimal,,1|2,No|Yes

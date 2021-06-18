@@ -1,0 +1,41 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_dental_ga,BiB_Dental.dental_ga.has_dental_ga,Has dental extractions under ga,decimal,,,
+AgeMths,BiB_Dental.dental_ga.AgeMths,"Age at treatment, months",decimal,,,
+GAType,BiB_Dental.dental_ga.GAType,Type of dental extraction under GA,decimal,,1|2,Exodontia|Comprehensive care
+GATotal,BiB_Dental.dental_ga.GATotal,Total number of GAs for dental extraction,decimal,,,
+GASequence,BiB_Dental.dental_ga.GASequence,GA number in sequence,decimal,,,
+Weight,BiB_Dental.dental_ga.Weight,Weight,decimal,,,
+dgaUR6,BiB_Dental.dental_ga.dgaUR6,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaURE,BiB_Dental.dental_ga.dgaURE,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaURD,BiB_Dental.dental_ga.dgaURD,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaURC,BiB_Dental.dental_ga.dgaURC,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaURB,BiB_Dental.dental_ga.dgaURB,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaURA,BiB_Dental.dental_ga.dgaURA,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaULA,BiB_Dental.dental_ga.dgaULA,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaULB,BiB_Dental.dental_ga.dgaULB,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaULC,BiB_Dental.dental_ga.dgaULC,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaULD,BiB_Dental.dental_ga.dgaULD,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaULE,BiB_Dental.dental_ga.dgaULE,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaUL6,BiB_Dental.dental_ga.dgaUL6,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLL6,BiB_Dental.dental_ga.dgaLL6,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLLE,BiB_Dental.dental_ga.dgaLLE,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLLD,BiB_Dental.dental_ga.dgaLLD,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLLC,BiB_Dental.dental_ga.dgaLLC,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLLB,BiB_Dental.dental_ga.dgaLLB,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLLA,BiB_Dental.dental_ga.dgaLLA,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLRA,BiB_Dental.dental_ga.dgaLRA,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLRB,BiB_Dental.dental_ga.dgaLRB,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLRC,BiB_Dental.dental_ga.dgaLRC,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLRD,BiB_Dental.dental_ga.dgaLRD,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLRE,BiB_Dental.dental_ga.dgaLRE,Location of baby tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLR6,BiB_Dental.dental_ga.dgaLR6,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaUR4,BiB_Dental.dental_ga.dgaUR4,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaUR1,BiB_Dental.dental_ga.dgaUR1,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaUL1,BiB_Dental.dental_ga.dgaUL1,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaUL4,BiB_Dental.dental_ga.dgaUL4,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLL5,BiB_Dental.dental_ga.dgaLL5,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLL4,BiB_Dental.dental_ga.dgaLL4,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLL1,BiB_Dental.dental_ga.dgaLL1,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLR1,BiB_Dental.dental_ga.dgaLR1,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLR4,BiB_Dental.dental_ga.dgaLR4,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaLR5,BiB_Dental.dental_ga.dgaLR5,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
