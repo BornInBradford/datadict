@@ -5,10 +5,6 @@
     <link>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/exomeseq_info/</link>
     <description>Recent content in BiB exome sequencing data linkage on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/exomeseq_info/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/exomeseq_info/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

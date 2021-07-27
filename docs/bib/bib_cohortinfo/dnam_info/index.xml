@@ -5,11 +5,7 @@
     <link>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/dnam_info/</link>
     <description>Recent content in BiB DNA methylation data linkage on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/dnam_info/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/dnam_info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BiB DNA methylation control sample IDs</title>
       <link>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/dnam_info/dnam_controls/</link>

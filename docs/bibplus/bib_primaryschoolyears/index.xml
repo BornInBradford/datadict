@@ -5,10 +5,6 @@
     <link>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/</link>
     <description>Recent content in BiB Primary School Years on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

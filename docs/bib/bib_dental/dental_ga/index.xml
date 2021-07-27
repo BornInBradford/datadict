@@ -5,10 +5,6 @@
     <link>https://borninbradford.github.io/datadict/bib/bib_dental/dental_ga/</link>
     <description>Recent content in Dental extractions under GA on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://borninbradford.github.io/datadict/bib/bib_dental/dental_ga/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_dental/dental_ga/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

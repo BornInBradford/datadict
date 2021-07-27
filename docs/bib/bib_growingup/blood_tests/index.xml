@@ -5,10 +5,6 @@
     <link>https://borninbradford.github.io/datadict/bib/bib_growingup/blood_tests/</link>
     <description>Recent content in BiB Growing Up main blood tests on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://borninbradford.github.io/datadict/bib/bib_growingup/blood_tests/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_growingup/blood_tests/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

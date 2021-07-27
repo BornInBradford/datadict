@@ -1,15 +1,16 @@
 variable,full_name,label,value_type,description,categories,categories_label
-PSYSchoolID,BiB_PrimarySchoolYears.child_quiz.PSYSchoolID,"",decimal,,,
-PSYClassID,BiB_PrimarySchoolYears.child_quiz.PSYClassID,"",decimal,,,
-TestYearGroup,BiB_PrimarySchoolYears.child_quiz.TestYearGroup,"",decimal,,,
-TestAcadTerm,BiB_PrimarySchoolYears.child_quiz.TestAcadTerm,"",text,,,
-TestYear,BiB_PrimarySchoolYears.child_quiz.TestYear,"",decimal,,,
-TestMonth,BiB_PrimarySchoolYears.child_quiz.TestMonth,"",decimal,,,
-PSYTestDay,BiB_PrimarySchoolYears.child_quiz.PSYTestDay,"",decimal,,,
-AgeYears,BiB_PrimarySchoolYears.child_quiz.AgeYears,"",decimal,,,
-AgeMonths,BiB_PrimarySchoolYears.child_quiz.AgeMonths,"",decimal,,,
-survey_mode,BiB_PrimarySchoolYears.child_quiz.survey_mode,Mode of completion,text,,,
+PSYSchoolID,BiB_PrimarySchoolYears.child_quiz.PSYSchoolID,Primary School Years: School pseudonym,decimal,,,
+PSYClassID,BiB_PrimarySchoolYears.child_quiz.PSYClassID,Primary School Years: Class pseudonym,decimal,,,
+TestYearGroup,BiB_PrimarySchoolYears.child_quiz.TestYearGroup,Year group of quiz completion,decimal,,,
+TestAcadTerm,BiB_PrimarySchoolYears.child_quiz.TestAcadTerm,Academic term of quiz completion,decimal,,1|2|3,Autumn|Spring|Summer
+TestYear,BiB_PrimarySchoolYears.child_quiz.TestYear,Calendar year of quiz completion,decimal,,,
+TestMonth,BiB_PrimarySchoolYears.child_quiz.TestMonth,Calendar month of quiz completion,decimal,,,
+PSYTestDay,BiB_PrimarySchoolYears.child_quiz.PSYTestDay,Days elapsed since study start + 50000,decimal,,,
+AgeYears,BiB_PrimarySchoolYears.child_quiz.AgeYears,Child age in years at quiz completion,decimal,,,
+AgeMonths,BiB_PrimarySchoolYears.child_quiz.AgeMonths,Child age in months at quiz completion,decimal,,,
 lsid,BiB_PrimarySchoolYears.child_quiz.lsid,Survey version Id,decimal,,,
+survey_version,BiB_PrimarySchoolYears.child_quiz.survey_version,Survey version,decimal,,1|2|3,Pilot|Main v1|Main v3
+survey_mode,BiB_PrimarySchoolYears.child_quiz.survey_mode,Survey mode of completion,decimal,,1|2,paper|screen
 psychdAfood,BiB_PrimarySchoolYears.child_quiz.psychdAfood,Which of these would you most like to eat today?,decimal,,1|2|3|4,Pizza|Curry|Pasta with sauce|Sandwich
 psychdCweekend,BiB_PrimarySchoolYears.child_quiz.psychdCweekend,My family and the people I live with: How often do you have fun with your family,decimal,,1|2|3,Never|Some of the time|All of the time
 psychdCgetalong,BiB_PrimarySchoolYears.child_quiz.psychdCgetalong,How often does your family get along well together?,decimal,,1|2|3,Never|Some of the time|All of the time

@@ -5,10 +5,6 @@
     <link>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_bib_w2/</link>
     <description>Recent content in COVID19 Adult Survey Wave 2 (BiB) on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_bib_w2/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_bib_w2/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

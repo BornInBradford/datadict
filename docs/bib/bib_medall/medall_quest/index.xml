@@ -5,11 +5,7 @@
     <link>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/</link>
     <description>Recent content in MeDALL Questionnaire on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MeDALL Questionnaire reactions to food</title>
       <link>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/medall_qd1/</link>

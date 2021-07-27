@@ -5,10 +5,6 @@
     <link>https://borninbradford.github.io/datadict/bib/bib_congenital_anomalies/conganom_gp/</link>
     <description>Recent content in Congenital Anomalies GP record linkage to 5yo on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://borninbradford.github.io/datadict/bib/bib_congenital_anomalies/conganom_gp/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_congenital_anomalies/conganom_gp/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

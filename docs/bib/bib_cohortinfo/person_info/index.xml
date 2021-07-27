@@ -5,11 +5,7 @@
     <link>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/</link>
     <description>Recent content in BiB person-level information on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Person information Child</title>
       <link>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/child_info/</link>

@@ -5,10 +5,6 @@
     <link>https://borninbradford.github.io/datadict/bib/bib_growingup/child_survey_adult_comp/</link>
     <description>Recent content in BiB Growing Up child survey (adult completed) on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://borninbradford.github.io/datadict/bib/bib_growingup/child_survey_adult_comp/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_growingup/child_survey_adult_comp/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

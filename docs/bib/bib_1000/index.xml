@@ -5,10 +5,6 @@
     <link>https://borninbradford.github.io/datadict/bib/bib_1000/</link>
     <description>Recent content in BiB 1000 on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://borninbradford.github.io/datadict/bib/bib_1000/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_1000/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

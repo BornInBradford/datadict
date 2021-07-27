@@ -5,10 +5,6 @@
     <link>https://borninbradford.github.io/datadict/bib/bib_growingup/participant_pathway/</link>
     <description>Recent content in BiB Growing Up participant pathway on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://borninbradford.github.io/datadict/bib/bib_growingup/participant_pathway/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_growingup/participant_pathway/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

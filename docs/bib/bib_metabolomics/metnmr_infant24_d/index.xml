@@ -5,11 +5,7 @@
     <link>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metnmr_infant24_d/</link>
     <description>Recent content in NMR metabolomics infant 24m data on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metnmr_infant24_d/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metnmr_infant24_d/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NMR metabolomics infant 24m annotations</title>
       <link>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metnmr_infant24_d/metnmr_infant24_a/</link>
