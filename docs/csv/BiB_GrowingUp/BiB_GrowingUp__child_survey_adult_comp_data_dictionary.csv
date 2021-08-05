@@ -1,16 +1,22 @@
 variable,full_name,label,value_type,description,categories,categories_label
-guadtDateQuestion,BiB_GrowingUp.child_survey_adult_comp.guadtDateQuestion,Date of questionnaire,datetime,,,
-guadtMF,BiB_GrowingUp.child_survey_adult_comp.guadtMF,Is the particpant male or female?,decimal,,1|2,Male|Female
+AgeMonths,BiB_GrowingUp.child_survey_adult_comp.AgeMonths,Age in months at survey completion,decimal,,,
+AgeYears,BiB_GrowingUp.child_survey_adult_comp.AgeYears,Age in years at survey completion,decimal,,,
+SurveyYear,BiB_GrowingUp.child_survey_adult_comp.SurveyYear,Calendar year at survey completion,decimal,,,
+SurveyMonth,BiB_GrowingUp.child_survey_adult_comp.SurveyMonth,Calendar month at survey completion,decimal,,,
+lsid,BiB_GrowingUp.child_survey_adult_comp.lsid,Survey version identifier,decimal,,,
+survey_version,BiB_GrowingUp.child_survey_adult_comp.survey_version,Survey version,decimal,,1|2|3,version 1|version 2 English|version 2 Urdu
+survey_mode,BiB_GrowingUp.child_survey_adult_comp.survey_mode,Survey completion mode,decimal,,1|2,screen|paper
+survey_language,BiB_GrowingUp.child_survey_adult_comp.survey_language,Survey completion language,decimal,,1|2,English|Urdu
 guadtBaseline,BiB_GrowingUp.child_survey_adult_comp.guadtBaseline,Has the participant already completed the baseline questionnaire?,decimal,,1|2,No|Yes
 guadtBiB1000,BiB_GrowingUp.child_survey_adult_comp.guadtBiB1000,Is the participant part of BiB1000?,decimal,,1|2,No|Yes
 guadtAllIn,BiB_GrowingUp.child_survey_adult_comp.guadtAllIn,Is the particpant part of BiB ALLIN?,decimal,,1|2,No|Yes
 guadtMeDALL,BiB_GrowingUp.child_survey_adult_comp.guadtMeDALL,Is the participant part of BiB MeDALL?,decimal,,1|2,No|Yes
-guadtMother,BiB_GrowingUp.child_survey_adult_comp.guadtMother,Is this participant the biological mother of the child,decimal,,,
+guadtMother,BiB_GrowingUp.child_survey_adult_comp.guadtMother,Is this participant the biological mother of the child,text,,,
 guadtLiveSameHouse,BiB_GrowingUp.child_survey_adult_comp.guadtLiveSameHouse,Do you live in the same household as the BiB child all of the time?,decimal,,1|2,No|Yes
 guadtSameHouseholdNo,BiB_GrowingUp.child_survey_adult_comp.guadtSameHouseholdNo,"If not, how often do you live in the same household as BiB child",decimal,,1|2|3,(Almost) never|Some of the time|Most of the time
 guadtNoPeopleHouse,BiB_GrowingUp.child_survey_adult_comp.guadtNoPeopleHouse,"How many people live in your household, including yourself?",decimal,,1|10|11|12|2|3|4|5|6|7|8|9,1|10|11|12|2|3|4|5|6|7|8|9
-guadtHouseholdAge_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge_SQ001_SQ001,Age of first household member (years),decimal,,,
-guadtHouseholdAge_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge_SQ001_SQ002,Age of first household member (months),decimal,,,
+guadtHouseholdAge_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge_SQ001_SQ001,Age of first household member (years),text,,,
+guadtHouseholdAge_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge_SQ001_SQ002,Age of first household member (months),text,,,
 guadtHouseMF,BiB_GrowingUp.child_survey_adult_comp.guadtHouseMF,Gender of first household member,decimal,,1|2,Male|Female
 guadtHouseRelatChild,BiB_GrowingUp.child_survey_adult_comp.guadtHouseRelatChild,Relationship of first household member to child,decimal,,1|10|11|12|13|14|2|3|4|5|6|7|8|9,Natural father|Step-brother or sister (different mother and father)|Cousin|Other|Half-brother or sister (same mother but different father)|Half-brother or sister (same father but different mother)|Adoptive mother/father|Foster mother/father|Stepmother/father|Partner of mother/father|Grandmother/grandfather|Aunt/uncle|Brother or sister (same mother and father)|Half-brother or sister (same mother or father but not both)
 guadtHouseRelatChild_other,BiB_GrowingUp.child_survey_adult_comp.guadtHouseRelatChild_other,Relationship of first household member to child (other),text,,,
@@ -32,24 +38,24 @@ guadtHouseRelatChild9,BiB_GrowingUp.child_survey_adult_comp.guadtHouseRelatChild
 guadtHouseRelatChild9_other,BiB_GrowingUp.child_survey_adult_comp.guadtHouseRelatChild9_other,Relationship of ninth household member to child (other),text,,,
 guadtHouseRelatChild10,BiB_GrowingUp.child_survey_adult_comp.guadtHouseRelatChild10,Relationship of tenth household member to child,decimal,,1|10|11|12|13|14|2|3|4|5|6|7|8|9,Natural father|Step-brother or sister (different mother and father)|Cousin|Other|Half-brother or sister (same mother but different father)|Half-brother or sister (same father but different mother)|Adoptive mother/father|Foster mother/father|Stepmother/father|Partner of mother/father|Grandmother/grandfather|Aunt/uncle|Brother or sister (same mother and father)|Half-brother or sister (same mother or father but not both)
 guadtHouseRelatChild10_other,BiB_GrowingUp.child_survey_adult_comp.guadtHouseRelatChild10_other,Relationship of tenth household member to child (other),text,,,
-guadtHouseholdAge2_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge2_SQ001_SQ001,Age of second household member (years),decimal,,,
-guadtHouseholdAge2_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge2_SQ001_SQ002,Age of second household member (months),decimal,,,
-guadtHouseholdAge3_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge3_SQ001_SQ001,Age of third household member (years),decimal,,,
-guadtHouseholdAge3_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge3_SQ001_SQ002,Age of third household member (months),decimal,,,
-guadtHouseholdAge4_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge4_SQ001_SQ001,Age of fourth household member (years),decimal,,,
-guadtHouseholdAge4_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge4_SQ001_SQ002,Age of fourth household member (months),decimal,,,
-guadtHouseholdAge5_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge5_SQ001_SQ001,Age of fifth household member (years),decimal,,,
-guadtHouseholdAge5_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge5_SQ001_SQ002,Age of fifth household member (months),decimal,,,
-guadtHouseholdAge6_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge6_SQ001_SQ001,Age of sixth household member (years),decimal,,,
-guadtHouseholdAge6_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge6_SQ001_SQ002,Age of sixth household member (months),decimal,,,
-guadtHouseholdAge7_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge7_SQ001_SQ001,Age of seventh household member (years),decimal,,,
-guadtHouseholdAge7_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge7_SQ001_SQ002,Age of seventh household member (months),decimal,,,
-guadtHouseholdAge8_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge8_SQ001_SQ001,Age of eighth household member (years),decimal,,,
-guadtHouseholdAge8_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge8_SQ001_SQ002,Age of eighth household member (months),decimal,,,
-guadtHouseholdAge9_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge9_SQ001_SQ001,Age of ninth household member (years),decimal,,,
-guadtHouseholdAge9_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge9_SQ001_SQ002,Age of ninth household member (months),decimal,,,
-guadtHouseholdAge10_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge10_SQ001_SQ001,Age of tenth household member (years),decimal,,,
-guadtHouseholdAge10_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge10_SQ001_SQ002,Age of tenth household member (months),decimal,,,
+guadtHouseholdAge2_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge2_SQ001_SQ001,Age of second household member (years),text,,,
+guadtHouseholdAge2_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge2_SQ001_SQ002,Age of second household member (months),text,,,
+guadtHouseholdAge3_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge3_SQ001_SQ001,Age of third household member (years),text,,,
+guadtHouseholdAge3_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge3_SQ001_SQ002,Age of third household member (months),text,,,
+guadtHouseholdAge4_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge4_SQ001_SQ001,Age of fourth household member (years),text,,,
+guadtHouseholdAge4_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge4_SQ001_SQ002,Age of fourth household member (months),text,,,
+guadtHouseholdAge5_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge5_SQ001_SQ001,Age of fifth household member (years),text,,,
+guadtHouseholdAge5_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge5_SQ001_SQ002,Age of fifth household member (months),text,,,
+guadtHouseholdAge6_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge6_SQ001_SQ001,Age of sixth household member (years),text,,,
+guadtHouseholdAge6_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge6_SQ001_SQ002,Age of sixth household member (months),text,,,
+guadtHouseholdAge7_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge7_SQ001_SQ001,Age of seventh household member (years),text,,,
+guadtHouseholdAge7_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge7_SQ001_SQ002,Age of seventh household member (months),text,,,
+guadtHouseholdAge8_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge8_SQ001_SQ001,Age of eighth household member (years),text,,,
+guadtHouseholdAge8_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge8_SQ001_SQ002,Age of eighth household member (months),text,,,
+guadtHouseholdAge9_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge9_SQ001_SQ001,Age of ninth household member (years),text,,,
+guadtHouseholdAge9_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge9_SQ001_SQ002,Age of ninth household member (months),text,,,
+guadtHouseholdAge10_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge10_SQ001_SQ001,Age of tenth household member (years),text,,,
+guadtHouseholdAge10_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtHouseholdAge10_SQ001_SQ002,Age of tenth household member (months),text,,,
 guadtHouseMF2,BiB_GrowingUp.child_survey_adult_comp.guadtHouseMF2,Gender of second household member,decimal,,1|2,Male|Female
 guadtHouseMF3,BiB_GrowingUp.child_survey_adult_comp.guadtHouseMF3,Gender of third household member,decimal,,1|2,Male|Female
 guadtHouseMF4,BiB_GrowingUp.child_survey_adult_comp.guadtHouseMF4,Gender of fourth household member,decimal,,1|2,Male|Female
@@ -60,21 +66,21 @@ guadtHouseMF9,BiB_GrowingUp.child_survey_adult_comp.guadtHouseMF9,Gender of nint
 guadtHouseMF10,BiB_GrowingUp.child_survey_adult_comp.guadtHouseMF10,Gender of tenth household member,decimal,,1|2,Male|Female
 guadtHouseMF6,BiB_GrowingUp.child_survey_adult_comp.guadtHouseMF6,Gender of sixth household member,decimal,,1|2,Male|Female
 guadtOtherBroSis,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSis,Does your BiB child have any brothers or sisters NOT living in the same house,decimal,,1|2|3,No|Yes|Do not wish to answer
-guadtOtherBroSisRela,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisRela,For brother or sister 1: What is their relationship to the BiB child?,decimal,,1|2|3|4,Brother or sister (same mother and father)|Half-brother or sister (same mother but different father)|Half-brother or sister (same father but different mother)|Step-brother of sister (different mother and father)
-guadtOtherBroSisRel2,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisRel2,For brother or sister 2: What is their relationship to the BiB child?,decimal,,1|2|3|4,Brother or sister (same mother and father)|Half-brother or sister (same mother but different father)|Half-brother or sister (same father but different mother)|Step-brother of sister (different mother and father)
-guadtOtherBroSisRel3,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisRel3,For brother or sister 3: What is their relationship to the BiB child?,decimal,,1|2|3|4,Brother or sister (same mother and father)|Half-brother or sister (same mother but different father)|Half-brother or sister (same father but different mother)|Step-brother of sister (different mother and father)
-guadtOtherBroSisRel4,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisRel4,For brother or sister 4: What is their relationship to the BiB child?,decimal,,1|2|3|4,Brother or sister (same mother and father)|Half-brother or sister (same mother but different father)|Half-brother or sister (same father but different mother)|Step-brother of sister (different mother and father)
-guadtOtherBroSisRel5,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisRel5,For brother or sister 5: What is their relationship to the BiB child?,decimal,,1|2|3|4,Brother or sister (same mother and father)|Half-brother or sister (same mother but different father)|Half-brother or sister (same father but different mother)|Step-brother of sister (different mother and father)
-guadtOtherBroSisAge_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge_SQ001_SQ001,Age of first sibling (years),decimal,,,
-guadtOtherBroSisAge_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge_SQ001_SQ002,Age of first sibling (months),decimal,,,
-guadtOtherBroSisAge2_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge2_SQ001_SQ001,Age of second sibling (years),decimal,,,
-guadtOtherBroSisAge2_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge2_SQ001_SQ002,Age of second sibling (months),decimal,,,
-guadtOtherBroSisAge3_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge3_SQ001_SQ001,Age of third sibling (years),decimal,,,
-guadtOtherBroSisAge3_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge3_SQ001_SQ002,Age of third sibling (months),decimal,,,
-guadtOtherBroSisAge4_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge4_SQ001_SQ001,Age of fourth sibling (years),decimal,,,
-guadtOtherBroSisAge4_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge4_SQ001_SQ002,Age of fourth sibling (months),decimal,,,
-guadtOtherBroSisAge5_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge5_SQ001_SQ001,Age of fifth sibling (years),decimal,,,
-guadtOtherBroSisAge5_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge5_SQ001_SQ002,Age of fifth sibling (months),decimal,,,
+guadtOtherBroSisRela,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisRela,For brother or sister 1: What is their relationshipÂ to the BiB child?,decimal,,1|2|3|4,Brother or sister (same mother and father)|Half-brother or sister (same mother but different father)|Half-brother or sister (same father but different mother)|Step-brother of sister (different mother and father)
+guadtOtherBroSisRel2,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisRel2,For brother or sister 2: What is their relationshipÂ to the BiB child?,decimal,,1|2|3|4,Brother or sister (same mother and father)|Half-brother or sister (same mother but different father)|Half-brother or sister (same father but different mother)|Step-brother of sister (different mother and father)
+guadtOtherBroSisRel3,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisRel3,For brother or sister 3: What is their relationshipÂ to the BiB child?,decimal,,1|2|3|4,Brother or sister (same mother and father)|Half-brother or sister (same mother but different father)|Half-brother or sister (same father but different mother)|Step-brother of sister (different mother and father)
+guadtOtherBroSisRel4,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisRel4,For brother or sister 4: What is their relationshipÂ to the BiB child?,decimal,,1|2|3|4,Brother or sister (same mother and father)|Half-brother or sister (same mother but different father)|Half-brother or sister (same father but different mother)|Step-brother of sister (different mother and father)
+guadtOtherBroSisRel5,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisRel5,For brother or sister 5: What is their relationshipÂ to the BiB child?,decimal,,1|2|3|4,Brother or sister (same mother and father)|Half-brother or sister (same mother but different father)|Half-brother or sister (same father but different mother)|Step-brother of sister (different mother and father)
+guadtOtherBroSisAge_SQ001_SQ001,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge_SQ001_SQ001,Age of first sibling (years),text,,,
+guadtOtherBroSisAge_SQ001_SQ002,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge_SQ001_SQ002,Age of first sibling (months),text,,,
+guadtOtherBroSisAge2_SQ001_S101,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge2_SQ001_S101,Age of second sibling (years),text,,,
+guadtOtherBroSisAge2_SQ001_S102,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge2_SQ001_S102,Age of second sibling (months),text,,,
+guadtOtherBroSisAge3_SQ001_S103,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge3_SQ001_S103,Age of third sibling (years),text,,,
+guadtOtherBroSisAge3_SQ001_S104,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge3_SQ001_S104,Age of third sibling (months),text,,,
+guadtOtherBroSisAge4_SQ001_S105,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge4_SQ001_S105,Age of fourth sibling (years),text,,,
+guadtOtherBroSisAge4_SQ001_S106,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge4_SQ001_S106,Age of fourth sibling (months),text,,,
+guadtOtherBroSisAge5_SQ001_S107,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge5_SQ001_S107,Age of fifth sibling (years),text,,,
+guadtOtherBroSisAge5_SQ001_S108,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisAge5_SQ001_S108,Age of fifth sibling (months),text,,,
 guadtOtherBroSisMF,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisMF,Gender of first sibling,decimal,,1|2,Male|Female
 guadtOtherBroSisMF2,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisMF2,Gender of second sibling,decimal,,1|2,Male|Female
 guadtOtherBroSisMF3,BiB_GrowingUp.child_survey_adult_comp.guadtOtherBroSisMF3,Gender of third sibling,decimal,,1|2,Male|Female
@@ -99,7 +105,7 @@ guadtChildConditions_7,BiB_GrowingUp.child_survey_adult_comp.guadtChildCondition
 guadtChildConditions_88,BiB_GrowingUp.child_survey_adult_comp.guadtChildConditions_88,You have never been told your child has any of these conditions,decimal,,1,Yes
 guadtChildWheezing,BiB_GrowingUp.child_survey_adult_comp.guadtChildWheezing,Has your child ever had wheezing/whistling in the chest,decimal,,1|2|3,No|Yes|Don't know
 guadtBedWetting,BiB_GrowingUp.child_survey_adult_comp.guadtBedWetting,Which of these best applies to your child:,decimal,,1|2|3|4|5|6,Never wets the bed at night|Occasionally wets the bed at night|Wets the bed at night once or twice a week|Wets the bed at night three or more times a week|Wears nappies or pull-ups at night|Do not wish to answer
-guadtChildMouth,BiB_GrowingUp.child_survey_adult_comp.guadtChildMouth,"How would you rate the health of your child’s teeth, lips, jaws and mouth?",decimal,,1|2|3|4|5,Poor|Fair|Good|Very good|Excellent
+guadtChildMouth,BiB_GrowingUp.child_survey_adult_comp.guadtChildMouth,"How would you rate the health of your childâ€™s teeth, lips, jaws and mouth?",decimal,,1|2|3|4|5,Poor|Fair|Good|Very good|Excellent
 guadtChildMouthAffec,BiB_GrowingUp.child_survey_adult_comp.guadtChildMouthAffec,How is your child's overall wellbeing affected by the condition of their mouth,decimal,,1|2|3|4|5,Not at all|Very little|Some|A lot|Very much
 guadtChildAandE,BiB_GrowingUp.child_survey_adult_comp.guadtChildAandE,Has your child ever attended Accident and Emergency?,decimal,,1|2|3,No|Yes|Do not wish to answer
 guadtChildAandEWhat_1,BiB_GrowingUp.child_survey_adult_comp.guadtChildAandEWhat_1,Has your child ever visited A&E for a fever,decimal,,1,Yes
@@ -112,10 +118,10 @@ guadtChildAandEWhat_7,BiB_GrowingUp.child_survey_adult_comp.guadtChildAandEWhat_
 guadtChildAandEWhat_8,BiB_GrowingUp.child_survey_adult_comp.guadtChildAandEWhat_8,Has your child ever visited A&E for burn or scald,decimal,,1,Yes
 guadtChildAandEWhat_other,BiB_GrowingUp.child_survey_adult_comp.guadtChildAandEWhat_other,Has your child ever visited A&E for another reason (state),text,,,
 guadtChildAdmitHosp,BiB_GrowingUp.child_survey_adult_comp.guadtChildAdmitHosp,Has your child been admitted to hospital in the past 12 months?,decimal,,1|2|3,No|Yes|Do not wish to answer
-guadtWakeUpWeekday,BiB_GrowingUp.child_survey_adult_comp.guadtWakeUpWeekday,What time does your child usually wake up in the morning on weekdays?,datetime,,,
-guadtWakeUpWeekend,BiB_GrowingUp.child_survey_adult_comp.guadtWakeUpWeekend,What time does your child usually wake up in the morning at weekends?,datetime,,,
+guadtWakeUpWeekday,BiB_GrowingUp.child_survey_adult_comp.guadtWakeUpWeekday,What time does your child usually wake up in the morning on weekdays?,text,,,
+guadtWakeUpWeekend,BiB_GrowingUp.child_survey_adult_comp.guadtWakeUpWeekend,What time does your child usually wake up in the morning at weekends?,text,,,
 guadtPuberty,BiB_GrowingUp.child_survey_adult_comp.guadtPuberty,Has your child shown any signs of puberty?,decimal,,1|2|3|4,No|Yes|Do not wish to answer|Don't know
-gaudtChildHospAdmitTimes,BiB_GrowingUp.child_survey_adult_comp.gaudtChildHospAdmitTimes,How many times was the child admitted to hospital?,decimal,,,
+gaudtChildHospAdmitTimes,BiB_GrowingUp.child_survey_adult_comp.gaudtChildHospAdmitTimes,How many times was the child admitted to hospital?,text,,,
 guadtLanguageQstion_1,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageQstion_1,Questionnaire was administered in English,decimal,,1,Yes
 guadtLanguageQstion_2,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageQstion_2,Questionnaire was administered in Mirpuri,decimal,,1,Yes
 guadtLanguageQstion_3,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageQstion_3,Questionnaire was administered in Punjabi,decimal,,1,Yes
@@ -123,29 +129,29 @@ guadtLanguageQstion_4,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageQstion_
 guadtLanguageQstion_other,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageQstion_other,Questionnaire was administered in other language (state),text,,,
 guadtInterpreter,BiB_GrowingUp.child_survey_adult_comp.guadtInterpreter,Was an interpreter used?,decimal,,1|2|3,"No|Yes, hospital or study interpreter|Yes, family member or friend"
 QualityControl_1,BiB_GrowingUp.child_survey_adult_comp.QualityControl_1,Interpretation of questions,text,,,
-QualityControl_1comment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_1comment,QualityControl_1comment,text,,,
+QualityControl_1comment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_1comment,"",text,,,
 QualityControl_2,BiB_GrowingUp.child_survey_adult_comp.QualityControl_2,Reasons for unanswered questions,text,,,
-QualityControl_2comment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_2comment,QualityControl_2comment,text,,,
+QualityControl_2comment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_2comment,"",text,,,
 QualityControl_3,BiB_GrowingUp.child_survey_adult_comp.QualityControl_3,Issues with other people present	,text,,,
-QualityControl_3comment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_3comment,QualityControl_3comment,text,,,
+QualityControl_3comment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_3comment,"",text,,,
 QualityControl_4,BiB_GrowingUp.child_survey_adult_comp.QualityControl_4,Issues with translation of questions,text,,,
-QualityControl_4comment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_4comment,QualityControl_4comment,text,,,
+QualityControl_4comment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_4comment,"",text,,,
 QualityControl_5,BiB_GrowingUp.child_survey_adult_comp.QualityControl_5,Other issues,text,,,
 QualityControl_5comment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_5comment,Quality control_5 comment,text,,,
 QualityControl_other,BiB_GrowingUp.child_survey_adult_comp.QualityControl_other,Any other problems completing this questionnaire,text,,,
-QualityControl_othercomment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_othercomment,QualityControl_othercomment,text,,,
+QualityControl_othercomment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_othercomment,"",text,,,
 guadtAdministered,BiB_GrowingUp.child_survey_adult_comp.guadtAdministered,Was this questionnaire administered or self-completed?,decimal,,1|2|3,Administered (except for all self-completion sections)|All self-completed|All administered (including self-completion sections)
-guadtMoneyForFood,BiB_GrowingUp.child_survey_adult_comp.guadtMoneyForFood,In past 12 mths have you felt you didn't have enough money for food,decimal,,1|2|3|4|5,Never true|Sometimes true|Often true|Do not wish to answer|Don’t know 
-guadtAffordBalMeals,BiB_GrowingUp.child_survey_adult_comp.guadtAffordBalMeals,In past 12 mths have you felt you couldn't afford to eat balanced meals,decimal,,1|2|3|4|5,Never true|Sometimes true|Often true|Do not wish to answer|Don’t know 
-guadtCutOrSkipMeals,BiB_GrowingUp.child_survey_adult_comp.guadtCutOrSkipMeals,In past 12 mths have you cut the size of or skipped meals,decimal,,1|2|3|4,No |Yes|Do not wish to answer|Don’t know
-guadtCutOrSkipOften,BiB_GrowingUp.child_survey_adult_comp.guadtCutOrSkipOften,How often did you skip meals,decimal,,1|2|3|4|5,Only 1 or 2 months|Some months but not every month|Almost every month|Do not wish to answer|Don’t know
-guadtEatLessShould,BiB_GrowingUp.child_survey_adult_comp.guadtEatLessShould,In past 12 mths did you eat less than you should because no money for food,decimal,,1|2|3|4,No |Yes|Do not wish to answer|Don’t know
-guadtHungryDidntEat,BiB_GrowingUp.child_survey_adult_comp.guadtHungryDidntEat,In past 12 mths were you hungry but didn't eat because no money for food,decimal,,1|2|3|4,No |Yes|Do not wish to answer|Don’t know
+guadtMoneyForFood,BiB_GrowingUp.child_survey_adult_comp.guadtMoneyForFood,In past 12 mths have you felt you didn't have enough money for food,decimal,,1|2|3|4|5,Never true|Sometimes true|Often true|Do not wish to answer|Donâ€™t know 
+guadtAffordBalMeals,BiB_GrowingUp.child_survey_adult_comp.guadtAffordBalMeals,In past 12 mths have you felt you couldn't afford to eat balanced meals,decimal,,1|2|3|4|5,Never true|Sometimes true|Often true|Do not wish to answer|Donâ€™t know 
+guadtCutOrSkipMeals,BiB_GrowingUp.child_survey_adult_comp.guadtCutOrSkipMeals,In past 12 mths have you cut the size of or skipped meals,decimal,,1|2|3|4,No |Yes|Do not wish to answer|Donâ€™t know
+guadtCutOrSkipOften,BiB_GrowingUp.child_survey_adult_comp.guadtCutOrSkipOften,How often did you skip meals,decimal,,1|2|3|4|5,Only 1 or 2 months|Some months but not every month|Almost every month|Do not wish to answer|Donâ€™t know
+guadtEatLessShould,BiB_GrowingUp.child_survey_adult_comp.guadtEatLessShould,In past 12 mths did you eat less than you should because no money for food,decimal,,1|2|3|4,No |Yes|Do not wish to answer|Donâ€™t know
+guadtHungryDidntEat,BiB_GrowingUp.child_survey_adult_comp.guadtHungryDidntEat,In past 12 mths were you hungry but didn't eat because no money for food,decimal,,1|2|3|4,No |Yes|Do not wish to answer|Donâ€™t know
 guadtFamilyPA,BiB_GrowingUp.child_survey_adult_comp.guadtFamilyPA,How much do you dis/agree with: My family is physically active,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Not sure|Agree|Strongly agree
 guadtLikePAWithChild,BiB_GrowingUp.child_survey_adult_comp.guadtLikePAWithChild,How much do you dis/agree with: I like being physically active with my child,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Not sure|Agree|Strongly agree
-guadtEnjoyPA,BiB_GrowingUp.child_survey_adult_comp.guadtEnjoyPA,How much do you enjoy physical activities or sports?,decimal,,1|2|3|4,Don’t enjoy|Sort of enjoy|Really enjoy|Thoroughly enjoy
+guadtEnjoyPA,BiB_GrowingUp.child_survey_adult_comp.guadtEnjoyPA,How much do you enjoy physical activities or sports?,decimal,,1|2|3|4,Donâ€™t enjoy|Sort of enjoy|Really enjoy|Thoroughly enjoy
 guadtPAFamilyRecreat,BiB_GrowingUp.child_survey_adult_comp.guadtPAFamilyRecreat,How often does your family use physical activities or sports for recreation,decimal,,1|2|3|4,Rarely |Once in a while|Relatively often|Frequently
-guadtPAOwnBehavi,BiB_GrowingUp.child_survey_adult_comp.guadtPAOwnBehavi,How much do you use your own behaviour to encourage your child to be active,decimal,,1|2|3|4,I don’t use my own behaviour to encourage my child to be active|I rarely use my own behaviour to encourage my child to be active|I often use my own behaviour to encourage my child to be active|I constantly use my own behaviour to encourage my child to be active
+guadtPAOwnBehavi,BiB_GrowingUp.child_survey_adult_comp.guadtPAOwnBehavi,How much do you use your own behaviour to encourage your child to be active,decimal,,1|2|3|4,I donâ€™t use my own behaviour to encourage my child to be active|I rarely use my own behaviour to encourage my child to be active|I often use my own behaviour to encourage my child to be active|I constantly use my own behaviour to encourage my child to be active
 guadtEncourageSB,BiB_GrowingUp.child_survey_adult_comp.guadtEncourageSB,How much does your behaviour encourage your child to be sedentary?,decimal,,1|2|3|4|5|6,Never|Very rarely|Rarely|Sometimes|Often |Very often
 guadtTooTiredActive,BiB_GrowingUp.child_survey_adult_comp.guadtTooTiredActive,Does your child hear you say that you were too tired to be active?,decimal,,1|2|3|4|5|6,Never|Very rarely|Rarely|Sometimes|Often |Very often
 guadtPAWithChild,BiB_GrowingUp.child_survey_adult_comp.guadtPAWithChild,Do you play sports/games/other activities with your child,decimal,,1|2|3|4|5|6,Never|Very rarely|Rarely|Sometimes|Often |Very often
@@ -158,12 +164,12 @@ guadtChildLimitPA_4,BiB_GrowingUp.child_survey_adult_comp.guadtChildLimitPA_4,Fr
 guadtChildLimitPA_5,BiB_GrowingUp.child_survey_adult_comp.guadtChildLimitPA_5,Frequency child not been active because of worry about their safety,decimal,,1|2|3|4|5|6,Never|1-3 time this month|Once a week|2-4 times a week|5-7 times a week|Not applicable
 guadtChildLimitPA_6,BiB_GrowingUp.child_survey_adult_comp.guadtChildLimitPA_6,Frequency child not been active because no-one to supervise them,decimal,,1|2|3|4|5|6,Never|1-3 time this month|Once a week|2-4 times a week|5-7 times a week|Not applicable
 guadtChildLimitPA_7,BiB_GrowingUp.child_survey_adult_comp.guadtChildLimitPA_7,Frequency child not been active because of a waiting list for clubs,decimal,,1|2|3|4|5|6,Never|1-3 time this month|Once a week|2-4 times a week|5-7 times a week|Not applicable
-guadtPEincr3Years,BiB_GrowingUp.child_survey_adult_comp.guadtPEincr3Years,Has the amount of PE/sports your child does increased since starting school,decimal,,1|2|3|4|5|6,Totally disagree|Disagree|Neither agree nor disagree|Agree|Totally agree|Don’t know
-guadtHowLongPAWeek_1,BiB_GrowingUp.child_survey_adult_comp.guadtHowLongPAWeek_1,Time you should spend being physically active in a week (hours),decimal,,,
-guadtHowLongPAWeek_2,BiB_GrowingUp.child_survey_adult_comp.guadtHowLongPAWeek_2,Time you should spend being physically active in a week (minutes),decimal,,,
+guadtPEincr3Years,BiB_GrowingUp.child_survey_adult_comp.guadtPEincr3Years,Has the amount of PE/sports your child does increased since starting school,decimal,,1|2|3|4|5|6,Totally disagree|Disagree|Neither agree nor disagree|Agree|Totally agree|Donâ€™t know
+guadtHowLongPAWeek_1,BiB_GrowingUp.child_survey_adult_comp.guadtHowLongPAWeek_1,Time you should spend being physically active in a week (hours),text,,,
+guadtHowLongPAWeek_2,BiB_GrowingUp.child_survey_adult_comp.guadtHowLongPAWeek_2,Time you should spend being physically active in a week (minutes),text,,,
 guadtHowHardWorkPA,BiB_GrowingUp.child_survey_adult_comp.guadtHowHardWorkPA,How hard should your body be working when you are physically active,decimal,,1|2|3,Not at all|A little bit|Quite hard or very hard
-guadtChildPAWeek_1,BiB_GrowingUp.child_survey_adult_comp.guadtChildPAWeek_1,Length of time you think your child should be physically active per week (hrs),decimal,,,
-guadtChildPAWeek_2,BiB_GrowingUp.child_survey_adult_comp.guadtChildPAWeek_2,Length of time you think your child should be physically active per week (mins),decimal,,,
+guadtChildPAWeek_1,BiB_GrowingUp.child_survey_adult_comp.guadtChildPAWeek_1,Length of time you think your child should be physically active per week (hrs),text,,,
+guadtChildPAWeek_2,BiB_GrowingUp.child_survey_adult_comp.guadtChildPAWeek_2,Length of time you think your child should be physically active per week (mins),text,,,
 guadtChildHowHardPA,BiB_GrowingUp.child_survey_adult_comp.guadtChildHowHardPA,How hard should your child's body be working when they are physically active,decimal,,1|2|3,Not at all|A little bit|Quite hard or very hard
 guadtOverallParent,BiB_GrowingUp.child_survey_adult_comp.guadtOverallParent,"Overall as a parent, how do you feel you are?",decimal,,1|2|3|4|5,Not very good at being a parent|A person who has some trouble being a parent	|An average parent|A better than average parent|A very good parent
 guadtBehaveWithChild_1,BiB_GrowingUp.child_survey_adult_comp.guadtBehaveWithChild_1,I feel I am very good at keeping this child amused,decimal,,1|10|2|3|4|5|6|7|8|9,1 Not at all how I feel|10 Exactly how I feel|2|3|4|5|6|7|8|9
@@ -322,48 +328,48 @@ guadtdinnerTV,BiB_GrowingUp.child_survey_adult_comp.guadtdinnerTV,How often does
 guadtSnacksTV,BiB_GrowingUp.child_survey_adult_comp.guadtSnacksTV,How often does your child eat snacks in front of the TV each week,decimal,,1|2|3|4|5|6|7|8,0|1|2|3|4|5|6|7
 guadtDinnerAwayHome,BiB_GrowingUp.child_survey_adult_comp.guadtDinnerAwayHome,How often does your child eat dinner away from home each week,decimal,,1|2|3|4|5|6|7|8,0|1|2|3|4|5|6|7
 guadtMostMeals,BiB_GrowingUp.child_survey_adult_comp.guadtMostMeals,Please tell me where are most meals eaten in your house,decimal,,1|2|3|4,At the dining table|On the sofa or couch|At the coffee table|Somewhere else
-guadtChildFatherBorn,BiB_GrowingUp.child_survey_adult_comp.guadtChildFatherBorn,What country was your child’s father born in?,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Don’t know|Other|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
-guadtChildFatherBorn_other,BiB_GrowingUp.child_survey_adult_comp.guadtChildFatherBorn_other,What country was your child’s father born in if other,text,,,
+guadtChildFatherBorn,BiB_GrowingUp.child_survey_adult_comp.guadtChildFatherBorn,What country was your childâ€™s father born in?,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Donâ€™t know|Other|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
+guadtChildFatherBorn_other,BiB_GrowingUp.child_survey_adult_comp.guadtChildFatherBorn_other,What country was your childâ€™s father born in if other,text,,,
 guadtMirpurTownYou_1,BiB_GrowingUp.child_survey_adult_comp.guadtMirpurTownYou_1,Which Mirpur town/village were you born in,text,,,
 guadtMirpurTownYou_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtMirpurTownYou_1comment,Comment about Mirpur town/village you were born in,text,,,
 guadtMirpurTownYou_99,BiB_GrowingUp.child_survey_adult_comp.guadtMirpurTownYou_99,Don't know which Mirpur town you were born in,text,,,
-guadtMirpurTownYou_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtMirpurTownYou_99comment,Comment about Mirpur town you were born in,decimal,,,
+guadtMirpurTownYou_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtMirpurTownYou_99comment,Comment about Mirpur town you were born in,text,,,
 guadtMirpurTownFthr_1,BiB_GrowingUp.child_survey_adult_comp.guadtMirpurTownFthr_1,Which Mirpur town/village was your child's father born in,text,,,
 guadtMirpurTownFthr_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtMirpurTownFthr_1comment,Comment about Mirpur town/village your child's father was born in,text,,,
 guadtMirpurTownFthr_99,BiB_GrowingUp.child_survey_adult_comp.guadtMirpurTownFthr_99,Don't know which Mirpur town your child's father was born in,text,,,
-guadtMirpurTownFthr_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtMirpurTownFthr_99comment,Comment about Mirpur town child's father was born in,decimal,,,
+guadtMirpurTownFthr_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtMirpurTownFthr_99comment,Comment about Mirpur town child's father was born in,text,,,
 guadtBiraderiNameYou_1,BiB_GrowingUp.child_survey_adult_comp.guadtBiraderiNameYou_1,What is the name of your Biraderi,text,,,
 guadtBiraderiNameYou_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtBiraderiNameYou_1comment,Comment regarding the name of your Biraderi,text,,,
 guadtBiraderiNameYou_99,BiB_GrowingUp.child_survey_adult_comp.guadtBiraderiNameYou_99,Don't know the name of your Biraderi,text,,,
-guadtBiraderiNameYou_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtBiraderiNameYou_99comment,Comment about your Birader,decimal,,,
+guadtBiraderiNameYou_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtBiraderiNameYou_99comment,Comment about your Birader,text,,,
 guadtBiraderiNmeFthr_1,BiB_GrowingUp.child_survey_adult_comp.guadtBiraderiNmeFthr_1,What is the name of your child's father's Biraderi,text,,,
 guadtBiraderiNmeFthr_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtBiraderiNmeFthr_1comment,Comment regarding the name of your child's father's Biraderi,text,,,
 guadtBiraderiNmeFthr_99,BiB_GrowingUp.child_survey_adult_comp.guadtBiraderiNmeFthr_99,Don't know the name of your child's father's Biraderi,text,,,
 guadtBiraderiNmeFthr_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtBiraderiNmeFthr_99comment,Comment about your child's father's Biraderi,text,,,
-guadtYrMthrFthrBorn_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrFthrBorn_1,What country was your mother born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Don’t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
-guadtYrMthrFthrBorn_2,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrFthrBorn_2,What country was your father born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Don’t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
+guadtYrMthrFthrBorn_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrFthrBorn_1,What country was your mother born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Donâ€™t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
+guadtYrMthrFthrBorn_2,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrFthrBorn_2,What country was your father born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Donâ€™t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
 guadtYrMthrMirpur,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrMirpur,Was your mother born in Mirpur District?,decimal,,1|2|3,No|Yes|Don't know
 guadtYrFthrMirpur,BiB_GrowingUp.child_survey_adult_comp.guadtYrFthrMirpur,Was your father born in Mirpur district?,decimal,,1|2|3,No|Yes|Don't know
 guadtYrMthrTown_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrTown_1,Which Mirpur town/village was your mother born in,text,,,
 guadtYrMthrTown_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrTown_1comment,Comment about the Mirpur town/village your mother was born in,text,,,
 guadtYrMthrTown_99,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrTown_99,Don't know which Mirpur town/village your mother was born in,text,,,
-guadtYrMthrTown_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrTown_99comment,Comment about Mirpur town/village your mother was born in,decimal,,,
+guadtYrMthrTown_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrTown_99comment,Comment about Mirpur town/village your mother was born in,text,,,
 guadtYrMthrBiraderi_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrBiraderi_1,What is the name of your mother's Biraderi,text,,,
 guadtYrMthrBiraderi_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrBiraderi_1comment,Comment about the name of your mother's Biraderi,text,,,
 guadtYrMthrBiraderi_99,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrBiraderi_99,Don't know the name of your mother's Biraderi,text,,,
-guadtYrMthrBiraderi_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrBiraderi_99comment,Comment about your mother's Birader,decimal,,,
+guadtYrMthrBiraderi_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrBiraderi_99comment,Comment about your mother's Birader,text,,,
 guadtYrFthrTown_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrFthrTown_1,Which Mirpur town/village was your father born in,text,,,
 guadtYrFthrTown_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrFthrTown_1comment,Comment about the Mirpur town/village your father was born in,text,,,
 guadtYrFthrTown_99,BiB_GrowingUp.child_survey_adult_comp.guadtYrFthrTown_99,Don't know which Mirpur town/village your father was born in,text,,,
-guadtYrFthrTown_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrFthrTown_99comment,Comment about Mirpur town/village your father was born in,decimal,,,
+guadtYrFthrTown_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrFthrTown_99comment,Comment about Mirpur town/village your father was born in,text,,,
 guadtYrFthrBiraderi_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrFthrBiraderi_1,What is the name of your father's Biraderi,text,,,
 guadtYrFthrBiraderi_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrFthrBiraderi_1comment,Comment about the name of your father's Biraderi,text,,,
 guadtYrFthrBiraderi_99,BiB_GrowingUp.child_survey_adult_comp.guadtYrFthrBiraderi_99,Don't know the name of your father's Biraderi,text,,,
 guadtYrFthrBiraderi_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrFthrBiraderi_99comment,Comment about your father's Biraderi,text,,,
-guadtYrGrndpPlaceBir_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpPlaceBir_1,Country your mother's mother was born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Don’t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
-guadtYrGrndpPlaceBir_2,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpPlaceBir_2,Country your mother's father was born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Don’t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
-guadtYrGrndpPlaceBir_3,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpPlaceBir_3,Country your father's mother was born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Don’t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
-guadtYrGrndpPlaceBir_4,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpPlaceBir_4,Country your father's father was born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Don’t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
+guadtYrGrndpPlaceBir_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpPlaceBir_1,Country your mother's mother was born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Donâ€™t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
+guadtYrGrndpPlaceBir_2,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpPlaceBir_2,Country your mother's father was born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Donâ€™t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
+guadtYrGrndpPlaceBir_3,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpPlaceBir_3,Country your father's mother was born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Donâ€™t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
+guadtYrGrndpPlaceBir_4,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpPlaceBir_4,Country your father's father was born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Donâ€™t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
 guadtYrGrndpBrthOthe_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpBrthOthe_1,Other country your mother's mother was born in,text,,,
 guadtYrGrndpBrthOthe_2,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpBrthOthe_2,Other country your mother's father was born in,text,,,
 guadtYrGrndpBrthOthe_3,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpBrthOthe_3,Other country your father's mother was born in,text,,,
@@ -375,37 +381,37 @@ guadtYrMthrFthrOthr_2,BiB_GrowingUp.child_survey_adult_comp.guadtYrMthrFthrOthr_
 guadtYrGrndpMMTown_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMMTown_1,Town your mother's mother was born in,text,,,
 guadtYrGrndpMMTown_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMMTown_1comment,Comment about town your mother's mother was born in,text,,,
 guadtYrGrndpMMTown_99,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMMTown_99,Don't know which town your mother's mother was born in,text,,,
-guadtYrGrndpMMTown_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMMTown_99comment,Comment about which town your mother's mother was born in,decimal,,,
+guadtYrGrndpMMTown_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMMTown_99comment,Comment about which town your mother's mother was born in,text,,,
 guadtYrGrndpMFTown_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMFTown_1,Town your mother's father was born in,text,,,
 guadtYrGrndpMFTown_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMFTown_1comment,Comment abou town your mother's father was born in,text,,,
 guadtYrGrndpMFTown_99,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMFTown_99,Don't know which town your mother's father was born in,text,,,
-guadtYrGrndpMFTown_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMFTown_99comment,Comment abou town your mother's father was born in,decimal,,,
+guadtYrGrndpMFTown_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMFTown_99comment,Comment abou town your mother's father was born in,text,,,
 guadtYrGrndpFMTown_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFMTown_1,Town your father's mother was born in,text,,,
 guadtYrGrndpFMTown_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFMTown_1comment,Comment about town your father's mother was born in,text,,,
 guadtYrGrndpFMTown_99,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFMTown_99,Don't know which town your father's mother was born in,text,,,
-guadtYrGrndpFMTown_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFMTown_99comment,Comment about town your father's mother was born in,decimal,,,
+guadtYrGrndpFMTown_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFMTown_99comment,Comment about town your father's mother was born in,text,,,
 guadtYrGrndpFFTown_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFFTown_1,Town your father's father was born in,text,,,
 guadtYrGrndpFFTown_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFFTown_1comment,Comment about town your father's father was born in,text,,,
 guadtYrGrndpFFTown_99,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFFTown_99,Don't know which town your father's father was born in,text,,,
-guadtYrGrndpFFTown_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFFTown_99comment,Comment about town your father's father was born in,decimal,,,
+guadtYrGrndpFFTown_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFFTown_99comment,Comment about town your father's father was born in,text,,,
 guadtYrGrndpMMBira_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMMBira_1,Name of your mother's mother's Biraderi,text,,,
 guadtYrGrndpMMBira_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMMBira_1comment,Comment about your mother's mother's Biraderi,text,,,
 guadtYrGrndpMMBira_99,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMMBira_99,Don't know name of your mother's mother's Biraderi,text,,,
-guadtYrGrndpMMBira_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMMBira_99comment,Comment about your mother's mother's Biraderi,decimal,,,
+guadtYrGrndpMMBira_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMMBira_99comment,Comment about your mother's mother's Biraderi,text,,,
 guadtYrGrndpMFBira_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMFBira_1,Name of your mother's father's Biraderi,text,,,
 guadtYrGrndpMFBira_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMFBira_1comment,Comment about your mother's father's Biraderi,text,,,
 guadtYrGrndpMFBira_99,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMFBira_99,Don't know name of your mother's father's Biraderi,text,,,
-guadtYrGrndpMFBira_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMFBira_99comment,Comment about your mother's father's Biraderi,decimal,,,
+guadtYrGrndpMFBira_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpMFBira_99comment,Comment about your mother's father's Biraderi,text,,,
 guadtYrGrndpFMBira_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFMBira_1,Name of your father's mother's Biraderi,text,,,
 guadtYrGrndpFMBira_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFMBira_1comment,Comment about your father's mother's Biraderi,text,,,
 guadtYrGrndpFMBira_99,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFMBira_99,Don't know name of your father's mother's Biraderi,text,,,
-guadtYrGrndpFMBira_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFMBira_99comment,Comment about your father's mother's Biraderi,decimal,,,
+guadtYrGrndpFMBira_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFMBira_99comment,Comment about your father's mother's Biraderi,text,,,
 guadtYrGrndpFFBira_1,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFFBira_1,Name of your father's father's Biraderi,text,,,
 guadtYrGrndpFFBira_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFFBira_1comment,Comment about your father's father's Biraderi,text,,,
 guadtYrGrndpFFBira_99,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFFBira_99,Don't know name of your father's father's Biraderi,text,,,
-guadtYrGrndpFFBira_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFFBira_99comment,Comment about your father's father's Biraderi,decimal,,,
-guadtChFthrPrntPlace_1,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrPrntPlace_1,What country was the mother of your child's father born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Don’t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
-guadtChFthrPrntPlace_2,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrPrntPlace_2,What country was the father of your child's father born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Don’t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
+guadtYrGrndpFFBira_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtYrGrndpFFBira_99comment,Comment about your father's father's Biraderi,text,,,
+guadtChFthrPrntPlace_1,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrPrntPlace_1,What country was the mother of your child's father born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Donâ€™t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
+guadtChFthrPrntPlace_2,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrPrntPlace_2,What country was the father of your child's father born in,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Other|Donâ€™t know|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
 guadtChFthrPrntPlceO_1,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrPrntPlceO_1,Other country mother of child's father was born in,text,,,
 guadtChFthrPrntPlceO_2,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrPrntPlceO_2,Other country father of child's father was born in,text,,,
 guadtChFthrFthrMirpr,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrFthrMirpr,Was father of child's father born in Mirpur,decimal,,1|2|3,No|Yes|Don't know
@@ -413,7 +419,7 @@ guadtChFthrMthrMrpur,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrMthrMrpur,
 guadtChFthrMthrTown_1,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrMthrTown_1,Mirpur town mother of child's father was born in,text,,,
 guadtChFthrMthrTown_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrMthrTown_1comment,Comment about Mirpur town mother of child's father was born in,text,,,
 guadtChFthrMthrTown_99,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrMthrTown_99,Don't know Mirpur town mother of child's father was born in,text,,,
-guadtChFthrMthrTown_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrMthrTown_99comment,Comment about Mirpur town mother of child's father was born in,decimal,,,
+guadtChFthrMthrTown_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrMthrTown_99comment,Comment about Mirpur town mother of child's father was born in,text,,,
 guadtChFthrFthrTwn_1,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrFthrTwn_1,Mirpur town father of child's father was born in,text,,,
 guadtChFthrFthrTwn_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrFthrTwn_1comment,Comment about Mirpur town father of child's father was born in,text,,,
 guadtChFthrFthrTwn_99,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrFthrTwn_99,Don't know Mirpur town father of child's father was born in,text,,,
@@ -425,35 +431,35 @@ guadtChFthrMthrBira_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrM
 guadtChFthrFthrBira_1,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrFthrBira_1,Name of the father of child's father's Biraderi,text,,,
 guadtChFthrFthrBira_1comment,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrFthrBira_1comment,Comment about the father of child's father's Biraderi,text,,,
 guadtChFthrFthrBira_99,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrFthrBira_99,Don't know name of the father of child's father's Biraderi,text,,,
-guadtChFthrFthrBira_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrFthrBira_99comment,Comment about the father of child's father's Biraderi,decimal,,,
+guadtChFthrFthrBira_99comment,BiB_GrowingUp.child_survey_adult_comp.guadtChFthrFthrBira_99comment,Comment about the father of child's father's Biraderi,text,,,
 guadtMthrFthrRelated,BiB_GrowingUp.child_survey_adult_comp.guadtMthrFthrRelated,Are you related to the father of your baby other than by marriage,decimal,,1|2|3|4,No|Yes|Do not wish to answer|Don't know
-guadtMthrFthrHwRelat,BiB_GrowingUp.child_survey_adult_comp.guadtMthrFthrHwRelat,How are you related to the father of your baby,decimal,,1|2|3|4|5|6,"1st Cousin|1st Cousin, once removed|Second Cousin|Other related by blood|Other related by marriage|Don’t know"
+guadtMthrFthrHwRelat,BiB_GrowingUp.child_survey_adult_comp.guadtMthrFthrHwRelat,How are you related to the father of your baby,decimal,,1|2|3|4|5|6,"1st Cousin|1st Cousin, once removed|Second Cousin|Other related by blood|Other related by marriage|Donâ€™t know"
 guadtParentsRelated,BiB_GrowingUp.child_survey_adult_comp.guadtParentsRelated,Are your parents related? For example are they cousins?,decimal,,1|2|3|4,No|Yes|Do not wish to answer|Don't know
-guadtPrntsHowRelated,BiB_GrowingUp.child_survey_adult_comp.guadtPrntsHowRelated,"If yes, how are your parents related?",decimal,,1|2|3|4|5|6,"1st Cousin|1st Cousin, once removed|Second Cousin|Other related by blood|Other related by marriage|Don’t know"
+guadtPrntsHowRelated,BiB_GrowingUp.child_survey_adult_comp.guadtPrntsHowRelated,"If yes, how are your parents related?",decimal,,1|2|3|4|5|6,"1st Cousin|1st Cousin, once removed|Second Cousin|Other related by blood|Other related by marriage|Donâ€™t know"
 guadtFthrPrntsRelate,BiB_GrowingUp.child_survey_adult_comp.guadtFthrPrntsRelate,Are the parents of your child's father related,decimal,,1|2|3|4,Yes|No|Do not wish to answer|Don't know
-guadtFthrPrntsHwRlat,BiB_GrowingUp.child_survey_adult_comp.guadtFthrPrntsHwRlat,How are the parents of your child's father related,decimal,,1|2|3|4|5|6,"1st Cousin|1st Cousin, once removed|Second Cousin|Other related by blood|Other related by marriage|Don’t know"
+guadtFthrPrntsHwRlat,BiB_GrowingUp.child_survey_adult_comp.guadtFthrPrntsHwRlat,How are the parents of your child's father related,decimal,,1|2|3|4|5|6,"1st Cousin|1st Cousin, once removed|Second Cousin|Other related by blood|Other related by marriage|Donâ€™t know"
 guadtLanguageHome_other,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageHome_other,What other languages are spoken at home,text,,,
-guadtFirstPeriod_1,BiB_GrowingUp.child_survey_adult_comp.guadtFirstPeriod_1,Age (years) when started periods,decimal,,,
-guadtFirstPeriod_2,BiB_GrowingUp.child_survey_adult_comp.guadtFirstPeriod_2,Age (months) when started periods,decimal,,,
+guadtFirstPeriod_1,BiB_GrowingUp.child_survey_adult_comp.guadtFirstPeriod_1,Age (years) when started periods,text,,,
+guadtFirstPeriod_2,BiB_GrowingUp.child_survey_adult_comp.guadtFirstPeriod_2,Age (months) when started periods,text,,,
 guadtmothmothMirpur,BiB_GrowingUp.child_survey_adult_comp.guadtmothmothMirpur,Was your mother's mother born in the Mirpur district?,decimal,,1|2|3,No|Yes|Don't know
 guadtmothfathmirpur,BiB_GrowingUp.child_survey_adult_comp.guadtmothfathmirpur,Was your mother's father born in the Mirpur district?,decimal,,1|2|3,No|Yes|Don't know
 guadtfathmothmirpur,BiB_GrowingUp.child_survey_adult_comp.guadtfathmothmirpur,Was your father's mother born in the Mirpur district?,decimal,,1|2|3,No|Yes|Don't know
 guadtfathfathMirpur,BiB_GrowingUp.child_survey_adult_comp.guadtfathfathMirpur,Was your father's father born in the Mirpur district?,decimal,,1|2|3,No|Yes|Don't know
-guadtPlaceYouBorn,BiB_GrowingUp.child_survey_adult_comp.guadtPlaceYouBorn,What country were you born in?,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Don’t know|Other|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
+guadtPlaceYouBorn,BiB_GrowingUp.child_survey_adult_comp.guadtPlaceYouBorn,What country were you born in?,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia |Bangladesh |India |Pakistan|Sri Lanka|Philippines|Donâ€™t know|Other|Northern Ireland|Scotland|Wales|Channel Islands |Isle of Man |Republic of Ireland |Czech Republic|Poland 
 guadtPlaceYouBorn_other,BiB_GrowingUp.child_survey_adult_comp.guadtPlaceYouBorn_other,Other country you were born in,text,,,
-guadtHowOldMovedUK_1,BiB_GrowingUp.child_survey_adult_comp.guadtHowOldMovedUK_1,Age (years) when moved to UK,decimal,,,
-guadtHowOldMovedUK_2,BiB_GrowingUp.child_survey_adult_comp.guadtHowOldMovedUK_2,Age (months) when moved to UK,decimal,,,
+guadtHowOldMovedUK_1,BiB_GrowingUp.child_survey_adult_comp.guadtHowOldMovedUK_1,Age (years) when moved to UK,text,,,
+guadtHowOldMovedUK_2,BiB_GrowingUp.child_survey_adult_comp.guadtHowOldMovedUK_2,Age (months) when moved to UK,text,,,
 guadtEthnicGroup,BiB_GrowingUp.child_survey_adult_comp.guadtEthnicGroup,To which of these groups do you consider you belong?,decimal,,1|2|3|4|5|6,White|Mixed ethnic group|Black or Black British|Asian or Asian British|Chinese |Other
 guadtWhiteCultural,BiB_GrowingUp.child_survey_adult_comp.guadtWhiteCultural,What do you consider your cultural background (if White),decimal,,1|2|3,British|Irish|Other
 guadtWhiteCultural_other,BiB_GrowingUp.child_survey_adult_comp.guadtWhiteCultural_other,Other cultural background (if White),text,,,
 guadtMxdEthnicCultur,BiB_GrowingUp.child_survey_adult_comp.guadtMxdEthnicCultur,What do you consider your cultural background (if mixed ethnicity),decimal,,1|2|3|4|5|6|7|8,White and Black Caribbean|White and Black African|White and Indian|White and Pakistani|White and Bangladeshi|White and Indian Caribbean|White and African-Indian|Other
-guadtMxdEthnicCultur_other,BiB_GrowingUp.child_survey_adult_comp.guadtMxdEthnicCultur_other,Other cultural background (if mixed ethnicity),decimal,,,
+guadtMxdEthnicCultur_other,BiB_GrowingUp.child_survey_adult_comp.guadtMxdEthnicCultur_other,Other cultural background (if mixed ethnicity),text,,,
 guadtBlackCultural,BiB_GrowingUp.child_survey_adult_comp.guadtBlackCultural,What do you consider your cultural background (if Black),decimal,,1|2|3,Caribbean|African|Other
-guadtBlackCultural_other,BiB_GrowingUp.child_survey_adult_comp.guadtBlackCultural_other,Other cultural background (if Black),decimal,,,
+guadtBlackCultural_other,BiB_GrowingUp.child_survey_adult_comp.guadtBlackCultural_other,Other cultural background (if Black),text,,,
 guadtAsianCultural,BiB_GrowingUp.child_survey_adult_comp.guadtAsianCultural,What do you consider your cultural background (if Asian),decimal,,1|2|3|4|5|6,Indian|Pakistani|Bangladeshi|Indian Caribbean|African- Indian|Other
 guadtAsianCultural_other,BiB_GrowingUp.child_survey_adult_comp.guadtAsianCultural_other,Other cultural background (if Asian),text,,,
 guadtChineseCultural,BiB_GrowingUp.child_survey_adult_comp.guadtChineseCultural,What do you consider your cultural background (if Chinese),decimal,,1|2|3|4|5,Chinese|Japanese|Filipino|Vietnamese|Other
-guadtChineseCultural_other,BiB_GrowingUp.child_survey_adult_comp.guadtChineseCultural_other,Other cultural background (if Chinese),decimal,,,
+guadtChineseCultural_other,BiB_GrowingUp.child_survey_adult_comp.guadtChineseCultural_other,Other cultural background (if Chinese),text,,,
 guadtOtherCultural,BiB_GrowingUp.child_survey_adult_comp.guadtOtherCultural,What do you consider your cultural background (if other ethnicity),text,,,
 guadtSafeOutdoorSp,BiB_GrowingUp.child_survey_adult_comp.guadtSafeOutdoorSp,Does your child have nearby outdoor space where they can play safely,decimal,,1|2,No|Yes
 guadtOthrPrntHeart_1,BiB_GrowingUp.child_survey_adult_comp.guadtOthrPrntHeart_1,Has mother of child's other parent been diagnosed with heart disease before 50,decimal,,1|2|3|4,No|Yes|Do not wish to answer|Don't know
@@ -464,6 +470,7 @@ guadtOthrPrntDiabet_2,BiB_GrowingUp.child_survey_adult_comp.guadtOthrPrntDiabet_
 guadtOthrPrntDiabet_3,BiB_GrowingUp.child_survey_adult_comp.guadtOthrPrntDiabet_3,Has sibling of child's other parent been diagnosed with diabetes before 50,decimal,,1|2|3|4|5|6,No|Yes - Type 1|Yes - Type 2|Yes - don't know type|Do not wish to answer|Don't know
 guadtECigSameHouse,BiB_GrowingUp.child_survey_adult_comp.guadtECigSameHouse,Does anyone (inc. you) smoke e-cigarettes in same house as child,decimal,,1|2|3|4,No|Yes|Do not wish to answer|Don't know
 guadtSmokeSameHouse,BiB_GrowingUp.child_survey_adult_comp.guadtSmokeSameHouse,Does anyone (inc. you) smoke cigarettes in same house as child,decimal,,1|2|3|4,No|Yes|Do not wish to answer|Don't know
+guadtInterviewerCode_other,BiB_GrowingUp.child_survey_adult_comp.guadtInterviewerCode_other,Interviewer code: Other,text,,,
 guadtLanguageHome_1,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageHome_1,English usually spoken at home,decimal,,1,Yes
 guadtLanguageHome_2,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageHome_2,Urdu usually spoken at home,decimal,,1,Yes
 guadtLanguageHome_3,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageHome_3,Punjabi usually spoken at home,decimal,,1,Yes
@@ -472,12 +479,11 @@ guadtLanguageHome_5,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageHome_5,Be
 guadtLanguageHome_6,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageHome_6,Hinko usually spoken at home,decimal,,1,Yes
 guadtLanguageHome_7,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageHome_7,Polish usually spoken at home,decimal,,1,Yes
 guadtLanguageHome_8,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageHome_8,Pushto usually spoken at home,decimal,,1,Yes
-guadtWeekdaySleep,BiB_GrowingUp.child_survey_adult_comp.guadtWeekdaySleep,What is your child’s usual amount of sleep each night on week days?,decimal,,1|10|11|2|3|4|5|6|7|8|9,Less than five hours|Thirteen hours|More than thirteen hours|Five hours|Six hours|Seven hours|Eight hours|Nine hours|Ten hours|Eleven hours|Twelve hours
-guadtWeekendSleep,BiB_GrowingUp.child_survey_adult_comp.guadtWeekendSleep,What is your child’s usual amount of sleep each night at weekends?,decimal,,1|10|11|2|3|4|5|6|7|8|9,Less than five hours|Thirteen hours|More than thirteen hours|Five hours|Six hours|Seven hours|Eight hours|Nine hours|Ten hours|Eleven hours|Twelve hours
-guadtBedWeekday,BiB_GrowingUp.child_survey_adult_comp.guadtBedWeekday,What is your child’s usual bedtime on weeknights?,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,6.00pm|10.30pm|11.00pm|11.30pm|12.00am|12.30am|1.00am|1.30am|2.00am|6.30pm|7.00pm|7.30pm|8.00pm|8.30pm|9.00pm|9.30pm|10.00pm
-guadtBedWeekend,BiB_GrowingUp.child_survey_adult_comp.guadtBedWeekend,What is your child’s usual bedtime at weekends?,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,6.00pm|10.30pm|11.00pm|11.30pm|12.00am|12.30am|1.00am|1.30am|2.00am|6.30pm|7.00pm|7.30pm|8.00pm|8.30pm|9.00pm|9.30pm|10.00pm
-guadtInterviewerCode_other,BiB_GrowingUp.child_survey_adult_comp.guadtInterviewerCode_other,Interviewer code: Other,text,,,
+guadtWeekdaySleep,BiB_GrowingUp.child_survey_adult_comp.guadtWeekdaySleep,What is your childâ€™s usual amount of sleep each night on week days?,decimal,,1|10|11|2|3|4|5|6|7|8|9,Less than five hours|Thirteen hours|More than thirteen hours|Five hours|Six hours|Seven hours|Eight hours|Nine hours|Ten hours|Eleven hours|Twelve hours
+guadtWeekendSleep,BiB_GrowingUp.child_survey_adult_comp.guadtWeekendSleep,What is your childâ€™s usual amount of sleep each night at weekends?,decimal,,1|10|11|2|3|4|5|6|7|8|9,Less than five hours|Thirteen hours|More than thirteen hours|Five hours|Six hours|Seven hours|Eight hours|Nine hours|Ten hours|Eleven hours|Twelve hours
+guadtBedWeekday,BiB_GrowingUp.child_survey_adult_comp.guadtBedWeekday,What is your childâ€™s usual bedtime on weeknights?,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,6.00pm|10.30pm|11.00pm|11.30pm|12.00am|12.30am|1.00am|1.30am|2.00am|6.30pm|7.00pm|7.30pm|8.00pm|8.30pm|9.00pm|9.30pm|10.00pm
+guadtBedWeekend,BiB_GrowingUp.child_survey_adult_comp.guadtBedWeekend,What is your childâ€™s usual bedtime at weekends?,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,6.00pm|10.30pm|11.00pm|11.30pm|12.00am|12.30am|1.00am|1.30am|2.00am|6.30pm|7.00pm|7.30pm|8.00pm|8.30pm|9.00pm|9.30pm|10.00pm
 guadtSDQ11,BiB_GrowingUp.child_survey_adult_comp.guadtSDQ11,Do you have any other comments or concerns?,text,,,
 guadtWhereQComp,BiB_GrowingUp.child_survey_adult_comp.guadtWhereQComp,Where was this questionnaire completed?,decimal,,1|2|3,Participant's home|Bus|Other
 guadtWhereQComp_other,BiB_GrowingUp.child_survey_adult_comp.guadtWhereQComp_other,Where was this questionnaire completed (other)?,text,,,
-lsid,BiB_GrowingUp.child_survey_adult_comp.lsid,"",decimal,,,
+guadtBackfillBy,BiB_GrowingUp.child_survey_adult_comp.guadtBackfillBy,Who completed the backfill?,text,,,
