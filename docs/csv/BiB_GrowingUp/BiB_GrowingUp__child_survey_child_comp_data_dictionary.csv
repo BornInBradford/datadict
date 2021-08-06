@@ -260,3 +260,4 @@ guchdQReliability_5,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_5,Ot
 guchdQReliability_5comment,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_5comment,"",text,,,
 guchdBackfillBy,BiB_GrowingUp.child_survey_child_comp.guchdBackfillBy,"",text,,,
 guchdQReliability_other,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_other,"",text,,,
+guchdQReliability_othercomment,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_othercomment,"",text,,,
