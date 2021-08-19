@@ -1,0 +1,9 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_Biobank.current_samples.BiBPregNumber,BiB cohort pregnancy number,text,,,
+PregnancyID,BiB_Biobank.current_samples.PregnancyID,Legacy BiB cohort pregnancy ID,text,,,
+ParticipantType,BiB_Biobank.current_samples.ParticipantType,BiB cohort participant type,decimal,,1|2|3,Mother|Father|Child
+SampleType,BiB_Biobank.current_samples.SampleType,Type of stored sample,decimal,,1|2|3|4|5|6|7|8,Serum|Plasma|RBC|Whole Blood|Buffy|Clot|DNA|Urine
+study_collection,BiB_Biobank.current_samples.study_collection,Study wave sample collected in,decimal,,1|2|3|4|5|6,Registration (pregnancy)|Cord|Registration|ALL IN 12m|ALL IN 24m|MeDALL 5y
+age_years,BiB_Biobank.current_samples.age_years,Participant age at sample collection in years,decimal,,,
+age_months,BiB_Biobank.current_samples.age_months,Participant age at sample collection in months,decimal,,,
+n_aliquots,BiB_Biobank.current_samples.n_aliquots,Number of stored aliquots of sample type and study collection,decimal,,,

@@ -2618,6 +2618,14 @@ BiB_Baseline,base_f_survey_p3,fbqweight_p3,BiB_Baseline.base_f_survey_p3.fbqweig
 BiB_Baseline,base_f_survey_p3,fbqworkforce_p3,BiB_Baseline.base_f_survey_p3.fbqworkforce_p3,No. people work at your place of work,decimal,,,
 BiB_Baseline,base_f_survey_p3,fbqworklevel_p3,BiB_Baseline.base_f_survey_p3.fbqworklevel_p3,Level worked at,decimal,,1|2|3,Manager|Supervisor|Other employee
 BiB_Baseline,base_f_survey_p3,has_fbqall_p3,BiB_Baseline.base_f_survey_p3.has_fbqall_p3,Has: Father baseline questionnaire,decimal,,1,has
+BiB_Biobank,current_samples,BiBPregNumber,BiB_Biobank.current_samples.BiBPregNumber,BiB cohort pregnancy number,text,,,
+BiB_Biobank,current_samples,PregnancyID,BiB_Biobank.current_samples.PregnancyID,Legacy BiB cohort pregnancy ID,text,,,
+BiB_Biobank,current_samples,ParticipantType,BiB_Biobank.current_samples.ParticipantType,BiB cohort participant type,decimal,,1|2|3,Mother|Father|Child
+BiB_Biobank,current_samples,SampleType,BiB_Biobank.current_samples.SampleType,Type of stored sample,decimal,,1|2|3|4|5|6|7|8,Serum|Plasma|RBC|Whole Blood|Buffy|Clot|DNA|Urine
+BiB_Biobank,current_samples,study_collection,BiB_Biobank.current_samples.study_collection,Study wave sample collected in,decimal,,1|2|3|4|5|6,Registration (pregnancy)|Cord|Registration|ALL IN 12m|ALL IN 24m|MeDALL 5y
+BiB_Biobank,current_samples,age_years,BiB_Biobank.current_samples.age_years,Participant age at sample collection in years,decimal,,,
+BiB_Biobank,current_samples,age_months,BiB_Biobank.current_samples.age_months,Participant age at sample collection in months,decimal,,,
+BiB_Biobank,current_samples,n_aliquots,BiB_Biobank.current_samples.n_aliquots,Number of stored aliquots of sample type and study collection,decimal,,,
 BiB_Pregnancy,eclipse_preg,BiBPregNumber,BiB_Pregnancy.eclipse_preg.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
 BiB_Pregnancy,eclipse_preg,has_eclipse_preg,BiB_Pregnancy.eclipse_preg.has_eclipse_preg,Has eclipse pregnancy record,decimal,,,
 BiB_Pregnancy,eclipse_preg,bkfcomplet,BiB_Pregnancy.eclipse_preg.bkfcomplet,Backfill completed,decimal,,1|2,No|Yes
