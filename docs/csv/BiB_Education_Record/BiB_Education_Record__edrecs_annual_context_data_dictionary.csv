@@ -1,0 +1,10 @@
+variable,full_name,label,value_type,description,categories,categories_label
+edcont_schoolentry,BiB_Education_Record.edrecs_annual_context.edcont_schoolentry,Year started school,decimal,,,
+edcont_academicyear,BiB_Education_Record.edrecs_annual_context.edcont_academicyear,School year data was taken from,decimal,,1|10|11|2|3|4|5|6|7|8|9,R|Y9|Y10|Y1|Y2|Y3|Y4|Y5|Y6|Y7|Y8
+edcont_ethnic_origin,BiB_Education_Record.edrecs_annual_context.edcont_ethnic_origin,DfE main ethnic group code,decimal,,1|10|11|12|13|14|15|16|17|18|19|2|20|21|22|23|3|4|5|6|7|8|9,WBRI|AIND|APKN|AMPK|AKPA|AOPK|ABAN|AOTH|BCRB|BAFR|BOTH|WIRI|CHNE|OOTH|REFU|NOBT|WIRT|WOTH|WROM|MWBC|MWBA|MWAS|MOTH
+edcont_ethnic_subcat,BiB_Education_Record.edrecs_annual_context.edcont_ethnic_subcat,DfE ethnic group sub-category,decimal,,1|10|11|12|13|14|15|16|17|18|19|2|3|4|5|6|7|8|9,White - British|Pakistani|Bangladeshi|Any other Asian background|Black Caribbean|Black - African|Any other black background|Chinese|Any other ethnic group|Refused|Information not yet obtained|White|Any other white background|Gypsy/Roma|White and Black Caribbean|White and Black African|White and Asian|Any other mixed background|Indian
+edcont_eal,BiB_Education_Record.edrecs_annual_context.edcont_eal,Does child have English as a second language?,decimal,,1|2,No|Yes
+edcont_fsm,BiB_Education_Record.edrecs_annual_context.edcont_fsm,Is child is in receipt of free school meals?,decimal,,1|2,No|Yes
+edcont_g_t,BiB_Education_Record.edrecs_annual_context.edcont_g_t,Is child classed as 'gifted and talented'?,decimal,,1|2,No|Yes
+edcont_lac,BiB_Education_Record.edrecs_annual_context.edcont_lac,Is child in the care of their local authority?,decimal,,1|2,No|Yes
+edcont_sen,BiB_Education_Record.edrecs_annual_context.edcont_sen,Does child have special educational needs?,decimal,,1|2|3|4|5|6,EHCP|Not SEN|School Action|School Action Plus|SEN Support|Statement
