@@ -1,0 +1,11 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBBSPregNumber,BiBBS_CohortInfo.child.BiBBSPregNumber,BiBBS mother within-cohort pregnancy number,decimal,,,
+BiBBSPregnancyID,BiBBS_CohortInfo.child.BiBBSPregnancyID,BiBBS Pregnancy ID,text,,,
+birth_order,BiBBS_CohortInfo.child.birth_order,Child birth order (multiple births),decimal,,,
+birth_year,BiBBS_CohortInfo.child.birth_year,Child year of birth,decimal,,,
+birth_month,BiBBS_CohortInfo.child.birth_month,Child month of birth,decimal,,,
+gender,BiBBS_CohortInfo.child.gender,Child gender,decimal,,1|2,Female|Male
+BiBBSMotherID,BiBBS_CohortInfo.child.BiBBSMotherID,BiBBSPersonID of mother,text,,,
+mother_age_at_birth,BiBBS_CohortInfo.child.mother_age_at_birth,Age of mother at child's birth,decimal,,,
+BiBBSPartnerID,BiBBS_CohortInfo.child.BiBBSPartnerID,BiBBSPersonID of partner,text,,,
+partner_age_at_birth,BiBBS_CohortInfo.child.partner_age_at_birth,Age of partner at child's birth,decimal,,,

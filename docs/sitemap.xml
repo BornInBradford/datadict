@@ -22,13 +22,15 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_education_record/edrecs_annual_context/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_education_record/edrecs_context/</loc>
-  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_baseline/pregnancy_survey/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairm_s/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_cohortinfo/recruitment/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/child_info/</loc>
   </url><url>
@@ -82,6 +84,8 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/sdq_data/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_cohortinfo/pregnancy/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/stschool_bpvs/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/pregnancy_gtt/pregnancy_gtt_p1/</loc>
@@ -116,6 +120,8 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/child_quiz/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_cohortinfo/mother/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/stschool_lid/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_survey/base_m23_survey_p1/</loc>
@@ -133,6 +139,8 @@
     <loc>https://borninbradford.github.io/datadict/bib/bib_childgrowth/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/child_survey_child_comp/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_cohortinfo/child/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_wave1/</loc>
   </url><url>
@@ -169,6 +177,8 @@
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_cohortinfo/partner/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/preg_info/</loc>
   </url><url>
@@ -459,6 +469,12 @@
     <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bibbs/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_cohortinfo/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_baseline/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/</loc>
   </url><url>
