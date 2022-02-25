@@ -22,6 +22,6 @@ fbqselfemployed,BiB_Baseline.base_f_survey.fbqselfemployed,Are/were you self-emp
 fbqsmokes,BiB_Baseline.base_f_survey.fbqsmokes,Do you smoke cigarettes nowadays,decimal,,1|2,Yes|No
 fbqsmokesamt,BiB_Baseline.base_f_survey.fbqsmokesamt,How many cigarettes per day,decimal,,1|2|3|4|5|6,Less than 1 a day|1-5|6-10|11-20|Over 20|Don't know
 fbqweight,BiB_Baseline.base_f_survey.fbqweight,Father's weight (kg),decimal,,,
-fbqworkforce,BiB_Baseline.base_f_survey.fbqworkforce,No. people work at your place of work,decimal,,,
+fbqworkforce,BiB_Baseline.base_f_survey.fbqworkforce,No. people work at your place of work,decimal,,1|2|3|4,1-2|3-24|25-499|500+
 fbqworklevel,BiB_Baseline.base_f_survey.fbqworklevel,Level worked at,decimal,,1|2|3,Manager|Supervisor|Other employee
 has_fbqall,BiB_Baseline.base_f_survey.has_fbqall,Has: Father baseline questionnaire,decimal,,1,has

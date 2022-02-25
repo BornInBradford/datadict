@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/child_info/child_info_bib/</guid>
       <description>Table ID: BiB_PrimarySchoolYears.child_info_bib
 github | csv
-   Entity type Variables Entities Updated     Participant 23 7006 2021-07-27    Copy of child_info only containing BiB records
+   Entity type Variables Entities Updated     Participant 23 7006 2022-01-18    Copy of child_info only containing BiB records
    variable label value_type summary     BiBPersonID  text 7006 unique values
 7006 non-missing values
 8 characters

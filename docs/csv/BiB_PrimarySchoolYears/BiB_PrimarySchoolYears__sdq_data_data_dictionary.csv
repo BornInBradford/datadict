@@ -27,22 +27,22 @@ psysdqASDQ1_07,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_07,"Generally obedien
 psysdqASDQ1_08,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_08,"Many worries, often seems worried",decimal,,0|1|2,Not true|Somewhat true|Certainly true
 psysdqASDQ1_09,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_09,"Helpful if someone is hurt, upset or feeling ill",decimal,,0|1|2,Not true|Somewhat true|Certainly true
 psysdqASDQ1_10,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_10,Constantly fidgeting or squirming,decimal,,0|1|2,Not true|Somewhat true|Certainly true
-psysdqASDQ1_11,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_11,Has at least one good friend,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_11,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_11,Has at least one good friend,decimal,,0|1|2,Certainly true|Somewhat true|Not true
 psysdqASDQ1_12,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_12,Often fights with other children or bullies them,decimal,,0|1|2,Not true|Somewhat true|Certainly true
 psysdqASDQ1_13,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_13,"Often unhappy, down-hearted or tearful",decimal,,0|1|2,Not true|Somewhat true|Certainly true
 psysdqASDQ1_14,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_14,Generally liked by other children,decimal,,0|1|2,Certainly true|Somewhat true|Not true
-psysdqASDQ1_15,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_15,"Easily distracted, concentration wanders",decimal,,0|1|2,Certainly true|Somewhat true|Not true
+psysdqASDQ1_15,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_15,"Easily distracted, concentration wanders",decimal,,0|1|2,Not true|Somewhat true|Certainly true
 psysdqASDQ1_16,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_16,"Nervous or clingy in new situations, easily loses confidence",decimal,,0|1|2,Not true|Somewhat true|Certainly true
-psysdqASDQ1_17,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_17,Kind to younger children,decimal,,0|1|2,Certainly true|Somewhat true|Not true
-psysdqASDQ1_18,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_18,Often lies or cheats,decimal,,0|1|2,Certainly true|Somewhat true|Not true
+psysdqASDQ1_17,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_17,Kind to younger children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_18,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_18,Often lies or cheats,decimal,,0|1|2,Not true|Somewhat true|Certainly true
 psysdqASDQ1_19,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_19,Picked on or bullied by other children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
 psysdqASDQ1_20,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_20,"Often volunteers to help others (parents, teachers, other children)",decimal,,0|1|2,Not true|Somewhat true|Certainly true
-psysdqASDQ1_21,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_21,Thinks things out before acting,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_21,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_21,Thinks things out before acting,decimal,,0|1|2,Certainly true|Somewhat true|Not true
 psysdqASDQ1_22,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_22,"Steals from home, school or elsewhere",decimal,,0|1|2,Not true|Somewhat true|Certainly true
 psysdqASDQ1_23,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_23,Gets on better with adults than with other children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
 psysdqASDQ1_24,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_24,"Many fears, easily scared",decimal,,0|1|2,Not true|Somewhat true|Certainly true
-psysdqASDQ1_25,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_25,"Sees tasks through to the end, good attention span",decimal,,0|1|2,Not true|Somewhat true|Certainly true
-psysdqBOverallDiffic,BiB_PrimarySchoolYears.sdq_data.psysdqBOverallDiffic,"Overall, do you think that this child has difficulties in one or more of the following areas: emotions, concentration, behaviour or being able to get on with other people?",decimal,,1|2|3|4,No|Yes - minor difficulties|Yes - definite difficulties|Yes - severe difficulties
+psysdqASDQ1_25,BiB_PrimarySchoolYears.sdq_data.psysdqASDQ1_25,"Sees tasks through to the end, good attention span",decimal,,0|1|2,Certainly true|Somewhat true|Not true
+psysdqBOverallDiffic,BiB_PrimarySchoolYears.sdq_data.psysdqBOverallDiffic,"Overall, do you think that this child has difficulties in one or more of the foll",decimal,,1|2|3|4,No|Yes - minor difficulties|Yes - definite difficulties|Yes - severe difficulties
 psysdqBDifficultLng,BiB_PrimarySchoolYears.sdq_data.psysdqBDifficultLng,How long have these difficulties been present?,decimal,,1|2|3|4,Less than a month|1-5 months|6-12 months|Over a year
 psysdqBDfficultDistr,BiB_PrimarySchoolYears.sdq_data.psysdqBDfficultDistr,Do the difficulties upset or distress the child?,decimal,,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
 psysdqBDfficultInter_1,BiB_PrimarySchoolYears.sdq_data.psysdqBDfficultInter_1,PEER RELATIONSHIPS,decimal,,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal

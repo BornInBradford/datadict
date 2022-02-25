@@ -1,4 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
+Date,BiB_GrowingUp.child_survey_adult_comp.Date,Date survey completed,date,,,
 AgeMonths,BiB_GrowingUp.child_survey_adult_comp.AgeMonths,Age in months at survey completion,decimal,,,
 AgeYears,BiB_GrowingUp.child_survey_adult_comp.AgeYears,Age in years at survey completion,decimal,,,
 SurveyYear,BiB_GrowingUp.child_survey_adult_comp.SurveyYear,Calendar year at survey completion,decimal,,,

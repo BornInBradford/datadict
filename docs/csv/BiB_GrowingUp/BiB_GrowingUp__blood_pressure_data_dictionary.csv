@@ -1,4 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
+Date,BiB_GrowingUp.blood_pressure.Date,Date blood pressure taken,date,,,
 TotalBPs,BiB_GrowingUp.blood_pressure.TotalBPs,Total blood pressure test occasions,decimal,,,
 BPDateOrder,BiB_GrowingUp.blood_pressure.BPDateOrder,Date order of blood pressure test occasions,decimal,,,
 source,BiB_GrowingUp.blood_pressure.source,Source of data,decimal,,1|2,School nurses|Growing Up

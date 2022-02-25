@@ -1,10 +1,9 @@
 variable,full_name,label,value_type,description,categories,categories_label
+TestDate,BiB_GrowingUp.blood_tests.TestDate,Date sample was tested,date,,,
 TotalTests,BiB_GrowingUp.blood_tests.TotalTests,Total blood test occasions within GU,decimal,,,
 TestDateOrder,BiB_GrowingUp.blood_tests.TestDateOrder,Date order of test occasions within GU,decimal,,,
 AgeInYears,BiB_GrowingUp.blood_tests.AgeInYears,"Age at GU blood test, years",decimal,,,
 AgeInMonths,BiB_GrowingUp.blood_tests.AgeInMonths,"Age at GU blood test, months",decimal,,,
-TestYear,BiB_GrowingUp.blood_tests.TestYear,Year of GU blood test,decimal,,,
-TestMonth,BiB_GrowingUp.blood_tests.TestMonth,Month of GU blood test,decimal,,,
 hb,BiB_GrowingUp.blood_tests.hb,Haemoglobin (g/L),decimal,,,
 wbc,BiB_GrowingUp.blood_tests.wbc,White Blood Cell Count(g/L),decimal,,,
 platelets,BiB_GrowingUp.blood_tests.platelets,Platelets (10^9/L),decimal,,,

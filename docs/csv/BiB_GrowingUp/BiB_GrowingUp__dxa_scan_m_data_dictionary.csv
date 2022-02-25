@@ -1,4 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
+Date,BiB_GrowingUp.dxa_scan_m.Date,Date image was acquired,date,,,
 AgeMonths,BiB_GrowingUp.dxa_scan_m.AgeMonths,Age in months at DXA scan,decimal,,,
 AgeYears,BiB_GrowingUp.dxa_scan_m.AgeYears,Age in years at DXA scan,decimal,,,
 ScanYear,BiB_GrowingUp.dxa_scan_m.ScanYear,Calendar year of DXA scan,decimal,,,

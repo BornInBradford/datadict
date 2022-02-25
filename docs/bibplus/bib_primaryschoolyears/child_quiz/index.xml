@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/child_quiz/child_quiz_bib/</guid>
       <description>Table ID: BiB_PrimarySchoolYears.child_quiz_bib
 github | csv
-   Entity type Variables Entities Updated     Participant 91 6147 2021-07-27    Copy of child_quiz only containing BiB records
+   Entity type Variables Entities Updated     Participant 91 6147 2022-01-18    Copy of child_quiz only containing BiB records
    variable label value_type summary     BiBPersonID  text 6147 unique values
 6147 non-missing values
 8 characters
