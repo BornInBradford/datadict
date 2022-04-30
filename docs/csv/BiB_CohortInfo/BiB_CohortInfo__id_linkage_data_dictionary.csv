@@ -1,0 +1,5 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_CohortInfo.id_linkage.BiBPregNumber,Pregnancy number within BiB,decimal,,,
+BiBMotherID,BiB_CohortInfo.id_linkage.BiBMotherID,Mother identifier,text,,,
+BiBFatherID,BiB_CohortInfo.id_linkage.BiBFatherID,Father identifier,text,,,
+BiBChildID,BiB_CohortInfo.id_linkage.BiBChildID,Child identifier,text,,,

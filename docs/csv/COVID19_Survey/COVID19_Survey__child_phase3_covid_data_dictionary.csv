@@ -1,0 +1,197 @@
+variable,full_name,label,value_type,description,categories,categories_label
+chys_7timesleep_c19c2,COVID19_Survey.child_phase3_covid.chys_7timesleep_c19c2,1A) In the last 7d what time have you normally fallen asleep?,text,,,
+chys_7wknp_c19c2,COVID19_Survey.child_phase3_covid.chys_7wknp_c19c2,1B) In the last 7 days what time have you normally woken up (please write):,text,,,
+chfl_7physactwkdy_c19c2___1,COVID19_Survey.child_phase3_covid.chfl_7physactwkdy_c19c2___1,2A) On a normal weekday (Monday to Friday) (please tick one) (choice=No activity,decimal,,0|1,Unchecked|Checked
+chfl_7physactwkdy_c19c2___2,COVID19_Survey.child_phase3_covid.chfl_7physactwkdy_c19c2___2,2A) On a normal weekday (Monday to Friday) (please tick one) (choice=Small amoun,decimal,,0|1,Unchecked|Checked
+chfl_7physactwkdy_c19c2___3,COVID19_Survey.child_phase3_covid.chfl_7physactwkdy_c19c2___3,2A) On a normal weekday (Monday to Friday) (please tick one) (choice=Small to Mo,decimal,,0|1,Unchecked|Checked
+chfl_7physactwkdy_c19c2___4,COVID19_Survey.child_phase3_covid.chfl_7physactwkdy_c19c2___4,2A) On a normal weekday (Monday to Friday) (please tick one) (choice=Moderate to,decimal,,0|1,Unchecked|Checked
+chfl_7physactwkdy_c19c2___5,COVID19_Survey.child_phase3_covid.chfl_7physactwkdy_c19c2___5,2A) On a normal weekday (Monday to Friday) (please tick one) (choice=Large amoun,decimal,,0|1,Unchecked|Checked
+chfl_7physactwknd_c19c2___1,COVID19_Survey.child_phase3_covid.chfl_7physactwknd_c19c2___1,2B) On a normal weekend day (Saturday or Sunday) (Please tick one) (choice=No ac,decimal,,0|1,Unchecked|Checked
+chfl_7physactwknd_c19c2___2,COVID19_Survey.child_phase3_covid.chfl_7physactwknd_c19c2___2,2B) On a normal weekend day (Saturday or Sunday) (Please tick one) (choice=Small,decimal,,0|1,Unchecked|Checked
+chfl_7physactwknd_c19c2___3,COVID19_Survey.child_phase3_covid.chfl_7physactwknd_c19c2___3,2B) On a normal weekend day (Saturday or Sunday) (Please tick one) (choice=Small,decimal,,0|1,Unchecked|Checked
+chfl_7physactwknd_c19c2___4,COVID19_Survey.child_phase3_covid.chfl_7physactwknd_c19c2___4,2B) On a normal weekend day (Saturday or Sunday) (Please tick one) (choice=Moder,decimal,,0|1,Unchecked|Checked
+chfl_7physactwknd_c19c2___5,COVID19_Survey.child_phase3_covid.chfl_7physactwknd_c19c2___5,2B) On a normal weekend day (Saturday or Sunday) (Please tick one) (choice=Large,decimal,,0|1,Unchecked|Checked
+c19c2_chfl_acttrvl_mor___1,COVID19_Survey.child_phase3_covid.c19c2_chfl_acttrvl_mor___1,"If in school holidays: When you are at school, on how many mornings do you activ",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_acttrvl_mor___2,COVID19_Survey.child_phase3_covid.c19c2_chfl_acttrvl_mor___2,"If in school holidays: When you are at school, on how many mornings do you activ",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_acttrvl_mor___3,COVID19_Survey.child_phase3_covid.c19c2_chfl_acttrvl_mor___3,"If in school holidays: When you are at school, on how many mornings do you activ",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_acttrvl_mor___4,COVID19_Survey.child_phase3_covid.c19c2_chfl_acttrvl_mor___4,"If in school holidays: When you are at school, on how many mornings do you activ",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_acttrvl_mor___5,COVID19_Survey.child_phase3_covid.c19c2_chfl_acttrvl_mor___5,"If in school holidays: When you are at school, on how many mornings do you activ",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_brktme_act___1,COVID19_Survey.child_phase3_covid.c19c2_chfl_brktme_act___1,"If in school holidays or not currently going to school: when you are at school,",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_brktme_act___2,COVID19_Survey.child_phase3_covid.c19c2_chfl_brktme_act___2,"If in school holidays or not currently going to school: when you are at school,",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_brktme_act___3,COVID19_Survey.child_phase3_covid.c19c2_chfl_brktme_act___3,"If in school holidays or not currently going to school: when you are at school,",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_brktme_act___4,COVID19_Survey.child_phase3_covid.c19c2_chfl_brktme_act___4,"If in school holidays or not currently going to school: when you are at school,",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_brktme_act___5,COVID19_Survey.child_phase3_covid.c19c2_chfl_brktme_act___5,"If in school holidays or not currently going to school: when you are at school,",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_lchtme_act___1,COVID19_Survey.child_phase3_covid.c19c2_chfl_lchtme_act___1,If in school holidays: when you are at school what do you normally do at lunch (,decimal,,0|1,Unchecked|Checked
+c19c2_chfl_lchtme_act___2,COVID19_Survey.child_phase3_covid.c19c2_chfl_lchtme_act___2,If in school holidays: when you are at school what do you normally do at lunch (,decimal,,0|1,Unchecked|Checked
+c19c2_chfl_lchtme_act___3,COVID19_Survey.child_phase3_covid.c19c2_chfl_lchtme_act___3,If in school holidays: when you are at school what do you normally do at lunch (,decimal,,0|1,Unchecked|Checked
+c19c2_chfl_lchtme_act___4,COVID19_Survey.child_phase3_covid.c19c2_chfl_lchtme_act___4,If in school holidays: when you are at school what do you normally do at lunch (,decimal,,0|1,Unchecked|Checked
+c19c2_chfl_lchtme_act___5,COVID19_Survey.child_phase3_covid.c19c2_chfl_lchtme_act___5,If in school holidays: when you are at school what do you normally do at lunch (,decimal,,0|1,Unchecked|Checked
+c19c2_chfl_acttrvl_aft___1,COVID19_Survey.child_phase3_covid.c19c2_chfl_acttrvl_aft___1,"If in school holidays: when you are at school, on how many afternoons do you act",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_acttrvl_aft___2,COVID19_Survey.child_phase3_covid.c19c2_chfl_acttrvl_aft___2,"If in school holidays: when you are at school, on how many afternoons do you act",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_acttrvl_aft___3,COVID19_Survey.child_phase3_covid.c19c2_chfl_acttrvl_aft___3,"If in school holidays: when you are at school, on how many afternoons do you act",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_acttrvl_aft___4,COVID19_Survey.child_phase3_covid.c19c2_chfl_acttrvl_aft___4,"If in school holidays: when you are at school, on how many afternoons do you act",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_acttrvl_aft___5,COVID19_Survey.child_phase3_covid.c19c2_chfl_acttrvl_aft___5,"If in school holidays: when you are at school, on how many afternoons do you act",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_aftscl___1,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_aftscl___1,"If in school holidays: when you are at school, on how many days right after scho",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_aftscl___2,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_aftscl___2,"If in school holidays: when you are at school, on how many days right after scho",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_aftscl___3,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_aftscl___3,"If in school holidays: when you are at school, on how many days right after scho",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_aftscl___4,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_aftscl___4,"If in school holidays: when you are at school, on how many days right after scho",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_aftscl___5,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_aftscl___5,"If in school holidays: when you are at school, on how many days right after scho",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_eve___1,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_eve___1,"If in school holidays: when you are at school, on how many evenings (from tea ti",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_eve___2,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_eve___2,"If in school holidays: when you are at school, on how many evenings (from tea ti",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_eve___3,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_eve___3,"If in school holidays: when you are at school, on how many evenings (from tea ti",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_eve___4,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_eve___4,"If in school holidays: when you are at school, on how many evenings (from tea ti",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_eve___5,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_eve___5,"If in school holidays: when you are at school, on how many evenings (from tea ti",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_wknd___1,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_wknd___1,"2I) On the last weekend (Saturday and Sunday), how many times did you do sports,",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_wknd___2,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_wknd___2,"2I) On the last weekend (Saturday and Sunday), how many times did you do sports,",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_wknd___3,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_wknd___3,"2I) On the last weekend (Saturday and Sunday), how many times did you do sports,",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_wknd___4,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_wknd___4,"2I) On the last weekend (Saturday and Sunday), how many times did you do sports,",decimal,,0|1,Unchecked|Checked
+c19c2_chfl_actsprt_wknd___5,COVID19_Survey.child_phase3_covid.c19c2_chfl_actsprt_wknd___5,"2I) On the last weekend (Saturday and Sunday), how many times did you do sports,",decimal,,0|1,Unchecked|Checked
+chtss_7timesitly_c19c2___1,COVID19_Survey.child_phase3_covid.chtss_7timesitly_c19c2___1,"3A) In the last 7 days, on a normal day, how much time have you spent sitting or",decimal,,0|1,Unchecked|Checked
+chtss_7timesitly_c19c2___2,COVID19_Survey.child_phase3_covid.chtss_7timesitly_c19c2___2,"3A) In the last 7 days, on a normal day, how much time have you spent sitting or",decimal,,0|1,Unchecked|Checked
+chtss_7timesitly_c19c2___3,COVID19_Survey.child_phase3_covid.chtss_7timesitly_c19c2___3,"3A) In the last 7 days, on a normal day, how much time have you spent sitting or",decimal,,0|1,Unchecked|Checked
+chtss_7timesitly_c19c2___4,COVID19_Survey.child_phase3_covid.chtss_7timesitly_c19c2___4,"3A) In the last 7 days, on a normal day, how much time have you spent sitting or",decimal,,0|1,Unchecked|Checked
+chtss_7timesitly_c19c2___5,COVID19_Survey.child_phase3_covid.chtss_7timesitly_c19c2___5,"3A) In the last 7 days, on a normal day, how much time have you spent sitting or",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactt_v_0,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactt_v_0,Watching TV but NOT time spent playing video games (choice=No time),decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactt_v_1,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactt_v_1,Watching TV but NOT time spent playing video games (choice=1 hour or less),decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactt_v_2,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactt_v_2,Watching TV but NOT time spent playing video games (choice=1-2 hours),decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactt_v_3,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactt_v_3,Watching TV but NOT time spent playing video games (choice=3-4 hours),decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactt_v_4,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactt_v_4,Watching TV but NOT time spent playing video games (choice=4+ hours),decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactv_v_5,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactv_v_5,"Playing video games on a game console (e.g. Playstation or Switch), mobile phone",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactv_v_6,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactv_v_6,"Playing video games on a game console (e.g. Playstation or Switch), mobile phone",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactv_v_7,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactv_v_7,"Playing video games on a game console (e.g. Playstation or Switch), mobile phone",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactv_v_8,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactv_v_8,"Playing video games on a game console (e.g. Playstation or Switch), mobile phone",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactv_v_9,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactv_v_9,"Playing video games on a game console (e.g. Playstation or Switch), mobile phone",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactc_v_10,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactc_v_10,"Using computers/tablets for social activity (e.g. Instagram, Facebook), surfing",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactc_v_11,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactc_v_11,"Using computers/tablets for social activity (e.g. Instagram, Facebook), surfing",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactc_v_12,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactc_v_12,"Using computers/tablets for social activity (e.g. Instagram, Facebook), surfing",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactc_v_13,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactc_v_13,"Using computers/tablets for social activity (e.g. Instagram, Facebook), surfing",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactc_v_14,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactc_v_14,"Using computers/tablets for social activity (e.g. Instagram, Facebook), surfing",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactm_v_15,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactm_v_15,"Using your mobile phone to talk, text, or socialise (Instagram and Facebook) but",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactm_v_16,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactm_v_16,"Using your mobile phone to talk, text, or socialise (Instagram and Facebook) but",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactm_v_17,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactm_v_17,"Using your mobile phone to talk, text, or socialise (Instagram and Facebook) but",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactm_v_18,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactm_v_18,"Using your mobile phone to talk, text, or socialise (Instagram and Facebook) but",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyactm_v_19,COVID19_Survey.child_phase3_covid.chtss_7timesitlyactm_v_19,"Using your mobile phone to talk, text, or socialise (Instagram and Facebook) but",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyacts_v_20,COVID19_Survey.child_phase3_covid.chtss_7timesitlyacts_v_20,"Doing school work in books or on a computer/tablet (e.g. maths, reading, topic w",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyacts_v_21,COVID19_Survey.child_phase3_covid.chtss_7timesitlyacts_v_21,"Doing school work in books or on a computer/tablet (e.g. maths, reading, topic w",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyacts_v_22,COVID19_Survey.child_phase3_covid.chtss_7timesitlyacts_v_22,"Doing school work in books or on a computer/tablet (e.g. maths, reading, topic w",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyacts_v_23,COVID19_Survey.child_phase3_covid.chtss_7timesitlyacts_v_23,"Doing school work in books or on a computer/tablet (e.g. maths, reading, topic w",decimal,,0|1,Unchecked|Checked
+chtss_7timesitlyacts_v_24,COVID19_Survey.child_phase3_covid.chtss_7timesitlyacts_v_24,"Doing school work in books or on a computer/tablet (e.g. maths, reading, topic w",decimal,,0|1,Unchecked|Checked
+c19c2_yhw_hdache___1,COVID19_Survey.child_phase3_covid.c19c2_yhw_hdache___1,Headache  (choice=About every day),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_hdache___2,COVID19_Survey.child_phase3_covid.c19c2_yhw_hdache___2,Headache  (choice=More than once a week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_hdache___3,COVID19_Survey.child_phase3_covid.c19c2_yhw_hdache___3,Headache  (choice=About every week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_hdache___4,COVID19_Survey.child_phase3_covid.c19c2_yhw_hdache___4,Headache  (choice=About every month),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_hdache___5,COVID19_Survey.child_phase3_covid.c19c2_yhw_hdache___5,Headache  (choice=Rarely or never),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_sache___1,COVID19_Survey.child_phase3_covid.c19c2_yhw_sache___1,Stomach Ache (choice=About every day),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_sache___2,COVID19_Survey.child_phase3_covid.c19c2_yhw_sache___2,Stomach Ache (choice=More than once a week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_sache___3,COVID19_Survey.child_phase3_covid.c19c2_yhw_sache___3,Stomach Ache (choice=About every week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_sache___4,COVID19_Survey.child_phase3_covid.c19c2_yhw_sache___4,Stomach Ache (choice=About every month),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_sache___5,COVID19_Survey.child_phase3_covid.c19c2_yhw_sache___5,Stomach Ache (choice=Rarely or never),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_bkache___1,COVID19_Survey.child_phase3_covid.c19c2_yhw_bkache___1,Back Ache  (choice=About every day),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_bkache___2,COVID19_Survey.child_phase3_covid.c19c2_yhw_bkache___2,Back Ache  (choice=More than once a week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_bkache___3,COVID19_Survey.child_phase3_covid.c19c2_yhw_bkache___3,Back Ache  (choice=About every week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_bkache___4,COVID19_Survey.child_phase3_covid.c19c2_yhw_bkache___4,Back Ache  (choice=About every month),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_bkache___5,COVID19_Survey.child_phase3_covid.c19c2_yhw_bkache___5,Back Ache  (choice=Rarely or never),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_low___1,COVID19_Survey.child_phase3_covid.c19c2_yhw_low___1,Feeling Low (choice=About every day),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_low___2,COVID19_Survey.child_phase3_covid.c19c2_yhw_low___2,Feeling Low (choice=More than once a week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_low___3,COVID19_Survey.child_phase3_covid.c19c2_yhw_low___3,Feeling Low (choice=About every week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_low___4,COVID19_Survey.child_phase3_covid.c19c2_yhw_low___4,Feeling Low (choice=About every month),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_low___5,COVID19_Survey.child_phase3_covid.c19c2_yhw_low___5,Feeling Low (choice=Rarely or never),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_irri___1,COVID19_Survey.child_phase3_covid.c19c2_yhw_irri___1,Irritability or Bad Temper (choice=About every day),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_irri___2,COVID19_Survey.child_phase3_covid.c19c2_yhw_irri___2,Irritability or Bad Temper (choice=More than once a week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_irri___3,COVID19_Survey.child_phase3_covid.c19c2_yhw_irri___3,Irritability or Bad Temper (choice=About every week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_irri___4,COVID19_Survey.child_phase3_covid.c19c2_yhw_irri___4,Irritability or Bad Temper (choice=About every month),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_irri___5,COVID19_Survey.child_phase3_covid.c19c2_yhw_irri___5,Irritability or Bad Temper (choice=Rarely or never),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_nerv___1,COVID19_Survey.child_phase3_covid.c19c2_yhw_nerv___1,Feeling Nervous (choice=About every day),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_nerv___2,COVID19_Survey.child_phase3_covid.c19c2_yhw_nerv___2,Feeling Nervous (choice=More than once a week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_nerv___3,COVID19_Survey.child_phase3_covid.c19c2_yhw_nerv___3,Feeling Nervous (choice=About every week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_nerv___4,COVID19_Survey.child_phase3_covid.c19c2_yhw_nerv___4,Feeling Nervous (choice=About every month),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_nerv___5,COVID19_Survey.child_phase3_covid.c19c2_yhw_nerv___5,Feeling Nervous (choice=Rarely or never),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_difslp___1,COVID19_Survey.child_phase3_covid.c19c2_yhw_difslp___1,Difficulties in Sleeping (choice=About every day),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_difslp___2,COVID19_Survey.child_phase3_covid.c19c2_yhw_difslp___2,Difficulties in Sleeping (choice=More than once a week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_difslp___3,COVID19_Survey.child_phase3_covid.c19c2_yhw_difslp___3,Difficulties in Sleeping (choice=About every week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_difslp___4,COVID19_Survey.child_phase3_covid.c19c2_yhw_difslp___4,Difficulties in Sleeping (choice=About every month),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_difslp___5,COVID19_Survey.child_phase3_covid.c19c2_yhw_difslp___5,Difficulties in Sleeping (choice=Rarely or never),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_diz___1,COVID19_Survey.child_phase3_covid.c19c2_yhw_diz___1,Feeling Dizzy (choice=About every day),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_diz___2,COVID19_Survey.child_phase3_covid.c19c2_yhw_diz___2,Feeling Dizzy (choice=More than once a week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_diz___3,COVID19_Survey.child_phase3_covid.c19c2_yhw_diz___3,Feeling Dizzy (choice=About every week),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_diz___4,COVID19_Survey.child_phase3_covid.c19c2_yhw_diz___4,Feeling Dizzy (choice=About every month),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_diz___5,COVID19_Survey.child_phase3_covid.c19c2_yhw_diz___5,Feeling Dizzy (choice=Rarely or never),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_gnrlhth___1,COVID19_Survey.child_phase3_covid.c19c2_yhw_gnrlhth___1,4B) Would you say your health is? (choice=Excellent),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_gnrlhth___2,COVID19_Survey.child_phase3_covid.c19c2_yhw_gnrlhth___2,4B) Would you say your health is? (choice=Good),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_gnrlhth___3,COVID19_Survey.child_phase3_covid.c19c2_yhw_gnrlhth___3,4B) Would you say your health is? (choice=Fair),decimal,,0|1,Unchecked|Checked
+c19c2_yhw_gnrlhth___4,COVID19_Survey.child_phase3_covid.c19c2_yhw_gnrlhth___4,4B) Would you say your health is? (choice=Poor),decimal,,0|1,Unchecked|Checked
+yhw_flhppy_c19c2___1,COVID19_Survey.child_phase3_covid.yhw_flhppy_c19c2___1,4D) How often do you feel happy? (Please tick one) (choice=Never),decimal,,0|1,Unchecked|Checked
+yhw_flhppy_c19c2___2,COVID19_Survey.child_phase3_covid.yhw_flhppy_c19c2___2,4D) How often do you feel happy? (Please tick one) (choice=Some of the time),decimal,,0|1,Unchecked|Checked
+yhw_flhppy_c19c2___3,COVID19_Survey.child_phase3_covid.yhw_flhppy_c19c2___3,4D) How often do you feel happy? (Please tick one) (choice=All of the time),decimal,,0|1,Unchecked|Checked
+yhw_flsad_c19c2___1,COVID19_Survey.child_phase3_covid.yhw_flsad_c19c2___1,4E) How often do you feel sad? (Please tick one)  (choice=Never),decimal,,0|1,Unchecked|Checked
+yhw_flsad_c19c2___2,COVID19_Survey.child_phase3_covid.yhw_flsad_c19c2___2,4E) How often do you feel sad? (Please tick one)  (choice=Some of the time),decimal,,0|1,Unchecked|Checked
+yhw_flsad_c19c2___3,COVID19_Survey.child_phase3_covid.yhw_flsad_c19c2___3,4E) How often do you feel sad? (Please tick one)  (choice=All of the time),decimal,,0|1,Unchecked|Checked
+chch_frnds_c19c2___1,COVID19_Survey.child_phase3_covid.chch_frnds_c19c2___1,5A) How many friends do you have? (Please tick one) (choice=Not many),decimal,,0|1,Unchecked|Checked
+chch_frnds_c19c2___2,COVID19_Survey.child_phase3_covid.chch_frnds_c19c2___2,5A) How many friends do you have? (Please tick one) (choice=Some),decimal,,0|1,Unchecked|Checked
+chch_frnds_c19c2___3,COVID19_Survey.child_phase3_covid.chch_frnds_c19c2___3,5A) How many friends do you have? (Please tick one) (choice=Lots),decimal,,0|1,Unchecked|Checked
+chch_bstfrnds_c19c2___0,COVID19_Survey.child_phase3_covid.chch_bstfrnds_c19c2___0,5B) Do you have any best friends? (choice=No),decimal,,0|1,Unchecked|Checked
+chch_bstfrnds_c19c2___1,COVID19_Survey.child_phase3_covid.chch_bstfrnds_c19c2___1,5B) Do you have any best friends? (choice=Yes),decimal,,0|1,Unchecked|Checked
+chch_lftout_c19c2___1,COVID19_Survey.child_phase3_covid.chch_lftout_c19c2___1,5C) How often do you feel left out of things by other children? (choice=Never),decimal,,0|1,Unchecked|Checked
+chch_lftout_c19c2___2,COVID19_Survey.child_phase3_covid.chch_lftout_c19c2___2,5C) How often do you feel left out of things by other children? (choice=Some of,decimal,,0|1,Unchecked|Checked
+chch_lftout_c19c2___3,COVID19_Survey.child_phase3_covid.chch_lftout_c19c2___3,5C) How often do you feel left out of things by other children? (choice=All of t,decimal,,0|1,Unchecked|Checked
+c19c2_chch_mnothrs_rev1___1,COVID19_Survey.child_phase3_covid.c19c2_chch_mnothrs_rev1___1,"5D) How often are you mean to others at home, in the neighbourhood, online, at s",decimal,,0|1,Unchecked|Checked
+c19c2_chch_mnothrs_rev1___2,COVID19_Survey.child_phase3_covid.c19c2_chch_mnothrs_rev1___2,"5D) How often are you mean to others at home, in the neighbourhood, online, at s",decimal,,0|1,Unchecked|Checked
+c19c2_chch_mnothrs_rev1___3,COVID19_Survey.child_phase3_covid.c19c2_chch_mnothrs_rev1___3,"5D) How often are you mean to others at home, in the neighbourhood, online, at s",decimal,,0|1,Unchecked|Checked
+chwk_2cybrblyng_c19c2___1,COVID19_Survey.child_phase3_covid.chwk_2cybrblyng_c19c2___1,5E) In the past two weeks how often have you taken part in cyberbullying (e.g. s,decimal,,0|1,Unchecked|Checked
+chwk_2cybrblyng_c19c2___2,COVID19_Survey.child_phase3_covid.chwk_2cybrblyng_c19c2___2,5E) In the past two weeks how often have you taken part in cyberbullying (e.g. s,decimal,,0|1,Unchecked|Checked
+chwk_2cybrblyng_c19c2___3,COVID19_Survey.child_phase3_covid.chwk_2cybrblyng_c19c2___3,5E) In the past two weeks how often have you taken part in cyberbullying (e.g. s,decimal,,0|1,Unchecked|Checked
+chwk_2cybrblyng_c19c2___4,COVID19_Survey.child_phase3_covid.chwk_2cybrblyng_c19c2___4,5E) In the past two weeks how often have you taken part in cyberbullying (e.g. s,decimal,,0|1,Unchecked|Checked
+choftnhppn_bly_c19c2___1,COVID19_Survey.child_phase3_covid.choftnhppn_bly_c19c2___1,5F) How often do other children bully you? (Please tick one) (choice=Never),decimal,,0|1,Unchecked|Checked
+choftnhppn_bly_c19c2___2,COVID19_Survey.child_phase3_covid.choftnhppn_bly_c19c2___2,5F) How often do other children bully you? (Please tick one) (choice=Some of the,decimal,,0|1,Unchecked|Checked
+choftnhppn_bly_c19c2___3,COVID19_Survey.child_phase3_covid.choftnhppn_bly_c19c2___3,5F) How often do other children bully you? (Please tick one) (choice=All of the,decimal,,0|1,Unchecked|Checked
+chwk_2cybrblyngu_c19c2___1,COVID19_Survey.child_phase3_covid.chwk_2cybrblyngu_c19c2___1,5G) In the past two weeks how often have you been cyberbullied? (e.g. sent mean,decimal,,0|1,Unchecked|Checked
+chwk_2cybrblyngu_c19c2___2,COVID19_Survey.child_phase3_covid.chwk_2cybrblyngu_c19c2___2,5G) In the past two weeks how often have you been cyberbullied? (e.g. sent mean,decimal,,0|1,Unchecked|Checked
+chwk_2cybrblyngu_c19c2___3,COVID19_Survey.child_phase3_covid.chwk_2cybrblyngu_c19c2___3,5G) In the past two weeks how often have you been cyberbullied? (e.g. sent mean,decimal,,0|1,Unchecked|Checked
+chwk_2cybrblyngu_c19c2___4,COVID19_Survey.child_phase3_covid.chwk_2cybrblyngu_c19c2___4,5G) In the past two weeks how often have you been cyberbullied? (e.g. sent mean,decimal,,0|1,Unchecked|Checked
+chfm_fun_c19c2___1,COVID19_Survey.child_phase3_covid.chfm_fun_c19c2___1,6A) My family and the people I live with: How often do you have fun with your fa,decimal,,0|1,Unchecked|Checked
+chfm_fun_c19c2___2,COVID19_Survey.child_phase3_covid.chfm_fun_c19c2___2,6A) My family and the people I live with: How often do you have fun with your fa,decimal,,0|1,Unchecked|Checked
+chfm_fun_c19c2___3,COVID19_Survey.child_phase3_covid.chfm_fun_c19c2___3,6A) My family and the people I live with: How often do you have fun with your fa,decimal,,0|1,Unchecked|Checked
+chfm_gtalong_c19c2___1,COVID19_Survey.child_phase3_covid.chfm_gtalong_c19c2___1,6B) How often does your family get along well together? (Please tick one) (choic,decimal,,0|1,Unchecked|Checked
+chfm_gtalong_c19c2___2,COVID19_Survey.child_phase3_covid.chfm_gtalong_c19c2___2,6B) How often does your family get along well together? (Please tick one) (choic,decimal,,0|1,Unchecked|Checked
+chfm_gtalong_c19c2___3,COVID19_Survey.child_phase3_covid.chfm_gtalong_c19c2___3,6B) How often does your family get along well together? (Please tick one) (choic,decimal,,0|1,Unchecked|Checked
+chfm_siblngs_c19c2___1,COVID19_Survey.child_phase3_covid.chfm_siblngs_c19c2___1,"6C) How often do you get along with your brothers, sisters and other children yo",decimal,,0|1,Unchecked|Checked
+chfm_siblngs_c19c2___2,COVID19_Survey.child_phase3_covid.chfm_siblngs_c19c2___2,"6C) How often do you get along with your brothers, sisters and other children yo",decimal,,0|1,Unchecked|Checked
+chfm_siblngs_c19c2___3,COVID19_Survey.child_phase3_covid.chfm_siblngs_c19c2___3,"6C) How often do you get along with your brothers, sisters and other children yo",decimal,,0|1,Unchecked|Checked
+chfm_siblngs_c19c2___4,COVID19_Survey.child_phase3_covid.chfm_siblngs_c19c2___4,"6C) How often do you get along with your brothers, sisters and other children yo",decimal,,0|1,Unchecked|Checked
+chwd_dudo_c19c2___1,COVID19_Survey.child_phase3_covid.chwd_dudo_c19c2___1,7A) What do you do if you are worried about something? You can tick more than on,decimal,,0|1,Unchecked|Checked
+chwd_dudo_c19c2___2,COVID19_Survey.child_phase3_covid.chwd_dudo_c19c2___2,7A) What do you do if you are worried about something? You can tick more than on,decimal,,0|1,Unchecked|Checked
+chwd_dudo_c19c2___3,COVID19_Survey.child_phase3_covid.chwd_dudo_c19c2___3,7A) What do you do if you are worried about something? You can tick more than on,decimal,,0|1,Unchecked|Checked
+chwd_dudo_c19c2___4,COVID19_Survey.child_phase3_covid.chwd_dudo_c19c2___4,7A) What do you do if you are worried about something? You can tick more than on,decimal,,0|1,Unchecked|Checked
+chwd_dudo_c19c2___5,COVID19_Survey.child_phase3_covid.chwd_dudo_c19c2___5,7A) What do you do if you are worried about something? You can tick more than on,decimal,,0|1,Unchecked|Checked
+chwd_dudo_c19c2___6,COVID19_Survey.child_phase3_covid.chwd_dudo_c19c2___6,7A) What do you do if you are worried about something? You can tick more than on,decimal,,0|1,Unchecked|Checked
+chwd_dudo_c19c2___7,COVID19_Survey.child_phase3_covid.chwd_dudo_c19c2___7,7A) What do you do if you are worried about something? You can tick more than on,decimal,,0|1,Unchecked|Checked
+chwd_hard_c19c2___1,COVID19_Survey.child_phase3_covid.chwd_hard_c19c2___1,7B) When I find something really hard I can work out what to do next? (choice=Ne,decimal,,0|1,Unchecked|Checked
+chwd_hard_c19c2___2,COVID19_Survey.child_phase3_covid.chwd_hard_c19c2___2,7B) When I find something really hard I can work out what to do next? (choice=So,decimal,,0|1,Unchecked|Checked
+chwd_hard_c19c2___3,COVID19_Survey.child_phase3_covid.chwd_hard_c19c2___3,7B) When I find something really hard I can work out what to do next? (choice=Al,decimal,,0|1,Unchecked|Checked
+chwr_lstfd_c19c2___1,COVID19_Survey.child_phase3_covid.chwr_lstfd_c19c2___1,We cant get the food we want because there is not enough money (choice=Many time,decimal,,0|1,Unchecked|Checked
+chwr_lstfd_c19c2___2,COVID19_Survey.child_phase3_covid.chwr_lstfd_c19c2___2,We cant get the food we want because there is not enough money (choice=1 or 2 ti,decimal,,0|1,Unchecked|Checked
+chwr_lstfd_c19c2___3,COVID19_Survey.child_phase3_covid.chwr_lstfd_c19c2___3,We cant get the food we want because there is not enough money (choice=Never),decimal,,0|1,Unchecked|Checked
+chwr_lsteat_c19c2___1,COVID19_Survey.child_phase3_covid.chwr_lsteat_c19c2___1,I worry about not having enough to eat (choice=Many times),decimal,,0|1,Unchecked|Checked
+chwr_lsteat_c19c2___2,COVID19_Survey.child_phase3_covid.chwr_lsteat_c19c2___2,I worry about not having enough to eat (choice=1 or 2 times),decimal,,0|1,Unchecked|Checked
+chwr_lsteat_c19c2___3,COVID19_Survey.child_phase3_covid.chwr_lsteat_c19c2___3,I worry about not having enough to eat (choice=Never),decimal,,0|1,Unchecked|Checked
+chwr_lstprtsfood_c19c2___1,COVID19_Survey.child_phase3_covid.chwr_lstprtsfood_c19c2___1,I worry about how hard it is for my parents to get enough food for us (choice=Ma,decimal,,0|1,Unchecked|Checked
+chwr_lstprtsfood_c19c2___2,COVID19_Survey.child_phase3_covid.chwr_lstprtsfood_c19c2___2,I worry about how hard it is for my parents to get enough food for us (choice=1,decimal,,0|1,Unchecked|Checked
+chwr_lstprtsfood_c19c2___3,COVID19_Survey.child_phase3_covid.chwr_lstprtsfood_c19c2___3,I worry about how hard it is for my parents to get enough food for us (choice=Ne,decimal,,0|1,Unchecked|Checked
+chwr_lsthngry_c19c2___1,COVID19_Survey.child_phase3_covid.chwr_lsthngry_c19c2___1,I feel hungry because there is not enough food to eat (choice=Many times),decimal,,0|1,Unchecked|Checked
+chwr_lsthngry_c19c2___2,COVID19_Survey.child_phase3_covid.chwr_lsthngry_c19c2___2,I feel hungry because there is not enough food to eat (choice=1 or 2 times),decimal,,0|1,Unchecked|Checked
+chwr_lsthngry_c19c2___3,COVID19_Survey.child_phase3_covid.chwr_lsthngry_c19c2___3,I feel hungry because there is not enough food to eat (choice=Never),decimal,,0|1,Unchecked|Checked
+chwr_lsteatlt_c19c2___1,COVID19_Survey.child_phase3_covid.chwr_lsteatlt_c19c2___1,I try not to eat a lot so that our food will last (choice=Many times),decimal,,0|1,Unchecked|Checked
+chwr_lsteatlt_c19c2___2,COVID19_Survey.child_phase3_covid.chwr_lsteatlt_c19c2___2,I try not to eat a lot so that our food will last (choice=1 or 2 times),decimal,,0|1,Unchecked|Checked
+chwr_lsteatlt_c19c2___3,COVID19_Survey.child_phase3_covid.chwr_lsteatlt_c19c2___3,I try not to eat a lot so that our food will last (choice=Never),decimal,,0|1,Unchecked|Checked
+chwr_lstmny_c19c2___1,COVID19_Survey.child_phase3_covid.chwr_lstmny_c19c2___1,How often do you worry about how much money your family has (choice=Many times),decimal,,0|1,Unchecked|Checked
+chwr_lstmny_c19c2___2,COVID19_Survey.child_phase3_covid.chwr_lstmny_c19c2___2,How often do you worry about how much money your family has (choice=1 or 2 times,decimal,,0|1,Unchecked|Checked
+chwr_lstmny_c19c2___3,COVID19_Survey.child_phase3_covid.chwr_lstmny_c19c2___3,How often do you worry about how much money your family has (choice=Never),decimal,,0|1,Unchecked|Checked
+ch_wrynow_1_c19c2,COVID19_Survey.child_phase3_covid.ch_wrynow_1_c19c2, 1:,text,,,
+ch_wrynow_2_c19c2,COVID19_Survey.child_phase3_covid.ch_wrynow_2_c19c2, 2:,text,,,
+ch_wrynow_3_c19c2,COVID19_Survey.child_phase3_covid.ch_wrynow_3_c19c2, 3:,text,,,
+ch_easier_1_c19c2,COVID19_Survey.child_phase3_covid.ch_easier_1_c19c2, 1:,text,,,
+ch_easier_2_c19c2,COVID19_Survey.child_phase3_covid.ch_easier_2_c19c2, 2:,text,,,
+ch_easier_3_c19c2,COVID19_Survey.child_phase3_covid.ch_easier_3_c19c2, 3:,text,,,
+end_data_entry_notes,COVID19_Survey.child_phase3_covid.end_data_entry_notes,Data entry notes,text,,,
+end_submit,COVID19_Survey.child_phase3_covid.end_submit,Please confirm that you have completed your questionnaire,decimal,,1,"Yes, Im ready to submit"
+child_complete,COVID19_Survey.child_phase3_covid.child_complete,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
