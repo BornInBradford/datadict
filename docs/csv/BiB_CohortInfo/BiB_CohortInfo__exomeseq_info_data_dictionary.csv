@@ -1,7 +1,8 @@
 variable,full_name,label,value_type,description,categories,categories_label
-ParticipantType,BiB_CohortInfo.exomeseq_info.ParticipantType,BiB participant type,decimal,,1|2,Child|Mother
-Gender,BiB_CohortInfo.exomeseq_info.Gender,Participant Gender,decimal,,1|2,Female|Male
-lab_id1,BiB_CohortInfo.exomeseq_info.lab_id1,Lab-assigned sample ID #1,text,,,
-lab_id2,BiB_CohortInfo.exomeseq_info.lab_id2,Lab-assigned sample ID #2,text,,,
-exseq_phase,BiB_CohortInfo.exomeseq_info.exseq_phase,Exome sequencing phase 1 or 2,decimal,,,
-copies,BiB_CohortInfo.exomeseq_info.copies,Duplicated e.g. taking samples from more than one pregnancy,decimal,,,
+lab_id1,BiB_CohortInfo.exomeseq_info.lab_id1,"",text,,,
+ParticipantType,BiB_CohortInfo.exomeseq_info.ParticipantType,"",decimal,,,
+Gender,BiB_CohortInfo.exomeseq_info.Gender,"",decimal,,,
+lab_id2,BiB_CohortInfo.exomeseq_info.lab_id2,"",text,,,
+exseq_phase,BiB_CohortInfo.exomeseq_info.exseq_phase,"",decimal,,,
+copies,BiB_CohortInfo.exomeseq_info.copies,"",decimal,,,
+passed_qc,BiB_CohortInfo.exomeseq_info.passed_qc,Exome sequence data in post-QC variant call files,decimal,,1,Yes

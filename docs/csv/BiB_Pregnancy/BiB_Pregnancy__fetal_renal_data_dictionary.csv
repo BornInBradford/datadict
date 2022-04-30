@@ -1,6 +1,6 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Pregnancy.fetal_renal.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
-has_fetal_renal,BiB_Pregnancy.fetal_renal.has_fetal_renal,Has ,decimal,,,
+BiBPregNumber,BiB_Pregnancy.fetal_renal.BiBPregNumber,"",decimal,,,
+has_fetal_renal,BiB_Pregnancy.fetal_renal.has_fetal_renal,Has fetal renal ultrasound,decimal,,,
 has_renalu,BiB_Pregnancy.fetal_renal.has_renalu,Has: Fetal renal ultrasound study,decimal,,1,has
 renalabdocirc1,BiB_Pregnancy.fetal_renal.renalabdocirc1,Abdominal circ (1),decimal,,,
 renalabdocirc2,BiB_Pregnancy.fetal_renal.renalabdocirc2,Abdominal circ (2),decimal,,,

@@ -294,7 +294,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_18m_main/bib1000_18m_bib18n/</guid>
       <description>Table ID: BiB_1000.bib1000_18m_bib18n
 github | csv
-   Entity type Variables Entities Updated     Participant 58 1257 2020-11-30    BiB 1000 18 month follow-up child nutrients intake. Derived from Food Frequency Questionnaire from lookup tables of composition of foods. Singletons only (twins and triplets excluded).
+   Entity type Variables Entities Updated     Participant 58 1257 2022-04-01    BiB 1000 18 month follow-up child nutrients intake. Derived from Food Frequency Questionnaire from lookup tables of composition of foods. Singletons only (twins and triplets excluded).
    variable label value_type summary     has_bib1000_18m_bib18n Has bib 1000 18 month child nutrients intake decimal mean (sd)</description>
     </item>
     
@@ -306,7 +306,7 @@ github | csv
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_18m_main/bib1000_growth_18m/</guid>
       <description>Table ID: BiB_1000.bib1000_growth_18m
 github | csv
-   Entity type Variables Entities Updated     Participant 13 1245 2020-12-01    Height and weight measures from the BiB 1000 subcohort at 18m
+   Entity type Variables Entities Updated     Participant 13 1245 2022-04-01    Height and weight measures from the BiB 1000 subcohort at 18m
    variable label value_type summary     has_bib1000_growth_18m Has bib 1000 18m growth decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -322,7 +322,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_18m_main/bib1000_anthro_18m/</guid>
       <description>Table ID: BiB_1000.bib1000_anthro_18m
 github | csv
-   Entity type Variables Entities Updated     Participant 9 1149 2020-12-01    Child anthropometry from the BiB 1000 subcohort at 18m
+   Entity type Variables Entities Updated     Participant 9 1149 2022-04-01    Child anthropometry from the BiB 1000 subcohort at 18m
    variable label value_type summary     has_bib1000_anthro_18m Has bib 1000 18m anthropometry decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max

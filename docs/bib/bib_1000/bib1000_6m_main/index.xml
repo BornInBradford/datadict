@@ -48,7 +48,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_6m_main/bib1000_growth_6m/</guid>
       <description>Table ID: BiB_1000.bib1000_growth_6m
 github | csv
-   Entity type Variables Entities Updated     Participant 13 1321 2020-12-01    Height and weight measures from the BiB 1000 subcohort at 6m
+   Entity type Variables Entities Updated     Participant 13 1321 2022-04-01    Height and weight measures from the BiB 1000 subcohort at 6m
    variable label value_type summary     has_bib1000_growth_6m Has bib 1000 6m growth decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -64,7 +64,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_6m_main/bib1000_anthro_6m/</guid>
       <description>Table ID: BiB_1000.bib1000_anthro_6m
 github | csv
-   Entity type Variables Entities Updated     Participant 9 1299 2020-12-01    Child anthropometry from the BiB 1000 subcohort at 6m
+   Entity type Variables Entities Updated     Participant 9 1299 2022-04-01    Child anthropometry from the BiB 1000 subcohort at 6m
    variable label value_type summary     has_bib1000_anthro_6m Has bib 1000 6m anthropometry decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max

@@ -1,6 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-has_matrecs_bib_inf,BiB_Pregnancy.matrecs_bib_inf.has_matrecs_bib_inf,Has ,decimal,,,
-ChildID,BiB_Pregnancy.matrecs_bib_inf.ChildID,BiB Child ID,decimal,,,
+has_matrecs_bib_inf,BiB_Pregnancy.matrecs_bib_inf.has_matrecs_bib_inf,Has maternity records bib infant,decimal,,,
 has_prninf,BiB_Pregnancy.matrecs_bib_inf.has_prninf,Has: Maternal records abstraction: BiB infant info,decimal,,1,has
 prnbibirthoutc,BiB_Pregnancy.matrecs_bib_inf.prnbibirthoutc,Birth outcome,decimal,,1|2|3,Live birth|Miscarriage|Still birth
 prnbibreech,BiB_Pregnancy.matrecs_bib_inf.prnbibreech,Breech presentation,decimal,,1|2|3,No|Yes|Don't know

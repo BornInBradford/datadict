@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_baseline/base_f_survey/base_f_survey_p1/</guid>
       <description>Table ID: BiB_Baseline.base_f_survey_p1
 github | csv
-   Entity type Variables Entities Updated     Participant 25 3109 2022-02-09    _p1 tables contain the same variables as their parent table but only data collected at the first pregnancy
+   Entity type Variables Entities Updated     Participant 25 3109 2022-04-01    _p1 tables contain the same variables as their parent table but only data collected at the first pregnancy
    variable label value_type summary     has_base_f_survey_p1 Has father baseline survey decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -29,7 +29,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_baseline/base_f_survey/base_f_survey_p2/</guid>
       <description>Table ID: BiB_Baseline.base_f_survey_p2
 github | csv
-   Entity type Variables Entities Updated     Participant 25 271 2022-02-09    _p2 tables contain the same variables as their parent table but only data collected at the second pregnancy
+   Entity type Variables Entities Updated     Participant 25 271 2022-04-01    _p2 tables contain the same variables as their parent table but only data collected at the second pregnancy
    variable label value_type summary     has_base_f_survey_p2 Has father baseline survey decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -44,7 +44,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_baseline/base_f_survey/base_f_survey_p3/</guid>
       <description>Table ID: BiB_Baseline.base_f_survey_p3
 github | csv
-   Entity type Variables Entities Updated     Participant 25 4 2022-02-09    _p3 tables contain the same variables as their parent table but only data collected at the third pregnancy
+   Entity type Variables Entities Updated     Participant 25 4 2022-04-01    _p3 tables contain the same variables as their parent table but only data collected at the third pregnancy
    variable label value_type summary     has_base_f_survey_p3 Has father baseline survey decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max

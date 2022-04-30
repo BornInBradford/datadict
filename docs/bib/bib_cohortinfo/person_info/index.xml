@@ -31,7 +31,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/father_info/</guid>
       <description>Table ID: BiB_CohortInfo.father_info
 github | csv
-   Entity type Variables Entities Updated     Participant 8 3353 2020-12-03    Administrative cohort information on Father participants.
+   Entity type Variables Entities Updated     Participant 8 3353 2022-04-01    Administrative cohort information on Father participants.
    variable label value_type summary     has_father_info Has person information father decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -48,7 +48,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/mother_info/</guid>
       <description>Table ID: BiB_CohortInfo.mother_info
 github | csv
-   Entity type Variables Entities Updated     Participant 8 12453 2020-12-03    Administrative cohort information on Mother participants.
+   Entity type Variables Entities Updated     Participant 8 12453 2022-04-01    Administrative cohort information on Mother participants.
    variable label value_type summary     has_mother_info Has person information mother decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max

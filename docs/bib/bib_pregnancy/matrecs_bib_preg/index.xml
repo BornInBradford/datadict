@@ -56,8 +56,8 @@ min &amp;lt; median &amp;lt; max</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_admiss/</guid>
       <description>Table ID: BiB_Pregnancy.matrecs_bib_admiss
 github | csv
-   Entity type Variables Entities Updated     Participant 17 813 2020-11-18    This source contains information about hospital admissions during the maternal period. 80 observations were dropped due to missing data or data entry errors.
-   variable label value_type summary     BiBPregNumber Cohort recruited pregnancy number decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 17 813 2022-04-12    This source contains information about hospital admissions during the maternal period. 80 observations were dropped due to missing data or data entry errors.
+   variable label value_type summary     BiBPregNumber  decimal mean (sd)
 1.10 (0.32)
 min &amp;lt; median &amp;lt; max</description>
     </item>
@@ -84,8 +84,8 @@ min &amp;lt; median &amp;lt; max</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_labbp/</guid>
       <description>Table ID: BiB_Pregnancy.matrecs_bib_labbp
 github | csv
-   Entity type Variables Entities Updated     Participant 8 7995 2020-11-18    This source contains information about blood pressure during labour for the BiB pregnancy. 1913 observations were dropped due to data entry errors.
-   variable label value_type summary     BiBPregNumber Cohort recruited pregnancy number decimal mean (sd)
+   Entity type Variables Entities Updated     Participant 8 7995 2022-04-12    This source contains information about blood pressure during labour for the BiB pregnancy. 1913 observations were dropped due to data entry errors.
+   variable label value_type summary     BiBPregNumber  decimal mean (sd)
 1.08 (0.28)
 min &amp;lt; median &amp;lt; max</description>
     </item>

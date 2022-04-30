@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Pregnancy.matrecs_bib_admiss.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
+BiBPregNumber,BiB_Pregnancy.matrecs_bib_admiss.BiBPregNumber,"",decimal,,,
 has_matrecs_bib_admiss,BiB_Pregnancy.matrecs_bib_admiss.has_matrecs_bib_admiss,Has maternity records admissions,decimal,,,
 has_prnadm,BiB_Pregnancy.matrecs_bib_admiss.has_prnadm,Has: Maternal records abstraction: Admissions info,decimal,,1,has
 prnpradeventtype,BiB_Pregnancy.matrecs_bib_admiss.prnpradeventtype,Maternal hosp adm event type,decimal,,1|2|3,Pregnancy|Labour|Postpartum

@@ -22,11 +22,11 @@ notrec_withdrawn,BiB_GrowingUp.participant_pathway.notrec_withdrawn,Not recruite
 notrec_deceased,BiB_GrowingUp.participant_pathway.notrec_deceased,Not recruited to Growing Up: Deceased,decimal,,0|1,No|Yes
 notrec_nonresponder,BiB_GrowingUp.participant_pathway.notrec_nonresponder,Not recruited to Growing Up: Could not contact or no response,decimal,,0|1,No|Yes
 date_invited_gu,BiB_GrowingUp.participant_pathway.date_invited_gu,Date invited to join Growing Up: community,date,,,
-age_invited_gu,BiB_GrowingUp.participant_pathway.age_invited_gu,"",decimal,,,
+age_invited_gu,BiB_GrowingUp.participant_pathway.age_invited_gu,Age invited to join Growing Up: community,decimal,,,
 date_invited_online,BiB_GrowingUp.participant_pathway.date_invited_online,Date invited to join Growing Up: online,date,,,
-age_invited_online,BiB_GrowingUp.participant_pathway.age_invited_online,"",decimal,,,
+age_invited_online,BiB_GrowingUp.participant_pathway.age_invited_online,Age invited to join Growing Up: online,decimal,,,
 date_acyr_invited_school,BiB_GrowingUp.participant_pathway.date_acyr_invited_school,Start of academic year invited to Growing Up: school,date,,,
-age_acyr_invited_school,BiB_GrowingUp.participant_pathway.age_acyr_invited_school,"",decimal,,,
+age_acyr_invited_school,BiB_GrowingUp.participant_pathway.age_acyr_invited_school,Age at start of academic year invited to Growing Up: school,decimal,,,
 date_recruited,BiB_GrowingUp.participant_pathway.date_recruited,Date recruited to Growing Up,date,,,
 age_recruited,BiB_GrowingUp.participant_pathway.age_recruited,Age recruited to Growing Up,decimal,,,
 date_gu_consent,BiB_GrowingUp.participant_pathway.date_gu_consent,Date of Growing Up consent,date,,,

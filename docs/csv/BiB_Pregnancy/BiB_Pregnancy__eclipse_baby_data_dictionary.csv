@@ -1,6 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
 has_eclipse_baby,BiB_Pregnancy.eclipse_baby.has_eclipse_baby,Has eclipse neonatal record,decimal,,,
-ChildID,BiB_Pregnancy.eclipse_baby.ChildID,BiB Child ID,decimal,,,
 eclabdcirc,BiB_Pregnancy.eclipse_baby.eclabdcirc,Abdominal circumference (cm),decimal,,,
 eclapgar1m,BiB_Pregnancy.eclipse_baby.eclapgar1m,APGAR at 1 minute,decimal,,,
 eclapgar5m,BiB_Pregnancy.eclipse_baby.eclapgar5m,APGAR at 5 minutes,decimal,,,
