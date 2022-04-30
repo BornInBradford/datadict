@@ -146,8 +146,6 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_phase1_covid/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_phase1_sdq/</loc>
-  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_f_survey/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_prebib_inf/</loc>
@@ -170,17 +168,13 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_phase1_sdq/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_1000/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/dxa_scan_m/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_phase3_sdq/</loc>
-  </url><url>
     <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_phase2_covid/</loc>
-  </url><url>
-    <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_phase2_sdq/</loc>
-  </url><url>
-    <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_phase3_covid/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/id_linkage/</loc>
   </url><url>
@@ -204,6 +198,8 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_admiss/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_phase2_sdq/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_pregbp/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_labbp/</loc>
@@ -218,6 +214,8 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/dxa_scan_c/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_phase3_covid/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_education_record/edrecs_ks1_2/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_proteinuria/</loc>
@@ -225,6 +223,8 @@
     <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/m_derived_info/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_r/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/child_phase3_sdq/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/dxa_scan_f/</loc>
   </url><url>
