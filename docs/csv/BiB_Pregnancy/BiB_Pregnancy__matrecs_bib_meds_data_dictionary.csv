@@ -1,7 +1,0 @@
-variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Pregnancy.matrecs_bib_meds.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
-has_matrecs_bib_meds,BiB_Pregnancy.matrecs_bib_meds.has_matrecs_bib_meds,Has ,decimal,,,
-has_prnmed,BiB_Pregnancy.matrecs_bib_meds.has_prnmed,Has: Maternal records: meds during BiB pregnancy,decimal,,1,has
-prnbpothmedhasstd,BiB_Pregnancy.matrecs_bib_meds.prnbpothmedhasstd,Other meds: raw value has standardised value,decimal,,,
-prnbpothmedraw,BiB_Pregnancy.matrecs_bib_meds.prnbpothmedraw,Other meds in last 6 mo (raw),text,,,
-prnbpothmedstd,BiB_Pregnancy.matrecs_bib_meds.prnbpothmedstd,Other meds in last 6 mo (standardised),text,,,
