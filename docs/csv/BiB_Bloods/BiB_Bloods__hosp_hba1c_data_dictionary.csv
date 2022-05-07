@@ -1,0 +1,4 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_Bloods.hosp_hba1c.BiBPregNumber,"",decimal,,,
+GestAgeSample,BiB_Bloods.hosp_hba1c.GestAgeSample,Gestational age at blood sample (days),decimal,,,
+HBA1C4,BiB_Bloods.hosp_hba1c.HBA1C4,HbA1c (mmol/mol),decimal,,,

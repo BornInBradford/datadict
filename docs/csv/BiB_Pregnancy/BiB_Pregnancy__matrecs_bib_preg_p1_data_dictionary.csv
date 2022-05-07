@@ -1,0 +1,144 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_matrecs_bib_preg_p1,BiB_Pregnancy.matrecs_bib_preg_p1.has_matrecs_bib_preg_p1,Has maternity records bib pregnancy,decimal,,,
+has_prnprg_p1,BiB_Pregnancy.matrecs_bib_preg_p1.has_prnprg_p1,Has: Pregnancy third trimester weight,decimal,,1,has
+prnbp3rdtriw_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbp3rdtriw_p1,3rd trimester weight,decimal,,,
+prnbp3rdtriwdate_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbp3rdtriwdate_p1,Date of 3rd trimester weighing,date,,,
+prnbp3rdtriwnotdoc_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbp3rdtriwnotdoc_p1,3rd trimester weight not documented,decimal,,1|2,Documented|Not documented
+prnbpamnionoted_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpamnionoted_p1,Amniocentesis noted,decimal,,1|2|3,No|Yes|Not documented
+prnbpamnioreasons_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpamnioreasons_p1,Amniocentesis reasons,text,,,
+prnbpanaemianoted_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpanaemianoted_p1,Anaemia noted,decimal,,1|2|3,No|Yes|Not documented
+prnbpanaemiaresult_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpanaemiaresult_p1,Anaemia result,decimal,,,
+prnbpantibody_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpantibody_p1,Antibodies,text,,,
+prnbpbookingdate_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpbookingdate_p1,Date of booking,date,,,
+prnbpbplabn_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpbplabn_p1,Number of BP obs in labour,decimal,,,
+prnbpbplabtaken_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpbplabtaken_p1,Any BPs recorded in labour,decimal,,1|2|3,No|Yes|Not documented
+prnbpbppostn_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpbppostn_p1,Number of BPs recorded post partum,decimal,,,
+prnbpbppostrec_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpbppostrec_p1,Any BPs recorded postpartum,decimal,,1|2|3,No|Yes|Not documented
+prnbpbppregn_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpbppregn_p1,Number of BPs recorded in pregnancy,decimal,,,
+prnbpbppregrec_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpbppregrec_p1,Any blood pressures recorded in pregnancy,decimal,,1|2|3,No|Yes|Not documented
+prnbpcervcerc_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpcervcerc_p1,Cervical Cerclage,decimal,,1|2|3,No|Yes|Not documented
+prnbpchrovillsamp_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpchrovillsamp_p1,Chorionic villus sampling,decimal,,1|2|3,No|Yes|Not documented
+prnbpchrovsreasons_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpchrovsreasons_p1,Reasons for chorionic villus sampling,text,,,
+prnbpconfetmon_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpconfetmon_p1,Continuous fetal monitoring,decimal,,1|2|3,No|Yes|Not documented
+prnbpdesigpsutur_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpdesigpsutur_p1,Designation of person doing suturing,text,,,
+prnbpdischinf_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpdischinf_p1,Vaginal discharge/infection,decimal,,1|2|3,No|Yes|Not documented
+prnbpdruglab1_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpdruglab1_p1,Other drugs during labour (1),text,,,
+prnbpdruglab2_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpdruglab2_p1,Other drugs during labour (2),text,,,
+prnbpdruglab3_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpdruglab3_p1,Other drugs during labour (3),text,,,
+prnbpdruglab4_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpdruglab4_p1,Other drugs during labour (4),text,,,
+prnbpdruglab5_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpdruglab5_p1,Other drugs during labour (5),text,,,
+prnbpdruglab6_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpdruglab6_p1,Other drugs during labour (6),text,,,
+prnbpdruglab7_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpdruglab7_p1,Other drugs during labour (7),text,,,
+prnbpdruglab8_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpdruglab8_p1,Other drugs during labour (8),text,,,
+prnbpeclampconv_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpeclampconv_p1,Eclamptic convulsions,decimal,,1|2|3,No|Yes|Not documented
+prnbpelectcaes_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpelectcaes_p1,Elective caesarean,decimal,,1|2|3,No|Yes|Not documented
+prnbpexhyper_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpexhyper_p1,Preexisting hypertension,decimal,,1|2,No|Yes
+prnbpextceph_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpextceph_p1,External cephallic version,decimal,,1|2|3,No|Yes|Not documented
+prnbpfolicacid_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpfolicacid_p1,Folic acid in last 6 months,decimal,,1|2|3,No|Yes|Not documented
+prnbpgdm_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpgdm_p1,GDM diagnosed,decimal,,1|2|3,No|Yes|Not documented
+prnbpgdmt_diet_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpgdmt_diet_p1,GDM treatment: diet,decimal,,1|2|3,No|Yes|Not documented
+prnbpgdmt_insulin_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpgdmt_insulin_p1,GDM treatment: insulin,decimal,,1|2|3,No|Yes|Not documented
+prnbpgdmt_lifestyle_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpgdmt_lifestyle_p1,GDM treatment: lifestyle changes,decimal,,1|2|3,No|Yes|Not documented
+prnbpgdmt_metformin_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpgdmt_metformin_p1,GDM treatment: metformin,decimal,,1|2|3,No|Yes|Not documented
+prnbpgdmt_none_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpgdmt_none_p1,GDM no treatment,decimal,,1|2|3,No|Yes|Not documented
+prnbpgdmt_notdoc_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpgdmt_notdoc_p1,GDM treatment not documented,decimal,,1|2,Documented|Not documented
+prnbpgenherpes_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpgenherpes_p1,Genital herpes,decimal,,1|2|3,No|Yes|Not documented
+prnbpgestaged3rdtriw_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpgestaged3rdtriw_p1,Gestational age at 3rd trimester weight measurement (weeks),decimal,,,
+prnbpgestagew3rdtriw_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpgestagew3rdtriw_p1,Gestational age at 3rd trimester weight measurement (weeks),decimal,,,
+prnbpgestht_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpgestht_p1,Gestational hypertension,decimal,,1|2,No|Yes
+prnbpgonorrhoea_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpgonorrhoea_p1,Gonorrhoea,decimal,,1|2|3,No|Yes|Not documented
+prnbphdp_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbphdp_p1,HDP category,decimal,,1|2|3,Normotensive|Gestational HT|Pre-eclampsia
+prnbphepatitisb_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbphepatitisb_p1,Hepatitis b,decimal,,1|2|3,No|Yes|Not documented
+prnbphyperemesis_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbphyperemesis_p1,Hyperemesis,decimal,,1|2|3,No|Yes|Not documented
+prnbpintfetmon_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpintfetmon_p1,Intermittent fetal monitoring,decimal,,1|2|3,No|Yes|Not documented
+prnbpivf_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpivf_p1,In vitro fertilisation,decimal,,1|2|3,No|Yes|Not documented
+prnbplaburprot_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbplaburprot_p1,Was urine tested for protein in labour,decimal,,1|2|3,No|Yes|Not documented
+prnbpoedemalab_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpoedemalab_p1,Any oedemas recorded in labour,decimal,,1|2|3,No|Yes|Not documented
+prnbpoedemapreg_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpoedemapreg_p1,Any oedemas recorded in pregnancy,decimal,,1|2|3,No|Yes|Not documented
+prnbpoligohydram_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpoligohydram_p1,Oligohydramnios,decimal,,1|2|3,No|Yes|Not documented
+prnbpothmed_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpothmed_p1,Other medications taken in last 6 months (y/n),decimal,,1|2|3,No|Yes|Not documented
+prnbpothmedn_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpothmedn_p1,Other medications taken in last 6 months (count),decimal,,,
+prnbppainrellab1_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbppainrellab1_p1,Pain relief in labour (1),text,,,
+prnbppainrellab2_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbppainrellab2_p1,Pain relief in labour (2),text,,,
+prnbppainrellab3_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbppainrellab3_p1,Pain relief in labour (3),text,,,
+prnbppainrellab4_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbppainrellab4_p1,Pain relief in labour (4),text,,,
+prnbppainrellab5_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbppainrellab5_p1,Pain relief in labour (5),text,,,
+prnbppainrellab6_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbppainrellab6_p1,Pain relief in labour (6),text,,,
+prnbpperinealtr_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpperinealtr_p1,Perineal trauma,decimal,,1|10|2|3|4|5|6|7|8|9,None|Not documented|1st degree|2nd degree|3rd degree|4th degree|Episiotomy|Laceration|Tear|Graze
+prnbpplacpraev_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpplacpraev_p1,Placenta praevia,decimal,,1|2|3,No|Yes|Not documented
+prnbppolyhydr_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbppolyhydr_p1,Polyhydramnios/hydramnios,decimal,,1|2|3,No|Yes|Not documented
+prnbppostadmany_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbppostadmany_p1,Any hospital admissions postpartum,decimal,,1|2|3,No|Yes|Not documented
+prnbppostadmn_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbppostadmn_p1,Number of hospital admissions post partum,decimal,,,
+prnbppostsutexam_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbppostsutexam_p1,Post suturing examination,decimal,,1|2|3,No|Yes|Not documented
+prnbppreeclampsia_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbppreeclampsia_p1,Pre-eclampsia,decimal,,1|2,No|Yes
+prnbppregadmany_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbppregadmany_p1,Any hospital admissions in pregnancy,decimal,,1|2|3,No|Yes|Not documented
+prnbppregadmn_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbppregadmn_p1,Number hospital admissions in pregnancy,decimal,,,
+prnbppresutexam_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbppresutexam_p1,Pre suturing examination,decimal,,1|2|3,No|Yes|Not documented
+prnbprenalpreg_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbprenalpreg_p1,Any renal function recorded in pregnancy,decimal,,1|2|3,No|Yes|Not documented
+prnbprenalpregn_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbprenalpregn_p1,Number of renal function observations,decimal,,,
+prnbpsfetgrthret_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpsfetgrthret_p1,Suspected fetal growth retardation,decimal,,1|2|3,No|Yes|Not documented
+prnbpsyphilis_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpsyphilis_p1,Syphilis,decimal,,1|2|3,No|Yes|Not documented
+prnbpthrpreterm_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpthrpreterm_p1,Threatened preterm birth,decimal,,1|2|3,No|Yes|Not documented
+prnbpurtrinf_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpurtrinf_p1,Urinary tract infection,decimal,,1|2|3,No|Yes|Not documented
+prnbpvagbld1st_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpvagbld1st_p1,Vaginal bleeding 1st trimester,decimal,,1|2|3,No|Yes|Not documented
+prnbpvagbld2nd_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpvagbld2nd_p1,Vaginal bleeding 2nd trimester,decimal,,1|2|3,No|Yes|Not documented
+prnbpvagbld3rd_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnbpvagbld3rd_p1,Vaginal bleeding 3rd trimester,decimal,,1|2|3,No|Yes|Not documented
+prnpbaddvit_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnpbaddvit_p1,Pregnancy vitamins in last 6 months,decimal,,1|2|3,No|Yes|Not documented
+prnpbgestagedpregbk_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnpbgestagedpregbk_p1,Gestational age in days at BiB pregnancy booking,decimal,,,
+prnpbgestagewpregbk_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnpbgestagewpregbk_p1,Gestational age in weeks at BiB pregnancy booking,decimal,,,
+prnprexconany_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconany_p1,Any pre-existing condition,decimal,,1|2|3,No|Yes|Not documented
+prnprexconasthma_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconasthma_p1,Pre-existing asthma,decimal,,1|2|3,No|Yes|Not documented
+prnprexconbackprob_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconbackprob_p1,Pre-existing back problems,decimal,,1|2|3,No|Yes|Not documented
+prnprexcondoth1_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexcondoth1_p1,Other pre-existing condition 1,text,,,
+prnprexcondoth2_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexcondoth2_p1,Other pre-existing condition 2,text,,,
+prnprexcondoth3_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexcondoth3_p1,Other pre-existing condition 3,text,,,
+prnprexcondoth4_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexcondoth4_p1,Other pre-existing condition 4,text,,,
+prnprexconeclampsia_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconeclampsia_p1,Previous eclampsia,decimal,,1|2|3,No|Yes|Not documented
+prnprexconepilepsy_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconepilepsy_p1,Pre-existing epilepsy,decimal,,1|2|3,No|Yes|Not documented
+prnprexconfemcirc_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconfemcirc_p1,Pre-existing female circumcision,decimal,,1|2|3,No|Yes|Not documented
+prnprexconfertprob_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconfertprob_p1,Pre-existing fertility problems,decimal,,1|2|3,No|Yes|Not documented
+prnprexcongeninf_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexcongeninf_p1,Pre-existing genital infection,decimal,,1|2|3,No|Yes|Not documented
+prnprexcongynprob_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexcongynprob_p1,Pre-existing gynae problems,decimal,,1|2|3,No|Yes|Not documented
+prnprexconheartprob_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconheartprob_p1,Pre-existing heart problems,decimal,,1|2|3,No|Yes|Not documented
+prnprexconhighbp_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconhighbp_p1,Pre-existing high blood pressure,decimal,,1|2|3,No|Yes|Not documented
+prnprexconincont_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconincont_p1,Pre-existing incontinence,decimal,,1|2|3,No|Yes|Not documented
+prnprexconkidprob_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconkidprob_p1,Pre-existing kidney problems,decimal,,1|2|3,No|Yes|Not documented
+prnprexconlivdis_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconlivdis_p1,Pre-existing liver disease,decimal,,1|2|3,No|Yes|Not documented
+prnprexconmentheal_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconmentheal_p1,Pre-existing mental illness,decimal,,1|2|3,No|Yes|Not documented
+prnprexconmigraine_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconmigraine_p1,Pre-existing migraine,decimal,,1|2|3,No|Yes|Not documented
+prnprexconsti_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconsti_p1,Pre-existing constipation,decimal,,1|2|3,No|Yes|Not documented
+prnprexcont1dm_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexcont1dm_p1,Pre-existing type 1 diabetes,decimal,,1|2|3,No|Yes|Not documented
+prnprexcont2dm_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexcont2dm_p1,Pre-existing type 2 diabetes,decimal,,1|2|3,No|Yes|Not documented
+prnprexcontbexp_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexcontbexp_p1,Pre-existing TB exposure,decimal,,1|2|3,No|Yes|Not documented
+prnprexconthromb_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconthromb_p1,Pre-existing thrombosis,decimal,,1|2|3,No|Yes|Not documented
+prnprexconthryroid_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprexconthryroid_p1,Pre-existing thyroid problems,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistdiab_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistdiab_p1,FH of diabetes,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistdiabch_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistdiabch_p1,FH of diabetes in woman's child,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistdiabfa_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistdiabfa_p1,FH of diabetes in woman's father,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistdiabmo_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistdiabmo_p1,FH of diabetes in woman's mother,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistdiabrelnd_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistdiabrelnd_p1,"FH of diabetes, relationship not documented",decimal,,1|2|3|4,No family history|Relatives documented|Relatives not documented|Family history not documented
+prnprfhistdiabsb_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistdiabsb_p1,FH of diabetes in woman's sibling,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistecl_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistecl_p1,FH of eclampsia,decimal,,1|2|3,No|Yes|Not documented
+prnprfhisteclch_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhisteclch_p1,FH of eclampsia in woman's child,decimal,,1|2|3,No|Yes|Not documented
+prnprfhisteclfa_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhisteclfa_p1,FH of eclampsia in woman's father,decimal,,1|2|3,No|Yes|Not documented
+prnprfhisteclmo_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhisteclmo_p1,FH of eclampsia in woman's mother,decimal,,1|2|3,No|Yes|Not documented
+prnprfhisteclrelnd_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhisteclrelnd_p1,"FH of eclampsia, relationship not documented",decimal,,1|2|3|4,No family history|Relatives documented|Relatives not documented|Family history not documented
+prnprfhisteclsb_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhisteclsb_p1,FH of eclampsia in woman's sibling,decimal,,1|2|3,No|Yes|Not documented
+prnprfhisthyp_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhisthyp_p1,FH of high blood pressure,decimal,,1|2|3,No|Yes|Not documented
+prnprfhisthypch_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhisthypch_p1,FH of hypertension in woman's child,decimal,,1|2|3,No|Yes|Not documented
+prnprfhisthypfa_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhisthypfa_p1,FH of hypertension in woman's father,decimal,,1|2|3,No|Yes|Not documented
+prnprfhisthypmo_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhisthypmo_p1,FH of hypertension in woman's mother,decimal,,1|2|3,No|Yes|Not documented
+prnprfhisthyprelnd_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhisthyprelnd_p1,"FH of hypertension, relationship not documented",decimal,,1|2|3|4,No family history|Relatives documented|Relatives not documented|Family history not documented
+prnprfhisthypsb_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhisthypsb_p1,FH of hypertension in woman's sibling,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistment_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistment_p1,FH of mental illness,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistmentch_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistmentch_p1,FH of mental illness in woman's child,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistmentfa_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistmentfa_p1,FH of mental illness in woman's father,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistmentmo_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistmentmo_p1,FH of mental illness in woman's mother,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistmentrelnd_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistmentrelnd_p1,"FH of mental illness, relationship not documented",decimal,,1|2|3|4,No family history|Relatives documented|Relatives not documented|Family history not documented
+prnprfhistmentsb_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistmentsb_p1,FH of mental illness in woman's sibling,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistthrom_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistthrom_p1,FH of thrombosis,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistthromch_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistthromch_p1,FH of thrombosis in woman's child,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistthromfa_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistthromfa_p1,FH of thrombosis in woman's father,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistthrommo_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistthrommo_p1,FH of thrombosis in woman's mother,decimal,,1|2|3,No|Yes|Not documented
+prnprfhistthromrelnd_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistthromrelnd_p1,"FH of thrombosis, relationship not documented",decimal,,1|2|3|4,No family history|Relatives documented|Relatives not documented|Family history not documented
+prnprfhistthromsb_p1,BiB_Pregnancy.matrecs_bib_preg_p1.prnprfhistthromsb_p1,FH of thrombosis in woman's sibling,decimal,,1|2|3,No|Yes|Not documented

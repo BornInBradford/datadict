@@ -1,0 +1,9 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_Pregnancy.matrecs_bib_pregbp.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
+has_matrecs_bib_pregbp,BiB_Pregnancy.matrecs_bib_pregbp.has_matrecs_bib_pregbp,Has maternity records pregnancy blood pressure,decimal,,,
+has_prnbpp,BiB_Pregnancy.matrecs_bib_pregbp.has_prnbpp,Has: Maternal records: Pregnancy blood pressure,decimal,,1,has
+prnpregbpdiastolic,BiB_Pregnancy.matrecs_bib_pregbp.prnpregbpdiastolic,Pregnancy diastolic blood pressure,decimal,,,
+prnpregbpgestaged,BiB_Pregnancy.matrecs_bib_pregbp.prnpregbpgestaged,Gestational age in days at pregnancy BP measurement,decimal,,,
+prnpregbpgestagew,BiB_Pregnancy.matrecs_bib_pregbp.prnpregbpgestagew,Gestational age in weeks at pregnancy BP measurement,decimal,,,
+prnpregbpsystolic,BiB_Pregnancy.matrecs_bib_pregbp.prnpregbpsystolic,Pregnancy systolic blood pressure,decimal,,,
+prnpregbptime,BiB_Pregnancy.matrecs_bib_pregbp.prnpregbptime,Time pregnancy blood pressure was taken,text,,,

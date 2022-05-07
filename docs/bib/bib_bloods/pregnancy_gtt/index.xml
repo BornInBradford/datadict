@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maternal baseline GTT on Born in Bradford Data Dictionary</title>
+    <link>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_gtt/</link>
+    <description>Recent content in Maternal baseline GTT on Born in Bradford Data Dictionary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_gtt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maternal baseline GTT (p1)</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_gtt/pregnancy_gtt_p1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_gtt/pregnancy_gtt_p1/</guid>
+      <description>Table ID: BiB_Bloods.pregnancy_gtt_p1
+github | csv
+   Entity type Variables Entities Updated     Participant 7 11151 2022-05-06    _p1 tables contain the same variables as their parent table but only data collected at the first pregnancy
+   variable label value_type summary     has_pregnancy_gtt_p1 Has maternal baseline gtt decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.</description>
+    </item>
+    
+    <item>
+      <title>Maternal baseline GTT (p2)</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_gtt/pregnancy_gtt_p2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_gtt/pregnancy_gtt_p2/</guid>
+      <description>Table ID: BiB_Bloods.pregnancy_gtt_p2
+github | csv
+   Entity type Variables Entities Updated     Participant 7 1146 2022-05-06    _p2 tables contain the same variables as their parent table but only data collected at the second pregnancy
+   variable label value_type summary     has_pregnancy_gtt_p2 Has maternal baseline gtt decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.</description>
+    </item>
+    
+    <item>
+      <title>Maternal baseline GTT (p3)</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_gtt/pregnancy_gtt_p3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_gtt/pregnancy_gtt_p3/</guid>
+      <description>Table ID: BiB_Bloods.pregnancy_gtt_p3
+github | csv
+   Entity type Variables Entities Updated     Participant 7 34 2022-05-06    _p3 tables contain the same variables as their parent table but only data collected at the third pregnancy
+   variable label value_type summary     has_pregnancy_gtt_p3 Has maternal baseline gtt decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.</description>
+    </item>
+    
+  </channel>
+</rss>

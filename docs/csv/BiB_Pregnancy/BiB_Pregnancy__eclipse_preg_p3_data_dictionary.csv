@@ -1,0 +1,35 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_eclipse_preg_p3,BiB_Pregnancy.eclipse_preg_p3.has_eclipse_preg_p3,Has eclipse pregnancy record,decimal,,,
+bkfcomplet_p3,BiB_Pregnancy.eclipse_preg_p3.bkfcomplet_p3,Backfill completed,decimal,,1|2,No|Yes
+bkfdiabete_p3,BiB_Pregnancy.eclipse_preg_p3.bkfdiabete_p3,Diabetes prior to pregnancy,decimal,,1|2,No|Yes
+bkfhyperex_p3,BiB_Pregnancy.eclipse_preg_p3.bkfhyperex_p3,Existing HT,decimal,,1|2,No|Yes
+bkfhyperlb_p3,BiB_Pregnancy.eclipse_preg_p3.bkfhyperlb_p3,HT during labour only,decimal,,1|2,No|Yes
+bkfhyperpi_p3,BiB_Pregnancy.eclipse_preg_p3.bkfhyperpi_p3,Pregnancy induced HT,decimal,,1|2|3|4,"No|Mild to moderate|Severe|Yes, not classified"
+bkfmumbkwt_p3,BiB_Pregnancy.eclipse_preg_p3.bkfmumbkwt_p3,Mother's booking weight,decimal,,,
+bkfpreeclm_p3,BiB_Pregnancy.eclipse_preg_p3.bkfpreeclm_p3,Pre-eclampsia,decimal,,1|2,No|Yes
+drvgesbook_p3,BiB_Pregnancy.eclipse_preg_p3.drvgesbook_p3,Gestation (wks) at booking appt,decimal,,,
+drvgesdiab_p3,BiB_Pregnancy.eclipse_preg_p3.drvgesdiab_p3,Gestational diabetes - derived from GTT and backfill notes,decimal,,1|2,No|Yes
+drvgesdind_p3,BiB_Pregnancy.eclipse_preg_p3.drvgesdind_p3,Source of gestational diabetes coding,decimal,,1|2|3,Defined from GTT results|Defined from backfill notes|No gestational diabetes
+ecldbp28wk_p3,BiB_Pregnancy.eclipse_preg_p3.ecldbp28wk_p3,Diastolic blood pressure at 28 wks,decimal,,,
+ecldbp36wk_p3,BiB_Pregnancy.eclipse_preg_p3.ecldbp36wk_p3,Diastolic blood pressure at 36 wks,decimal,,,
+ecldbpbook_p3,BiB_Pregnancy.eclipse_preg_p3.ecldbpbook_p3,Diastolic blood pressure at booking,decimal,,,
+eclgestday_p3,BiB_Pregnancy.eclipse_preg_p3.eclgestday_p3,Gestation in days,decimal,,,
+eclgestwds_p3,BiB_Pregnancy.eclipse_preg_p3.eclgestwds_p3,Gestation in weeks and days,decimal,,,
+eclgestwks_p3,BiB_Pregnancy.eclipse_preg_p3.eclgestwks_p3,Gestation to last completed week,decimal,,,
+ecllgthlab_p3,BiB_Pregnancy.eclipse_preg_p3.ecllgthlab_p3,Time from labour to delivery of last placenta,text,,,
+eclnregbrt_p3,BiB_Pregnancy.eclipse_preg_p3.eclnregbrt_p3,Number of registerable births,decimal,,1|2|3,Singleton|Twins|Triplets
+eclonstlab_p3,BiB_Pregnancy.eclipse_preg_p3.eclonstlab_p3,Type of onset of labour,decimal,,1|2|3|4|5|6|7,Spontaneous|No labour (caesarean section)|No labour (elective caesarean section)|Induction|Medical induction|Surgical induction|Medical and surgical induction
+eclpertear_p3,BiB_Pregnancy.eclipse_preg_p3.eclpertear_p3,Degree of perineal tearing,decimal,,1|2|3|4|5|6|7|8,None|Grade 1|Grade 2|Grade 3a|Grade 3b|Grade 3c|Grade 4|Grade 5
+eclregpart_p3,BiB_Pregnancy.eclipse_preg_p3.eclregpart_p3,Registerable parity,decimal,,,
+eclsbp28wk_p3,BiB_Pregnancy.eclipse_preg_p3.eclsbp28wk_p3,Systolic blood pressure at 28 wks,decimal,,,
+eclsbp36wk_p3,BiB_Pregnancy.eclipse_preg_p3.eclsbp36wk_p3,Systolic blood pressure at 36 wks,decimal,,,
+eclsbpbook_p3,BiB_Pregnancy.eclipse_preg_p3.eclsbpbook_p3,Systolic blood pressure at booking,decimal,,,
+flgdbp28wk_p3,BiB_Pregnancy.eclipse_preg_p3.flgdbp28wk_p3,Diastolic BP at 28 weeks flag,decimal,,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
+flgdbp36wk_p3,BiB_Pregnancy.eclipse_preg_p3.flgdbp36wk_p3,Diastolic BP at 36 weeks flag,decimal,,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
+flgdbpbook_p3,BiB_Pregnancy.eclipse_preg_p3.flgdbpbook_p3,Diastolic BP at booking flag,decimal,,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
+flggestage_p3,BiB_Pregnancy.eclipse_preg_p3.flggestage_p3,Gestational age flag,decimal,,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
+flgsbp28wk_p3,BiB_Pregnancy.eclipse_preg_p3.flgsbp28wk_p3,Systolic BP at 28 weeks flag,decimal,,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
+flgsbp36wk_p3,BiB_Pregnancy.eclipse_preg_p3.flgsbp36wk_p3,Systolic BP at 36 weeks flag,decimal,,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
+flgsbpbook_p3,BiB_Pregnancy.eclipse_preg_p3.flgsbpbook_p3,Systolic BP at booking flag,decimal,,1|2|3|4,Value checked and is correct|Value was incorrect and has been changed|Value cannot be verified|Value not checked
+gttcompind_p3,BiB_Pregnancy.eclipse_preg_p3.gttcompind_p3,GTT completed indicator,decimal,,,
+has_eclprg_p3,BiB_Pregnancy.eclipse_preg_p3.has_eclprg_p3,Has eClipse pregnancy data,decimal,,1,has

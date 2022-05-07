@@ -1,0 +1,12 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_Bloods.pregnancy_bloods.BiBPregNumber,"",decimal,,,
+has_pregnancy_bloods,BiB_Bloods.pregnancy_bloods.has_pregnancy_bloods,Has pregnancy blood biomarkers,decimal,,,
+agemm_matbld,BiB_Bloods.pregnancy_bloods.agemm_matbld,Mother age (months): Maternal Bloods,decimal,,,
+agemy_matbld,BiB_Bloods.pregnancy_bloods.agemy_matbld,Mother age (years): Maternal Bloods,decimal,,,
+has_matbld,BiB_Bloods.pregnancy_bloods.has_matbld,Has maternal bloods data,decimal,,1,has
+mbldchdlr1,BiB_Bloods.pregnancy_bloods.mbldchdlr1,Cholesterol HDL Ratio,decimal,,,
+mbldchol,BiB_Bloods.pregnancy_bloods.mbldchol,Cholesterol,decimal,,,
+mbldhdl1,BiB_Bloods.pregnancy_bloods.mbldhdl1,HDL,decimal,,,
+mbldinsulin_str,BiB_Bloods.pregnancy_bloods.mbldinsulin_str,Insulin (string),text,,,
+mbldldl1,BiB_Bloods.pregnancy_bloods.mbldldl1,LDL,decimal,,,
+mbldtrigs,BiB_Bloods.pregnancy_bloods.mbldtrigs,Triglyceride,decimal,,,

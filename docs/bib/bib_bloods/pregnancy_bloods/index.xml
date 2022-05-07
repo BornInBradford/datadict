@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pregnancy blood biomarkers on Born in Bradford Data Dictionary</title>
+    <link>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_bloods/</link>
+    <description>Recent content in Pregnancy blood biomarkers on Born in Bradford Data Dictionary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_bloods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pregnancy bloods vitamin D</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_bloods/pregnancy_bloods_vitd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_bloods/pregnancy_bloods_vitd/</guid>
+      <description>Table ID: BiB_Bloods.pregnancy_bloods_vitd
+github | csv
+   Entity type Variables Entities Updated     Participant 10 1498 2022-05-06    Extra biomarkers taken from baseline maternal bloods for vitamin D study
+   variable label value_type summary     BiBPregNumber  decimal mean (sd)
+1.08 (0.28)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 3.00
+100.00% complete
+   has_pregnancy_bloods_vitd Has pregnacy bloods vitamin d decimal mean (sd)</description>
+    </item>
+    
+  </channel>
+</rss>

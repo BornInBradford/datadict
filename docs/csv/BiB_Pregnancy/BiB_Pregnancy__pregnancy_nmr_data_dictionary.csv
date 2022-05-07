@@ -1,0 +1,6 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_Pregnancy.pregnancy_nmr.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
+has_pregnancy_nmr,BiB_Pregnancy.pregnancy_nmr.has_pregnancy_nmr,Has ,decimal,,,
+has_metnmr,BiB_Pregnancy.pregnancy_nmr.has_metnmr,Has: NMR metabolomics pregnancy samples,decimal,,1,has
+metabolnmrbarcode,BiB_Pregnancy.pregnancy_nmr.metabolnmrbarcode,NMR metabolomics sample barcode,text,,,
+metabolnmrsampleid,BiB_Pregnancy.pregnancy_nmr.metabolnmrsampleid,NMR metabolomics sample lab ID,text,,,
