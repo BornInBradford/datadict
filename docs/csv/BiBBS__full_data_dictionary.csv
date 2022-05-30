@@ -388,3 +388,22 @@ BiBBS_CohortInfo,partner,p_recruitment_year,BiBBS_CohortInfo.partner.p_recruitme
 BiBBS_CohortInfo,partner,p_recruitment_month,BiBBS_CohortInfo.partner.p_recruitment_month,Partner month of index pregnancy recruitment,decimal,,,
 BiBBS_CohortInfo,partner,p_age_at_recruitment,BiBBS_CohortInfo.partner.p_age_at_recruitment,Partner age at index pregnancy recruitment,decimal,,,
 BiBBS_CohortInfo,partner,n_pregnancies,BiBBS_CohortInfo.partner.n_pregnancies,Number of pregnancies in this cohort,decimal,,,
+BiBBS_Geographic,ch_core_geog,date_address_data,BiBBS_Geographic.ch_core_geog.date_address_data,Date of latest available address data,date,,,
+BiBBS_Geographic,ch_core_geog,age_m,BiBBS_Geographic.ch_core_geog.age_m,Participants actual age (months),decimal,,,
+BiBBS_Geographic,ch_core_geog,age_closest_data_point,BiBBS_Geographic.ch_core_geog.age_closest_data_point,Age at data point closest to participants actual age,decimal,,,
+BiBBS_Geographic,ch_core_geog,temporal_accuracy_m,BiBBS_Geographic.ch_core_geog.temporal_accuracy_m,Difference in months between participants age at closest data point and actual a,decimal,,,
+BiBBS_Geographic,ch_core_geog,LSOA11CD,BiBBS_Geographic.ch_core_geog.LSOA11CD,LSOA 2011 code,text,,,
+BiBBS_Geographic,ch_core_geog,WD21CD,BiBBS_Geographic.ch_core_geog.WD21CD,Ward 2021 code,text,,,
+BiBBS_Geographic,ch_core_geog,is_in_bfd_la,BiBBS_Geographic.ch_core_geog.is_in_bfd_la,Is participant in Bradford LA?,decimal,,0|1,No|Yes
+BiBBS_Geographic,ch_core_geog,is_in_bibbs_area,BiBBS_Geographic.ch_core_geog.is_in_bibbs_area,Is participant in BiBBS area?,decimal,,0|1,No|Yes
+BiBBS_Geographic,ch_core_geog,data_source,BiBBS_Geographic.ch_core_geog.data_source,Source of data: registration (1) or tracing (2),decimal,,1|2,Registration|Tracing
+BiBBS_Geographic,ch_core_geog,study,BiBBS_Geographic.ch_core_geog.study,Is participant in BiB (1) or BiBBS (2),decimal,,1|2,BiB|BiBBS
+BiBBS_Geographic,ch_core_geog,not_in_eng_wales,BiBBS_Geographic.ch_core_geog.not_in_eng_wales,Indicates if address is not in England or Wales,decimal,,0|1,No|Yes
+BiBBS_Geographic,ch_core_geog,missing_address_data,BiBBS_Geographic.ch_core_geog.missing_address_data,Indicates if record has missing address data,decimal,,0|1,No|Yes
+BiBBS_Geographic,ch_core_geog,poor_qual_data,BiBBS_Geographic.ch_core_geog.poor_qual_data,Indicates if record has poor quality data,decimal,,0|1,No|Yes
+BiBBS_Geographic,house_nbhd,age_m,BiBBS_Geographic.house_nbhd.age_m,Participants actual age (months),decimal,,,
+BiBBS_Geographic,house_nbhd,IMD_2010_decile,BiBBS_Geographic.house_nbhd.IMD_2010_decile,IMD 2010 decile,decimal,,,
+BiBBS_Geographic,house_nbhd,IMD_2010_score,BiBBS_Geographic.house_nbhd.IMD_2010_score,IMD 2010 score,decimal,,,
+BiBBS_Geographic,house_nbhd,IMD_2019_decile,BiBBS_Geographic.house_nbhd.IMD_2019_decile,IMD 2019 decile,decimal,,,
+BiBBS_Geographic,house_nbhd,IMD_2019_score,BiBBS_Geographic.house_nbhd.IMD_2019_score,IMD 2019 score,decimal,,,
+BiBBS_Geographic,house_nbhd,house_type,BiBBS_Geographic.house_nbhd.house_type,Property type,decimal,,1|2|3|4|5,Terraced|Semi-Detached|Self Contained Flat (Includes Maisonette / Apartment)|Detached|Other

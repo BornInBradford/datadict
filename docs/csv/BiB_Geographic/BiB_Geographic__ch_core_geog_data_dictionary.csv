@@ -1,0 +1,14 @@
+variable,full_name,label,value_type,description,categories,categories_label
+date_address_data,BiB_Geographic.ch_core_geog.date_address_data,Date of latest available address data,date,,,
+child_age_m,BiB_Geographic.ch_core_geog.child_age_m,Childs actual age (months),decimal,,,
+age_closest_data_point,BiB_Geographic.ch_core_geog.age_closest_data_point,Age at data point closest to childs actual age,decimal,,,
+temporal_accuracy_m,BiB_Geographic.ch_core_geog.temporal_accuracy_m,Difference in months between childs age at closest data point and actual age,decimal,,,
+LSOA11CD,BiB_Geographic.ch_core_geog.LSOA11CD,LSOA 2011 code,text,,,
+WD21CD,BiB_Geographic.ch_core_geog.WD21CD,Ward 2021 code,text,,,
+is_in_bfd_la,BiB_Geographic.ch_core_geog.is_in_bfd_la,Is child in Bradford LA?,decimal,,0|1,No|Yes
+is_in_bibbs_area,BiB_Geographic.ch_core_geog.is_in_bibbs_area,Is child in BiBBS area?,decimal,,0|1,No|Yes
+data_source,BiB_Geographic.ch_core_geog.data_source,Source of data: registration or tracing,decimal,,1|2,Registration|Tracing
+study,BiB_Geographic.ch_core_geog.study,Is child in BiB or BiBBS,decimal,,1|2,BiB|BiBBS
+not_in_eng_wales,BiB_Geographic.ch_core_geog.not_in_eng_wales,If yes (1) sensitive columns have been set to NA to avoid disclosure of data,decimal,,0|1,No|Yes
+missing_address_data,BiB_Geographic.ch_core_geog.missing_address_data,If yes (1) then address data was not available from tracing or registration data,decimal,,0|1,No|Yes
+poor_qual_data,BiB_Geographic.ch_core_geog.poor_qual_data,"If yes (1), the geocoded data is poor quality and has been removed",decimal,,0|1,No|Yes

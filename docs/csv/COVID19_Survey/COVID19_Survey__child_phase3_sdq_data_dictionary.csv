@@ -1,113 +1,38 @@
 variable,full_name,label,value_type,description,categories,categories_label
-sdq_gender___1,COVID19_Survey.child_phase3_sdq.sdq_gender___1, (choice=Male),decimal,,0|1,Unchecked|Checked
-sdq_gender___2,COVID19_Survey.child_phase3_sdq.sdq_gender___2, (choice=Female),decimal,,0|1,Unchecked|Checked
-sdq_consid___0,COVID19_Survey.child_phase3_sdq.sdq_consid___0,Considerate of other peoples feelings (choice=Not True),decimal,,0|1,Unchecked|Checked
-sdq_consid___1,COVID19_Survey.child_phase3_sdq.sdq_consid___1,Considerate of other peoples feelings (choice=Somewhat True),decimal,,0|1,Unchecked|Checked
-sdq_consid___2,COVID19_Survey.child_phase3_sdq.sdq_consid___2,Considerate of other peoples feelings (choice=Certainly True),decimal,,0|1,Unchecked|Checked
-sdq_restles___0,COVID19_Survey.child_phase3_sdq.sdq_restles___0,"Restless, overactive, cannot stay still for long (choice=Not True)",decimal,,0|1,Unchecked|Checked
-sdq_restles___1,COVID19_Survey.child_phase3_sdq.sdq_restles___1,"Restless, overactive, cannot stay still for long (choice=Somewhat True)",decimal,,0|1,Unchecked|Checked
-sdq_restles___2,COVID19_Survey.child_phase3_sdq.sdq_restles___2,"Restless, overactive, cannot stay still for long (choice=Certainly True)",decimal,,0|1,Unchecked|Checked
-sdq_somatic___0,COVID19_Survey.child_phase3_sdq.sdq_somatic___0,"Often complains of headaches, stomach-aches or sickness (choice=Not True)",decimal,,0|1,Unchecked|Checked
-sdq_somatic___1,COVID19_Survey.child_phase3_sdq.sdq_somatic___1,"Often complains of headaches, stomach-aches or sickness (choice=Somewhat True)",decimal,,0|1,Unchecked|Checked
-sdq_somatic___2,COVID19_Survey.child_phase3_sdq.sdq_somatic___2,"Often complains of headaches, stomach-aches or sickness (choice=Certainly True)",decimal,,0|1,Unchecked|Checked
-sdq_shares___0,COVID19_Survey.child_phase3_sdq.sdq_shares___0,"Shares readily with other children (treats, toys, pencils etc.) (choice=Not True",decimal,,0|1,Unchecked|Checked
-sdq_shares___1,COVID19_Survey.child_phase3_sdq.sdq_shares___1,"Shares readily with other children (treats, toys, pencils etc.) (choice=Somewhat",decimal,,0|1,Unchecked|Checked
-sdq_shares___2,COVID19_Survey.child_phase3_sdq.sdq_shares___2,"Shares readily with other children (treats, toys, pencils etc.) (choice=Certainl",decimal,,0|1,Unchecked|Checked
-sdq_tantrum___0,COVID19_Survey.child_phase3_sdq.sdq_tantrum___0,Often has temper tantrums or hot tempers (choice=Not True),decimal,,0|1,Unchecked|Checked
-sdq_tantrum___1,COVID19_Survey.child_phase3_sdq.sdq_tantrum___1,Often has temper tantrums or hot tempers (choice=Somewhat True),decimal,,0|1,Unchecked|Checked
-sdq_tantrum___2,COVID19_Survey.child_phase3_sdq.sdq_tantrum___2,Often has temper tantrums or hot tempers (choice=Certainly True),decimal,,0|1,Unchecked|Checked
-sdq_loner___0,COVID19_Survey.child_phase3_sdq.sdq_loner___0,"Rather solitary, tends to play alone (choice=Not True)",decimal,,0|1,Unchecked|Checked
-sdq_loner___1,COVID19_Survey.child_phase3_sdq.sdq_loner___1,"Rather solitary, tends to play alone (choice=Somewhat True)",decimal,,0|1,Unchecked|Checked
-sdq_loner___2,COVID19_Survey.child_phase3_sdq.sdq_loner___2,"Rather solitary, tends to play alone (choice=Certainly True)",decimal,,0|1,Unchecked|Checked
-sdq_obeys___0,COVID19_Survey.child_phase3_sdq.sdq_obeys___0,"Generally obedient, usually does what adults request (choice=Not True)",decimal,,0|1,Unchecked|Checked
-sdq_obeys___1,COVID19_Survey.child_phase3_sdq.sdq_obeys___1,"Generally obedient, usually does what adults request (choice=Somewhat True)",decimal,,0|1,Unchecked|Checked
-sdq_obeys___2,COVID19_Survey.child_phase3_sdq.sdq_obeys___2,"Generally obedient, usually does what adults request (choice=Certainly True)",decimal,,0|1,Unchecked|Checked
-sdq_worries___0,COVID19_Survey.child_phase3_sdq.sdq_worries___0,"Many worries, often seems worried (choice=Not True)",decimal,,0|1,Unchecked|Checked
-sdq_worries___1,COVID19_Survey.child_phase3_sdq.sdq_worries___1,"Many worries, often seems worried (choice=Somewhat True)",decimal,,0|1,Unchecked|Checked
-sdq_worries___2,COVID19_Survey.child_phase3_sdq.sdq_worries___2,"Many worries, often seems worried (choice=Certainly True)",decimal,,0|1,Unchecked|Checked
-sdq_caring___0,COVID19_Survey.child_phase3_sdq.sdq_caring___0,"Helpful if someone is hurt, upset or feeling ill (choice=Not True)",decimal,,0|1,Unchecked|Checked
-sdq_caring___1,COVID19_Survey.child_phase3_sdq.sdq_caring___1,"Helpful if someone is hurt, upset or feeling ill (choice=Somewhat True)",decimal,,0|1,Unchecked|Checked
-sdq_caring___2,COVID19_Survey.child_phase3_sdq.sdq_caring___2,"Helpful if someone is hurt, upset or feeling ill (choice=Certainly True)",decimal,,0|1,Unchecked|Checked
-sdq_fidgety___0,COVID19_Survey.child_phase3_sdq.sdq_fidgety___0,Constantly fidgeting or squirming (choice=Not True),decimal,,0|1,Unchecked|Checked
-sdq_fidgety___1,COVID19_Survey.child_phase3_sdq.sdq_fidgety___1,Constantly fidgeting or squirming (choice=Somewhat True),decimal,,0|1,Unchecked|Checked
-sdq_fidgety___2,COVID19_Survey.child_phase3_sdq.sdq_fidgety___2,Constantly fidgeting or squirming (choice=Certainly True),decimal,,0|1,Unchecked|Checked
-sdq_friend___0,COVID19_Survey.child_phase3_sdq.sdq_friend___0,Has at least one good friend (choice=Not True),decimal,,0|1,Unchecked|Checked
-sdq_friend___1,COVID19_Survey.child_phase3_sdq.sdq_friend___1,Has at least one good friend (choice=Somewhat True),decimal,,0|1,Unchecked|Checked
-sdq_friend___2,COVID19_Survey.child_phase3_sdq.sdq_friend___2,Has at least one good friend (choice=Certainly True),decimal,,0|1,Unchecked|Checked
-sdq_fights___0,COVID19_Survey.child_phase3_sdq.sdq_fights___0,Often fights with other children or bullies them (choice=Not True),decimal,,0|1,Unchecked|Checked
-sdq_fights___1,COVID19_Survey.child_phase3_sdq.sdq_fights___1,Often fights with other children or bullies them (choice=Somewhat True),decimal,,0|1,Unchecked|Checked
-sdq_fights___2,COVID19_Survey.child_phase3_sdq.sdq_fights___2,Often fights with other children or bullies them (choice=Certainly True),decimal,,0|1,Unchecked|Checked
-sdq_unhappy___0,COVID19_Survey.child_phase3_sdq.sdq_unhappy___0,"Often unhappy, down-hearted or tearful (choice=Not True)",decimal,,0|1,Unchecked|Checked
-sdq_unhappy___1,COVID19_Survey.child_phase3_sdq.sdq_unhappy___1,"Often unhappy, down-hearted or tearful (choice=Somewhat True)",decimal,,0|1,Unchecked|Checked
-sdq_unhappy___2,COVID19_Survey.child_phase3_sdq.sdq_unhappy___2,"Often unhappy, down-hearted or tearful (choice=Certainly True)",decimal,,0|1,Unchecked|Checked
-sdq_popular___0,COVID19_Survey.child_phase3_sdq.sdq_popular___0,Generally liked by other children (choice=Not True),decimal,,0|1,Unchecked|Checked
-sdq_popular___1,COVID19_Survey.child_phase3_sdq.sdq_popular___1,Generally liked by other children (choice=Somewhat True),decimal,,0|1,Unchecked|Checked
-sdq_popular___2,COVID19_Survey.child_phase3_sdq.sdq_popular___2,Generally liked by other children (choice=Certainly True),decimal,,0|1,Unchecked|Checked
-sdq_distrac___0,COVID19_Survey.child_phase3_sdq.sdq_distrac___0,"Easily distracted, concentration wanders (choice=Not True)",decimal,,0|1,Unchecked|Checked
-sdq_distrac___1,COVID19_Survey.child_phase3_sdq.sdq_distrac___1,"Easily distracted, concentration wanders (choice=Somewhat True)",decimal,,0|1,Unchecked|Checked
-sdq_distrac___2,COVID19_Survey.child_phase3_sdq.sdq_distrac___2,"Easily distracted, concentration wanders (choice=Certainly True)",decimal,,0|1,Unchecked|Checked
-sdq_clingy___0,COVID19_Survey.child_phase3_sdq.sdq_clingy___0,"Nervous or clingy in new situations, easily loses confidence (choice=Not True)",decimal,,0|1,Unchecked|Checked
-sdq_clingy___1,COVID19_Survey.child_phase3_sdq.sdq_clingy___1,"Nervous or clingy in new situations, easily loses confidence (choice=Somewhat Tr",decimal,,0|1,Unchecked|Checked
-sdq_clingy___2,COVID19_Survey.child_phase3_sdq.sdq_clingy___2,"Nervous or clingy in new situations, easily loses confidence (choice=Certainly T",decimal,,0|1,Unchecked|Checked
-sdq_kind___0,COVID19_Survey.child_phase3_sdq.sdq_kind___0,Kind to younger children (choice=Not True),decimal,,0|1,Unchecked|Checked
-sdq_kind___1,COVID19_Survey.child_phase3_sdq.sdq_kind___1,Kind to younger children (choice=Somewhat True),decimal,,0|1,Unchecked|Checked
-sdq_kind___2,COVID19_Survey.child_phase3_sdq.sdq_kind___2,Kind to younger children (choice=Certainly True),decimal,,0|1,Unchecked|Checked
-sdq_lies___0,COVID19_Survey.child_phase3_sdq.sdq_lies___0,Often lies or cheats (choice=Not True),decimal,,0|1,Unchecked|Checked
-sdq_lies___1,COVID19_Survey.child_phase3_sdq.sdq_lies___1,Often lies or cheats (choice=Somewhat True),decimal,,0|1,Unchecked|Checked
-sdq_lies___2,COVID19_Survey.child_phase3_sdq.sdq_lies___2,Often lies or cheats (choice=Certainly True),decimal,,0|1,Unchecked|Checked
-sdq_bullied___0,COVID19_Survey.child_phase3_sdq.sdq_bullied___0,Picked on or bullied by other children (choice=Not True),decimal,,0|1,Unchecked|Checked
-sdq_bullied___1,COVID19_Survey.child_phase3_sdq.sdq_bullied___1,Picked on or bullied by other children (choice=Somewhat True),decimal,,0|1,Unchecked|Checked
-sdq_bullied___2,COVID19_Survey.child_phase3_sdq.sdq_bullied___2,Picked on or bullied by other children (choice=Certainly True),decimal,,0|1,Unchecked|Checked
-sdq_helpout___0,COVID19_Survey.child_phase3_sdq.sdq_helpout___0,"Often volunteers to help others (parents, teachers, other children) (choice=Not",decimal,,0|1,Unchecked|Checked
-sdq_helpout___1,COVID19_Survey.child_phase3_sdq.sdq_helpout___1,"Often volunteers to help others (parents, teachers, other children) (choice=Some",decimal,,0|1,Unchecked|Checked
-sdq_helpout___2,COVID19_Survey.child_phase3_sdq.sdq_helpout___2,"Often volunteers to help others (parents, teachers, other children) (choice=Cert",decimal,,0|1,Unchecked|Checked
-sdq_reflect___0,COVID19_Survey.child_phase3_sdq.sdq_reflect___0,Thinks things out before acting (choice=Not True),decimal,,0|1,Unchecked|Checked
-sdq_reflect___1,COVID19_Survey.child_phase3_sdq.sdq_reflect___1,Thinks things out before acting (choice=Somewhat True),decimal,,0|1,Unchecked|Checked
-sdq_reflect___2,COVID19_Survey.child_phase3_sdq.sdq_reflect___2,Thinks things out before acting (choice=Certainly True),decimal,,0|1,Unchecked|Checked
-sdq_steals___0,COVID19_Survey.child_phase3_sdq.sdq_steals___0,"Steals from home, school or elsewhere (choice=Not True)",decimal,,0|1,Unchecked|Checked
-sdq_steals___1,COVID19_Survey.child_phase3_sdq.sdq_steals___1,"Steals from home, school or elsewhere (choice=Somewhat True)",decimal,,0|1,Unchecked|Checked
-sdq_steals___2,COVID19_Survey.child_phase3_sdq.sdq_steals___2,"Steals from home, school or elsewhere (choice=Certainly True)",decimal,,0|1,Unchecked|Checked
-sdq_oldbest___0,COVID19_Survey.child_phase3_sdq.sdq_oldbest___0,Gets on better with adults than with other children (choice=Not True),decimal,,0|1,Unchecked|Checked
-sdq_oldbest___1,COVID19_Survey.child_phase3_sdq.sdq_oldbest___1,Gets on better with adults than with other children (choice=Somewhat True),decimal,,0|1,Unchecked|Checked
-sdq_oldbest___2,COVID19_Survey.child_phase3_sdq.sdq_oldbest___2,Gets on better with adults than with other children (choice=Certainly True),decimal,,0|1,Unchecked|Checked
-sdq_afraid___0,COVID19_Survey.child_phase3_sdq.sdq_afraid___0,"Many fears, easily scared (choice=Not True)",decimal,,0|1,Unchecked|Checked
-sdq_afraid___1,COVID19_Survey.child_phase3_sdq.sdq_afraid___1,"Many fears, easily scared (choice=Somewhat True)",decimal,,0|1,Unchecked|Checked
-sdq_afraid___2,COVID19_Survey.child_phase3_sdq.sdq_afraid___2,"Many fears, easily scared (choice=Certainly True)",decimal,,0|1,Unchecked|Checked
-sdq_attends___0,COVID19_Survey.child_phase3_sdq.sdq_attends___0,"Sees tasks through to the end, good attention span (choice=Not True)",decimal,,0|1,Unchecked|Checked
-sdq_attends___1,COVID19_Survey.child_phase3_sdq.sdq_attends___1,"Sees tasks through to the end, good attention span (choice=Somewhat True)",decimal,,0|1,Unchecked|Checked
-sdq_attends___2,COVID19_Survey.child_phase3_sdq.sdq_attends___2,"Sees tasks through to the end, good attention span (choice=Certainly True)",decimal,,0|1,Unchecked|Checked
-sdq_ebddiff___0,COVID19_Survey.child_phase3_sdq.sdq_ebddiff___0,"Overall, do you think that your child has difficulties in one or more of the fol",decimal,,0|1,Unchecked|Checked
-sdq_ebddiff___1,COVID19_Survey.child_phase3_sdq.sdq_ebddiff___1,"Overall, do you think that your child has difficulties in one or more of the fol",decimal,,0|1,Unchecked|Checked
-sdq_ebddiff___2,COVID19_Survey.child_phase3_sdq.sdq_ebddiff___2,"Overall, do you think that your child has difficulties in one or more of the fol",decimal,,0|1,Unchecked|Checked
-sdq_ebddiff___3,COVID19_Survey.child_phase3_sdq.sdq_ebddiff___3,"Overall, do you think that your child has difficulties in one or more of the fol",decimal,,0|1,Unchecked|Checked
-sdq_ebddiff_hwlong___0,COVID19_Survey.child_phase3_sdq.sdq_ebddiff_hwlong___0,How long have these difficulties been present? (choice=Less than a month),decimal,,0|1,Unchecked|Checked
-sdq_ebddiff_hwlong___1,COVID19_Survey.child_phase3_sdq.sdq_ebddiff_hwlong___1,How long have these difficulties been present? (choice=1-5 months),decimal,,0|1,Unchecked|Checked
-sdq_ebddiff_hwlong___2,COVID19_Survey.child_phase3_sdq.sdq_ebddiff_hwlong___2,How long have these difficulties been present? (choice=6-12 months),decimal,,0|1,Unchecked|Checked
-sdq_ebddiff_hwlong___3,COVID19_Survey.child_phase3_sdq.sdq_ebddiff_hwlong___3,How long have these difficulties been present? (choice=Over a year),decimal,,0|1,Unchecked|Checked
-sdq_distres___0,COVID19_Survey.child_phase3_sdq.sdq_distres___0,Do the difficulties upset or distress your child? (choice=Not at all),decimal,,0|1,Unchecked|Checked
-sdq_distres___1,COVID19_Survey.child_phase3_sdq.sdq_distres___1,Do the difficulties upset or distress your child? (choice=Only a little),decimal,,0|1,Unchecked|Checked
-sdq_distres___2,COVID19_Survey.child_phase3_sdq.sdq_distres___2,Do the difficulties upset or distress your child? (choice=Quite a lot),decimal,,0|1,Unchecked|Checked
-sdq_distres___3,COVID19_Survey.child_phase3_sdq.sdq_distres___3,Do the difficulties upset or distress your child? (choice=A great deal),decimal,,0|1,Unchecked|Checked
-sdq_imphome___0,COVID19_Survey.child_phase3_sdq.sdq_imphome___0,HOME LIFE (choice=Not at all),decimal,,0|1,Unchecked|Checked
-sdq_imphome___1,COVID19_Survey.child_phase3_sdq.sdq_imphome___1,HOME LIFE (choice=Only a little),decimal,,0|1,Unchecked|Checked
-sdq_imphome___2,COVID19_Survey.child_phase3_sdq.sdq_imphome___2,HOME LIFE (choice=Quite a lot),decimal,,0|1,Unchecked|Checked
-sdq_imphome___3,COVID19_Survey.child_phase3_sdq.sdq_imphome___3,HOME LIFE (choice=A great deal),decimal,,0|1,Unchecked|Checked
-sdq_impfrie___0,COVID19_Survey.child_phase3_sdq.sdq_impfrie___0,FRIENDSHIPS (choice=Not at all),decimal,,0|1,Unchecked|Checked
-sdq_impfrie___1,COVID19_Survey.child_phase3_sdq.sdq_impfrie___1,FRIENDSHIPS (choice=Only a little),decimal,,0|1,Unchecked|Checked
-sdq_impfrie___2,COVID19_Survey.child_phase3_sdq.sdq_impfrie___2,FRIENDSHIPS (choice=Quite a lot),decimal,,0|1,Unchecked|Checked
-sdq_impfrie___3,COVID19_Survey.child_phase3_sdq.sdq_impfrie___3,FRIENDSHIPS (choice=A great deal),decimal,,0|1,Unchecked|Checked
-sdq_impclas___0,COVID19_Survey.child_phase3_sdq.sdq_impclas___0,CLASSROOM LEARNING (choice=Not at all),decimal,,0|1,Unchecked|Checked
-sdq_impclas___1,COVID19_Survey.child_phase3_sdq.sdq_impclas___1,CLASSROOM LEARNING (choice=Only a little),decimal,,0|1,Unchecked|Checked
-sdq_impclas___2,COVID19_Survey.child_phase3_sdq.sdq_impclas___2,CLASSROOM LEARNING (choice=Quite a lot),decimal,,0|1,Unchecked|Checked
-sdq_impclas___3,COVID19_Survey.child_phase3_sdq.sdq_impclas___3,CLASSROOM LEARNING (choice=A great deal),decimal,,0|1,Unchecked|Checked
-sdq_impleis___0,COVID19_Survey.child_phase3_sdq.sdq_impleis___0,LEISURE ACTIVITIES (choice=Not at all),decimal,,0|1,Unchecked|Checked
-sdq_impleis___1,COVID19_Survey.child_phase3_sdq.sdq_impleis___1,LEISURE ACTIVITIES (choice=Only a little),decimal,,0|1,Unchecked|Checked
-sdq_impleis___2,COVID19_Survey.child_phase3_sdq.sdq_impleis___2,LEISURE ACTIVITIES (choice=Quite a lot),decimal,,0|1,Unchecked|Checked
-sdq_impleis___3,COVID19_Survey.child_phase3_sdq.sdq_impleis___3,LEISURE ACTIVITIES (choice=A great deal),decimal,,0|1,Unchecked|Checked
-sdq_burden___0,COVID19_Survey.child_phase3_sdq.sdq_burden___0,Do the difficulties put a burden on you or the family as a whole? (choice=Not at,decimal,,0|1,Unchecked|Checked
-sdq_burden___1,COVID19_Survey.child_phase3_sdq.sdq_burden___1,Do the difficulties put a burden on you or the family as a whole? (choice=Only a,decimal,,0|1,Unchecked|Checked
-sdq_burden___2,COVID19_Survey.child_phase3_sdq.sdq_burden___2,Do the difficulties put a burden on you or the family as a whole? (choice=Quite,decimal,,0|1,Unchecked|Checked
-sdq_burden___3,COVID19_Survey.child_phase3_sdq.sdq_burden___3,Do the difficulties put a burden on you or the family as a whole? (choice=A grea,decimal,,0|1,Unchecked|Checked
+sdq_gender,COVID19_Survey.child_phase3_sdq.sdq_gender,Gender,decimal,,1|2,Male|Female
+sdq_consid,COVID19_Survey.child_phase3_sdq.sdq_consid,Considerate of other peoples feelings,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_restles,COVID19_Survey.child_phase3_sdq.sdq_restles,"Restless, overactive, cannot stay still for long",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_somatic,COVID19_Survey.child_phase3_sdq.sdq_somatic,"Often complains of headaches, stomach-aches or sickness",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_shares,COVID19_Survey.child_phase3_sdq.sdq_shares,Shares readily with other children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_tantrum,COVID19_Survey.child_phase3_sdq.sdq_tantrum,Often has temper tantrums or hot tempers,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_loner,COVID19_Survey.child_phase3_sdq.sdq_loner,"Rather solitary, tends to play alone",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_obeys,COVID19_Survey.child_phase3_sdq.sdq_obeys,"Generally obedient, usually does what adults request",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_worries,COVID19_Survey.child_phase3_sdq.sdq_worries,"Many worries, often seems worried",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_caring,COVID19_Survey.child_phase3_sdq.sdq_caring,"Helpful if someone is hurt, upset or feeling ill",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_fidgety,COVID19_Survey.child_phase3_sdq.sdq_fidgety,Constantly fidgeting or squirming,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_friend,COVID19_Survey.child_phase3_sdq.sdq_friend,Has at least one good friend,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_fights,COVID19_Survey.child_phase3_sdq.sdq_fights,Often fights with other children or bullies them,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_unhappy,COVID19_Survey.child_phase3_sdq.sdq_unhappy,"Often unhappy, down-hearted or tearful",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_popular,COVID19_Survey.child_phase3_sdq.sdq_popular,Generally liked by other children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_distrac,COVID19_Survey.child_phase3_sdq.sdq_distrac,"Easily distracted, concentration wonders",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_clingy,COVID19_Survey.child_phase3_sdq.sdq_clingy,"Nervous or cligy in new situations, easily loses confidence",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_kind,COVID19_Survey.child_phase3_sdq.sdq_kind,Kind to younger children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_lies,COVID19_Survey.child_phase3_sdq.sdq_lies,Often lies or cheats,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_bullied,COVID19_Survey.child_phase3_sdq.sdq_bullied,Picked on or bullied by other children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_helpout,COVID19_Survey.child_phase3_sdq.sdq_helpout,Often volunteers to help others,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_reflect,COVID19_Survey.child_phase3_sdq.sdq_reflect,Thinks things out before acting,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_steals,COVID19_Survey.child_phase3_sdq.sdq_steals,"Steals from home, school or elsewhere",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_oldbest,COVID19_Survey.child_phase3_sdq.sdq_oldbest,Gets on better with adults than other children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_afraid,COVID19_Survey.child_phase3_sdq.sdq_afraid,"Many fears, easily scared",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_attends,COVID19_Survey.child_phase3_sdq.sdq_attends,"Sees tasks through to the end, good attention span",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_ebddiff,COVID19_Survey.child_phase3_sdq.sdq_ebddiff,"Difficulties in emotions, concentration, behaviour, friendships",decimal,,0|1|2|3,No|Yes - Minor difficulties|Yes - Definite difficulties|Yes - Severe difficulties
+sdq_ebddiff_hwlong,COVID19_Survey.child_phase3_sdq.sdq_ebddiff_hwlong,How long have these difficulties been present?,decimal,,0|1|2|3,Less than a month|1-5 months|6-12 months|Over a year
+sdq_distres,COVID19_Survey.child_phase3_sdq.sdq_distres,Do the difficulties upset or distress your child?,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+sdq_imphome,COVID19_Survey.child_phase3_sdq.sdq_imphome,Do difficulties interfere with childs home life?,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+sdq_impfrie,COVID19_Survey.child_phase3_sdq.sdq_impfrie,Do difficulties interfere with childs friendships?,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+sdq_impclas,COVID19_Survey.child_phase3_sdq.sdq_impclas,Do difficulties interfere with childs classroom learning?,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+sdq_impleis,COVID19_Survey.child_phase3_sdq.sdq_impleis,Do difficulties interfere with childs leisure activities?,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+sdq_burden,COVID19_Survey.child_phase3_sdq.sdq_burden,Do difficulties put a burden on you/family?,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
 end_sbmit_sdq,COVID19_Survey.child_phase3_sdq.end_sbmit_sdq, Please confirm that you have completed your questionnaire:,decimal,,1,"Yes, Im ready to submit"
 childsdq_complete,COVID19_Survey.child_phase3_sdq.childsdq_complete,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
 c19c2_date_id,COVID19_Survey.child_phase3_sdq.c19c2_date_id,Please write todays date,date,,,

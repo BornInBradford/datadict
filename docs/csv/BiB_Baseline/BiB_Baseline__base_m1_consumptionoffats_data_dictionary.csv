@@ -1,0 +1,22 @@
+variable,full_name,label,value_type,description,categories,categories_label
+PregnancyID,BiB_Baseline.base_m1_consumptionoffats.PregnancyID,Pregnancy identifier,text,,,
+BiBPregNumber,BiB_Baseline.base_m1_consumptionoffats.BiBPregNumber,Pregnancy number within BiB,decimal,,,
+version,BiB_Baseline.base_m1_consumptionoffats.version,Baseline questionnaire version,decimal,,,
+fat1fspbrd,BiB_Baseline.base_m1_consumptionoffats.fat1fspbrd,In the last 4 weeks have you used a fat spread on toast,decimal,,1|2|3|4|5,Always|Sometimes|Never|Do not eat bread or toast|Don't know
+fat1fsbtgh,BiB_Baseline.base_m1_consumptionoffats.fat1fsbtgh,Butter or ghee spread on bread or toast,decimal,,1|2,Yes|No
+fat1fsplum,BiB_Baseline.base_m1_consumptionoffats.fat1fsplum,Ployunsaturated margarine spread on bread or toast,decimal,,1|2,Yes|No
+fat1fsbutm,BiB_Baseline.base_m1_consumptionoffats.fat1fsbutm,Butter type margarine spread on bread or toast,decimal,,1|2,Yes|No
+fat1fsmolv,BiB_Baseline.base_m1_consumptionoffats.fat1fsmolv,Margarine with olive oil spread on bread or toast,decimal,,1|2,Yes|No
+fat1fslowf,BiB_Baseline.base_m1_consumptionoffats.fat1fslowf,Diet or low fat spread spread on bread or toast,decimal,,1|2,Yes|No
+fat1fscred,BiB_Baseline.base_m1_consumptionoffats.fat1fscred,Cholesterol - reducing spread spread on bread or toast,decimal,,1|2,Yes|No
+fat1fspveh,BiB_Baseline.base_m1_consumptionoffats.fat1fspveh,In the last 4 weeks have you used a fat spread on vegetables,decimal,,1|2,Yes|No
+fat1ckbutt,BiB_Baseline.base_m1_consumptionoffats.fat1ckbutt,In last 4 weeks used butter as cooking fat,decimal,,1|2,Yes|No
+fat1ckghee,BiB_Baseline.base_m1_consumptionoffats.fat1ckghee,In last 4 weeks used ghee as cooking fat,decimal,,1|2,Yes|No
+fat1cklard,BiB_Baseline.base_m1_consumptionoffats.fat1cklard,In last 4 weeks used lard/dripping as cooking fat,decimal,,1|2,Yes|No
+fat1ckvoil,BiB_Baseline.base_m1_consumptionoffats.fat1ckvoil,In last 4 weeks used vegitable oil as cooking fat,decimal,,1|2,Yes|No
+fat1ckswvf,BiB_Baseline.base_m1_consumptionoffats.fat1ckswvf,In last 4 weeks used solid white vegetable fat as cooking fat,decimal,,1|2,Yes|No
+fat1ckmarg,BiB_Baseline.base_m1_consumptionoffats.fat1ckmarg,In last 4 weeks used margarine as cooking fat,decimal,,1|2,Yes|No
+fat1cknone,BiB_Baseline.base_m1_consumptionoffats.fat1cknone,In last 4 weeks used no cooking fat,decimal,,1|2,Yes|No
+fat1ckothr,BiB_Baseline.base_m1_consumptionoffats.fat1ckothr,In last 4 weeks used other cooking fat used,text,,,
+fat1vmtype,BiB_Baseline.base_m1_consumptionoffats.fat1vmtype,Type of vegetable oil or margarine used,decimal,,1|2|3|4,Sunflower Oil|Olive Oil|Corn Oil|Vegetable Oil
+fat1vmothr,BiB_Baseline.base_m1_consumptionoffats.fat1vmothr,Type of vegetable oil or margarine used - Other,text,,,

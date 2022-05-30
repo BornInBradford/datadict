@@ -5776,6 +5776,91 @@ BiB_Baseline,base_m_survey_wide,vit0vitcpr_p3,BiB_Baseline.base_m_survey_wide.vi
 BiB_Baseline,base_m_survey_wide,vit0vitdpr_p3,BiB_Baseline.base_m_survey_wide.vit0vitdpr_p3,Vitamin D during pregnancy,text,,1.0|2.0|3.0|4.0|5.0,Daily|5-6 per week|2-4 per week|Once a week|Less often
 BiB_Baseline,base_m_survey_wide,vit0vitepr_p3,BiB_Baseline.base_m_survey_wide.vit0vitepr_p3,Vitamin E during pregnancy,text,,1.0|2.0|3.0|4.0|5.0,Daily|5-6 per week|2-4 per week|Once a week|Less often
 BiB_Baseline,base_m_survey_wide,vit0vitipr_p3,BiB_Baseline.base_m_survey_wide.vit0vitipr_p3,Taken any vitamins or iron tablets in last 4 weeks of pregnancy,text,,1.0|2.0|3.0,Yes|No|Don't remember
+BiB_Baseline,base_m2_foodfrequency,PregnancyID,BiB_Baseline.base_m2_foodfrequency.PregnancyID,Pregnancy identifier,text,,,
+BiB_Baseline,base_m2_foodfrequency,BiBPregNumber,BiB_Baseline.base_m2_foodfrequency.BiBPregNumber,Pregnancy number within BiB,decimal,,,
+BiB_Baseline,base_m2_foodfrequency,version,BiB_Baseline.base_m2_foodfrequency.version,Baseline questionnaire version,decimal,,,
+BiB_Baseline,base_m2_foodfrequency,ffq2pchips,BiB_Baseline.base_m2_foodfrequency.ffq2pchips,Frequency consumed one portion of chips,decimal,,1|2|3|4|5|6|7|8,Rarely or never|Less than 1 in a week|Once a week|2-3 times a week|4-6 times a week|1-2 times a day|3-4 times a day|5+ times a day
+BiB_Baseline,base_m2_foodfrequency,ffq2othpot,BiB_Baseline.base_m2_foodfrequency.ffq2othpot,"Frequency consumed one portion of fried or roast potatoes, hash browns or potato",decimal,,1|2|3|4|5|6|7|8,Rarely or never|Less than 1 in a week|Once a week|2-3 times a week|4-6 times a week|1-2 times a day|3-4 times a day|5+ times a day
+BiB_Baseline,base_m2_foodfrequency,ffq2fibcer,BiB_Baseline.base_m2_foodfrequency.ffq2fibcer,Frequency consumed one portion of fibre or bran rich wheat cereals like Weetabix,decimal,,1|2|3|4|5|6|7|8,Rarely or never|Less than 1 in a week|Once a week|2-3 times a week|4-6 times a week|1-2 times a day|3-4 times a day|5+ times a day
+BiB_Baseline,base_m2_foodfrequency,ffq2oatcer,BiB_Baseline.base_m2_foodfrequency.ffq2oatcer,"Frequency consumed one portion of oat cereals including muesli, porridge, crunch",decimal,,1|2|3|4|5|6|7|8,Rarely or never|Less than 1 in a week|Once a week|2-3 times a week|4-6 times a week|1-2 times a day|3-4 times a day|5+ times a day
+BiB_Baseline,base_m2_foodfrequency,ffq2othcer,BiB_Baseline.base_m2_foodfrequency.ffq2othcer,"Frequency consumed one portion of other cereals like cheerios, cornflakes or ric",decimal,,1|2|3|4|5|6|7|8,Rarely or never|Less than 1 in a week|Once a week|2-3 times a week|4-6 times a week|1-2 times a day|3-4 times a day|5+ times a day
+BiB_Baseline,base_m2_foodfrequency,ffq2crisbr,BiB_Baseline.base_m2_foodfrequency.ffq2crisbr,Frequency consumed one portion of crispbread like ryvita,decimal,,1|2|3|4|5|6|7|8,Rarely or never|Less than 1 in a week|Once a week|2-3 times a week|4-6 times a week|1-2 times a day|3-4 times a day|5+ times a day
+BiB_Baseline,base_m2_foodfrequency,ffq2noodle,BiB_Baseline.base_m2_foodfrequency.ffq2noodle,Frequency consumed one portion of pasta or noodles (also pot noodles),decimal,,1|2|3|4|5|6|7|8,Rarely or never|Less than 1 in a week|Once a week|2-3 times a week|4-6 times a week|1-2 times a day|3-4 times a day|5+ times a day
+BiB_Baseline,base_m2_foodfrequency,ffq2savory,BiB_Baseline.base_m2_foodfrequency.ffq2savory,"Frequency consumed one portion of savouries like Yorkshire puddings, dumplings,",decimal,,1|2|3|4|5|6|7|8,Rarely or never|Less than 1 in a week|Once a week|2-3 times a week|4-6 times a week|1-2 times a day|3-4 times a day|5+ times a day
+BiB_Baseline,base_m2_foodfrequency,ffq2potcrs,BiB_Baseline.base_m2_foodfrequency.ffq2potcrs,Frequency consumed one portion of potato crisps,decimal,,1|2|3|4|5|6|7|8,Rarely or never|Less than 1 in a week|Once a week|2-3 times a week|4-6 times a week|1-2 times a day|3-4 times a day|5+ times a day
+BiB_Baseline,base_m2_foodfrequency,ffq2othsal,BiB_Baseline.base_m2_foodfrequency.ffq2othsal,"Frequency consumed one portion of other salted snacks like tortilla chips, Wotsi",decimal,,1|2|3|4|5|6|7|8,Rarely or never|Less than 1 in a week|Once a week|2-3 times a week|4-6 times a week|1-2 times a day|3-4 times a day|5+ times a day
+BiB_Baseline,base_m2_foodfrequency,ffq2cakbun,BiB_Baseline.base_m2_foodfrequency.ffq2cakbun,"Frequency consumed one portion of cakes, buns, gateaux, doughnuts or muffins",decimal,,1|2|3|4|5|6|7|8,Rarely or never|Less than 1 in a week|Once a week|2-3 times a week|4-6 times a week|1-2 times a day|3-4 times a day|5+ times a day
+BiB_Baseline,base_m2_foodfrequency,ffq2swepas,BiB_Baseline.base_m2_foodfrequency.ffq2swepas,"Frequency consumed one portion of sweet pastries like fruit pies, Danish pastrie",decimal,,1|2|3|4|5|6|7|8,Rarely or never|Less than 1 in a week|Once a week|2-3 times a week|4-6 times a week|1-2 times a day|3-4 times a day|5+ times a day
+BiB_Baseline,base_m2_foodfrequency,ffq2chocbr,BiB_Baseline.base_m2_foodfrequency.ffq2chocbr,Frequency consumed one portion of chocolate bars and chocolate coated biscuits e,decimal,,1|2|3|4|5|6|7|8,Rarely or never|Less than 1 in a week|Once a week|2-3 times a week|4-6 times a week|1-2 times a day|3-4 times a day|5+ times a day
+BiB_Baseline,base_m2_foodfrequency,ffq2swebic,BiB_Baseline.base_m2_foodfrequency.ffq2swebic,"Frequency consumed one portion of sweet biscuits like digestive, custard creams,",decimal,,1|2|3|4|5|6|7|8,Rarely or never|Less than 1 in a week|Once a week|2-3 times a week|4-6 times a week|1-2 times a day|3-4 times a day|5+ times a day
+BiB_Baseline,base_m2_foodfrequency,ffq2whbeef,BiB_Baseline.base_m2_foodfrequency.ffq2whbeef,"Frequency consumed one portion of beef (includes steaks, roasts, joints or chops",decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2whpork,BiB_Baseline.base_m2_foodfrequency.ffq2whpork,"Frequency consumed one portion of pork (includes steak, roasts, joints or chops",decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2whlamb,BiB_Baseline.base_m2_foodfrequency.ffq2whlamb,"Frequency consumed one portion of lamb, mutton or goat",decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2whchik,BiB_Baseline.base_m2_foodfrequency.ffq2whchik,"Frequency consumed one portion of chicken or turkey (includes steaks, roasts, jo",decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2prsaus,BiB_Baseline.base_m2_foodfrequency.ffq2prsaus,Frequency consumed one portion of meat sausages e.g. Walls or chipolatas,decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2prburg,BiB_Baseline.base_m2_foodfrequency.ffq2prburg,"Frequency consumed one portion of beef burgers, either home cooked or takeaway",decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2prkebb,BiB_Baseline.base_m2_foodfrequency.ffq2prkebb,Frequency consumed one portion of kebabs,decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2prhotd,BiB_Baseline.base_m2_foodfrequency.ffq2prhotd,"Frequency consumed one portion of hot dogs, frankfurters or saveloys",decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2prbacn,BiB_Baseline.base_m2_foodfrequency.ffq2prbacn,Frequency consumed one portion of bacon rashers,decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2prpies,BiB_Baseline.base_m2_foodfrequency.ffq2prpies,Frequency consumed one portion of meat pies and pastries (including sausage roll,decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2prchng,BiB_Baseline.base_m2_foodfrequency.ffq2prchng,"Frequency consumed one portion of chicken/turkey nuggets, Kiev, turkey or chicke",decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2proham,BiB_Baseline.base_m2_foodfrequency.ffq2proham,Frequency consumed one portion of ham,decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2prdrsa,BiB_Baseline.base_m2_foodfrequency.ffq2prdrsa,"Frequency consumed one portion of cured/dried sausage e.g. chorizo, salami",decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2sauchk,BiB_Baseline.base_m2_foodfrequency.ffq2sauchk,"Frequency consumed one portion of chicken or turkey with a sauce e.g. curry, sti",decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2saubef,BiB_Baseline.base_m2_foodfrequency.ffq2saubef,"Frequency consumed one portion of beef, lamb or goat in sauce, e.g. curry, stew,",decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2sauprk,BiB_Baseline.base_m2_foodfrequency.ffq2sauprk,"Frequency consumed one portion of pork in sauce, e.g. stew, casserole or stir fr",decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2saugvy,BiB_Baseline.base_m2_foodfrequency.ffq2saugvy,Frequency consumed one portion of gravy made with pan or meat juices (not instan,decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2fshbat,BiB_Baseline.base_m2_foodfrequency.ffq2fshbat,Frequency consumed one portion of white fish in batter or breadcrumbs,decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2fshnob,BiB_Baseline.base_m2_foodfrequency.ffq2fshnob,Frequency consumed one portion of white fish not in batter or breadcrumbs e.g. c,decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2tintun,BiB_Baseline.base_m2_foodfrequency.ffq2tintun,Frequency consumed one portion of tinned tuna,decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2fshoil,BiB_Baseline.base_m2_foodfrequency.ffq2fshoil,"Frequency consumed one portion of fresh or tinned oily fish like sardines, macke",decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2fshsmk,BiB_Baseline.base_m2_foodfrequency.ffq2fshsmk,"Frequency consumed one portion of smoked fish like smoked mackerel, kippers or s",decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,ffq2fshsal,BiB_Baseline.base_m2_foodfrequency.ffq2fshsal,Frequency consumed one portion of salted/dried fish e.g. ‘Bombay duck’/bummalo,decimal,,1|2|3|4|5,Rarely or never|Less than 1 in a week|2-3 times a week|4-5 times a week|7+ times a week
+BiB_Baseline,base_m2_foodfrequency,fdk2fveday,BiB_Baseline.base_m2_foodfrequency.fdk2fveday,Are you familiar with the 5 a day recommendations for fruit and vegetables?,decimal,,1|2,Yes|No
+BiB_Baseline,base_m2_foodfrequency,fdk2consfv,BiB_Baseline.base_m2_foodfrequency.fdk2consfv,Do you consume 5 portions of fruit and vegetables per day?,decimal,,1|2|3,Always|Sometimes|Never
+BiB_Baseline,base_m2_foodfrequency,fdk2advhel,BiB_Baseline.base_m2_foodfrequency.fdk2advhel,Where does most of your advice about healthy eating during pregnancy come from,decimal,,1|2|3|4|5|6|7,Family members|Friends|Magazines/Newspapers|Books|GPs/Doctors|Midwives/Health visitors|Other
+BiB_Baseline,base_m1_consumptionoffats,PregnancyID,BiB_Baseline.base_m1_consumptionoffats.PregnancyID,Pregnancy identifier,text,,,
+BiB_Baseline,base_m1_consumptionoffats,BiBPregNumber,BiB_Baseline.base_m1_consumptionoffats.BiBPregNumber,Pregnancy number within BiB,decimal,,,
+BiB_Baseline,base_m1_consumptionoffats,version,BiB_Baseline.base_m1_consumptionoffats.version,Baseline questionnaire version,decimal,,,
+BiB_Baseline,base_m1_consumptionoffats,fat1fspbrd,BiB_Baseline.base_m1_consumptionoffats.fat1fspbrd,In the last 4 weeks have you used a fat spread on toast,decimal,,1|2|3|4|5,Always|Sometimes|Never|Do not eat bread or toast|Don't know
+BiB_Baseline,base_m1_consumptionoffats,fat1fsbtgh,BiB_Baseline.base_m1_consumptionoffats.fat1fsbtgh,Butter or ghee spread on bread or toast,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_consumptionoffats,fat1fsplum,BiB_Baseline.base_m1_consumptionoffats.fat1fsplum,Ployunsaturated margarine spread on bread or toast,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_consumptionoffats,fat1fsbutm,BiB_Baseline.base_m1_consumptionoffats.fat1fsbutm,Butter type margarine spread on bread or toast,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_consumptionoffats,fat1fsmolv,BiB_Baseline.base_m1_consumptionoffats.fat1fsmolv,Margarine with olive oil spread on bread or toast,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_consumptionoffats,fat1fslowf,BiB_Baseline.base_m1_consumptionoffats.fat1fslowf,Diet or low fat spread spread on bread or toast,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_consumptionoffats,fat1fscred,BiB_Baseline.base_m1_consumptionoffats.fat1fscred,Cholesterol - reducing spread spread on bread or toast,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_consumptionoffats,fat1fspveh,BiB_Baseline.base_m1_consumptionoffats.fat1fspveh,In the last 4 weeks have you used a fat spread on vegetables,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_consumptionoffats,fat1ckbutt,BiB_Baseline.base_m1_consumptionoffats.fat1ckbutt,In last 4 weeks used butter as cooking fat,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_consumptionoffats,fat1ckghee,BiB_Baseline.base_m1_consumptionoffats.fat1ckghee,In last 4 weeks used ghee as cooking fat,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_consumptionoffats,fat1cklard,BiB_Baseline.base_m1_consumptionoffats.fat1cklard,In last 4 weeks used lard/dripping as cooking fat,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_consumptionoffats,fat1ckvoil,BiB_Baseline.base_m1_consumptionoffats.fat1ckvoil,In last 4 weeks used vegitable oil as cooking fat,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_consumptionoffats,fat1ckswvf,BiB_Baseline.base_m1_consumptionoffats.fat1ckswvf,In last 4 weeks used solid white vegetable fat as cooking fat,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_consumptionoffats,fat1ckmarg,BiB_Baseline.base_m1_consumptionoffats.fat1ckmarg,In last 4 weeks used margarine as cooking fat,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_consumptionoffats,fat1cknone,BiB_Baseline.base_m1_consumptionoffats.fat1cknone,In last 4 weeks used no cooking fat,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_consumptionoffats,fat1ckothr,BiB_Baseline.base_m1_consumptionoffats.fat1ckothr,In last 4 weeks used other cooking fat used,text,,,
+BiB_Baseline,base_m1_consumptionoffats,fat1vmtype,BiB_Baseline.base_m1_consumptionoffats.fat1vmtype,Type of vegetable oil or margarine used,decimal,,1|2|3|4,Sunflower Oil|Olive Oil|Corn Oil|Vegetable Oil
+BiB_Baseline,base_m1_consumptionoffats,fat1vmothr,BiB_Baseline.base_m1_consumptionoffats.fat1vmothr,Type of vegetable oil or margarine used - Other,text,,,
+BiB_Baseline,base_m12_cookingmethods,PregnancyID,BiB_Baseline.base_m12_cookingmethods.PregnancyID,Pregnancy identifier,text,,,
+BiB_Baseline,base_m12_cookingmethods,BiBPregNumber,BiB_Baseline.base_m12_cookingmethods.BiBPregNumber,Pregnancy number within BiB,decimal,,,
+BiB_Baseline,base_m12_cookingmethods,version,BiB_Baseline.base_m12_cookingmethods.version,Baseline questionnaire version,decimal,,,
+BiB_Baseline,base_m12_cookingmethods,ckmbefstk,BiB_Baseline.base_m12_cookingmethods.ckmbefstk,"Method of cooking beef -steaks, roasts, joints or chops not in sauce",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+BiB_Baseline,base_m12_cookingmethods,ckmbefwel,BiB_Baseline.base_m12_cookingmethods.ckmbefwel,Was beef cooked well done?,decimal,,1|2,Yes|No
+BiB_Baseline,base_m12_cookingmethods,ckmbeburg,BiB_Baseline.base_m12_cookingmethods.ckmbeburg,"Method of cooking beef burgers, either home cooked or takeaway",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+BiB_Baseline,base_m12_cookingmethods,ckmbebwel,BiB_Baseline.base_m12_cookingmethods.ckmbebwel,Were beef burgers cooked well done?,decimal,,1|2,Yes|No
+BiB_Baseline,base_m12_cookingmethods,ckmprkstk,BiB_Baseline.base_m12_cookingmethods.ckmprkstk,"Method of cooking pork- steaks, roasts, joints, or chops (not in sauce)",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+BiB_Baseline,base_m12_cookingmethods,ckmprkwel,BiB_Baseline.base_m12_cookingmethods.ckmprkwel,Was pork cooked well done,decimal,,1|2,Yes|No
+BiB_Baseline,base_m12_cookingmethods,ckmlambst,BiB_Baseline.base_m12_cookingmethods.ckmlambst,"Method of cooking lamb, mutton or goat-steaks, roast, joints or chops not in sau",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+BiB_Baseline,base_m12_cookingmethods,ckmlamwel,BiB_Baseline.base_m12_cookingmethods.ckmlamwel,Was lamb/mutton/goat cooked well done?,decimal,,1|2,Yes|No
+BiB_Baseline,base_m12_cookingmethods,ckmchknst,BiB_Baseline.base_m12_cookingmethods.ckmchknst,"Method of cooking chicken or turkey steaks, roasts, joints or portions (not in b",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+BiB_Baseline,base_m12_cookingmethods,ckmchkwel,BiB_Baseline.base_m12_cookingmethods.ckmchkwel,Was chicken cooked well done?,decimal,,1|2,Yes|No
+BiB_Baseline,base_m12_cookingmethods,ckmmtsaus,BiB_Baseline.base_m12_cookingmethods.ckmmtsaus,Method of cooking meat sausages e.g. walls or chipolatas,decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+BiB_Baseline,base_m12_cookingmethods,ckmsaswel,BiB_Baseline.base_m12_cookingmethods.ckmsaswel,Were sausages cooked well done?,decimal,,1|2,Yes|No
+BiB_Baseline,base_m12_cookingmethods,ckmbaconr,BiB_Baseline.base_m12_cookingmethods.ckmbaconr,"Method of cooking bacon rashers, chops or bacon ribs",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+BiB_Baseline,base_m12_cookingmethods,ckmbacwel,BiB_Baseline.base_m12_cookingmethods.ckmbacwel,Was bacon cooked well done?,decimal,,1|2,Yes|No
+BiB_Baseline,base_m12_cookingmethods,ckmwhtfsh,BiB_Baseline.base_m12_cookingmethods.ckmwhtfsh,Method of cooking white fish fillets or steaks,decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+BiB_Baseline,base_m12_cookingmethods,ckmfshwel,BiB_Baseline.base_m12_cookingmethods.ckmfshwel,Was white fish cooked well done?,decimal,,1|2,Yes|No
+BiB_Baseline,base_m12_cookingmethods,ckmfshoil,BiB_Baseline.base_m12_cookingmethods.ckmfshoil,"Method of cooking oily fish fillets or steaks e.g. salmon, mackeral or trout",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+BiB_Baseline,base_m12_cookingmethods,ckmfshowd,BiB_Baseline.base_m12_cookingmethods.ckmfshowd,Was oily fish cooked well done?,decimal,,1|2,Yes|No
 BiB_Baseline,base_m1_survey,BiBPregNumber,BiB_Baseline.base_m1_survey.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
 BiB_Baseline,base_m1_survey,has_base_m1_survey,BiB_Baseline.base_m1_survey.has_base_m1_survey,Has mother baseline survey (phases 1),decimal,,,
 BiB_Baseline,base_m1_survey,fam1famacc,BiB_Baseline.base_m1_survey.fam1famacc,There are people I know who accept me as I am,decimal,,1|2|3,Not true|Partly true|Certainly true
@@ -6467,17 +6552,25 @@ BiB_Education_Record,edrecs_ks2,writing_TAO,BiB_Education_Record.edrecs_ks2.writ
 BiB_Education_Record,edrecs_ks2,maths_ProgressScore,BiB_Education_Record.edrecs_ks2.maths_ProgressScore,Maths - Progress Score,decimal,,,
 BiB_Education_Record,edrecs_ks2,reading_ProgressScore,BiB_Education_Record.edrecs_ks2.reading_ProgressScore,Reading - Progress Score,decimal,,,
 BiB_Education_Record,edrecs_ks2,writing_ProgressScore,BiB_Education_Record.edrecs_ks2.writing_ProgressScore,Writing - Progress Score,decimal,,,
-BiB_Geographic,res_ch_6m,has_res_ch_6m,BiB_Geographic.res_ch_6m.has_res_ch_6m,Has six monthly residential information child,decimal,,,
-BiB_Geographic,res_ch_6m,has_res6mc,BiB_Geographic.res_ch_6m.has_res6mc,Has: Six monthly residential information: Child,decimal,,1,has
-BiB_Geographic,res_ch_6m,res6mcage,BiB_Geographic.res_ch_6m.res6mcage,Age in months at this address,decimal,,,
-BiB_Geographic,res_ch_6m,res6mcbetterstart,BiB_Geographic.res_ch_6m.res6mcbetterstart,Whether in Better Start Area,decimal,,1|2,No|Yes
-BiB_Geographic,res_ch_6m,res6mcbradford,BiB_Geographic.res_ch_6m.res6mcbradford,Whether in Bradford Local Authority Area,decimal,,1|2,No|Yes
-BiB_Geographic,res_ch_6m,res6mccountry,BiB_Geographic.res_ch_6m.res6mccountry,Country of residence,text,,,
-BiB_Geographic,res_ch_6m,res6mclastrec,BiB_Geographic.res_ch_6m.res6mclastrec,Age in months at last known address,decimal,,,
-BiB_Geographic,res_ch_6m,res6mclocal_a_code,BiB_Geographic.res_ch_6m.res6mclocal_a_code,Local Authority Code,text,,,
-BiB_Geographic,res_ch_6m,res6mclocal_a_name,BiB_Geographic.res_ch_6m.res6mclocal_a_name,Local Authority Name,text,,,
-BiB_Geographic,res_ch_6m,res6mclsoa_code,BiB_Geographic.res_ch_6m.res6mclsoa_code,Lower Super Output Area Code,text,,,
-BiB_Geographic,res_ch_6m,res6mclsoa_name,BiB_Geographic.res_ch_6m.res6mclsoa_name,Lower Super Output Area Name,text,,,
+BiB_Geographic,ch_core_geog,date_address_data,BiB_Geographic.ch_core_geog.date_address_data,Date of latest available address data,date,,,
+BiB_Geographic,ch_core_geog,child_age_m,BiB_Geographic.ch_core_geog.child_age_m,Childs actual age (months),decimal,,,
+BiB_Geographic,ch_core_geog,age_closest_data_point,BiB_Geographic.ch_core_geog.age_closest_data_point,Age at data point closest to childs actual age,decimal,,,
+BiB_Geographic,ch_core_geog,temporal_accuracy_m,BiB_Geographic.ch_core_geog.temporal_accuracy_m,Difference in months between childs age at closest data point and actual age,decimal,,,
+BiB_Geographic,ch_core_geog,LSOA11CD,BiB_Geographic.ch_core_geog.LSOA11CD,LSOA 2011 code,text,,,
+BiB_Geographic,ch_core_geog,WD21CD,BiB_Geographic.ch_core_geog.WD21CD,Ward 2021 code,text,,,
+BiB_Geographic,ch_core_geog,is_in_bfd_la,BiB_Geographic.ch_core_geog.is_in_bfd_la,Is child in Bradford LA?,decimal,,0|1,No|Yes
+BiB_Geographic,ch_core_geog,is_in_bibbs_area,BiB_Geographic.ch_core_geog.is_in_bibbs_area,Is child in BiBBS area?,decimal,,0|1,No|Yes
+BiB_Geographic,ch_core_geog,data_source,BiB_Geographic.ch_core_geog.data_source,Source of data: registration or tracing,decimal,,1|2,Registration|Tracing
+BiB_Geographic,ch_core_geog,study,BiB_Geographic.ch_core_geog.study,Is child in BiB or BiBBS,decimal,,1|2,BiB|BiBBS
+BiB_Geographic,ch_core_geog,not_in_eng_wales,BiB_Geographic.ch_core_geog.not_in_eng_wales,If yes (1) sensitive columns have been set to NA to avoid disclosure of data,decimal,,0|1,No|Yes
+BiB_Geographic,ch_core_geog,missing_address_data,BiB_Geographic.ch_core_geog.missing_address_data,If yes (1) then address data was not available from tracing or registration data,decimal,,0|1,No|Yes
+BiB_Geographic,ch_core_geog,poor_qual_data,BiB_Geographic.ch_core_geog.poor_qual_data,"If yes (1), the geocoded data is poor quality and has been removed",decimal,,0|1,No|Yes
+BiB_Geographic,house_nbhd,child_age_m,BiB_Geographic.house_nbhd.child_age_m,Childs actual age (months),decimal,,,
+BiB_Geographic,house_nbhd,IMD_2010_decile,BiB_Geographic.house_nbhd.IMD_2010_decile,IMD 2010 decile,decimal,,,
+BiB_Geographic,house_nbhd,IMD_2010_score,BiB_Geographic.house_nbhd.IMD_2010_score,IMD 2010 score,decimal,,,
+BiB_Geographic,house_nbhd,IMD_2019_decile,BiB_Geographic.house_nbhd.IMD_2019_decile,IMD 2019 decile,decimal,,,
+BiB_Geographic,house_nbhd,IMD_2019_score,BiB_Geographic.house_nbhd.IMD_2019_score,IMD 2019 score,decimal,,,
+BiB_Geographic,house_nbhd,property_type,BiB_Geographic.house_nbhd.property_type,Property type,decimal,,1|2|3|4|5,Terraced|Semi-Detached|Self Contained Flat (Includes Maisonette / Apartment)|Detached|Other
 BiB_GrowingUp,participant_pathway,participant_type,BiB_GrowingUp.participant_pathway.participant_type,Participant type,decimal,,1|2|3|4,Mother|Child|Father|GUPartner
 BiB_GrowingUp,participant_pathway,invited_gu,BiB_GrowingUp.participant_pathway.invited_gu,Growing Up invitation letter sent,decimal,,0|1,No|Yes
 BiB_GrowingUp,participant_pathway,invited_online,BiB_GrowingUp.participant_pathway.invited_online,Growing Up web survey invitation letter sent,decimal,,0|1,No|Yes
