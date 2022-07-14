@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ef_task_corsi/ef_task_corsi_bib/</guid>
       <description>Table ID: BiB_PrimarySchoolYears.ef_task_corsi_bib
 github | csv
-   Entity type Variables Entities Updated     Participant 14 6036 2022-04-01    Copy of ef_task_corsi, only containing BiB records
+   Entity type Variables Entities Updated     Participant 14 6036 2022-07-05    Copy of ef_task_corsi, only containing BiB records
    variable label value_type summary     BiBPersonID  text 6036 unique values
 6036 non-missing values
 8 characters

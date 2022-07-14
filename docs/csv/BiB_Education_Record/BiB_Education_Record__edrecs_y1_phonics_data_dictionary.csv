@@ -11,5 +11,9 @@ phonics_standard1,BiB_Education_Record.edrecs_y1_phonics.phonics_standard1,Wheth
 phonics_standard2,BiB_Education_Record.edrecs_y1_phonics.phonics_standard2,Whether reached phonics standard - Test 2,decimal,,1|2,No|Yes
 phonics_testestablishment1,BiB_Education_Record.edrecs_y1_phonics.phonics_testestablishment1,School Code where Test 1 conducted: Phonics,text,,,
 phonics_testestablishment2,BiB_Education_Record.edrecs_y1_phonics.phonics_testestablishment2,School Code where Test 2 conducted: Phonics,text,,,
-phonics_yeartested1,BiB_Education_Record.edrecs_y1_phonics.phonics_yeartested1,Year of Test 1: Phonics,decimal,,,
-phonics_yeartested2,BiB_Education_Record.edrecs_y1_phonics.phonics_yeartested2,Year of Test 2: Phonics,decimal,,,
+date_est1,BiB_Education_Record.edrecs_y1_phonics.date_est1,Estimated date of assessment - Test 1,date,,,
+age_months_est1,BiB_Education_Record.edrecs_y1_phonics.age_months_est1,Estimated age in months at assessment - Test 1,decimal,,,
+age_years_est1,BiB_Education_Record.edrecs_y1_phonics.age_years_est1,Estimated age in years at assessment - Test 1,decimal,,,
+date_est2,BiB_Education_Record.edrecs_y1_phonics.date_est2,Estimated date of assessment - Test 2,date,,,
+age_months_est2,BiB_Education_Record.edrecs_y1_phonics.age_months_est2,Estimated age in months at assessment - Test 2,decimal,,,
+age_years_est2,BiB_Education_Record.edrecs_y1_phonics.age_years_est2,Estimated age in years at assessment - Test 2,decimal,,,

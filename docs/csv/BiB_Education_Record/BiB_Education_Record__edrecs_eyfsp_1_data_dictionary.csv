@@ -19,5 +19,7 @@ eyfsp_pre2013_sd,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_sd,"EYFSP pre
 eyfsp_pre2013_ssm,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_ssm,"EYFSP pre 2013 - Prob Solving, reasoning, numeracy: Shape, space, measures",decimal,,,
 eyfsp_pre2013_testestablishment,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_testestablishment,School Code where test conducted: EYFSP pre 2013,text,,,
 eyfsp_pre2013_write,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_write,"EYFSP pre 2013 - Comm, lang and lit: Writing",decimal,,,
-eyfsp_pre2013_yeartested,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_yeartested,Year of test: EYFSP pre 2013,decimal,,,
 has_eyfsp1,BiB_Education_Record.edrecs_eyfsp_1.has_eyfsp1,Has: Early Years Foundation Stage Profile: pre 2013,decimal,,1,has
+date_est,BiB_Education_Record.edrecs_eyfsp_1.date_est,Estimated date of assessment,date,,,
+age_months_est,BiB_Education_Record.edrecs_eyfsp_1.age_months_est,Estimated age in months at assessment,decimal,,,
+age_years_est,BiB_Education_Record.edrecs_eyfsp_1.age_years_est,Estimated age in years at assessment,decimal,,,

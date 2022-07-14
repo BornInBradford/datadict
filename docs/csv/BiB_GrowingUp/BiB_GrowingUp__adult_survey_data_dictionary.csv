@@ -82,15 +82,14 @@ guadtPartJobTitle,BiB_GrowingUp.adult_survey.guadtPartJobTitle,What is/was your 
 guadtPartnerTypeWork,BiB_GrowingUp.adult_survey.guadtPartnerTypeWork,Which of these best describes the sort of work your partner does/did?,decimal,,1|2|3|4|5|6|7|8|9,Modern professional|Clerical and intermediate|Senior managers/administrators|Technical and craft|Semi-routine manual|Routine manual and service|Middle/junior managers|Traditional professional|Other
 guadtPartnerTypeWork_other,BiB_GrowingUp.adult_survey.guadtPartnerTypeWork_other,Which of these describes the other sort of work partner does/did,text,,,
 guadtPartNS_SEC,BiB_GrowingUp.adult_survey.guadtPartNS_SEC,Partner's NS-SEC category,decimal,,1|2|3|4|5,"Managerial, administrative and professional occupations|Intermediate occupations|Small employers and own account workers|Lower supervisory and technical occupations|Semi-routine and routine occupations"
-guadtHouseBenefits,BiB_GrowingUp.adult_survey.guadtHouseBenefits,Do you receive benefits,decimal,,,
-guadtHouseBenefits_1,BiB_GrowingUp.adult_survey.guadtHouseBenefits_1,Do you receive housing related benefits,decimal,,1,Yes
-guadtHouseBenefits_2,BiB_GrowingUp.adult_survey.guadtHouseBenefits_2,Do you receive disability benefits,decimal,,1,Yes
-guadtHouseBenefits_3,BiB_GrowingUp.adult_survey.guadtHouseBenefits_3,Do you receive carers credit,decimal,,1,Yes
-guadtHouseBenefits_4,BiB_GrowingUp.adult_survey.guadtHouseBenefits_4,Do you receive unemployment related benefits,decimal,,1,Yes
-guadtHouseBenefits_5,BiB_GrowingUp.adult_survey.guadtHouseBenefits_5,Do you receive universal credit,decimal,,1,Yes
-guadtHouseBenefits_6,BiB_GrowingUp.adult_survey.guadtHouseBenefits_6,Don't received any of the listed benefits,decimal,,1,Yes
-guadtHouseBenefits_77,BiB_GrowingUp.adult_survey.guadtHouseBenefits_77,Doesn't wish to answer question about benefits,decimal,,1,Yes
-guadtHouseBenefits_99,BiB_GrowingUp.adult_survey.guadtHouseBenefits_99,Doesn't know if in receipt of any benefits,decimal,,1,Yes
+guadtBenefits_Housing,BiB_GrowingUp.adult_survey.guadtBenefits_Housing,Do you receive housing related benefits,decimal,,1,Yes
+guadtBenefits_Disability,BiB_GrowingUp.adult_survey.guadtBenefits_Disability,Do you receive disability benefits,decimal,,1,Yes
+guadtBenefits_CarersCredit,BiB_GrowingUp.adult_survey.guadtBenefits_CarersCredit,Do you receive carers credit,decimal,,1,Yes
+guadtBenefits_Unemployment,BiB_GrowingUp.adult_survey.guadtBenefits_Unemployment,Do you receive unemployment related benefits,decimal,,1,Yes
+guadtBenefits_UniversalCredit,BiB_GrowingUp.adult_survey.guadtBenefits_UniversalCredit,Do you receive universal credit,decimal,,1,Yes
+guadtBenefits_NoneOfListed,BiB_GrowingUp.adult_survey.guadtBenefits_NoneOfListed,Don't received any of the listed benefits,decimal,,1,Yes
+guadtBenefits_NotWishToAnswer,BiB_GrowingUp.adult_survey.guadtBenefits_NotWishToAnswer,Doesn't wish to answer question about benefits,decimal,,1,Yes
+guadtBenefits_Dontknow,BiB_GrowingUp.adult_survey.guadtBenefits_Dontknow,Doesn't know if in receipt of any benefits,decimal,,1,Yes
 guadtManagingFinance,BiB_GrowingUp.adult_survey.guadtManagingFinance,How well is your household managing financially these days,decimal,,1|2|3|4|5|6,Living comfortably|Doing alright|Just about getting by|Finding it quite difficult|Finding it very difficult|Do not wish to answer
 guadtFinanceLastYear,BiB_GrowingUp.adult_survey.guadtFinanceLastYear,How well is your household managing financially compared to 1 yr ago,decimal,,1|2|3|4,Better off|Worse off|About the same|Do not wish to answer
 guadtMoneyWorry,BiB_GrowingUp.adult_survey.guadtMoneyWorry,How often have you worried about money in the last few weeks,decimal,,1|2|3|4|5,Never|Only sometimes|Quite often|Almost all the time|Do not wish to answer

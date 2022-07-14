@@ -19,7 +19,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
+Complete: 1309.00 (100.00%)
    bib18b2carer Carer decimal 1 : Husband/Wife/Partner</description>
     </item>
     
@@ -36,7 +36,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
+Complete: 1307.00 (100.00%)
    bib18c04diagnosis Diagnosis text 109 unique values</description>
     </item>
     
@@ -53,7 +53,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
+Complete: 1294.00 (100.00%)
    bib18e9brand Brand of dried baby cereal decimal 1 : Bebivita</description>
     </item>
     
@@ -85,7 +85,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
+Complete: 1293.00 (100.00%)
    bib18e12brand Brand of dried veg/pasta/rice-based meals decimal 1 : Bebivita</description>
     </item>
     
@@ -102,7 +102,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
+Complete: 1294.00 (100.00%)
    bib18e14brand Brand of breakfast meals decimal 1 : Annabel Karmel</description>
     </item>
     
@@ -119,8 +119,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
-   bib18e15brand Brand of meat/fish-based meals decimal 1 : Annabel Karmel</description>
+Complete: 1294.00 (100.00%)</description>
     </item>
     
     <item>
@@ -151,8 +150,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
-   bib18e17brand Brand of milk/cereal-based desserts decimal 1 : Annabel Karmel</description>
+Complete: 1295.00 (100.00%)</description>
     </item>
     
     <item>
@@ -168,8 +166,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
-   bib18e18brand Brand of fruit-based desserts decimal 1 : Annabel Karmel</description>
+Complete: 1297.00 (100.00%)</description>
     </item>
     
     <item>
@@ -185,7 +182,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
+Complete: 1297.00 (100.00%)
    bib18e19brand Brand of pure fruit puree decimal 1 : Annabel Karmel</description>
     </item>
     
@@ -202,8 +199,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
-   bib18e26brand Brand of cereal decimal 1 : Kellogg&amp;rsquo;s</description>
+Complete: 1900.00 (100.00%)</description>
     </item>
     
     <item>
@@ -234,7 +230,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete</description>
+Complete: 1293.</description>
     </item>
     
     <item>
@@ -250,8 +246,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
-   bib18e104amount Amount of other food consumed decimal mean (sd)</description>
+Complete: 1318.00 (100.00%)</description>
     </item>
     
     <item>
@@ -267,7 +262,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete</description>
+Complete: 1293.</description>
     </item>
     
     <item>
@@ -283,7 +278,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete</description>
+Complete: 1293.</description>
     </item>
     
     <item>
@@ -294,7 +289,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_18m_main/bib1000_18m_bib18n/</guid>
       <description>Table ID: BiB_1000.bib1000_18m_bib18n
 github | csv
-   Entity type Variables Entities Updated     Participant 58 1257 2022-04-01    BiB 1000 18 month follow-up child nutrients intake. Derived from Food Frequency Questionnaire from lookup tables of composition of foods. Singletons only (twins and triplets excluded).
+   Entity type Variables Entities Updated     Participant 58 1257 2022-07-05    BiB 1000 18 month follow-up child nutrients intake. Derived from Food Frequency Questionnaire from lookup tables of composition of foods. Singletons only (twins and triplets excluded).
    variable label value_type summary     has_bib1000_18m_bib18n Has bib 1000 18 month child nutrients intake decimal mean (sd)</description>
     </item>
     
@@ -306,12 +301,12 @@ github | csv
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_18m_main/bib1000_growth_18m/</guid>
       <description>Table ID: BiB_1000.bib1000_growth_18m
 github | csv
-   Entity type Variables Entities Updated     Participant 13 1245 2022-04-01    Height and weight measures from the BiB 1000 subcohort at 18m
+   Entity type Variables Entities Updated     Participant 13 1245 2022-07-05    Height and weight measures from the BiB 1000 subcohort at 18m
    variable label value_type summary     has_bib1000_growth_18m Has bib 1000 18m growth decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete</description>
+Complete: 1245.00 (100.</description>
     </item>
     
     <item>
@@ -322,12 +317,12 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_18m_main/bib1000_anthro_18m/</guid>
       <description>Table ID: BiB_1000.bib1000_anthro_18m
 github | csv
-   Entity type Variables Entities Updated     Participant 9 1149 2022-04-01    Child anthropometry from the BiB 1000 subcohort at 18m
+   Entity type Variables Entities Updated     Participant 9 1149 2022-07-05    Child anthropometry from the BiB 1000 subcohort at 18m
    variable label value_type summary     has_bib1000_anthro_18m Has bib 1000 18m anthropometry decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
+Complete: 1149.00 (100.00%)
    agecm_chab18 Child age (months): BiB 1000 18m anthropometry decimal mean (sd)</description>
     </item>
     

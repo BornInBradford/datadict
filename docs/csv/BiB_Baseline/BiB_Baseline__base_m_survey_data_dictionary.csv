@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Baseline.base_m_survey.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
+BiBPregNumber,BiB_Baseline.base_m_survey.BiBPregNumber,"",decimal,,,
 has_base_m_survey,BiB_Baseline.base_m_survey.has_base_m_survey,Has mother baseline survey,decimal,,,
 agemm_mbqall,BiB_Baseline.base_m_survey.agemm_mbqall,Mother age (months): Maternal Baseline Questionnaire,decimal,,,
 agemy_mbqall,BiB_Baseline.base_m_survey.agemy_mbqall,Mother age (years): Maternal Baseline Questionnaire,decimal,,,

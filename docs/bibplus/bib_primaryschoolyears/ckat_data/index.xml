@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ckat_data/ckat_data_bib/</guid>
       <description>Table ID: BiB_PrimarySchoolYears.ckat_data_bib
 github | csv
-   Entity type Variables Entities Updated     Participant 635 6191 2022-04-01    Copy of ckat_data, only containing BiB records
+   Entity type Variables Entities Updated     Participant 635 6191 2022-07-05    Copy of ckat_data, only containing BiB records
    variable value_type summary     BiBPersonID text 6191 unique values
 6191 non-missing values
 8 characters

@@ -1,4 +1,7 @@
 variable,full_name,label,value_type,description,categories,categories_label
+date_est,COVID19_Survey.child_phase3_sdq.date_est,Estimated date of survey completion,date,,,
+age_months_est,COVID19_Survey.child_phase3_sdq.age_months_est,Estimated age in months at survey completion,decimal,,,
+age_years_est,COVID19_Survey.child_phase3_sdq.age_years_est,Estimated age in years at survey completion,decimal,,,
 sdq_gender,COVID19_Survey.child_phase3_sdq.sdq_gender,Gender,decimal,,1|2,Male|Female
 sdq_consid,COVID19_Survey.child_phase3_sdq.sdq_consid,Considerate of other peoples feelings,decimal,,0|1|2,Not true|Somewhat true|Certainly true
 sdq_restles,COVID19_Survey.child_phase3_sdq.sdq_restles,"Restless, overactive, cannot stay still for long",decimal,,0|1|2,Not true|Somewhat true|Certainly true
@@ -35,5 +38,3 @@ sdq_impleis,COVID19_Survey.child_phase3_sdq.sdq_impleis,Do difficulties interfer
 sdq_burden,COVID19_Survey.child_phase3_sdq.sdq_burden,Do difficulties put a burden on you/family?,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
 end_sbmit_sdq,COVID19_Survey.child_phase3_sdq.end_sbmit_sdq, Please confirm that you have completed your questionnaire:,decimal,,1,"Yes, Im ready to submit"
 childsdq_complete,COVID19_Survey.child_phase3_sdq.childsdq_complete,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
-c19c2_date_id,COVID19_Survey.child_phase3_sdq.c19c2_date_id,Please write todays date,date,,,
-sdq_date_id,COVID19_Survey.child_phase3_sdq.sdq_date_id,Todays date,date,,,

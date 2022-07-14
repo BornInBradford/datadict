@@ -19,5 +19,7 @@ eyfsp_post2013_testestablishment,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2
 eyfsp_post2013_utw_elg13,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_utw_elg13,EYFSP- Understanding the world: People and communities,decimal,,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
 eyfsp_post2013_utw_elg14,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_utw_elg14,EYFSP- Understanding the world: The world,decimal,,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
 eyfsp_post2013_utw_elg15,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_utw_elg15,EYFSP- Understanding the world: Technology,decimal,,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
-eyfsp_post2013_yeartested,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_yeartested,Year of test: EYFSP,decimal,,,
 has_eyfsp2,BiB_Education_Record.edrecs_eyfsp_2.has_eyfsp2,Has: Early Years Foundation Stage Profile: 2013 Plus,decimal,,1,has
+date_est,BiB_Education_Record.edrecs_eyfsp_2.date_est,Estimated date of assessment,date,,,
+age_months_est,BiB_Education_Record.edrecs_eyfsp_2.age_months_est,Estimated age in months at assessment,decimal,,,
+age_years_est,BiB_Education_Record.edrecs_eyfsp_2.age_years_est,Estimated age in years at assessment,decimal,,,

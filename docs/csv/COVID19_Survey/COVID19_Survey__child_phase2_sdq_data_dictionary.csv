@@ -1,7 +1,9 @@
 variable,full_name,label,value_type,description,categories,categories_label
 Cohort,COVID19_Survey.child_phase2_sdq.Cohort,Cohort,text,,,
 Gender,COVID19_Survey.child_phase2_sdq.Gender,Child's gender,decimal,,1|2,Male|Female
-age_in_years,COVID19_Survey.child_phase2_sdq.age_in_years,Age in years,decimal,,,
+date_est,COVID19_Survey.child_phase2_sdq.date_est,Estimated date of survey completion,date,,,
+age_months_est,COVID19_Survey.child_phase2_sdq.age_months_est,Estimated age in months at survey completion,decimal,,,
+age_years_est,COVID19_Survey.child_phase2_sdq.age_years_est,Estimated age in years at survey completion,decimal,,,
 ethnicity_mother,COVID19_Survey.child_phase2_sdq.ethnicity_mother,Ethnic group (mother),decimal,,1|2|3,White British|Pakistani|Other
 sdq_consid,COVID19_Survey.child_phase2_sdq.sdq_consid,Considerate of other peoples feelings,decimal,,0|1|2,Not True|Somewhat True|Certainly True
 sdq_restles,COVID19_Survey.child_phase2_sdq.sdq_restles,"Restless, overactive, cannot stay still for long",decimal,,0|1|2,Not True|Somewhat True|Certainly True

@@ -14,12 +14,12 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/child_info/</guid>
       <description>Table ID: BiB_CohortInfo.child_info
 github | csv
-   Entity type Variables Entities Updated     Participant 7 13858 2020-12-03    Administrative cohort information on Child participants.
+   Entity type Variables Entities Updated     Participant 7 13858 2022-07-05    Administrative cohort information on Child participants.
    variable label value_type summary     has_child_info Has person information child decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
+Complete: 13858.00 (100.00%)
    admincbirthorder Child birth order decimal mean (sd)</description>
     </item>
     
@@ -31,12 +31,12 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/father_info/</guid>
       <description>Table ID: BiB_CohortInfo.father_info
 github | csv
-   Entity type Variables Entities Updated     Participant 8 3353 2022-04-01    Administrative cohort information on Father participants.
+   Entity type Variables Entities Updated     Participant 8 3353 2022-07-05    Administrative cohort information on Father participants.
    variable label value_type summary     has_father_info Has person information father decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
+Complete: 3353.00 (100.00%)
    adminfagerecm Father age at recruitment (months) decimal mean (sd)</description>
     </item>
     
@@ -48,12 +48,12 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/mother_info/</guid>
       <description>Table ID: BiB_CohortInfo.mother_info
 github | csv
-   Entity type Variables Entities Updated     Participant 8 12453 2022-04-01    Administrative cohort information on Mother participants.
+   Entity type Variables Entities Updated     Participant 8 12453 2022-07-05    Administrative cohort information on Mother participants.
    variable label value_type summary     has_mother_info Has person information mother decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-100.00% complete
+Complete: 12453.00 (100.00%)
    adminmagerecm Mother age at recruitment (months) decimal mean (sd)</description>
     </item>
     

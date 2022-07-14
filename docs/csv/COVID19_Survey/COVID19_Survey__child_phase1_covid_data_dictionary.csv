@@ -1,7 +1,9 @@
 variable,full_name,label,value_type,description,categories,categories_label
 Cohort,COVID19_Survey.child_phase1_covid.Cohort,Cohort,text,,,
 Gender,COVID19_Survey.child_phase1_covid.Gender,Child's gender,decimal,,0|1,Male|Female
-age_in_years,COVID19_Survey.child_phase1_covid.age_in_years,Age in years,decimal,,,
+date_est,COVID19_Survey.child_phase1_covid.date_est,Estimated date of survey completion,date,,,
+age_months_est,COVID19_Survey.child_phase1_covid.age_months_est,Estimated age in months at survey completion,decimal,,,
+age_years_est,COVID19_Survey.child_phase1_covid.age_years_est,Estimated age in years at survey completion,decimal,,,
 ethnicity_mother,COVID19_Survey.child_phase1_covid.ethnicity_mother,Ethnic group (mother),decimal,,1|2|3,White British|Pakistani|Other
 ward,COVID19_Survey.child_phase1_covid.ward,Ward as at March 2020,text,,,
 imdrank,COVID19_Survey.child_phase1_covid.imdrank,IMD 2019 National Rank (1 = most deprved),decimal,,,

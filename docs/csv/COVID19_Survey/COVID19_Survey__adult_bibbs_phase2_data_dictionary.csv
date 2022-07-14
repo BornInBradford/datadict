@@ -133,7 +133,6 @@ wc_chllnge_c19b2,COVID19_Survey.adult_bibbs_phase2.wc_chllnge_c19b2,48) Can you 
 wc_easier_c19b2_rev1,COVID19_Survey.adult_bibbs_phase2.wc_easier_c19b2_rev1,49) Can you tell us whether there are any parts of your life that have continued,text,,,
 fl_skillsprnt_c19b2,COVID19_Survey.adult_bibbs_phase2.fl_skillsprnt_c19b2,50) I honestly believe I have all the skills necessary to be a good parent to my,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
 c19b2_yc_0_24_dsc,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_dsc,Do you have a child under 24 months? If you have more than one child aged 0 to 2,decimal,,0|1,No|Yes
-c19b2_yc_0_24_dob,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_dob,51) What is the date of birth of your baby/child:,date,,,
 c19b2_yc_0_24_prtnr,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_prtnr,Partner,decimal,,0|1,No|Yes
 c19b2_yc_0_24_gprnt,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_gprnt,Babys grandparents,decimal,,0|1,No|Yes
 c19b2_yc_0_24_rltve,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_rltve,Other relative,decimal,,0|1,No|Yes
@@ -178,7 +177,6 @@ hyb_someoneels_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_someoneels_c19b2,I fe
 hyb_lkforward_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_lkforward_c19b2,When weve been apart I look forward to seeing my baby again,decimal,,1|2|3|4,Never|Sometimes|Often|Always
 hyb_enjoyplying_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_enjoyplying_c19b2,I enjoy playing with my baby,decimal,,1|2|3|4,Never|Sometimes|Often|Always
 c19b2_yc_2_4yr_dsc,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_dsc,Do you have children aged between 2 and 4 years old? If you have more than one c,decimal,,0|1,No|Yes
-c19b2_yc_2_4yr_dob,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_dob,60) What is the date of birth of your child:,date,,,
 c19b2_yc_2_4yr_prtnr,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_prtnr,Partner,decimal,,0|1,No|Yes
 c19b2_yc_2_4yr_gprnt,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_gprnt,Childs grandparents,decimal,,0|1,No|Yes
 c19b2_yc_2_4yr_rltve,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_rltve,Other relative,decimal,,0|1,No|Yes

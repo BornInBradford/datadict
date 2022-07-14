@@ -4,6 +4,8 @@ COVID19_Survey,adult_phase1,BiBPersonID,COVID19_Survey.adult_phase1.BiBPersonID,
 COVID19_Survey,adult_phase1,BiBBSPersonID,COVID19_Survey.adult_phase1.BiBBSPersonID,"",text,,,
 COVID19_Survey,adult_phase1,BiBParticipantType,COVID19_Survey.adult_phase1.BiBParticipantType,BiB Participant Type,text,,,
 COVID19_Survey,adult_phase1,Date,COVID19_Survey.adult_phase1.Date,Date of COVID-19 Adult Wave 1 survey,date,,,
+COVID19_Survey,adult_phase1,age_months,COVID19_Survey.adult_phase1.age_months,Age in months,decimal,,,
+COVID19_Survey,adult_phase1,age_years,COVID19_Survey.adult_phase1.age_years,Age in years,decimal,,,
 COVID19_Survey,adult_phase1,ethnicity,COVID19_Survey.adult_phase1.ethnicity,Ethnic group combined from different cohort data sources,decimal,,1|2|3,White British|Pakistani|Other
 COVID19_Survey,adult_phase1,country,COVID19_Survey.adult_phase1.country,Country,text,,,
 COVID19_Survey,adult_phase1,region,COVID19_Survey.adult_phase1.region,Region,text,,,
@@ -56,11 +58,11 @@ COVID19_Survey,adult_phase1,jbsc_main,COVID19_Survey.adult_phase1.jbsc_main,Who 
 COVID19_Survey,adult_phase1,jbsc_main_crntly,COVID19_Survey.adult_phase1.jbsc_main_crntly,Is the main earner in your household currently...,decimal,,-2|1|2|3|4|5,Dont know|Employed|Employed but not working (on furlough)|Self employed and working|Self employed and not working|Unemployed
 COVID19_Survey,adult_phase1,jbsc_main_hmwfh,COVID19_Survey.adult_phase1.jbsc_main_hmwfh,"Are they mainly working from home, or going out to work?",decimal,,1|2,Working from home|Going out to work
 COVID19_Survey,adult_phase1,jbsc_main_wry_1,COVID19_Survey.adult_phase1.jbsc_main_wry_1,I worry about the job security of the main earner,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
-COVID19_Survey,adult_phase1,jbsc_main_wry_2,COVID19_Survey.adult_phase1.jbsc_main_wry_2,"In the next 12 months, do you expect the income of the main earner is likely to ",decimal,,-2|0|1,Dont know|No|Yes
+COVID19_Survey,adult_phase1,jbsc_main_wry_2,COVID19_Survey.adult_phase1.jbsc_main_wry_2,"In the next 12 months, do you expect the income of the main earner is likely to",decimal,,-2|0|1,Dont know|No|Yes
 COVID19_Survey,adult_phase1,jbsc_main_wry_3,COVID19_Survey.adult_phase1.jbsc_main_wry_3,"In 12 months time, do you expect the main earner to still have their job?",decimal,,-2|0|1,Dont know|No|Yes
 COVID19_Survey,adult_phase1,hhe_buyfood,COVID19_Survey.adult_phase1.hhe_buyfood,I have been able to buy the food I needed in the shops.,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
-COVID19_Survey,adult_phase1,hhe_ddntlast,COVID19_Survey.adult_phase1.hhe_ddntlast,"The food that (I/we) bought just didnt last, and (I/we) didnt have money to get ",decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
-COVID19_Survey,adult_phase1,hhe_balancd,COVID19_Survey.adult_phase1.hhe_balancd,(I/we) couldnt afford to eat balanced meals. ,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
+COVID19_Survey,adult_phase1,hhe_ddntlast,COVID19_Survey.adult_phase1.hhe_ddntlast,"The food that (I/we) bought just didnt last, and (I/we) didnt have money to get",decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
+COVID19_Survey,adult_phase1,hhe_balancd,COVID19_Survey.adult_phase1.hhe_balancd,(I/we) couldnt afford to eat balanced meals.,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
 COVID19_Survey,adult_phase1,hhe_skip,COVID19_Survey.adult_phase1.hhe_skip,Did you or other adults in your household ever cut the size of your meals or ski,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
 COVID19_Survey,adult_phase1,hhe_skipoftn,COVID19_Survey.adult_phase1.hhe_skipoftn,How often did you or other adults cut the size of meals or skip meals?,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Only 1 or 2 days|Some days but not every day|Almost every day
 COVID19_Survey,adult_phase1,hhe_eatless,COVID19_Survey.adult_phase1.hhe_eatless,Did you or other adults ever eat less than you felt you should because there was,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
@@ -79,7 +81,7 @@ COVID19_Survey,adult_phase1,fh_slfisol_nw_why2,COVID19_Survey.adult_phase1.fh_sl
 COVID19_Survey,adult_phase1,fh_slfisol_nw_why3,COVID19_Survey.adult_phase1.fh_slfisol_nw_why3,Why are you self isolating? (choice=Someone in the household had symptoms of cor,decimal,,0|1,No|Yes
 COVID19_Survey,adult_phase1,fh_slfisol_nw_why4,COVID19_Survey.adult_phase1.fh_slfisol_nw_why4,Why are you self isolating? (choice=To protect a vulnerable person in the househ,decimal,,0|1,No|Yes
 COVID19_Survey,adult_phase1,fh_slfisol_nw_why5,COVID19_Survey.adult_phase1.fh_slfisol_nw_why5,Why are you self isolating? (choice=Other),decimal,,0|1,No|Yes
-COVID19_Survey,adult_phase1,fh_slfisol_past,COVID19_Survey.adult_phase1.fh_slfisol_past,"Has your household had to self-isolate for any reason (that is, not leaving the ",decimal,,0|1,No|Yes
+COVID19_Survey,adult_phase1,fh_slfisol_past,COVID19_Survey.adult_phase1.fh_slfisol_past,"Has your household had to self-isolate for any reason (that is, not leaving the",decimal,,0|1,No|Yes
 COVID19_Survey,adult_phase1,fh_slfisol_past_why1,COVID19_Survey.adult_phase1.fh_slfisol_past_why1,What was the reason you had to self-isolate? (choice=Contact with someone with s,decimal,,0|1,No|Yes
 COVID19_Survey,adult_phase1,fh_slfisol_past_why2,COVID19_Survey.adult_phase1.fh_slfisol_past_why2,What was the reason you had to self-isolate? (choice=Had coronavirus symptoms yo,decimal,,0|1,No|Yes
 COVID19_Survey,adult_phase1,fh_slfisol_past_why3,COVID19_Survey.adult_phase1.fh_slfisol_past_why3,What was the reason you had to self-isolate? (choice=Someone in the household ha,decimal,,0|1,No|Yes
@@ -121,7 +123,7 @@ COVID19_Survey,adult_phase1,as_gp_satis,COVID19_Survey.adult_phase1.as_gp_satis,
 COVID19_Survey,adult_phase1,as_111,COVID19_Survey.adult_phase1.as_111,NHS 111 by telephone or online,decimal,,0|1,No|Yes
 COVID19_Survey,adult_phase1,as_acc_111,COVID19_Survey.adult_phase1.as_acc_111,"Were you able to speak to someone, or gain advice online through NHS 111?",decimal,,0|1|2,No|Yes|Havent tried
 COVID19_Survey,adult_phase1,as_111_satis,COVID19_Survey.adult_phase1.as_111_satis,Did you receive the support you needed?,decimal,,0|1|2,No|Definitely|Mostly
-COVID19_Survey,adult_phase1,as_ae,COVID19_Survey.adult_phase1.as_ae,Health emergency services (A&E) ,decimal,,0|1,No|Yes
+COVID19_Survey,adult_phase1,as_ae,COVID19_Survey.adult_phase1.as_ae,Health emergency services (A&E),decimal,,0|1,No|Yes
 COVID19_Survey,adult_phase1,as_acc_ae,COVID19_Survey.adult_phase1.as_acc_ae,Were you able to access emergency care?,decimal,,0|1|2,No|Yes|Havent tried
 COVID19_Survey,adult_phase1,as_ae_satis,COVID19_Survey.adult_phase1.as_ae_satis,Did you receive the support you needed?,decimal,,0|1|2,No|Definitely|Mostly
 COVID19_Survey,adult_phase1,as_spec,COVID19_Survey.adult_phase1.as_spec,A specialist (consultant) doctor or specialist clinic (hospital outpatient) appo,decimal,,0|1,No|Yes
@@ -150,7 +152,7 @@ COVID19_Survey,adult_phase1,as_acc_pharm_mode,COVID19_Survey.adult_phase1.as_acc
 COVID19_Survey,adult_phase1,as_pharm_satis,COVID19_Survey.adult_phase1.as_pharm_satis,Did you receive the support you needed?,decimal,,0|1|2,No|Definitely|Mostly
 COVID19_Survey,adult_phase1,as_othr,COVID19_Survey.adult_phase1.as_othr,Other services e.g. charity/volunteer support,decimal,,0|1,No|Yes
 COVID19_Survey,adult_phase1,as_acc_othr,COVID19_Survey.adult_phase1.as_acc_othr,Were you able to access support from a charity or voluntary organisation?,decimal,,0|1|2,No|Yes|Havent tried
-COVID19_Survey,adult_phase1,as_acc_othr_mode,COVID19_Survey.adult_phase1.as_acc_othr_mode,Did the charity or voluntary organisation provide support in person or over the ,decimal,,1|2,In person|Phone
+COVID19_Survey,adult_phase1,as_acc_othr_mode,COVID19_Survey.adult_phase1.as_acc_othr_mode,Did the charity or voluntary organisation provide support in person or over the,decimal,,1|2,In person|Phone
 COVID19_Survey,adult_phase1,as_othr_satis,COVID19_Survey.adult_phase1.as_othr_satis,Did you receive the support you needed?,decimal,,0|1|2,No|Definitely|Mostly
 COVID19_Survey,adult_phase1,fl_physact,COVID19_Survey.adult_phase1.fl_physact,How often do you currently do any kind of physical activity?,decimal,,1|2|3|4,Never|1 or 2 days a week|Most days|Every day
 COVID19_Survey,adult_phase1,fl_physact_hwmch,COVID19_Survey.adult_phase1.fl_physact_hwmch,"Is this more, less or about the same as you did before lockdown?",decimal,,1|2|3,Less than before|About the same as before|More than before
@@ -180,8 +182,9 @@ COVID19_Survey,adult_phase1,ywb_help,COVID19_Survey.adult_phase1.ywb_help,How ea
 COVID19_Survey,adult_phase1,ywb_lonely,COVID19_Survey.adult_phase1.ywb_lonely,How often have you felt lonely during the past week?,decimal,,-1|-2|0|1|2|3,"Do not wish to answer|Dont know|None, or almost none of the time|Some of the time|Most of the time|All, or almost all of the time"
 COVID19_Survey,adult_bib_phase2,Cohort,COVID19_Survey.adult_bib_phase2.Cohort,Cohort,decimal,,1|2,BiB|Better Start
 COVID19_Survey,adult_bib_phase2,Date,COVID19_Survey.adult_bib_phase2.Date,Date of completion,date,,,
+COVID19_Survey,adult_bib_phase2,age_months,COVID19_Survey.adult_bib_phase2.age_months,Age in months,decimal,,,
+COVID19_Survey,adult_bib_phase2,age_years,COVID19_Survey.adult_bib_phase2.age_years,Age in years,decimal,,,
 COVID19_Survey,adult_bib_phase2,Gender,COVID19_Survey.adult_bib_phase2.Gender,Gender,decimal,,1|2,Female|Male
-COVID19_Survey,adult_bib_phase2,age_in_years,COVID19_Survey.adult_bib_phase2.age_in_years,Age in years,decimal,,,
 COVID19_Survey,adult_bib_phase2,ethnicity_mother_bib,COVID19_Survey.adult_bib_phase2.ethnicity_mother_bib,Ethnic group (mother) BiB coding,decimal,,1|2|3,White British|Pakistani|Other
 COVID19_Survey,adult_bib_phase2,ethnicity_father,COVID19_Survey.adult_bib_phase2.ethnicity_father,Ethnic group (father),decimal,,1|2|3|4|5|6,White|Mixed|Black/Black British|Asian/Asian British|Chinese|Other
 COVID19_Survey,adult_bib_phase2,lsoacode,COVID19_Survey.adult_bib_phase2.lsoacode,LSOA code (2011),text,,,
@@ -195,7 +198,7 @@ COVID19_Survey,adult_bib_phase2,c19a2_yn_outdr_wint,COVID19_Survey.adult_bib_pha
 COVID19_Survey,adult_bib_phase2,c19a2_yn_outdr_spr_sum,COVID19_Survey.adult_bib_phase2.c19a2_yn_outdr_spr_sum,During the spring and summer months (April-August),decimal,,0|1|2|3|4,5 times a week or more|2 to 4 times a week|Once a week|1 to 3 times a month|Less than once a month
 COVID19_Survey,adult_bib_phase2,c19a2_yn_othrs_area,COVID19_Survey.adult_bib_phase2.c19a2_yn_othrs_area,"4) Thinking about your neighbourhood, to what extent do you agree with this stat",decimal,,1|2|3|4|5,Strongly agree|Agree|Neither agree nor disagree|Disagree|Strongly disagree
 COVID19_Survey,adult_bib_phase2,c19a2_yn_outdr_ch,COVID19_Survey.adult_bib_phase2.c19a2_yn_outdr_ch,5) Do children in your area have an outdoor space or facilities nearby where the,decimal,,0|1,No|Yes
-COVID19_Survey,adult_bib_phase2,c19a2_yn_neighbrhd_ch,COVID19_Survey.adult_bib_phase2.c19a2_yn_neighbrhd_ch,6) How would you rate your neighbourhood as a place to bring up children? ,decimal,,1|2|3|4|5,Excellent|Very good|Good|Fair|Poor
+COVID19_Survey,adult_bib_phase2,c19a2_yn_neighbrhd_ch,COVID19_Survey.adult_bib_phase2.c19a2_yn_neighbrhd_ch,6) How would you rate your neighbourhood as a place to bring up children?,decimal,,1|2|3|4|5,Excellent|Very good|Good|Fair|Poor
 COVID19_Survey,adult_bib_phase2,c19a2_yn_sfe_day,COVID19_Survey.adult_bib_phase2.c19a2_yn_sfe_day,During the day,decimal,,1|2|3|4|5,Very safe|Fairly safe|Neither safe or unsafe|Fairly unsafe|Very unsafe
 COVID19_Survey,adult_bib_phase2,c19a2_yn_sfe_ngt,COVID19_Survey.adult_bib_phase2.c19a2_yn_sfe_ngt,After dark,decimal,,1|2|3|4|5,Very safe|Fairly safe|Neither safe or unsafe|Fairly unsafe|Very unsafe
 COVID19_Survey,adult_bib_phase2,c19a2_yn_ppl_trst,COVID19_Survey.adult_bib_phase2.c19a2_yn_ppl_trst,"8) Generally speaking, would you say that most people can be trusted or you cant",decimal,,-2|1|2,Dont know|Can be trusted|Cant be too careful
@@ -213,15 +216,15 @@ COVID19_Survey,adult_bib_phase2,c19a2_jsbc_covid___2,COVID19_Survey.adult_bib_ph
 COVID19_Survey,adult_bib_phase2,c19a2_jsbc_covid___3,COVID19_Survey.adult_bib_phase2.c19a2_jsbc_covid___3,17) Has anyone in your household lost their job since the pandemic started (e.g.,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,jbsc_main_c19a2,COVID19_Survey.adult_bib_phase2.jbsc_main_c19a2,18) Who is the main earner in the household?,decimal,,1|2|3|4,Me|My partner|Other household member|Me and my partner earn the same amount
 COVID19_Survey,adult_bib_phase2,jbsc_main_crntly_c19a2,COVID19_Survey.adult_bib_phase2.jbsc_main_crntly_c19a2,19) Is the main earner in your household currently ...,decimal,,-2|1|2|3|4|5|6,"Dont know|Employed|Employed but not working (on furlough)|Employed on the wage subsidy scheme (e.g., working less hours with wage topped by the Government)|Self employed and working|Self employed and not working|Unemployed - go to question 23"
-COVID19_Survey,adult_bib_phase2,jbsc_main_hmwfh_c19a2,COVID19_Survey.adult_bib_phase2.jbsc_main_hmwfh_c19a2,"20) If the main earner is currently working, are they mainly working from home, ",decimal,,1|2,Working from home|Going out to work
+COVID19_Survey,adult_bib_phase2,jbsc_main_hmwfh_c19a2,COVID19_Survey.adult_bib_phase2.jbsc_main_hmwfh_c19a2,"20) If the main earner is currently working, are they mainly working from home,",decimal,,1|2,Working from home|Going out to work
 COVID19_Survey,adult_bib_phase2,c19a2_jsbc_main_fur,COVID19_Survey.adult_bib_phase2.c19a2_jsbc_main_fur,"21) If the main earner is employed but on furlough, what do they expect to happe",decimal,,-2|1|2|3|4|5|6|7,"Dont know|Return to work on normal hours|Return to work on reduced hours with a loss of pay|Continue to be furloughed|Move onto the wage subsidy scheme (e.g., working less hours with wage topped up by the Government)|Lose their job|Has not been told what will happen to their job|Other"
 COVID19_Survey,adult_bib_phase2,jbsc_main_wry_1_c19a2,COVID19_Survey.adult_bib_phase2.jbsc_main_wry_1_c19a2,I worry about the job security of the main earner,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
-COVID19_Survey,adult_bib_phase2,jbsc_main_wry_2_c19a2,COVID19_Survey.adult_bib_phase2.jbsc_main_wry_2_c19a2,"In the next 12 months, do you expect the income of the main earner is likely to ",decimal,,-2|0|1,Dont know|No|Yes
+COVID19_Survey,adult_bib_phase2,jbsc_main_wry_2_c19a2,COVID19_Survey.adult_bib_phase2.jbsc_main_wry_2_c19a2,"In the next 12 months, do you expect the income of the main earner is likely to",decimal,,-2|0|1,Dont know|No|Yes
 COVID19_Survey,adult_bib_phase2,jbsc_main_wry_3_c19a2,COVID19_Survey.adult_bib_phase2.jbsc_main_wry_3_c19a2,"In 12 months time, do you expect the main earner to still have their job?",decimal,,-2|0|1,Dont know|No|Yes
-COVID19_Survey,adult_bib_phase2,hhe_ddntlast_c19a2,COVID19_Survey.adult_bib_phase2.hhe_ddntlast_c19a2,"The food that (I/we) bought just didnt last, and (I/we) didnt have money to get ",decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
-COVID19_Survey,adult_bib_phase2,hhe_balancd_c19a2,COVID19_Survey.adult_bib_phase2.hhe_balancd_c19a2,(I/we) couldnt afford to eat balanced meals. ,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
+COVID19_Survey,adult_bib_phase2,hhe_ddntlast_c19a2,COVID19_Survey.adult_bib_phase2.hhe_ddntlast_c19a2,"The food that (I/we) bought just didnt last, and (I/we) didnt have money to get",decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
+COVID19_Survey,adult_bib_phase2,hhe_balancd_c19a2,COVID19_Survey.adult_bib_phase2.hhe_balancd_c19a2,(I/we) couldnt afford to eat balanced meals.,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
 COVID19_Survey,adult_bib_phase2,hhe_skip_c19a2,COVID19_Survey.adult_bib_phase2.hhe_skip_c19a2,24) Did you or other adults in your household ever cut the size of your meals or,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
-COVID19_Survey,adult_bib_phase2,c19a2_hhe_skipoftn_rev_1,COVID19_Survey.adult_bib_phase2.c19a2_hhe_skipoftn_rev_1,"If you answered Yes, how often did you or other adults cut the size of meals or ",decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Less than once a month but a few times|Not every week but at least once a month|Every week
+COVID19_Survey,adult_bib_phase2,c19a2_hhe_skipoftn_rev_1,COVID19_Survey.adult_bib_phase2.c19a2_hhe_skipoftn_rev_1,"If you answered Yes, how often did you or other adults cut the size of meals or",decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Less than once a month but a few times|Not every week but at least once a month|Every week
 COVID19_Survey,adult_bib_phase2,hhe_eatless_c19a2,COVID19_Survey.adult_bib_phase2.hhe_eatless_c19a2,25) Did you or other adults ever eat less than you felt you should because there,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
 COVID19_Survey,adult_bib_phase2,hhe_food_dsc_c19a2,COVID19_Survey.adult_bib_phase2.hhe_food_dsc_c19a2,26) Were you ever hungry but didnt eat because there wasnt enough money for food,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
 COVID19_Survey,adult_bib_phase2,c19a2_hhe_fd_bnk___0,COVID19_Survey.adult_bib_phase2.c19a2_hhe_fd_bnk___0,Food banks (choice=Before the pandemic (Jan-Mar 2020)),decimal,,0|1,Unchecked|Checked
@@ -245,13 +248,13 @@ COVID19_Survey,adult_bib_phase2,c19a2_hhe_fd_fai___2,COVID19_Survey.adult_bib_ph
 COVID19_Survey,adult_bib_phase2,c19a2_hhe_fd_fri___0,COVID19_Survey.adult_bib_phase2.c19a2_hhe_fd_fri___0,Food from friends/neighbour (choice=Before the pandemic (Jan-Mar 2020)),decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_hhe_fd_fri___1,COVID19_Survey.adult_bib_phase2.c19a2_hhe_fd_fri___1,Food from friends/neighbour (choice=During lockdown (Mar-Jun 2020)),decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_hhe_fd_fri___2,COVID19_Survey.adult_bib_phase2.c19a2_hhe_fd_fri___2,Food from friends/neighbour (choice=In the last three months (Jul-Sept 2020)),decimal,,0|1,Unchecked|Checked
-COVID19_Survey,adult_bib_phase2,c19a2_hhe_fd_fam___0,COVID19_Survey.adult_bib_phase2.c19a2_hhe_fd_fam___0,Food from family (not living in your home) (choice=Before the pandemic (Jan-Mar ,decimal,,0|1,Unchecked|Checked
+COVID19_Survey,adult_bib_phase2,c19a2_hhe_fd_fam___0,COVID19_Survey.adult_bib_phase2.c19a2_hhe_fd_fam___0,Food from family (not living in your home) (choice=Before the pandemic (Jan-Mar,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_hhe_fd_fam___1,COVID19_Survey.adult_bib_phase2.c19a2_hhe_fd_fam___1,Food from family (not living in your home) (choice=During lockdown (Mar-Jun 2020,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_hhe_fd_fam___2,COVID19_Survey.adult_bib_phase2.c19a2_hhe_fd_fam___2,Food from family (not living in your home) (choice=In the last three months (Jul,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_hhe_fd_oth___0,COVID19_Survey.adult_bib_phase2.c19a2_hhe_fd_oth___0,Other  (choice=Before the pandemic (Jan-Mar 2020)),decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_hhe_fd_oth___1,COVID19_Survey.adult_bib_phase2.c19a2_hhe_fd_oth___1,Other  (choice=During lockdown (Mar-Jun 2020)),decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_hhe_fd_oth___2,COVID19_Survey.adult_bib_phase2.c19a2_hhe_fd_oth___2,Other  (choice=In the last three months (Jul-Sept 2020)),decimal,,0|1,Unchecked|Checked
-COVID19_Survey,adult_bib_phase2,c19a2_hhe_fd_othexp,COVID19_Survey.adult_bib_phase2.c19a2_hhe_fd_othexp,"If you answered other, could you please describe ",text,,,
+COVID19_Survey,adult_bib_phase2,c19a2_hhe_fd_othexp,COVID19_Survey.adult_bib_phase2.c19a2_hhe_fd_othexp,"If you answered other, could you please describe",text,,,
 COVID19_Survey,adult_bib_phase2,hhe_finannow_c19a2,COVID19_Survey.adult_bib_phase2.hhe_finannow_c19a2,28) How well would you say you are managing financially right now?,decimal,,-1|-2|1|2|3|4|5,Do not wish to answer|Dont know|Living comfortably|Doing alright|Just about getting by|Finding it quite difficult|Finding it very difficult
 COVID19_Survey,adult_bib_phase2,hhe_bills_c19a2,COVID19_Survey.adult_bib_phase2.hhe_bills_c19a2,29) Sometimes people are not able to pay every bill when it is due. Are you curr,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
 COVID19_Survey,adult_bib_phase2,hhe_wrypay_c19a2,COVID19_Survey.adult_bib_phase2.hhe_wrypay_c19a2,I worry about paying the rent / mortgage,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
@@ -262,7 +265,7 @@ COVID19_Survey,adult_bib_phase2,fl_physact_outdr_c19a2,COVID19_Survey.adult_bib_
 COVID19_Survey,adult_bib_phase2,fl_physact_ch_c19a2,COVID19_Survey.adult_bib_phase2.fl_physact_ch_c19a2,34) How often do your children do any kind of physical activity?,decimal,,1|2|3|4,Never|1 or 2 days a week|Most days|Every day
 COVID19_Survey,adult_bib_phase2,fl_physact_ch_outdr_c19a2,COVID19_Survey.adult_bib_phase2.fl_physact_ch_outdr_c19a2,35) How often do your children do any kind of physical activity outside?,decimal,,1|2|3|4,Never|1 or 2 days a week|Most days|Every day
 COVID19_Survey,adult_bib_phase2,c19a2_fh_ch_brsh_flu,COVID19_Survey.adult_bib_phase2.c19a2_fh_ch_brsh_flu,36) How often does your child usually brush their teeth (or have them brushed fo,decimal,,1|2|3|4|5,Never|Less than once a day|Once a day|Twice a day|Three or more times a day
-COVID19_Survey,adult_bib_phase2,c19a2_fh_ch_brsh_oft,COVID19_Survey.adult_bib_phase2.c19a2_fh_ch_brsh_oft,"37) Compared to before the pandemic, is this ",decimal,,1|2|3,Less|About the same|More
+COVID19_Survey,adult_bib_phase2,c19a2_fh_ch_brsh_oft,COVID19_Survey.adult_bib_phase2.c19a2_fh_ch_brsh_oft,"37) Compared to before the pandemic, is this",decimal,,1|2|3,Less|About the same|More
 COVID19_Survey,adult_bib_phase2,c19a2_fh_ch_sug_fd,COVID19_Survey.adult_bib_phase2.c19a2_fh_ch_sug_fd,"Sugary foods (this includes chocolates, biscuits, cakes, cereals, sweet pies, pa",decimal,,1|2|3|4|5,Never|Less than once a day|Once a day|Twice a day|Three or more times a day
 COVID19_Survey,adult_bib_phase2,c19a2_fh_ch_sug_dri,COVID19_Survey.adult_bib_phase2.c19a2_fh_ch_sug_dri,"Sugar sweetened drinks (this includes fizzy soft drinks, fruit juice, fruit squa",decimal,,1|2|3|4|5,Never|Less than once a day|Once a day|Twice a day|Three or more times a day
 COVID19_Survey,adult_bib_phase2,c19a2_fh_ch_eat_oft,COVID19_Survey.adult_bib_phase2.c19a2_fh_ch_eat_oft,"39) Compared to before the pandemic, is this",decimal,,1|2|3,Less|About the same|More
@@ -273,7 +276,7 @@ COVID19_Survey,adult_bib_phase2,c19a2_fh_eq5d_act,COVID19_Survey.adult_bib_phase
 COVID19_Survey,adult_bib_phase2,c19a2_fh_eq5d_pain_disc,COVID19_Survey.adult_bib_phase2.c19a2_fh_eq5d_pain_disc,Pain/discomfort,decimal,,1|2|3|4|5,I have extreme pain or discomfort|I have severe pain or discomfort|I have moderate pain or discomfort|I have slight pain or discomfort|I have no pain or discomfort
 COVID19_Survey,adult_bib_phase2,c19a2_fh_eq5d_anx_dep,COVID19_Survey.adult_bib_phase2.c19a2_fh_eq5d_anx_dep,Anxiety/depression,decimal,,1|2|3|4|5,I am extremely anxious or depressed|I am severely anxious or depressed|I am moderately anxious or depressed|I am slightly anxious or depressed|I am not anxious or depressed
 COVID19_Survey,adult_bib_phase2,fh_feeling_c19a2,COVID19_Survey.adult_bib_phase2.fh_feeling_c19a2,42) Which of the following best describes how youve been feeling over the past w,decimal,,0|1|2|3,I do not worry about my health|I occasionally worry about my health|I spend much of my time worrying about my health|I spend most of my time worrying about health
-COVID19_Survey,adult_bib_phase2,c19a2_fh_ons_lifeworth,COVID19_Survey.adult_bib_phase2.c19a2_fh_ons_lifeworth,"43) Overall, to what extent do you feel that the things you do in your life are ",decimal,,0|1|10|2|3|4|5|6|7|8|9,0 = Not at all worthwhile|1|10 = Completely worthwhile|2|3|4|5|6|7|8|9
+COVID19_Survey,adult_bib_phase2,c19a2_fh_ons_lifeworth,COVID19_Survey.adult_bib_phase2.c19a2_fh_ons_lifeworth,"43) Overall, to what extent do you feel that the things you do in your life are",decimal,,0|1|10|2|3|4|5|6|7|8|9,0 = Not at all worthwhile|1|10 = Completely worthwhile|2|3|4|5|6|7|8|9
 COVID19_Survey,adult_bib_phase2,fh_phq_1_c19a2,COVID19_Survey.adult_bib_phase2.fh_phq_1_c19a2,Little interest or pleasure in doing things,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
 COVID19_Survey,adult_bib_phase2,fh_phq_2_c19a2,COVID19_Survey.adult_bib_phase2.fh_phq_2_c19a2,"Feeling down, depressed, or hopeless",decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
 COVID19_Survey,adult_bib_phase2,fh_phq_3_c19a2,COVID19_Survey.adult_bib_phase2.fh_phq_3_c19a2,"Trouble falling or staying asleep, or sleeping too much",decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
@@ -508,20 +511,20 @@ COVID19_Survey,adult_bib_phase2,c19a2_symp_swell___6,COVID19_Survey.adult_bib_ph
 COVID19_Survey,adult_bib_phase2,c19a2_symp_swell___7,COVID19_Survey.adult_bib_phase2.c19a2_symp_swell___7,Sudden swelling of the face or lips            (choice=Sept),decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_symp_wk,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_symp_wk,48) Have you experienced any of the symptoms above in the last week?,decimal,,0|1,No|Yes
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_cnct,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_cnct,49) Have you been in close contact with anyone with Covid-19 in the last two wee,decimal,,1|2|3,"Yes, I was in contact with a confirmed/tested Covid-19 case|Yes, I was in contact with a suspected Covid-19 case|No, not to my knowledge"
-COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_expsymp,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_expsymp,50) Do you think you have or have had Covid-19? ,decimal,,1|2|3|4,"Yes, confirmed by a positive test|Yes, suspected by a doctor but not tested|Yes, my own suspicions|No"
+COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_expsymp,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_expsymp,50) Do you think you have or have had Covid-19?,decimal,,1|2|3|4,"Yes, confirmed by a positive test|Yes, suspected by a doctor but not tested|Yes, my own suspicions|No"
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_sympwhn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_sympwhn,"",date,,,
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_test___0,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_test___0,51) Have you ever had a test to see if you have or have had Covid-19 (tell us ab,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_test___1,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_test___1,51) Have you ever had a test to see if you have or have had Covid-19 (tell us ab,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_test___2,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_test___2,51) Have you ever had a test to see if you have or have had Covid-19 (tell us ab,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_test___3,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_test___3,51) Have you ever had a test to see if you have or have had Covid-19 (tell us ab,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_test___4,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_test___4,51) Have you ever had a test to see if you have or have had Covid-19 (tell us ab,decimal,,0|1,Unchecked|Checked
-COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_test_spec,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_test_spec,"If you said Yes, for another reason, please specify ",text,,,
-COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testtyp___1,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testtyp___1,What kind of test have you had (tick all that apply)? (choice=A swab test (swab ,decimal,,0|1,Unchecked|Checked
+COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_test_spec,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_test_spec,"If you said Yes, for another reason, please specify",text,,,
+COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testtyp___1,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testtyp___1,What kind of test have you had (tick all that apply)? (choice=A swab test (swab,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testtyp___2,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testtyp___2,What kind of test have you had (tick all that apply)? (choice=An antibody test (,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testtyp___3,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testtyp___3,What kind of test have you had (tick all that apply)? (choice=Other),decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testtyp____2,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testtyp____2,What kind of test have you had (tick all that apply)? (choice=Dont know),decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testtyp_exp,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testtyp_exp,"If you said Other, please can you describe here",text,,,
-COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testswab,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testswab,52) Have you had a positive result from a swab test? ,decimal,,-2|0|1,Dont know|No|Yes
+COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testswab,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testswab,52) Have you had a positive result from a swab test?,decimal,,-2|0|1,Dont know|No|Yes
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testswab_whn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testswab_whn,"",date,,,
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testab,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testab,53) Have you had a positive result from an antibody test?,decimal,,-2|0|1,Dont know|No|Yes
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testab_whn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testab_whn,"",date,,,
@@ -535,7 +538,7 @@ COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_vac_re,COVID19_Survey.adult_bib_phas
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_vac_ch,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_vac_ch,59) Which of the following best describes your thoughts about getting your child,decimal,,1|2|3|4,Ive not yet thought about getting my child(ren) vaccinated against Covid-19|Im not yet sure about getting my child(ren) vaccinated against Covid-19|Ive decided I DONT want to get my child(ren) vaccinated against Covid-19|Ive decided I DO want to get my child(ren) vaccinated against Covid-19
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_vac_ch_re,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_vac_ch_re,60) What is your main reason for this?,text,,,
 COVID19_Survey,adult_bib_phase2,c19a2_cv_hmetest_int,COVID19_Survey.adult_bib_phase2.c19a2_cv_hmetest_int,Take the test yourself,decimal,,-2|0|1,Dont know|No|Yes
-COVID19_Survey,adult_bib_phase2,c19a2_cv_hmetest_int_ch,COVID19_Survey.adult_bib_phase2.c19a2_cv_hmetest_int_ch,Test your child(ren) ,decimal,,-2|0|1,Dont know|No|Yes
+COVID19_Survey,adult_bib_phase2,c19a2_cv_hmetest_int_ch,COVID19_Survey.adult_bib_phase2.c19a2_cv_hmetest_int_ch,Test your child(ren),decimal,,-2|0|1,Dont know|No|Yes
 COVID19_Survey,adult_bib_phase2,c19a2_tr_info___1,COVID19_Survey.adult_bib_phase2.c19a2_tr_info___1,62) Where do you get your information about Covid-19 from (tick all that apply)?,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_tr_info___2,COVID19_Survey.adult_bib_phase2.c19a2_tr_info___2,62) Where do you get your information about Covid-19 from (tick all that apply)?,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_tr_info___3,COVID19_Survey.adult_bib_phase2.c19a2_tr_info___3,62) Where do you get your information about Covid-19 from (tick all that apply)?,decimal,,0|1,Unchecked|Checked
@@ -544,11 +547,11 @@ COVID19_Survey,adult_bib_phase2,c19a2_tr_info___5,COVID19_Survey.adult_bib_phase
 COVID19_Survey,adult_bib_phase2,c19a2_tr_info___6,COVID19_Survey.adult_bib_phase2.c19a2_tr_info___6,62) Where do you get your information about Covid-19 from (tick all that apply)?,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_tr_info___7,COVID19_Survey.adult_bib_phase2.c19a2_tr_info___7,62) Where do you get your information about Covid-19 from (tick all that apply)?,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_tr_info___8,COVID19_Survey.adult_bib_phase2.c19a2_tr_info___8,62) Where do you get your information about Covid-19 from (tick all that apply)?,decimal,,0|1,Unchecked|Checked
-COVID19_Survey,adult_bib_phase2,c19a2_tr_info_oth,COVID19_Survey.adult_bib_phase2.c19a2_tr_info_oth,"If you said Other, please specify ",text,,,
+COVID19_Survey,adult_bib_phase2,c19a2_tr_info_oth,COVID19_Survey.adult_bib_phase2.c19a2_tr_info_oth,"If you said Other, please specify",text,,,
 COVID19_Survey,adult_bib_phase2,c19a2_tr_info_imp,COVID19_Survey.adult_bib_phase2.c19a2_tr_info_imp,63) Which is your most important source for your Covid-19 information?,decimal,,1|2|3|4|5|6|7|8,Newspaper|TV|Internet|Social media|WhatsApp|Friends and family|Health professionals|Other
-COVID19_Survey,adult_bib_phase2,c19a2_tr_gov_conf,COVID19_Survey.adult_bib_phase2.c19a2_tr_gov_conf,64) How confident are you that the Government are doing the right thing to stop ,decimal,,1|2|3|4|5,Very confident|Somewhat confident|Neither confident nor unconfident|Somewhat unconfident|Extremely unconfident
-COVID19_Survey,adult_bib_phase2,c19a2_tr_mask,COVID19_Survey.adult_bib_phase2.c19a2_tr_mask,"65) Do you wear a mask when required (e.g., in shops)? ",decimal,,1|2|3,Never|Sometimes|Always
-COVID19_Survey,adult_bib_phase2,c19a2_tr_govreg,COVID19_Survey.adult_bib_phase2.c19a2_tr_govreg,"66) Do you follow government guidance, laws and regulations on Covid-19? ",decimal,,1|2|3,Never|Sometimes|Always
+COVID19_Survey,adult_bib_phase2,c19a2_tr_gov_conf,COVID19_Survey.adult_bib_phase2.c19a2_tr_gov_conf,64) How confident are you that the Government are doing the right thing to stop,decimal,,1|2|3|4|5,Very confident|Somewhat confident|Neither confident nor unconfident|Somewhat unconfident|Extremely unconfident
+COVID19_Survey,adult_bib_phase2,c19a2_tr_mask,COVID19_Survey.adult_bib_phase2.c19a2_tr_mask,"65) Do you wear a mask when required (e.g., in shops)?",decimal,,1|2|3,Never|Sometimes|Always
+COVID19_Survey,adult_bib_phase2,c19a2_tr_govreg,COVID19_Survey.adult_bib_phase2.c19a2_tr_govreg,"66) Do you follow government guidance, laws and regulations on Covid-19?",decimal,,1|2|3,Never|Sometimes|Always
 COVID19_Survey,adult_bib_phase2,c19a2_tr_org_1,COVID19_Survey.adult_bib_phase2.c19a2_tr_org_1,The Government,decimal,,-2|1|2|3|4,Dont know|Trust it a great deal|Tend to trust it|Tend to distrust it|Distrust it greatly
 COVID19_Survey,adult_bib_phase2,c19a2_tr_org_2,COVID19_Survey.adult_bib_phase2.c19a2_tr_org_2,The NHS,decimal,,-2|1|2|3|4,Dont know|Trust it a great deal|Tend to trust it|Tend to distrust it|Distrust it greatly
 COVID19_Survey,adult_bib_phase2,c19a2_tr_org_3,COVID19_Survey.adult_bib_phase2.c19a2_tr_org_3,Your local hospital,decimal,,-2|1|2|3|4,Dont know|Trust it a great deal|Tend to trust it|Tend to distrust it|Distrust it greatly
@@ -560,7 +563,7 @@ COVID19_Survey,adult_bib_phase2,c19a2_tr_org_8,COVID19_Survey.adult_bib_phase2.c
 COVID19_Survey,adult_bib_phase2,c19a2_tr_org_9,COVID19_Survey.adult_bib_phase2.c19a2_tr_org_9,"Faith organisations (e.g., churches or mosques)",decimal,,-2|1|2|3|4,Dont know|Trust it a great deal|Tend to trust it|Tend to distrust it|Distrust it greatly
 COVID19_Survey,adult_bib_phase2,c19a2_tr_org_10,COVID19_Survey.adult_bib_phase2.c19a2_tr_org_10,Born in Bradford,decimal,,-2|1|2|3|4,Dont know|Trust it a great deal|Tend to trust it|Tend to distrust it|Distrust it greatly
 COVID19_Survey,adult_bib_phase2,c19a2_tvl_wnor,COVID19_Survey.adult_bib_phase2.c19a2_tvl_wnor,How do you normally get to work now? (Tick one),decimal,,1|2|3|4|5|6|7|8|9,Car/Van|School bus|Other bus|Walk|Bicycle|Taxi|Train|Other|More than one option indicated on paper copy
-COVID19_Survey,adult_bib_phase2,c19a2_tvl_wnor_prel,COVID19_Survey.adult_bib_phase2.c19a2_tvl_wnor_prel,"How did you normally get to work before the lockdown (e.g., in January/February ",decimal,,1|2|3|4|5|6|7|8|9,Car/Van|School bus|Other bus|Walk|Bicycle|Taxi|Train|Other|More than one option indicated on paper copy
+COVID19_Survey,adult_bib_phase2,c19a2_tvl_wnor_prel,COVID19_Survey.adult_bib_phase2.c19a2_tvl_wnor_prel,"How did you normally get to work before the lockdown (e.g., in January/February",decimal,,1|2|3|4|5|6|7|8|9,Car/Van|School bus|Other bus|Walk|Bicycle|Taxi|Train|Other|More than one option indicated on paper copy
 COVID19_Survey,adult_bib_phase2,c19a2_tvl_wnor_ext___1,COVID19_Survey.adult_bib_phase2.c19a2_tvl_wnor_ext___1,How do you normally get to work now? (multiple selections made) (choice=Car/Van),decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_tvl_wnor_ext___2,COVID19_Survey.adult_bib_phase2.c19a2_tvl_wnor_ext___2,How do you normally get to work now? (multiple selections made) (choice=School b,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_tvl_wnor_ext___3,COVID19_Survey.adult_bib_phase2.c19a2_tvl_wnor_ext___3,How do you normally get to work now? (multiple selections made) (choice=Other bu,decimal,,0|1,Unchecked|Checked
@@ -578,7 +581,7 @@ COVID19_Survey,adult_bib_phase2,c19a2_trl_wnor_prel_ext___6,COVID19_Survey.adult
 COVID19_Survey,adult_bib_phase2,c19a2_trl_wnor_prel_ext___7,COVID19_Survey.adult_bib_phase2.c19a2_trl_wnor_prel_ext___7,How did you normally get to work before the lockdown? (multiple selections made),decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_trl_wnor_prel_ext___8,COVID19_Survey.adult_bib_phase2.c19a2_trl_wnor_prel_ext___8,How did you normally get to work before the lockdown? (multiple selections made),decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_tvl_live_van,COVID19_Survey.adult_bib_phase2.c19a2_tvl_live_van,"Thinking about the person or people you usually live with, how many cars/taxis/v",decimal,,1|2|3|4|5,None|1|2|3|More than 3
-COVID19_Survey,adult_bib_phase2,c19a2_tvl_car_wlk,COVID19_Survey.adult_bib_phase2.c19a2_tvl_car_wlk,Only answer the next question if you mainly travel by car/van/taxi to work this ,decimal,,1|2|3|4,Very happy|Quite happy|Quite unhappy|Very unhappy
+COVID19_Survey,adult_bib_phase2,c19a2_tvl_car_wlk,COVID19_Survey.adult_bib_phase2.c19a2_tvl_car_wlk,Only answer the next question if you mainly travel by car/van/taxi to work this,decimal,,1|2|3|4,Very happy|Quite happy|Quite unhappy|Very unhappy
 COVID19_Survey,adult_bib_phase2,c19a2_tvl_carwrk,COVID19_Survey.adult_bib_phase2.c19a2_tvl_carwrk,69) Do you require the use of a car for your work?,decimal,,0|1,No|Yes
 COVID19_Survey,adult_bib_phase2,wc_wrynow_1_c19a2,COVID19_Survey.adult_bib_phase2.wc_wrynow_1_c19a2,Worry 1:,text,,,
 COVID19_Survey,adult_bib_phase2,wc_wrynow_2_c19a2,COVID19_Survey.adult_bib_phase2.wc_wrynow_2_c19a2,Worry 2:,text,,,
@@ -859,7 +862,6 @@ COVID19_Survey,adult_bibbs_phase2,wc_chllnge_c19b2,COVID19_Survey.adult_bibbs_ph
 COVID19_Survey,adult_bibbs_phase2,wc_easier_c19b2_rev1,COVID19_Survey.adult_bibbs_phase2.wc_easier_c19b2_rev1,49) Can you tell us whether there are any parts of your life that have continued,text,,,
 COVID19_Survey,adult_bibbs_phase2,fl_skillsprnt_c19b2,COVID19_Survey.adult_bibbs_phase2.fl_skillsprnt_c19b2,50) I honestly believe I have all the skills necessary to be a good parent to my,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
 COVID19_Survey,adult_bibbs_phase2,c19b2_yc_0_24_dsc,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_dsc,Do you have a child under 24 months? If you have more than one child aged 0 to 2,decimal,,0|1,No|Yes
-COVID19_Survey,adult_bibbs_phase2,c19b2_yc_0_24_dob,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_dob,51) What is the date of birth of your baby/child:,date,,,
 COVID19_Survey,adult_bibbs_phase2,c19b2_yc_0_24_prtnr,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_prtnr,Partner,decimal,,0|1,No|Yes
 COVID19_Survey,adult_bibbs_phase2,c19b2_yc_0_24_gprnt,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_gprnt,Babys grandparents,decimal,,0|1,No|Yes
 COVID19_Survey,adult_bibbs_phase2,c19b2_yc_0_24_rltve,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_rltve,Other relative,decimal,,0|1,No|Yes
@@ -904,7 +906,6 @@ COVID19_Survey,adult_bibbs_phase2,hyb_someoneels_c19b2,COVID19_Survey.adult_bibb
 COVID19_Survey,adult_bibbs_phase2,hyb_lkforward_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_lkforward_c19b2,When weve been apart I look forward to seeing my baby again,decimal,,1|2|3|4,Never|Sometimes|Often|Always
 COVID19_Survey,adult_bibbs_phase2,hyb_enjoyplying_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_enjoyplying_c19b2,I enjoy playing with my baby,decimal,,1|2|3|4,Never|Sometimes|Often|Always
 COVID19_Survey,adult_bibbs_phase2,c19b2_yc_2_4yr_dsc,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_dsc,Do you have children aged between 2 and 4 years old? If you have more than one c,decimal,,0|1,No|Yes
-COVID19_Survey,adult_bibbs_phase2,c19b2_yc_2_4yr_dob,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_dob,60) What is the date of birth of your child:,date,,,
 COVID19_Survey,adult_bibbs_phase2,c19b2_yc_2_4yr_prtnr,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_prtnr,Partner,decimal,,0|1,No|Yes
 COVID19_Survey,adult_bibbs_phase2,c19b2_yc_2_4yr_gprnt,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_gprnt,Childs grandparents,decimal,,0|1,No|Yes
 COVID19_Survey,adult_bibbs_phase2,c19b2_yc_2_4yr_rltve,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_rltve,Other relative,decimal,,0|1,No|Yes
@@ -997,7 +998,9 @@ COVID19_Survey,adult_bibbs_phase2,yh_outdr_safe_c19b2,COVID19_Survey.adult_bibbs
 COVID19_Survey,adult_bibbs_phase2,imddecile,COVID19_Survey.adult_bibbs_phase2.imddecile,IMDdecile,decimal,,,
 COVID19_Survey,child_phase1_covid,Cohort,COVID19_Survey.child_phase1_covid.Cohort,Cohort,text,,,
 COVID19_Survey,child_phase1_covid,Gender,COVID19_Survey.child_phase1_covid.Gender,Child's gender,decimal,,0|1,Male|Female
-COVID19_Survey,child_phase1_covid,age_in_years,COVID19_Survey.child_phase1_covid.age_in_years,Age in years,decimal,,,
+COVID19_Survey,child_phase1_covid,date_est,COVID19_Survey.child_phase1_covid.date_est,Estimated date of survey completion,date,,,
+COVID19_Survey,child_phase1_covid,age_months_est,COVID19_Survey.child_phase1_covid.age_months_est,Estimated age in months at survey completion,decimal,,,
+COVID19_Survey,child_phase1_covid,age_years_est,COVID19_Survey.child_phase1_covid.age_years_est,Estimated age in years at survey completion,decimal,,,
 COVID19_Survey,child_phase1_covid,ethnicity_mother,COVID19_Survey.child_phase1_covid.ethnicity_mother,Ethnic group (mother),decimal,,1|2|3,White British|Pakistani|Other
 COVID19_Survey,child_phase1_covid,ward,COVID19_Survey.child_phase1_covid.ward,Ward as at March 2020,text,,,
 COVID19_Survey,child_phase1_covid,imdrank,COVID19_Survey.child_phase1_covid.imdrank,IMD 2019 National Rank (1 = most deprved),decimal,,,
@@ -1116,7 +1119,9 @@ COVID19_Survey,child_phase1_covid,Dep_RCADS_Tcat,COVID19_Survey.child_phase1_cov
 COVID19_Survey,child_phase1_covid,Anx_RCADS_Tcat,COVID19_Survey.child_phase1_covid.Anx_RCADS_Tcat,Anxiety RCADS Score - Standardised T Scores Categories,decimal,,0|1|2,Normal|Borderline|Clinical
 COVID19_Survey,child_phase1_sdq,Cohort,COVID19_Survey.child_phase1_sdq.Cohort,Cohort,text,,,
 COVID19_Survey,child_phase1_sdq,Gender,COVID19_Survey.child_phase1_sdq.Gender,Child's gender,decimal,,0|1,Male|Female
-COVID19_Survey,child_phase1_sdq,age_in_years,COVID19_Survey.child_phase1_sdq.age_in_years,Age in years,decimal,,,
+COVID19_Survey,child_phase1_sdq,date_est,COVID19_Survey.child_phase1_sdq.date_est,Estimated date of survey completion,date,,,
+COVID19_Survey,child_phase1_sdq,age_months_est,COVID19_Survey.child_phase1_sdq.age_months_est,Estimated age in months at survey completion,decimal,,,
+COVID19_Survey,child_phase1_sdq,age_years_est,COVID19_Survey.child_phase1_sdq.age_years_est,Estimated age in years at survey completion,decimal,,,
 COVID19_Survey,child_phase1_sdq,ethnicity_mother,COVID19_Survey.child_phase1_sdq.ethnicity_mother,Ethnic group (mother),decimal,,1|2|3,White British|Pakistani|Other
 COVID19_Survey,child_phase1_sdq,sdq_consid,COVID19_Survey.child_phase1_sdq.sdq_consid,Considerate of other peoples feelings,decimal,,0|1|2,Not True|Somewhat True|Certainly True
 COVID19_Survey,child_phase1_sdq,sdq_restles,COVID19_Survey.child_phase1_sdq.sdq_restles,"Restless, overactive, cannot stay still for long",decimal,,0|1|2,Not True|Somewhat True|Certainly True
@@ -1155,7 +1160,9 @@ COVID19_Survey,child_phase1_sdq,sdq_burden,COVID19_Survey.child_phase1_sdq.sdq_b
 COVID19_Survey,child_phase1_sdq,childsdq_complete,COVID19_Survey.child_phase1_sdq.childsdq_complete,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
 COVID19_Survey,child_phase2_covid,Cohort,COVID19_Survey.child_phase2_covid.Cohort,Cohort,text,,,
 COVID19_Survey,child_phase2_covid,Gender,COVID19_Survey.child_phase2_covid.Gender,Child's gender,decimal,,1|2,Male|Female
-COVID19_Survey,child_phase2_covid,age_in_years,COVID19_Survey.child_phase2_covid.age_in_years,Age in years,decimal,,,
+COVID19_Survey,child_phase2_covid,date_est,COVID19_Survey.child_phase2_covid.date_est,Estimated date of survey completion,date,,,
+COVID19_Survey,child_phase2_covid,age_months_est,COVID19_Survey.child_phase2_covid.age_months_est,Estimated age in months at survey completion,decimal,,,
+COVID19_Survey,child_phase2_covid,age_years_est,COVID19_Survey.child_phase2_covid.age_years_est,Estimated age in years at survey completion,decimal,,,
 COVID19_Survey,child_phase2_covid,ethnicity_mother,COVID19_Survey.child_phase2_covid.ethnicity_mother,Ethnic group (mother),decimal,,1|2|3,White British|Pakistani|Other
 COVID19_Survey,child_phase2_covid,ward,COVID19_Survey.child_phase2_covid.ward,Ward as at March 2020,text,,,
 COVID19_Survey,child_phase2_covid,imdrank,COVID19_Survey.child_phase2_covid.imdrank,IMD 2019 National Rank (1 = most deprived),decimal,,,
@@ -1164,7 +1171,6 @@ COVID19_Survey,child_phase2_covid,edcont_ethnic_origin,COVID19_Survey.child_phas
 COVID19_Survey,child_phase2_covid,edcont_eal,COVID19_Survey.child_phase2_covid.edcont_eal,Whether English is an adittional language,decimal,,1|2|3,No|Unknown|Yes
 COVID19_Survey,child_phase2_covid,edcont_fsm,COVID19_Survey.child_phase2_covid.edcont_fsm,Whether child in receipt of freee school meals,decimal,,1|2,No|Yes
 COVID19_Survey,child_phase2_covid,edcont_sen,COVID19_Survey.child_phase2_covid.edcont_sen,Special educational needs catagory,decimal,,1|2|3|4|5|6,EHCP|Not SEN|SEN Support|School Action|School Action Plus|Statement
-COVID19_Survey,child_phase2_covid,c19c2_date_id,COVID19_Survey.child_phase2_covid.c19c2_date_id,Please write todays date,date,,,
 COVID19_Survey,child_phase2_covid,chys_7timesleep_c19c2,COVID19_Survey.child_phase2_covid.chys_7timesleep_c19c2,Q1A) In the last 7 days what time have you normally fallen asleep?,text,,,
 COVID19_Survey,child_phase2_covid,chys_7wknp_c19c2,COVID19_Survey.child_phase2_covid.chys_7wknp_c19c2,Q1B) In the last 7 days what time have you normaly woken up?,text,,,
 COVID19_Survey,child_phase2_covid,chfl_7physactwkdy_c19c2,COVID19_Survey.child_phase2_covid.chfl_7physactwkdy_c19c2,"Q2A) In the last 7 days, how much physical activity did you do on a weekday?",decimal,,1|2|3|4|5,No activity (0 minutes)|Small amount of activity (1 to 30 minutes)|Small to Moderate amount activity (31 to 60 minutes)|Moderate to Large amount of activity (1 to 2 hours)|Large amount of activity (more than 2 hours)
@@ -1253,7 +1259,9 @@ COVID19_Survey,child_phase2_covid,ch_easier_3_c19c2,COVID19_Survey.child_phase2_
 COVID19_Survey,child_phase2_covid,child_complete,COVID19_Survey.child_phase2_covid.child_complete,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
 COVID19_Survey,child_phase2_sdq,Cohort,COVID19_Survey.child_phase2_sdq.Cohort,Cohort,text,,,
 COVID19_Survey,child_phase2_sdq,Gender,COVID19_Survey.child_phase2_sdq.Gender,Child's gender,decimal,,1|2,Male|Female
-COVID19_Survey,child_phase2_sdq,age_in_years,COVID19_Survey.child_phase2_sdq.age_in_years,Age in years,decimal,,,
+COVID19_Survey,child_phase2_sdq,date_est,COVID19_Survey.child_phase2_sdq.date_est,Estimated date of survey completion,date,,,
+COVID19_Survey,child_phase2_sdq,age_months_est,COVID19_Survey.child_phase2_sdq.age_months_est,Estimated age in months at survey completion,decimal,,,
+COVID19_Survey,child_phase2_sdq,age_years_est,COVID19_Survey.child_phase2_sdq.age_years_est,Estimated age in years at survey completion,decimal,,,
 COVID19_Survey,child_phase2_sdq,ethnicity_mother,COVID19_Survey.child_phase2_sdq.ethnicity_mother,Ethnic group (mother),decimal,,1|2|3,White British|Pakistani|Other
 COVID19_Survey,child_phase2_sdq,sdq_consid,COVID19_Survey.child_phase2_sdq.sdq_consid,Considerate of other peoples feelings,decimal,,0|1|2,Not True|Somewhat True|Certainly True
 COVID19_Survey,child_phase2_sdq,sdq_restles,COVID19_Survey.child_phase2_sdq.sdq_restles,"Restless, overactive, cannot stay still for long",decimal,,0|1|2,Not True|Somewhat True|Certainly True
@@ -1290,6 +1298,9 @@ COVID19_Survey,child_phase2_sdq,sdq_impclas,COVID19_Survey.child_phase2_sdq.sdq_
 COVID19_Survey,child_phase2_sdq,sdq_impleis,COVID19_Survey.child_phase2_sdq.sdq_impleis,LEISURE ACTIVITIES,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
 COVID19_Survey,child_phase2_sdq,sdq_burden,COVID19_Survey.child_phase2_sdq.sdq_burden,Do the difficulties put a burden on you or the family as a whole?,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
 COVID19_Survey,child_phase2_sdq,childsdq_complete,COVID19_Survey.child_phase2_sdq.childsdq_complete,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
+COVID19_Survey,child_phase3_covid,date_est,COVID19_Survey.child_phase3_covid.date_est,Estimated date of survey completion,date,,,
+COVID19_Survey,child_phase3_covid,age_months_est,COVID19_Survey.child_phase3_covid.age_months_est,Estimated age in months at survey completion,decimal,,,
+COVID19_Survey,child_phase3_covid,age_years_est,COVID19_Survey.child_phase3_covid.age_years_est,Estimated age in years at survey completion,decimal,,,
 COVID19_Survey,child_phase3_covid,chys_7timesleep_c19c2,COVID19_Survey.child_phase3_covid.chys_7timesleep_c19c2,1A) In the last 7d what time have you normally fallen asleep?,text,,,
 COVID19_Survey,child_phase3_covid,chys_7wknp_c19c2,COVID19_Survey.child_phase3_covid.chys_7wknp_c19c2,1B) In the last 7 days what time have you normally woken up (please write):,text,,,
 COVID19_Survey,child_phase3_covid,chfl_7physactwkdy_c19c2,COVID19_Survey.child_phase3_covid.chfl_7physactwkdy_c19c2,2A) Amount of physical activity in a normal weekday?,decimal,,1|2|3|4|5,No activity (0 mins)|Small amount of activity (1-30 mins)|Small-Moderate amount activity (31-60 mins)|Moderate-Large amount activity (1-2 hours)|Large amount of activity (>2 hours)
@@ -1346,6 +1357,9 @@ COVID19_Survey,child_phase3_covid,ch_easier_3_c19c2,COVID19_Survey.child_phase3_
 COVID19_Survey,child_phase3_covid,end_data_entry_notes,COVID19_Survey.child_phase3_covid.end_data_entry_notes,Data entry notes,text,,,
 COVID19_Survey,child_phase3_covid,end_submit,COVID19_Survey.child_phase3_covid.end_submit,Please confirm that you have completed your questionnaire,decimal,,1,"Yes, Im ready to submit"
 COVID19_Survey,child_phase3_covid,child_complete,COVID19_Survey.child_phase3_covid.child_complete,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
+COVID19_Survey,child_phase3_sdq,date_est,COVID19_Survey.child_phase3_sdq.date_est,Estimated date of survey completion,date,,,
+COVID19_Survey,child_phase3_sdq,age_months_est,COVID19_Survey.child_phase3_sdq.age_months_est,Estimated age in months at survey completion,decimal,,,
+COVID19_Survey,child_phase3_sdq,age_years_est,COVID19_Survey.child_phase3_sdq.age_years_est,Estimated age in years at survey completion,decimal,,,
 COVID19_Survey,child_phase3_sdq,sdq_gender,COVID19_Survey.child_phase3_sdq.sdq_gender,Gender,decimal,,1|2,Male|Female
 COVID19_Survey,child_phase3_sdq,sdq_consid,COVID19_Survey.child_phase3_sdq.sdq_consid,Considerate of other peoples feelings,decimal,,0|1|2,Not true|Somewhat true|Certainly true
 COVID19_Survey,child_phase3_sdq,sdq_restles,COVID19_Survey.child_phase3_sdq.sdq_restles,"Restless, overactive, cannot stay still for long",decimal,,0|1|2,Not true|Somewhat true|Certainly true
@@ -1382,5 +1396,3 @@ COVID19_Survey,child_phase3_sdq,sdq_impleis,COVID19_Survey.child_phase3_sdq.sdq_
 COVID19_Survey,child_phase3_sdq,sdq_burden,COVID19_Survey.child_phase3_sdq.sdq_burden,Do difficulties put a burden on you/family?,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
 COVID19_Survey,child_phase3_sdq,end_sbmit_sdq,COVID19_Survey.child_phase3_sdq.end_sbmit_sdq, Please confirm that you have completed your questionnaire:,decimal,,1,"Yes, Im ready to submit"
 COVID19_Survey,child_phase3_sdq,childsdq_complete,COVID19_Survey.child_phase3_sdq.childsdq_complete,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
-COVID19_Survey,child_phase3_sdq,c19c2_date_id,COVID19_Survey.child_phase3_sdq.c19c2_date_id,Please write todays date,date,,,
-COVID19_Survey,child_phase3_sdq,sdq_date_id,COVID19_Survey.child_phase3_sdq.sdq_date_id,Todays date,date,,,

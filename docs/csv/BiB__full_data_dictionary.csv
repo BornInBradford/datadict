@@ -87,7 +87,7 @@ BiB_1000,bib1000_6m_main,bib6e01,BiB_1000.bib1000_6m_main.bib6e01,Marital status
 BiB_1000,bib1000_6m_main,bib6e01marcohab,BiB_1000.bib1000_6m_main.bib6e01marcohab,Marital/cohabitation status (derived),decimal,,1|2|3|4,"Married|Cohabiting with partner|Partner, not cohabiting|Single"
 BiB_1000,bib1000_6m_main,bib6e02,BiB_1000.bib1000_6m_main.bib6e02,Living arrangements,decimal,,1|2|3|4,Living with baby's father|Living with another partner|Not living with partner but in a relationship|Not living with partner and not in a relationship
 BiB_1000,bib1000_6m_main,bib6e03,BiB_1000.bib1000_6m_main.bib6e03,Number of people living in household,decimal,,,
-BiB_1000,bib1000_6m_main,bib6f01,BiB_1000.bib1000_6m_main.bib6f01,Current employment status,decimal,,1|2|3|4|5|6,"In a job, working for an employer|On maternity leave from employer| Self employed|Full-time student|Looking after home and family|Doing something else"
+BiB_1000,bib1000_6m_main,bib6f01,BiB_1000.bib1000_6m_main.bib6f01,Current employment status,decimal,,,
 BiB_1000,bib1000_6m_main,bib6f01otherspecified,BiB_1000.bib1000_6m_main.bib6f01otherspecified,Specify if other employment status,text,,,
 BiB_1000,bib1000_6m_main,bib6f02,BiB_1000.bib1000_6m_main.bib6f02,Have you returned to work since child was born,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
 BiB_1000,bib1000_6m_main,bib6f03,BiB_1000.bib1000_6m_main.bib6f03,Do you work as an employee or are you self-employed,decimal,,1|2|3|4,Employee|Self employed with employees|Self employed without employees|Student
@@ -3395,7 +3395,7 @@ BiB_ALL_IN,allin24_ta,all24k5age,BiB_ALL_IN.allin24_ta.all24k5age,"",decimal,,,
 BiB_ALL_IN,allin24_ta,all24k5country,BiB_ALL_IN.allin24_ta.all24k5country,"",text,,,
 BiB_ALL_IN,allin24_ta,all24k5type,BiB_ALL_IN.allin24_ta.all24k5type,"",text,,,
 BiB_ALL_IN,allin24_ta,has_all2qs,BiB_ALL_IN.allin24_ta.has_all2qs,Has ALL IN 24m questionnaire,decimal,,1,has
-BiB_Baseline,base_m_survey,BiBPregNumber,BiB_Baseline.base_m_survey.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
+BiB_Baseline,base_m_survey,BiBPregNumber,BiB_Baseline.base_m_survey.BiBPregNumber,"",decimal,,,
 BiB_Baseline,base_m_survey,has_base_m_survey,BiB_Baseline.base_m_survey.has_base_m_survey,Has mother baseline survey,decimal,,,
 BiB_Baseline,base_m_survey,agemm_mbqall,BiB_Baseline.base_m_survey.agemm_mbqall,Mother age (months): Maternal Baseline Questionnaire,decimal,,,
 BiB_Baseline,base_m_survey,agemy_mbqall,BiB_Baseline.base_m_survey.agemy_mbqall,Mother age (years): Maternal Baseline Questionnaire,decimal,,,
@@ -6123,6 +6123,22 @@ BiB_Bloods,pregnancy_gtt_p3,gttfastglu_p3,BiB_Bloods.pregnancy_gtt_p3.gttfastglu
 BiB_Bloods,pregnancy_gtt_p3,gttgestwks_p3,BiB_Bloods.pregnancy_gtt_p3.gttgestwks_p3,Gestationl age at GTT (completed weeks),decimal,,,
 BiB_Bloods,pregnancy_gtt_p3,gttpostglu_p3,BiB_Bloods.pregnancy_gtt_p3.gttpostglu_p3,2-hour postload glucose,decimal,,,
 BiB_Bloods,pregnancy_gtt_p3,has_mbagtt_p3,BiB_Bloods.pregnancy_gtt_p3.has_mbagtt_p3,Has maternal GTT data,decimal,,1,has
+BiB_Bloods,blood_tests,TestDate,BiB_Bloods.blood_tests.TestDate,Date sample was taken,date,,,
+BiB_Bloods,blood_tests,TotalTests,BiB_Bloods.blood_tests.TotalTests,Total blood test occasions within GU,decimal,,,
+BiB_Bloods,blood_tests,TestDateOrder,BiB_Bloods.blood_tests.TestDateOrder,Date order of test occasions within GU,decimal,,,
+BiB_Bloods,blood_tests,AgeInYears,BiB_Bloods.blood_tests.AgeInYears,"Age at GU blood test, years",decimal,,,
+BiB_Bloods,blood_tests,AgeInMonths,BiB_Bloods.blood_tests.AgeInMonths,"Age at GU blood test, months",decimal,,,
+BiB_Bloods,blood_tests,hb,BiB_Bloods.blood_tests.hb,Haemoglobin (g/L),decimal,,,
+BiB_Bloods,blood_tests,wbc,BiB_Bloods.blood_tests.wbc,White Blood Cell Count(g/L),decimal,,,
+BiB_Bloods,blood_tests,platelets,BiB_Bloods.blood_tests.platelets,Platelets (10^9/L),decimal,,,
+BiB_Bloods,blood_tests,mcv,BiB_Bloods.blood_tests.mcv,Mean Cell Volume (f/L),decimal,,,
+BiB_Bloods,blood_tests,hba1c,BiB_Bloods.blood_tests.hba1c,HBA1C (IFCC),decimal,,,
+BiB_Bloods,blood_tests,triglycerides,BiB_Bloods.blood_tests.triglycerides,Triglycerides  (mmol/L),decimal,,,
+BiB_Bloods,blood_tests,cholesterol,BiB_Bloods.blood_tests.cholesterol,Cholesterol (mmol/L),decimal,,,
+BiB_Bloods,blood_tests,hdl,BiB_Bloods.blood_tests.hdl,HDL (mmol/L),decimal,,,
+BiB_Bloods,blood_tests,ldl,BiB_Bloods.blood_tests.ldl,LDL (mmol/L),decimal,,,
+BiB_Bloods,blood_tests,cholhdl_ratio,BiB_Bloods.blood_tests.cholhdl_ratio,Cholesterol/HDL Ratio,decimal,,,
+BiB_Bloods,blood_tests,nonhdlchol,BiB_Bloods.blood_tests.nonhdlchol,Non HDL Cholesterol,decimal,,,
 BiB_Bloods,cord_bloods,has_cord_bloods,BiB_Bloods.cord_bloods.has_cord_bloods,Has baby cord blood biomarkers,decimal,,,
 BiB_Bloods,cord_bloods,cbldadiponectin,BiB_Bloods.cord_bloods.cbldadiponectin,Cord blood adiponectin,decimal,,,
 BiB_Bloods,cord_bloods,cbldbatch,BiB_Bloods.cord_bloods.cbldbatch,Cord blood batch,decimal,,1|2,Cord bloods batch 1: 2012|Cord bloods batch 2: 2017
@@ -6147,49 +6163,37 @@ BiB_Bloods,renal_blood_tests,sodium,BiB_Bloods.renal_blood_tests.sodium,Sodium (
 BiB_Bloods,renal_blood_tests,potassium,BiB_Bloods.renal_blood_tests.potassium,Potassium (mmol/L),decimal,,,
 BiB_Bloods,renal_blood_tests,urea,BiB_Bloods.renal_blood_tests.urea,Urea (mmol/L),decimal,,,
 BiB_Bloods,renal_blood_tests,creatinine,BiB_Bloods.renal_blood_tests.creatinine,Creatinine (umol/L),decimal,,,
-BiB_Bloods,blood_tests,TestDate,BiB_Bloods.blood_tests.TestDate,Date sample was taken,date,,,
-BiB_Bloods,blood_tests,TotalTests,BiB_Bloods.blood_tests.TotalTests,Total blood test occasions within GU,decimal,,,
-BiB_Bloods,blood_tests,TestDateOrder,BiB_Bloods.blood_tests.TestDateOrder,Date order of test occasions within GU,decimal,,,
-BiB_Bloods,blood_tests,AgeInYears,BiB_Bloods.blood_tests.AgeInYears,"Age at GU blood test, years",decimal,,,
-BiB_Bloods,blood_tests,AgeInMonths,BiB_Bloods.blood_tests.AgeInMonths,"Age at GU blood test, months",decimal,,,
-BiB_Bloods,blood_tests,hb,BiB_Bloods.blood_tests.hb,Haemoglobin (g/L),decimal,,,
-BiB_Bloods,blood_tests,wbc,BiB_Bloods.blood_tests.wbc,White Blood Cell Count(g/L),decimal,,,
-BiB_Bloods,blood_tests,platelets,BiB_Bloods.blood_tests.platelets,Platelets (10^9/L),decimal,,,
-BiB_Bloods,blood_tests,mcv,BiB_Bloods.blood_tests.mcv,Mean Cell Volume (f/L),decimal,,,
-BiB_Bloods,blood_tests,hba1c,BiB_Bloods.blood_tests.hba1c,HBA1C (IFCC),decimal,,,
-BiB_Bloods,blood_tests,triglycerides,BiB_Bloods.blood_tests.triglycerides,Triglycerides  (mmol/L),decimal,,,
-BiB_Bloods,blood_tests,cholesterol,BiB_Bloods.blood_tests.cholesterol,Cholesterol (mmol/L),decimal,,,
-BiB_Bloods,blood_tests,hdl,BiB_Bloods.blood_tests.hdl,HDL (mmol/L),decimal,,,
-BiB_Bloods,blood_tests,ldl,BiB_Bloods.blood_tests.ldl,LDL (mmol/L),decimal,,,
-BiB_Bloods,blood_tests,cholhdl_ratio,BiB_Bloods.blood_tests.cholhdl_ratio,Cholesterol/HDL Ratio,decimal,,,
-BiB_Bloods,blood_tests,nonhdlchol,BiB_Bloods.blood_tests.nonhdlchol,Non HDL Cholesterol,decimal,,,
 BiB_Bloods,renal_cystatinc,age_in_months,BiB_Bloods.renal_cystatinc.age_in_months,GU renal: age at serum sample (months),decimal,,,
 BiB_Bloods,renal_cystatinc,age_in_years,BiB_Bloods.renal_cystatinc.age_in_years,GU renal: age at serum sample (years),decimal,,,
 BiB_Bloods,renal_cystatinc,cystatinc,BiB_Bloods.renal_cystatinc.cystatinc,Cystatic C from serum,decimal,,,
-BiB_Breathes,air_qual_survey,BiBPersonID,BiB_Breathes.air_qual_survey.BiBPersonID,BiB participant identifier,text,,,
-BiB_Breathes,air_qual_survey,Date,BiB_Breathes.air_qual_survey.Date,Date,date,,,
-BiB_Breathes,air_qual_survey,InGrowingUp,BiB_Breathes.air_qual_survey.InGrowingUp,Growing Up participant,decimal,,0|1,No|Yes
+BiB_Breathes,air_qual_survey,ParticipantType,BiB_Breathes.air_qual_survey.ParticipantType,Participant type,decimal,,1|2,General public|Growing Up
+BiB_Breathes,air_qual_survey,QuestionnaireType,BiB_Breathes.air_qual_survey.QuestionnaireType,Questionnaire type,decimal,,1|2,Paper|Online
 BiB_Breathes,air_qual_survey,GrowingUpID,BiB_Breathes.air_qual_survey.GrowingUpID,Growing Up participant identifier,text,,,
+BiB_Breathes,air_qual_survey,BiBPersonID,BiB_Breathes.air_qual_survey.BiBPersonID,BiB participant identifier,text,,,
+BiB_Breathes,air_qual_survey,date_id,BiB_Breathes.air_qual_survey.date_id,Date,date,,,
 BiB_Breathes,air_qual_survey,age,BiB_Breathes.air_qual_survey.age,Age group,decimal,,1|2|3|4|5|6|7,18-24|25-34|35-44|45-54|55-64|65+|Prefer not to say
 BiB_Breathes,air_qual_survey,sex,BiB_Breathes.air_qual_survey.sex,Sex,decimal,,1|2|3|4,Male|Female|Prefer to use own term|Prefer not to say
 BiB_Breathes,air_qual_survey,ethnicity,BiB_Breathes.air_qual_survey.ethnicity,Ethnicity,decimal,,1|10|11|12|13|14|15|16|2|3|4|5|6|7|8|9,"English, Welsh, Scottish, Northern Irish or British|Bangladeshi|Chinese|Any other Asian background|African|Caribbean|Other Black, African or Caribbean background|Any other ethnic group|Irish|Any other White background|White and Black Caribbean|White and Black African|White and Asian|Any other Mixed background|Indian|Pakistani"
 BiB_Breathes,air_qual_survey,bre1_bibcheck,BiB_Breathes.air_qual_survey.bre1_bibcheck,We would like to start by checking if you are part of the Born in Bradford Study,decimal,,0|1,No|Yes
-BiB_Breathes,air_qual_survey,source,BiB_Breathes.air_qual_survey.source,Source of data (questionnaire),decimal,,1|2|3,General public|Growing Up|Online
-BiB_Breathes,air_qual_survey,bib_breathes_air_qua_v_0,BiB_Breathes.air_qual_survey.bib_breathes_air_qua_v_0,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
-BiB_Breathes,air_qual_survey,bib_breathes_air_qua_v_1,BiB_Breathes.air_qual_survey.bib_breathes_air_qua_v_1,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
-BiB_Breathes,air_qual_survey,version,BiB_Breathes.air_qual_survey.version,Version,decimal,,,
-BiB_Breathes,air_qual_survey,anon,BiB_Breathes.air_qual_survey.anon,Anonymous?,decimal,,0|1,No|Yes
+BiB_Breathes,air_qual_survey,bre1_pcd,BiB_Breathes.air_qual_survey.bre1_pcd,1) What is your postcode?,text,,,
 BiB_Breathes,air_qual_survey,bre1_pcd_1,BiB_Breathes.air_qual_survey.bre1_pcd_1,2) Do you travel to Bradford regularly for work/study/leisure?,decimal,,1|2|3,Yes|No|Not Applicable
 BiB_Breathes,air_qual_survey,bre1_aq_bfd,BiB_Breathes.air_qual_survey.bre1_aq_bfd,3) What do you think about the air quality in Bradford generally?,decimal,,1|2|3|4|5,Very Poor|Poor|Fair|Good|Excellent
 BiB_Breathes,air_qual_survey,bre1_aq_uk,BiB_Breathes.air_qual_survey.bre1_aq_uk,4) How do you think this compares to other parts of the UK?,decimal,,-2|1|2|3,Dont Know|Better|About the same|Worse
 BiB_Breathes,air_qual_survey,bre1_aq_bfd_con,BiB_Breathes.air_qual_survey.bre1_aq_bfd_con,5) How concerned are you about air quality in Bradford?,decimal,,1|2|3|4|5|6,Not at all Concerned|Slightly Concerned|Somewhat Concerned|Moderately Concerned|Extremely Concerned|Dont know
 BiB_Breathes,air_qual_survey,bre1_aq_oth,BiB_Breathes.air_qual_survey.bre1_aq_oth,6) Do you think other people in Bradford are concerned about air quality?,decimal,,1|2|3|4|5|6,Not at all Concerned|Slightly Concerned|Somewhat Concerned|Moderately Concerned|Extremely Concerned|Dont know
 BiB_Breathes,air_qual_survey,bre1_aq_imp,BiB_Breathes.air_qual_survey.bre1_aq_imp,7) How important do you think it is to improve air quality?,decimal,,1|2|3|4|5|6,Not at all Important|Slightly Important|Somewhat Important|Moderately Important|Extremely Important|Dont know
-BiB_Breathes,air_qual_survey,bre1_aq_res,BiB_Breathes.air_qual_survey.bre1_aq_res,8) Whose responsibility do you think it is to improve air quality in Bradford?,decimal,,1|2|3|4|5|6,Government|Council|General Public|Factory Owners|Other Business Owners|Other (specify)
+BiB_Breathes,air_qual_survey,bre1_aq_res___1,BiB_Breathes.air_qual_survey.bre1_aq_res___1,8) Responsibility for improving air quality: Government,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_aq_res___2,BiB_Breathes.air_qual_survey.bre1_aq_res___2,8) Responsibility for improving air quality: Council,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_aq_res___3,BiB_Breathes.air_qual_survey.bre1_aq_res___3,8) Responsibility for improving air quality: General public,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_aq_res___4,BiB_Breathes.air_qual_survey.bre1_aq_res___4,8) Responsibility for improving air quality: Factory owners,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_aq_res___5,BiB_Breathes.air_qual_survey.bre1_aq_res___5,8) Responsibility for improving air quality: Other business owners,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_aq_res___6,BiB_Breathes.air_qual_survey.bre1_aq_res___6,8) Responsibility for improving air quality: Other,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_aq_res_oth,BiB_Breathes.air_qual_survey.bre1_aq_res_oth,"8) If you said Other, please specify",text,,,
 BiB_Breathes,air_qual_survey,bre1_aq_pan,BiB_Breathes.air_qual_survey.bre1_aq_pan,9) How do you think air pollution has changed since start of pandemic?,decimal,,-2|1|2|3,Dont Know|Increased|Stayed the Same|Decreased
 BiB_Breathes,air_qual_survey,bre1_caz_bfd,BiB_Breathes.air_qual_survey.bre1_caz_bfd,10) Had you heard about the CAZ before this survey?,decimal,,-2|1|2,Dont Know|Yes|No
 BiB_Breathes,air_qual_survey,bre1_caz_gi,BiB_Breathes.air_qual_survey.bre1_caz_gi,11) Do you think CAZ is a good idea?,decimal,,-2|1|2,Dont Know|Yes|No
 BiB_Breathes,air_qual_survey,bre1_caz_pro,BiB_Breathes.air_qual_survey.bre1_caz_pro,12) To what extent do you agreethat the proposed CAZ covers the right areas?,decimal,,1|2|3|4|5,Strongly Disagree|Disagree|Neither Agree nor Disagree|Agree|Strongly Agree
+BiB_Breathes,air_qual_survey,bre1_caz_area,BiB_Breathes.air_qual_survey.bre1_caz_area,"13) If you disagree, which areas do you think should be included or excluded?",text,,,
 BiB_Breathes,air_qual_survey,bre1_caz_red,BiB_Breathes.air_qual_survey.bre1_caz_red,14) Do you think the CAZ is going to reduce the air pollution in Bradford?,decimal,,-2|1|2,Dont Know|Yes|No
 BiB_Breathes,air_qual_survey,bre1_caz_vhch_1,BiB_Breathes.air_qual_survey.bre1_caz_vhch_1,15) Do you think it's a good idea to charge Buses and Coaches,decimal,,-2|1|2,"Dont Know|Yes, good idea to charge them|No, not a good idea to charge them"
 BiB_Breathes,air_qual_survey,bre1_caz_vhch_2,BiB_Breathes.air_qual_survey.bre1_caz_vhch_2,15) Do you think it's a good idea to charge Taxis,decimal,,-2|1|2,"Dont Know|Yes, good idea to charge them|No, not a good idea to charge them"
@@ -6200,77 +6204,88 @@ BiB_Breathes,air_qual_survey,bre1_caz_tx,BiB_Breathes.air_qual_survey.bre1_caz_t
 BiB_Breathes,air_qual_survey,bre1_caz_tx_grnt,BiB_Breathes.air_qual_survey.bre1_caz_tx_grnt,17) Grants to small businesses helpful for uptake of electric vehicles?,decimal,,-2|1|2,Dont Know|Yes|No
 BiB_Breathes,air_qual_survey,bre1_caz_hlth_1,BiB_Breathes.air_qual_survey.bre1_caz_hlth_1,18) CAZ will improve the health of my family/community,decimal,,1|2|3|4|5,Strongly Disagree|Disagree|Neither Agree nor Disagree|Agree|Strongly Agree
 BiB_Breathes,air_qual_survey,bre1_caz_hlth_2,BiB_Breathes.air_qual_survey.bre1_caz_hlth_2,18) Council has consulted well with the public about the plans for CAZ,decimal,,1|2|3|4|5,Strongly Disagree|Disagree|Neither Agree nor Disagree|Agree|Strongly Agree
-BiB_Breathes,air_qual_survey,jbsc_main_bre1,BiB_Breathes.air_qual_survey.jbsc_main_bre1,20) Who is the main earner in the household?,decimal,,1|2|3|4,Me|My partner|Other household member|Me and my partner earn the same amount
-BiB_Breathes,air_qual_survey,jbsc_main_crntly_rev1_bre1,BiB_Breathes.air_qual_survey.jbsc_main_crntly_rev1_bre1,21) What is the current job status of the main earner in your household?,decimal,,1|2|3|4|5|6|7|8,"Employed|Employed but not working (on furlough)|Employed on the wage subsidy scheme (e.g., working less hours with wage topped up by the Government)|Self employed and working|Self employed and not working|Unemployed|Other (please specify)|Dont know"
-BiB_Breathes,air_qual_survey,jbsc_main_crntly_oth,BiB_Breathes.air_qual_survey.jbsc_main_crntly_oth,"21) If you said Other, please specify",text,,,
-BiB_Breathes,air_qual_survey,jbsc_main_hmwfh_bre1,BiB_Breathes.air_qual_survey.jbsc_main_hmwfh_bre1,"22) Is main earner mainly working from home, or going out to work?",decimal,,1|2,Working from home|Going out to work
-BiB_Breathes,air_qual_survey,jbsc_covid_bre1,BiB_Breathes.air_qual_survey.jbsc_covid_bre1,23) Has anyone in your household lost their job since the pandemic started?,decimal,,1|2|3|4,Me|My Partner|Other household member|Not applicable
-BiB_Breathes,air_qual_survey,jbsc_main_wry_1_bre1,BiB_Breathes.air_qual_survey.jbsc_main_wry_1_bre1,24) I worry about the job security of the main earner,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
-BiB_Breathes,air_qual_survey,jbsc_main_wry_2_bre1,BiB_Breathes.air_qual_survey.jbsc_main_wry_2_bre1,25) In next 12 months is income of main earner likely to be uncertain?,decimal,,-2|1|2,Dont know|Yes|No
-BiB_Breathes,air_qual_survey,jbsc_main_wry_3_bre1,BiB_Breathes.air_qual_survey.jbsc_main_wry_3_bre1,"26) In 12 months time, do you expect the main earner to still have their job?",decimal,,-2|1|2,Dont know|Yes|No
+BiB_Breathes,air_qual_survey,bre1_caz_gen,BiB_Breathes.air_qual_survey.bre1_caz_gen,19) Other thoughts on the CAZ/air quality more generally?,text,,,
 BiB_Breathes,air_qual_survey,bre1_main_ear,BiB_Breathes.air_qual_survey.bre1_main_ear,27) Which of these best describes the sort of work the main earner usually does?,decimal,,1|2|3|4|5|6|7|8,"Senior managers or administrators (usually responsible for planning, organising and co-ordinating work, and for finance) such as: finance manager|Modern professional occupations such as: teacher- nurse - physiotherapist - social worker - welfare officer - artist- musician - police officer (sergeant or above) - software designer|Middle or junior managers such as: office manager - retail manager - bank manager - restaurant manager - warehouse manager - publican|Clerical and intermediate occupations such as: secretary - personal assistant - clerical worker - office clerk - call centre - agent - nursing auxiliary - nursery nurse|Traditional professional occupations such as: accountant - solicitor - medical practitioner - scientist - civil/mechanical engineer - technical and craft occupations such as: motor mechanic - fitter - inspector - plumber - printer - tool maker - electrician - gardener - train driver|Semi-routine manual and service occupations such as: postal worker - machine operative - security guard - caretaker - farm worker - catering assistant - receptionist - sales - assistant|Routine manual and service occupations such as: HGV driver - van driver - cleaner - porter - packer - sewing machinist - messenger - labourer - waiter/waitress - bar staff|Other (Please specify below)"
 BiB_Breathes,air_qual_survey,bre1_main_ear_oth,BiB_Breathes.air_qual_survey.bre1_main_ear_oth,"27) If you said Other, please specify",text,,,
 BiB_Breathes,air_qual_survey,bre1_hshd_dr_1,BiB_Breathes.air_qual_survey.bre1_hshd_dr_1,28) Does anyone in your household drive private hire or taxi vehicles,decimal,,1|2|3,Yes - Employed|Yes - Self-Employed|Not Applicable
 BiB_Breathes,air_qual_survey,bre1_hshd_dr_2,BiB_Breathes.air_qual_survey.bre1_hshd_dr_2,28) Does anyone in your household drive light goods vehicles,decimal,,1|2|3,Yes - Employed|Yes - Self-Employed|Not Applicable
 BiB_Breathes,air_qual_survey,bre1_hshd_dr_3,BiB_Breathes.air_qual_survey.bre1_hshd_dr_3,28) Does anyone in your household drive heavy goods vehicles,decimal,,1|2|3,Yes - Employed|Yes - Self-Employed|Not Applicable
-BiB_Breathes,air_qual_survey,bre1_tr_w_1,BiB_Breathes.air_qual_survey.bre1_tr_w_1,"29) Before lockdown, how did main earner in  household get to work?",decimal,,1|10|2|3|4|5|6|7|8|9,Petrol/Diesel car/van|Not applicable|Electric/Hybrid car|Bus|Walk|Bicycle|Taxi|Train|Other (specify)|Work from home
-BiB_Breathes,air_qual_survey,bre1_tr_w_1_oth,BiB_Breathes.air_qual_survey.bre1_tr_w_1_oth,"29) If you said Other, please specify",text,,,
-BiB_Breathes,air_qual_survey,bre1_tr_w_2,BiB_Breathes.air_qual_survey.bre1_tr_w_2,29) How does the main earner normally get to work now?,decimal,,1|10|2|3|4|5|6|7|8|9,Petrol/Diesel car/van|Not applicable|Electric/Hybrid car|Bus|Walk|Bicycle|Taxi|Train|Other (specify)|Work from home
-BiB_Breathes,air_qual_survey,bre1_tr_w_2_oth,BiB_Breathes.air_qual_survey.bre1_tr_w_2_oth,"29) If you said Other, please specify",text,,,
-BiB_Breathes,air_qual_survey,bre1_tr_sch_1,BiB_Breathes.air_qual_survey.bre1_tr_sch_1,30) Before lockdown how did your children normally travel to school?,decimal,,1|10|2|3|4|5|6|7|8|9,Petrol/Diesel car/van|Not applicable|Electric/Hybrid car|School bus|Other bus|Walk|Bicycle|Taxi|Train|Other (specify)
-BiB_Breathes,air_qual_survey,bre1_tr_sch_1_oth,BiB_Breathes.air_qual_survey.bre1_tr_sch_1_oth,"30) If you said Other, please specify",text,,,
-BiB_Breathes,air_qual_survey,bre1_tr_sch_2,BiB_Breathes.air_qual_survey.bre1_tr_sch_2,30) How do your children normally travel to school now?,decimal,,1|10|2|3|4|5|6|7|8|9,Petrol/Diesel car/van|Not applicable|Electric/Hybrid car|School bus|Other bus|Walk|Bicycle|Taxi|Train|Other (specify)
-BiB_Breathes,air_qual_survey,bre1_tr_sch_2_oth,BiB_Breathes.air_qual_survey.bre1_tr_sch_2_oth,"30) If you said Other, please specify",text,,,
-BiB_Breathes,air_qual_survey,bre1_tr_gen_1,BiB_Breathes.air_qual_survey.bre1_tr_gen_1,"31) Before lockdown, how did you travel around BMD (not to work/school)?",decimal,,1|2|3|4|5|6|7|8|9,Petrol/Diesel car/van|Electric/Hybrid car|Bus|Walk|Bicycle|Taxi|Train|Other (specify)|Not applicable
-BiB_Breathes,air_qual_survey,bre1_tr_gen_1_oth,BiB_Breathes.air_qual_survey.bre1_tr_gen_1_oth,"31) If you said Other, please specify",text,,,
-BiB_Breathes,air_qual_survey,bre1_tr_gen_2,BiB_Breathes.air_qual_survey.bre1_tr_gen_2,31) How do you normally travel around BMD now?,decimal,,1|2|3|4|5|6|7|8|9,Petrol/Diesel car/van|Electric/Hybrid car|Bus|Walk|Bicycle|Taxi|Train|Other (specify)|Not applicable
-BiB_Breathes,air_qual_survey,bre1_tr_gen_2_oth,BiB_Breathes.air_qual_survey.bre1_tr_gen_2_oth,"31) If you said Other, please specify",text,,,
+BiB_Breathes,air_qual_survey,bre1_tr_w_1___1,BiB_Breathes.air_qual_survey.bre1_tr_w_1___1,29) Before lockdown main earner travelled to work by petrol/diesel car/van,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_1___2,BiB_Breathes.air_qual_survey.bre1_tr_w_1___2,29) Before lockdown main earner travelled to work by electric/hybrid car,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_1___3,BiB_Breathes.air_qual_survey.bre1_tr_w_1___3,29) Before lockdown main earner travelled to work by bus,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_1___4,BiB_Breathes.air_qual_survey.bre1_tr_w_1___4,29) Before lockdown main earner travelled to work by walking,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_1___5,BiB_Breathes.air_qual_survey.bre1_tr_w_1___5,29) Before lockdown main earner travelled to work by bicycle,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_1___6,BiB_Breathes.air_qual_survey.bre1_tr_w_1___6,29) Before lockdown main earner travelled to work by taxi,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_1___7,BiB_Breathes.air_qual_survey.bre1_tr_w_1___7,29) Before lockdown main earner travelled to work by train,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_1___8,BiB_Breathes.air_qual_survey.bre1_tr_w_1___8,29) Before lockdown main earner travelled to work by other method,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_1___9,BiB_Breathes.air_qual_survey.bre1_tr_w_1___9,29) Before lockdown main earner worked from home,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_1___10,BiB_Breathes.air_qual_survey.bre1_tr_w_1___10,29) Before lockdown main early travelled to work NA,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_1_oth,BiB_Breathes.air_qual_survey.bre1_tr_w_1_oth,"29) If you said other to before lockdown, please specify",text,,,
+BiB_Breathes,air_qual_survey,bre1_tr_w_2___1,BiB_Breathes.air_qual_survey.bre1_tr_w_2___1,29) Main earner travels to work now by petrol/diesel car/van,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_2___2,BiB_Breathes.air_qual_survey.bre1_tr_w_2___2,29) Main earner travels to work now by electric/hybrid car,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_2___3,BiB_Breathes.air_qual_survey.bre1_tr_w_2___3,29) Main earner travels to work now by bus,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_2___4,BiB_Breathes.air_qual_survey.bre1_tr_w_2___4,29) Main earner travels to work now by walking,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_2___5,BiB_Breathes.air_qual_survey.bre1_tr_w_2___5,29) Main earner travels to work now by bicycle,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_2___6,BiB_Breathes.air_qual_survey.bre1_tr_w_2___6,29) Main earner travels to work now by taxi,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_2___7,BiB_Breathes.air_qual_survey.bre1_tr_w_2___7,29) Main earner travels to work now by train,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_2___8,BiB_Breathes.air_qual_survey.bre1_tr_w_2___8,29) Main earner travels to work now by other method,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_2___9,BiB_Breathes.air_qual_survey.bre1_tr_w_2___9,29) Main earner works from home now,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_2___10,BiB_Breathes.air_qual_survey.bre1_tr_w_2___10,29) Main earner travels to work now NA,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_w_2_oth,BiB_Breathes.air_qual_survey.bre1_tr_w_2_oth,"29) If you said other to now, please specify",text,,,
+BiB_Breathes,air_qual_survey,bre1_tr_sch_1___1,BiB_Breathes.air_qual_survey.bre1_tr_sch_1___1,30) Before lockdown your children travelled to school by petrol/diesel car/van,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_1___2,BiB_Breathes.air_qual_survey.bre1_tr_sch_1___2,30) Before lockdown your children travelled to school by electric/hybrid car,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_1___3,BiB_Breathes.air_qual_survey.bre1_tr_sch_1___3,30) Before lockdown your children travelled to school by bus,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_1___4,BiB_Breathes.air_qual_survey.bre1_tr_sch_1___4,30) Before lockdown your children travelled to school by walking,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_1___5,BiB_Breathes.air_qual_survey.bre1_tr_sch_1___5,30) Before lockdown your children travelled to school by bicycle,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_1___6,BiB_Breathes.air_qual_survey.bre1_tr_sch_1___6,30) Before lockdown your children travelled to school by taxi,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_1___7,BiB_Breathes.air_qual_survey.bre1_tr_sch_1___7,30) Before lockdown your children travelled to school by train,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_1___8,BiB_Breathes.air_qual_survey.bre1_tr_sch_1___8,30) Before lockdown your children travelled to school by other method,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_1___9,BiB_Breathes.air_qual_survey.bre1_tr_sch_1___9,30) Before lockdown your children schooled from home,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_1___10,BiB_Breathes.air_qual_survey.bre1_tr_sch_1___10,30) Before lockdown main early travelled to school NA,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_1_oth,BiB_Breathes.air_qual_survey.bre1_tr_sch_1_oth,"30) If you said other to before lockdown, please specify",text,,,
+BiB_Breathes,air_qual_survey,bre1_tr_sch_2___1,BiB_Breathes.air_qual_survey.bre1_tr_sch_2___1,30) Your children travels to school now by petrol/diesel car/van,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_2___2,BiB_Breathes.air_qual_survey.bre1_tr_sch_2___2,30) Your children travels to school now by electric/hybrid car,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_2___3,BiB_Breathes.air_qual_survey.bre1_tr_sch_2___3,30) Your children travels to school now by bus,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_2___4,BiB_Breathes.air_qual_survey.bre1_tr_sch_2___4,30) Your children travels to school now by walking,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_2___5,BiB_Breathes.air_qual_survey.bre1_tr_sch_2___5,30) Your children travels to school now by bicycle,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_2___6,BiB_Breathes.air_qual_survey.bre1_tr_sch_2___6,30) Your children travels to school now by taxi,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_2___7,BiB_Breathes.air_qual_survey.bre1_tr_sch_2___7,30) Your children travels to school now by train,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_2___8,BiB_Breathes.air_qual_survey.bre1_tr_sch_2___8,30) Your children travels to school now by other method,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_2___9,BiB_Breathes.air_qual_survey.bre1_tr_sch_2___9,30) Your children schools from home now,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_2___10,BiB_Breathes.air_qual_survey.bre1_tr_sch_2___10,30) Your children travels to school now NA,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_sch_2_oth,BiB_Breathes.air_qual_survey.bre1_tr_sch_2_oth,"30) If you said other to now, please specify",text,,,
+BiB_Breathes,air_qual_survey,bre1_tr_gen_1___1,BiB_Breathes.air_qual_survey.bre1_tr_gen_1___1,31) Before lockdown you travelled around by petrol/diesel car/van,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_1___2,BiB_Breathes.air_qual_survey.bre1_tr_gen_1___2,31) Before lockdown you travelled around by electric/hybrid car,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_1___3,BiB_Breathes.air_qual_survey.bre1_tr_gen_1___3,31) Before lockdown you travelled around by bus,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_1___4,BiB_Breathes.air_qual_survey.bre1_tr_gen_1___4,31) Before lockdown you travelled around by walking,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_1___5,BiB_Breathes.air_qual_survey.bre1_tr_gen_1___5,31) Before lockdown you travelled around by bicycle,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_1___6,BiB_Breathes.air_qual_survey.bre1_tr_gen_1___6,31) Before lockdown you travelled around by taxi,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_1___7,BiB_Breathes.air_qual_survey.bre1_tr_gen_1___7,31) Before lockdown you travelled around by train,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_1___8,BiB_Breathes.air_qual_survey.bre1_tr_gen_1___8,31) Before lockdown you travelled around by other method,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_1___9,BiB_Breathes.air_qual_survey.bre1_tr_gen_1___9,31) Before lockdown you travelled around NA,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_1_oth,BiB_Breathes.air_qual_survey.bre1_tr_gen_1_oth,"31) If you said other to before lockdown, please specify",text,,,
+BiB_Breathes,air_qual_survey,bre1_tr_gen_2___1,BiB_Breathes.air_qual_survey.bre1_tr_gen_2___1,31) You travel around now by petrol/diesel car/van,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_2___2,BiB_Breathes.air_qual_survey.bre1_tr_gen_2___2,31) You travel around now by electric/hybrid car,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_2___3,BiB_Breathes.air_qual_survey.bre1_tr_gen_2___3,31) You travel around now by bus,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_2___4,BiB_Breathes.air_qual_survey.bre1_tr_gen_2___4,31) You travel around now by walking,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_2___5,BiB_Breathes.air_qual_survey.bre1_tr_gen_2___5,31) You travel around now by bicycle,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_2___6,BiB_Breathes.air_qual_survey.bre1_tr_gen_2___6,31) You travel around now by taxi,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_2___7,BiB_Breathes.air_qual_survey.bre1_tr_gen_2___7,31) You travel around now by train,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_2___8,BiB_Breathes.air_qual_survey.bre1_tr_gen_2___8,31) You travel around now by other method,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_2___9,BiB_Breathes.air_qual_survey.bre1_tr_gen_2___9,31) You travel around now NA,decimal,,0|1,Unchecked|Checked
+BiB_Breathes,air_qual_survey,bre1_tr_gen_2_oth,BiB_Breathes.air_qual_survey.bre1_tr_gen_2_oth,"31) If you said other to now, please specify",text,,,
 BiB_Breathes,air_qual_survey,bre1_tr_cov,BiB_Breathes.air_qual_survey.bre1_tr_cov,32) If changed how you travel due to Covid-19 will this continue after lockdowns,decimal,,1|2|3|4|5,Not at all likely|Not very likely|Neither likely nor unlikely|Very likely|Extremely likely
 BiB_Breathes,air_qual_survey,bre1_tr_hcos_1,BiB_Breathes.air_qual_survey.bre1_tr_hcos_1,"33) In last week, how much spent on Petrol/Diesel/other fuel?",decimal,,0|1|2|3|4|5,£0|£1-10|£11-20|£21-30|£31-40|More than £40
 BiB_Breathes,air_qual_survey,bre1_tr_hcos_2,BiB_Breathes.air_qual_survey.bre1_tr_hcos_2,"33) In the last week, how much spent on Taxis?",decimal,,0|1|2|3|4|5,£0|£1-10|£11-20|£21-30|£31-40|More than £40
 BiB_Breathes,air_qual_survey,bre1_tr_hcos_3,BiB_Breathes.air_qual_survey.bre1_tr_hcos_3,"33) In the last week, how much spent on Buses?",decimal,,0|1|2|3|4|5,£0|£1-10|£11-20|£21-30|£31-40|More than £40
 BiB_Breathes,air_qual_survey,bre1_tr_hcos_4,BiB_Breathes.air_qual_survey.bre1_tr_hcos_4,"33) In the last week, how much spent on Trains?",decimal,,0|1|2|3|4|5,£0|£1-10|£11-20|£21-30|£31-40|More than £40
 BiB_Breathes,air_qual_survey,bre1_tr_car,BiB_Breathes.air_qual_survey.bre1_tr_car,34) How often use car for journeys of <=0.5 miles?,decimal,,1|2|3|4|5|6,Never|Rarely|Sometimes|Often|All the time|Not Applicable
-BiB_Breathes,air_qual_survey,hhe_ddntlast_bre1,BiB_Breathes.air_qual_survey.hhe_ddntlast_bre1,35) The food  bought didnt last and didnt have money to get more,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
-BiB_Breathes,air_qual_survey,hhe_balancd_bre1,BiB_Breathes.air_qual_survey.hhe_balancd_bre1,35) (I/we) couldnt afford to eat balanced meals.,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
-BiB_Breathes,air_qual_survey,hhe_skip_bre1,BiB_Breathes.air_qual_survey.hhe_skip_bre1,36) Did you/other adults skip/have smaller meals because not enough money for fo,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
-BiB_Breathes,air_qual_survey,hhe_skipoftn_rev1_bre1,BiB_Breathes.air_qual_survey.hhe_skipoftn_rev1_bre1,36) If yes how often did you skip/have smaller meals?,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Less than once a month but a few times|Not every week but at least once a month|Every week
-BiB_Breathes,air_qual_survey,hhe_eatless_bre1,BiB_Breathes.air_qual_survey.hhe_eatless_bre1,37) Did you/other adults eat less than you wanted because there wasnt enough mon,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
-BiB_Breathes,air_qual_survey,hhe_food_dsc_bre1,BiB_Breathes.air_qual_survey.hhe_food_dsc_bre1,38) Were you ever hungry but didnt eat because not enough money for food?,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
-BiB_Breathes,air_qual_survey,hhe_fd_bank_bre1,BiB_Breathes.air_qual_survey.hhe_fd_bank_bre1,39) Have you received food from food banks?,decimal,,0|1|2|3,Pre-pandemic|During the first lockdown|During the latest lockdown|Now (in the last month)
-BiB_Breathes,air_qual_survey,hhe_fd_sch_bre1,BiB_Breathes.air_qual_survey.hhe_fd_sch_bre1,39) Have you received free food provided by schools?,decimal,,0|1|2|3,Pre-pandemic|During the first lockdown|During the latest lockdown|Now (in the last month)
-BiB_Breathes,air_qual_survey,hhe_fd_comorg_bre1,BiB_Breathes.air_qual_survey.hhe_fd_comorg_bre1,39) Have you received food from community org/allotment schemes?,decimal,,0|1|2|3,Pre-pandemic|During the first lockdown|During the latest lockdown|Now (in the last month)
-BiB_Breathes,air_qual_survey,hhe_fd_fai_bre1,BiB_Breathes.air_qual_survey.hhe_fd_fai_bre1,39) Have you received food from faith based organisations?,decimal,,0|1|2|3,Pre-pandemic|During the first lockdown|During the latest lockdown|Now (in the last month)
-BiB_Breathes,air_qual_survey,hhe_fd_fri_bre1,BiB_Breathes.air_qual_survey.hhe_fd_fri_bre1,39) Have you received food from friends/neighbours?,decimal,,0|1|2|3,Pre-pandemic|During the first lockdown|During the latest lockdown|Now (in the last month)
-BiB_Breathes,air_qual_survey,hhe_fd_fam_bre1,BiB_Breathes.air_qual_survey.hhe_fd_fam_bre1,39) Have you received food from family (not living in your home)?,decimal,,0|1|2|3,Pre-pandemic|During the first lockdown|During the latest lockdown|Now (in the last month)
-BiB_Breathes,air_qual_survey,hhe_fd_fam_bre1_oth,BiB_Breathes.air_qual_survey.hhe_fd_fam_bre1_oth,39) Have you received food from other sources?,decimal,,,
-BiB_Breathes,air_qual_survey,hhe_fd_oth_bre1,BiB_Breathes.air_qual_survey.hhe_fd_oth_bre1,"39) If you said Other, please specify",text,,,
-BiB_Breathes,air_qual_survey,hhe_finannow_bre1,BiB_Breathes.air_qual_survey.hhe_finannow_bre1,40) How well would you say you are managing financially right now?,decimal,,-1|-2|1|2|3|4|5,Do not wish to answer|Dont know|Living comfortably|Doing alright|Just about getting by|Finding it quite difficult|Finding it very difficult
-BiB_Breathes,air_qual_survey,hhe_bills_bre1,BiB_Breathes.air_qual_survey.hhe_bills_bre1,41) Are you currently up to date with all bills?,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
-BiB_Breathes,air_qual_survey,hhe_wrypay_bre1,BiB_Breathes.air_qual_survey.hhe_wrypay_bre1,42) I worry about paying the rent / mortgage,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
-BiB_Breathes,air_qual_survey,hhe_wryevic_bre1,BiB_Breathes.air_qual_survey.hhe_wryevic_bre1,42) I worry about getting evicted / having my home repossessed,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
-BiB_Breathes,air_qual_survey,fh_ons_life_worth_bre1,BiB_Breathes.air_qual_survey.fh_ons_life_worth_bre1,43) Do you feel that the things you do in your life are worthwhile?,decimal,,0|1|10|2|3|4|5|6|7|8|9,0 = Not at all worthwhile|1|10 = Completely worthwhile|2|3|4|5|6|7|8|9
-BiB_Breathes,air_qual_survey,fh_phq_1_bre1,BiB_Breathes.air_qual_survey.fh_phq_1_bre1,44) In the last 2 wks have you had little interest or pleasure in doing things?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_phq_2_bre1,BiB_Breathes.air_qual_survey.fh_phq_2_bre1,44) In the last 2 wks have you felt down/ depressed/hopeless?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_phq_3_bre1,BiB_Breathes.air_qual_survey.fh_phq_3_bre1,44) In the last 2 wks have you had trouble falling/staying asleep/slept too much,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_phq_4_bre1,BiB_Breathes.air_qual_survey.fh_phq_4_bre1,44) In the last 2 wks have you felt tired or had little energy?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_phq_5_bre1,BiB_Breathes.air_qual_survey.fh_phq_5_bre1,44) In the last 2 wks have you had a poor appetite or overeaten?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_phq_6_bre1,BiB_Breathes.air_qual_survey.fh_phq_6_bre1,44) In the last 2 wks have you felt bad about yourself?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_phq_7_bre1,BiB_Breathes.air_qual_survey.fh_phq_7_bre1,44) In the last 2 wks have you had trouble concentrating on things?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_phq_8_bre1,BiB_Breathes.air_qual_survey.fh_phq_8_bre1,44) In the last 2 wks have you been moving or speaking so slowly/fidgeting/restl,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_phq_hwdiff_bre1,BiB_Breathes.air_qual_survey.fh_phq_hwdiff_bre1,45) How difficult have any problems made it difficult to carry out daily activit,decimal,,0|1|2|3,Not at all|Somewhat difficult|Very difficult|Extremely difficult
-BiB_Breathes,air_qual_survey,fh_gad_1_bre1,BiB_Breathes.air_qual_survey.fh_gad_1_bre1,"46) In the last 2 wks have you felt nervous, anxious or on edge?",decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_gad_2_bre1,BiB_Breathes.air_qual_survey.fh_gad_2_bre1,46) In the last 2 wks have you not being able to stop or control worrying?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_gad_3_bre1,BiB_Breathes.air_qual_survey.fh_gad_3_bre1,46) In the last 2 wks have you been worrying too much about different things?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_gad_4_bre1,BiB_Breathes.air_qual_survey.fh_gad_4_bre1,46) In the last 2 wks have you had trouble relaxing?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_gad_5_bre1,BiB_Breathes.air_qual_survey.fh_gad_5_bre1,46) In the last 2 wks have you been so restless that it is hard to sit still?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_gad_6_bre1,BiB_Breathes.air_qual_survey.fh_gad_6_bre1,46) In the last 2 wks have you become easily annoyed or irritable?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_gad_7_bre1,BiB_Breathes.air_qual_survey.fh_gad_7_bre1,46) In the last 2 wks have you felt afraid as if something awful might happen?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
-BiB_Breathes,air_qual_survey,fh_eq5d_mob_bre1,BiB_Breathes.air_qual_survey.fh_eq5d_mob_bre1,47) Which answer best describes your current mobility?,decimal,,1|2|3|4|5,I am unable to walk about|I have severe problems in walking about|I have moderate problems in walking about|I have slight problems in walking about|I have no problems in walking about
-BiB_Breathes,air_qual_survey,fh_eq5d_selfcare_bre1,BiB_Breathes.air_qual_survey.fh_eq5d_selfcare_bre1,47) Which answer best describes your current self-care?,decimal,,1|2|3|4|5,I am unable to wash or dress myself|I have severe problems washing or dressing myself|I have moderate problems washing or dressing myself|I have slight problems washing or dressing myself|I have no problems washing or dressing myself
-BiB_Breathes,air_qual_survey,fh_eq5d_act_bre1,BiB_Breathes.air_qual_survey.fh_eq5d_act_bre1,47) Which answer best describes your usual activites?,decimal,,1|2|3|4|5,I am unable to do my usual activities|I have severe problems doing my usual activities|I have moderate problems doing my usual activities|I have slight problems doing my usual activities|I have no problems doing my usual activities
-BiB_Breathes,air_qual_survey,fh_eq5d_pain_disc_bre1,BiB_Breathes.air_qual_survey.fh_eq5d_pain_disc_bre1,47) Which answer best describes your current pain/discomfort?,decimal,,1|2|3|4|5,I have extreme pain or discomfort|I have severe pain or discomfort|I have moderate pain or discomfort|I have slight pain or discomfort|I have no pain or discomfort
-BiB_Breathes,air_qual_survey,fh_eq5d_anx_dep_bre1,BiB_Breathes.air_qual_survey.fh_eq5d_anx_dep_bre1,47) Which answer best describes your current anxiety/depression?,decimal,,1|2|3|4|5,I am extremely anxious or depressed|I am severely anxious or depressed|I am moderately anxious or depressed|I am slightly anxious or depressed|I am not anxious or depressed
+BiB_Breathes,air_qual_survey,end_data_entry_notes,BiB_Breathes.air_qual_survey.end_data_entry_notes,Data entry notes,text,,,
+BiB_Breathes,air_qual_survey,bib_breathes_air_qua_v_0,BiB_Breathes.air_qual_survey.bib_breathes_air_qua_v_0,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
+BiB_Breathes,air_qual_survey,version,BiB_Breathes.air_qual_survey.version,Version,decimal,,,
+BiB_Breathes,air_qual_survey,end_cntct_phone_bre1,BiB_Breathes.air_qual_survey.end_cntct_phone_bre1,Contact telephone number:,text,,,
+BiB_Breathes,air_qual_survey,end_cntct_email_bre1,BiB_Breathes.air_qual_survey.end_cntct_email_bre1,Email address:,text,,,
+BiB_Breathes,air_qual_survey,bib_breathes_air_qua_v_1,BiB_Breathes.air_qual_survey.bib_breathes_air_qua_v_1,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
 BiB_ChildGrowth,growth_anthro,has_growth_anthro,BiB_ChildGrowth.growth_anthro.has_growth_anthro,Has child growth and anthropometry,decimal,,,
 BiB_ChildGrowth,growth_anthro,sex,BiB_ChildGrowth.growth_anthro.sex,Sex,decimal,,1|2,Male|Female
 BiB_ChildGrowth,growth_anthro,cgrowthsource,BiB_ChildGrowth.growth_anthro.cgrowthsource,Source of data,decimal,,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,eClipse|Primary care|HCP|SMP|NCMP|Dental caries study|Growing Up|BiB1000-6 mths|BiB1000-12 mths|BiB1000-18 mths|BiB1000-24 mths|BiB1000-36 mths|ALLIN-12 mths|ALLIN-24 mths|MeDALL
@@ -6479,8 +6494,10 @@ BiB_Education_Record,edrecs_eyfsp_1,eyfsp_pre2013_sd,BiB_Education_Record.edrecs
 BiB_Education_Record,edrecs_eyfsp_1,eyfsp_pre2013_ssm,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_ssm,"EYFSP pre 2013 - Prob Solving, reasoning, numeracy: Shape, space, measures",decimal,,,
 BiB_Education_Record,edrecs_eyfsp_1,eyfsp_pre2013_testestablishment,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_testestablishment,School Code where test conducted: EYFSP pre 2013,text,,,
 BiB_Education_Record,edrecs_eyfsp_1,eyfsp_pre2013_write,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_write,"EYFSP pre 2013 - Comm, lang and lit: Writing",decimal,,,
-BiB_Education_Record,edrecs_eyfsp_1,eyfsp_pre2013_yeartested,BiB_Education_Record.edrecs_eyfsp_1.eyfsp_pre2013_yeartested,Year of test: EYFSP pre 2013,decimal,,,
 BiB_Education_Record,edrecs_eyfsp_1,has_eyfsp1,BiB_Education_Record.edrecs_eyfsp_1.has_eyfsp1,Has: Early Years Foundation Stage Profile: pre 2013,decimal,,1,has
+BiB_Education_Record,edrecs_eyfsp_1,date_est,BiB_Education_Record.edrecs_eyfsp_1.date_est,Estimated date of assessment,date,,,
+BiB_Education_Record,edrecs_eyfsp_1,age_months_est,BiB_Education_Record.edrecs_eyfsp_1.age_months_est,Estimated age in months at assessment,decimal,,,
+BiB_Education_Record,edrecs_eyfsp_1,age_years_est,BiB_Education_Record.edrecs_eyfsp_1.age_years_est,Estimated age in years at assessment,decimal,,,
 BiB_Education_Record,edrecs_eyfsp_2,has_edrecs_eyfsp_2,BiB_Education_Record.edrecs_eyfsp_2.has_edrecs_eyfsp_2,Has early years foundation stage profile 2013 plus,decimal,,,
 BiB_Education_Record,edrecs_eyfsp_2,eyfsp_post2013_acyrtested,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_acyrtested,School year of EYFSP assessment,decimal,,1|2|3|4|5|6|7,R|Y1|Y2|Y3|Y4|Y5|Y6
 BiB_Education_Record,edrecs_eyfsp_2,eyfsp_post2013_com_elg01,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_com_elg01,EYFSP- Communication and language: Listening and attention,decimal,,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
@@ -6501,8 +6518,10 @@ BiB_Education_Record,edrecs_eyfsp_2,eyfsp_post2013_testestablishment,BiB_Educati
 BiB_Education_Record,edrecs_eyfsp_2,eyfsp_post2013_utw_elg13,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_utw_elg13,EYFSP- Understanding the world: People and communities,decimal,,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
 BiB_Education_Record,edrecs_eyfsp_2,eyfsp_post2013_utw_elg14,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_utw_elg14,EYFSP- Understanding the world: The world,decimal,,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
 BiB_Education_Record,edrecs_eyfsp_2,eyfsp_post2013_utw_elg15,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_utw_elg15,EYFSP- Understanding the world: Technology,decimal,,1|2|3|4,Emerging|Expected|Exceeding|A - Absent for long periods or recently arrived
-BiB_Education_Record,edrecs_eyfsp_2,eyfsp_post2013_yeartested,BiB_Education_Record.edrecs_eyfsp_2.eyfsp_post2013_yeartested,Year of test: EYFSP,decimal,,,
 BiB_Education_Record,edrecs_eyfsp_2,has_eyfsp2,BiB_Education_Record.edrecs_eyfsp_2.has_eyfsp2,Has: Early Years Foundation Stage Profile: 2013 Plus,decimal,,1,has
+BiB_Education_Record,edrecs_eyfsp_2,date_est,BiB_Education_Record.edrecs_eyfsp_2.date_est,Estimated date of assessment,date,,,
+BiB_Education_Record,edrecs_eyfsp_2,age_months_est,BiB_Education_Record.edrecs_eyfsp_2.age_months_est,Estimated age in months at assessment,decimal,,,
+BiB_Education_Record,edrecs_eyfsp_2,age_years_est,BiB_Education_Record.edrecs_eyfsp_2.age_years_est,Estimated age in years at assessment,decimal,,,
 BiB_Education_Record,edrecs_y1_phonics,has_edrecs_y1_phonics,BiB_Education_Record.edrecs_y1_phonics.has_edrecs_y1_phonics,Has year 1 phonics assessment,decimal,,,
 BiB_Education_Record,edrecs_y1_phonics,has_edphon,BiB_Education_Record.edrecs_y1_phonics.has_edphon,Has: Year 1 Phonics Assessment,decimal,,1,has
 BiB_Education_Record,edrecs_y1_phonics,phonics_acyrtested1,BiB_Education_Record.edrecs_y1_phonics.phonics_acyrtested1,School year of phonics test - Test 1,decimal,,1|2|3|4|5|6|7,R|Y1|Y2|Y3|Y4|Y5|Y6
@@ -6515,8 +6534,12 @@ BiB_Education_Record,edrecs_y1_phonics,phonics_standard1,BiB_Education_Record.ed
 BiB_Education_Record,edrecs_y1_phonics,phonics_standard2,BiB_Education_Record.edrecs_y1_phonics.phonics_standard2,Whether reached phonics standard - Test 2,decimal,,1|2,No|Yes
 BiB_Education_Record,edrecs_y1_phonics,phonics_testestablishment1,BiB_Education_Record.edrecs_y1_phonics.phonics_testestablishment1,School Code where Test 1 conducted: Phonics,text,,,
 BiB_Education_Record,edrecs_y1_phonics,phonics_testestablishment2,BiB_Education_Record.edrecs_y1_phonics.phonics_testestablishment2,School Code where Test 2 conducted: Phonics,text,,,
-BiB_Education_Record,edrecs_y1_phonics,phonics_yeartested1,BiB_Education_Record.edrecs_y1_phonics.phonics_yeartested1,Year of Test 1: Phonics,decimal,,,
-BiB_Education_Record,edrecs_y1_phonics,phonics_yeartested2,BiB_Education_Record.edrecs_y1_phonics.phonics_yeartested2,Year of Test 2: Phonics,decimal,,,
+BiB_Education_Record,edrecs_y1_phonics,date_est1,BiB_Education_Record.edrecs_y1_phonics.date_est1,Estimated date of assessment - Test 1,date,,,
+BiB_Education_Record,edrecs_y1_phonics,age_months_est1,BiB_Education_Record.edrecs_y1_phonics.age_months_est1,Estimated age in months at assessment - Test 1,decimal,,,
+BiB_Education_Record,edrecs_y1_phonics,age_years_est1,BiB_Education_Record.edrecs_y1_phonics.age_years_est1,Estimated age in years at assessment - Test 1,decimal,,,
+BiB_Education_Record,edrecs_y1_phonics,date_est2,BiB_Education_Record.edrecs_y1_phonics.date_est2,Estimated date of assessment - Test 2,date,,,
+BiB_Education_Record,edrecs_y1_phonics,age_months_est2,BiB_Education_Record.edrecs_y1_phonics.age_months_est2,Estimated age in months at assessment - Test 2,decimal,,,
+BiB_Education_Record,edrecs_y1_phonics,age_years_est2,BiB_Education_Record.edrecs_y1_phonics.age_years_est2,Estimated age in years at assessment - Test 2,decimal,,,
 BiB_Education_Record,edrecs_ks1_1,has_edrecs_ks1_1,BiB_Education_Record.edrecs_ks1_1.has_edrecs_ks1_1,Has key stage 1 assessment pre 2016,decimal,,,
 BiB_Education_Record,edrecs_ks1_1,has_edks11,BiB_Education_Record.edrecs_ks1_1.has_edks11,Has: Key Stage 1 Assessment: Pre 2016,decimal,,1,has
 BiB_Education_Record,edrecs_ks1_1,ks1_pre2016_acyrtested,BiB_Education_Record.edrecs_ks1_1.ks1_pre2016_acyrtested,School year of KS1 assessment,decimal,,1|2|3|4|5|6|7,R|Y1|Y2|Y3|Y4|Y5|Y6
@@ -6526,7 +6549,9 @@ BiB_Education_Record,edrecs_ks1_1,ks1_pre2016_reading,BiB_Education_Record.edrec
 BiB_Education_Record,edrecs_ks1_1,ks1_pre2016_science,BiB_Education_Record.edrecs_ks1_1.ks1_pre2016_science,Key Stage 1 (pre 2016)- Science,decimal,,1|2|3|4|5,"1 - Level 1|2 - Level 2|3 - Level 3|U - In exceptional circumstances, pupil disapplied from national curriculum|W - Working towards level 1 without SEN"
 BiB_Education_Record,edrecs_ks1_1,ks1_pre2016_testestablishment,BiB_Education_Record.edrecs_ks1_1.ks1_pre2016_testestablishment,School Code where test conducted: Key Stage 1 (pre 2016),text,,,
 BiB_Education_Record,edrecs_ks1_1,ks1_pre2016_writing,BiB_Education_Record.edrecs_ks1_1.ks1_pre2016_writing,Key Stage 1 (pre 2016)- Writing,decimal,,1|2|3|4|5|6,1 - Level 1|2C - just into Level 2|2B - securely at Level 2|2A - top end of Level 2|3 - Level 3|W - Working towards level 1 without SEN
-BiB_Education_Record,edrecs_ks1_1,ks1_pre2016_yeartested,BiB_Education_Record.edrecs_ks1_1.ks1_pre2016_yeartested,Year of test: Key Stage 1 (pre 2016),decimal,,,
+BiB_Education_Record,edrecs_ks1_1,date_est,BiB_Education_Record.edrecs_ks1_1.date_est,Estimated date of assessment,date,,,
+BiB_Education_Record,edrecs_ks1_1,age_months_est,BiB_Education_Record.edrecs_ks1_1.age_months_est,Estimated age in months at assessment,decimal,,,
+BiB_Education_Record,edrecs_ks1_1,age_years_est,BiB_Education_Record.edrecs_ks1_1.age_years_est,Estimated age in years at assessment,decimal,,,
 BiB_Education_Record,edrecs_ks1_2,has_edrecs_ks1_2,BiB_Education_Record.edrecs_ks1_2.has_edrecs_ks1_2,Has key stage 1 assessment 2016 plus,decimal,,,
 BiB_Education_Record,edrecs_ks1_2,has_edks12,BiB_Education_Record.edrecs_ks1_2.has_edks12,Has: Key Stage 1 Assessment: 2016 Plus,decimal,,1,has
 BiB_Education_Record,edrecs_ks1_2,ks1_post2016_acyrtested,BiB_Education_Record.edrecs_ks1_2.ks1_post2016_acyrtested,School year of KS1 assessment,decimal,,1|2|3|4|5|6|7,R|Y1|Y2|Y3|Y4|Y5|Y6
@@ -6535,7 +6560,9 @@ BiB_Education_Record,edrecs_ks1_2,ks1_post2016_reading,BiB_Education_Record.edre
 BiB_Education_Record,edrecs_ks1_2,ks1_post2016_science,BiB_Education_Record.edrecs_ks1_2.ks1_post2016_science,Key Stage 1 (post 2016)- Science,decimal,,1|2|3|4,"HNM - Has not met the expected standard|EXS - Working at the expected standard|A - Absent for long periods or recently arrived|D - In exceptional circumstances, pupil disapplied from national curriculum"
 BiB_Education_Record,edrecs_ks1_2,ks1_post2016_testestablishment,BiB_Education_Record.edrecs_ks1_2.ks1_post2016_testestablishment,School Code where test conducted: Key Stage 1 (post 2016),text,,,
 BiB_Education_Record,edrecs_ks1_2,ks1_post2016_writing,BiB_Education_Record.edrecs_ks1_2.ks1_post2016_writing,Key Stage 1 (post 2016)- Writing,decimal,,1|2|3|4|5|6|7,"BLW - Below the standard of the interim pre-key stage standards|PKF - Pre-key stage – foundations for the expected standard|WTS - Working towards the expected standard|EXS - Working at the expected standard|GDS - Working at greater depth within the expected standard|A - Absent for long periods or recently arrived|D - In exceptional circumstances, pupil disapplied from national curriculum"
-BiB_Education_Record,edrecs_ks1_2,ks1_post2016_yeartested,BiB_Education_Record.edrecs_ks1_2.ks1_post2016_yeartested,Year of test: Key Stage 1 (post 2016),decimal,,,
+BiB_Education_Record,edrecs_ks1_2,date_est,BiB_Education_Record.edrecs_ks1_2.date_est,Estimated date of assessment,date,,,
+BiB_Education_Record,edrecs_ks1_2,age_months_est,BiB_Education_Record.edrecs_ks1_2.age_months_est,Estimated age in months at assessment,decimal,,,
+BiB_Education_Record,edrecs_ks1_2,age_years_est,BiB_Education_Record.edrecs_ks1_2.age_years_est,Estimated age in years at assessment,decimal,,,
 BiB_Education_Record,edrecs_ks2,YearTest,BiB_Education_Record.edrecs_ks2.YearTest,Year test was taken,text,,,
 BiB_Education_Record,edrecs_ks2,AcademicYearTest,BiB_Education_Record.edrecs_ks2.AcademicYearTest,Academic year in which test was taken,decimal,,,
 BiB_Education_Record,edrecs_ks2,AgeMonths,BiB_Education_Record.edrecs_ks2.AgeMonths,Age in months when test was taken,decimal,,,
@@ -6757,15 +6784,14 @@ BiB_GrowingUp,adult_survey,guadtPartJobTitle,BiB_GrowingUp.adult_survey.guadtPar
 BiB_GrowingUp,adult_survey,guadtPartnerTypeWork,BiB_GrowingUp.adult_survey.guadtPartnerTypeWork,Which of these best describes the sort of work your partner does/did?,decimal,,1|2|3|4|5|6|7|8|9,Modern professional|Clerical and intermediate|Senior managers/administrators|Technical and craft|Semi-routine manual|Routine manual and service|Middle/junior managers|Traditional professional|Other
 BiB_GrowingUp,adult_survey,guadtPartnerTypeWork_other,BiB_GrowingUp.adult_survey.guadtPartnerTypeWork_other,Which of these describes the other sort of work partner does/did,text,,,
 BiB_GrowingUp,adult_survey,guadtPartNS_SEC,BiB_GrowingUp.adult_survey.guadtPartNS_SEC,Partner's NS-SEC category,decimal,,1|2|3|4|5,"Managerial, administrative and professional occupations|Intermediate occupations|Small employers and own account workers|Lower supervisory and technical occupations|Semi-routine and routine occupations"
-BiB_GrowingUp,adult_survey,guadtHouseBenefits,BiB_GrowingUp.adult_survey.guadtHouseBenefits,Do you receive benefits,decimal,,,
-BiB_GrowingUp,adult_survey,guadtHouseBenefits_1,BiB_GrowingUp.adult_survey.guadtHouseBenefits_1,Do you receive housing related benefits,decimal,,1,Yes
-BiB_GrowingUp,adult_survey,guadtHouseBenefits_2,BiB_GrowingUp.adult_survey.guadtHouseBenefits_2,Do you receive disability benefits,decimal,,1,Yes
-BiB_GrowingUp,adult_survey,guadtHouseBenefits_3,BiB_GrowingUp.adult_survey.guadtHouseBenefits_3,Do you receive carers credit,decimal,,1,Yes
-BiB_GrowingUp,adult_survey,guadtHouseBenefits_4,BiB_GrowingUp.adult_survey.guadtHouseBenefits_4,Do you receive unemployment related benefits,decimal,,1,Yes
-BiB_GrowingUp,adult_survey,guadtHouseBenefits_5,BiB_GrowingUp.adult_survey.guadtHouseBenefits_5,Do you receive universal credit,decimal,,1,Yes
-BiB_GrowingUp,adult_survey,guadtHouseBenefits_6,BiB_GrowingUp.adult_survey.guadtHouseBenefits_6,Don't received any of the listed benefits,decimal,,1,Yes
-BiB_GrowingUp,adult_survey,guadtHouseBenefits_77,BiB_GrowingUp.adult_survey.guadtHouseBenefits_77,Doesn't wish to answer question about benefits,decimal,,1,Yes
-BiB_GrowingUp,adult_survey,guadtHouseBenefits_99,BiB_GrowingUp.adult_survey.guadtHouseBenefits_99,Doesn't know if in receipt of any benefits,decimal,,1,Yes
+BiB_GrowingUp,adult_survey,guadtBenefits_Housing,BiB_GrowingUp.adult_survey.guadtBenefits_Housing,Do you receive housing related benefits,decimal,,1,Yes
+BiB_GrowingUp,adult_survey,guadtBenefits_Disability,BiB_GrowingUp.adult_survey.guadtBenefits_Disability,Do you receive disability benefits,decimal,,1,Yes
+BiB_GrowingUp,adult_survey,guadtBenefits_CarersCredit,BiB_GrowingUp.adult_survey.guadtBenefits_CarersCredit,Do you receive carers credit,decimal,,1,Yes
+BiB_GrowingUp,adult_survey,guadtBenefits_Unemployment,BiB_GrowingUp.adult_survey.guadtBenefits_Unemployment,Do you receive unemployment related benefits,decimal,,1,Yes
+BiB_GrowingUp,adult_survey,guadtBenefits_UniversalCredit,BiB_GrowingUp.adult_survey.guadtBenefits_UniversalCredit,Do you receive universal credit,decimal,,1,Yes
+BiB_GrowingUp,adult_survey,guadtBenefits_NoneOfListed,BiB_GrowingUp.adult_survey.guadtBenefits_NoneOfListed,Don't received any of the listed benefits,decimal,,1,Yes
+BiB_GrowingUp,adult_survey,guadtBenefits_NotWishToAnswer,BiB_GrowingUp.adult_survey.guadtBenefits_NotWishToAnswer,Doesn't wish to answer question about benefits,decimal,,1,Yes
+BiB_GrowingUp,adult_survey,guadtBenefits_Dontknow,BiB_GrowingUp.adult_survey.guadtBenefits_Dontknow,Doesn't know if in receipt of any benefits,decimal,,1,Yes
 BiB_GrowingUp,adult_survey,guadtManagingFinance,BiB_GrowingUp.adult_survey.guadtManagingFinance,How well is your household managing financially these days,decimal,,1|2|3|4|5|6,Living comfortably|Doing alright|Just about getting by|Finding it quite difficult|Finding it very difficult|Do not wish to answer
 BiB_GrowingUp,adult_survey,guadtFinanceLastYear,BiB_GrowingUp.adult_survey.guadtFinanceLastYear,How well is your household managing financially compared to 1 yr ago,decimal,,1|2|3|4,Better off|Worse off|About the same|Do not wish to answer
 BiB_GrowingUp,adult_survey,guadtMoneyWorry,BiB_GrowingUp.adult_survey.guadtMoneyWorry,How often have you worried about money in the last few weeks,decimal,,1|2|3|4|5,Never|Only sometimes|Quite often|Almost all the time|Do not wish to answer

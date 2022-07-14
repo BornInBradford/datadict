@@ -4,6 +4,8 @@ BiBPersonID,COVID19_Survey.adult_phase1.BiBPersonID,BiB participant study ID,tex
 BiBBSPersonID,COVID19_Survey.adult_phase1.BiBBSPersonID,"",text,,,
 BiBParticipantType,COVID19_Survey.adult_phase1.BiBParticipantType,BiB Participant Type,text,,,
 Date,COVID19_Survey.adult_phase1.Date,Date of COVID-19 Adult Wave 1 survey,date,,,
+age_months,COVID19_Survey.adult_phase1.age_months,Age in months,decimal,,,
+age_years,COVID19_Survey.adult_phase1.age_years,Age in years,decimal,,,
 ethnicity,COVID19_Survey.adult_phase1.ethnicity,Ethnic group combined from different cohort data sources,decimal,,1|2|3,White British|Pakistani|Other
 country,COVID19_Survey.adult_phase1.country,Country,text,,,
 region,COVID19_Survey.adult_phase1.region,Region,text,,,
@@ -56,11 +58,11 @@ jbsc_main,COVID19_Survey.adult_phase1.jbsc_main,Who is the main earner in the ho
 jbsc_main_crntly,COVID19_Survey.adult_phase1.jbsc_main_crntly,Is the main earner in your household currently...,decimal,,-2|1|2|3|4|5,Dont know|Employed|Employed but not working (on furlough)|Self employed and working|Self employed and not working|Unemployed
 jbsc_main_hmwfh,COVID19_Survey.adult_phase1.jbsc_main_hmwfh,"Are they mainly working from home, or going out to work?",decimal,,1|2,Working from home|Going out to work
 jbsc_main_wry_1,COVID19_Survey.adult_phase1.jbsc_main_wry_1,I worry about the job security of the main earner,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
-jbsc_main_wry_2,COVID19_Survey.adult_phase1.jbsc_main_wry_2,"In the next 12 months, do you expect the income of the main earner is likely to ",decimal,,-2|0|1,Dont know|No|Yes
+jbsc_main_wry_2,COVID19_Survey.adult_phase1.jbsc_main_wry_2,"In the next 12 months, do you expect the income of the main earner is likely to",decimal,,-2|0|1,Dont know|No|Yes
 jbsc_main_wry_3,COVID19_Survey.adult_phase1.jbsc_main_wry_3,"In 12 months time, do you expect the main earner to still have their job?",decimal,,-2|0|1,Dont know|No|Yes
 hhe_buyfood,COVID19_Survey.adult_phase1.hhe_buyfood,I have been able to buy the food I needed in the shops.,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
-hhe_ddntlast,COVID19_Survey.adult_phase1.hhe_ddntlast,"The food that (I/we) bought just didnt last, and (I/we) didnt have money to get ",decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
-hhe_balancd,COVID19_Survey.adult_phase1.hhe_balancd,(I/we) couldnt afford to eat balanced meals. ,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
+hhe_ddntlast,COVID19_Survey.adult_phase1.hhe_ddntlast,"The food that (I/we) bought just didnt last, and (I/we) didnt have money to get",decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
+hhe_balancd,COVID19_Survey.adult_phase1.hhe_balancd,(I/we) couldnt afford to eat balanced meals.,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
 hhe_skip,COVID19_Survey.adult_phase1.hhe_skip,Did you or other adults in your household ever cut the size of your meals or ski,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
 hhe_skipoftn,COVID19_Survey.adult_phase1.hhe_skipoftn,How often did you or other adults cut the size of meals or skip meals?,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Only 1 or 2 days|Some days but not every day|Almost every day
 hhe_eatless,COVID19_Survey.adult_phase1.hhe_eatless,Did you or other adults ever eat less than you felt you should because there was,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
@@ -79,7 +81,7 @@ fh_slfisol_nw_why2,COVID19_Survey.adult_phase1.fh_slfisol_nw_why2,Why are you se
 fh_slfisol_nw_why3,COVID19_Survey.adult_phase1.fh_slfisol_nw_why3,Why are you self isolating? (choice=Someone in the household had symptoms of cor,decimal,,0|1,No|Yes
 fh_slfisol_nw_why4,COVID19_Survey.adult_phase1.fh_slfisol_nw_why4,Why are you self isolating? (choice=To protect a vulnerable person in the househ,decimal,,0|1,No|Yes
 fh_slfisol_nw_why5,COVID19_Survey.adult_phase1.fh_slfisol_nw_why5,Why are you self isolating? (choice=Other),decimal,,0|1,No|Yes
-fh_slfisol_past,COVID19_Survey.adult_phase1.fh_slfisol_past,"Has your household had to self-isolate for any reason (that is, not leaving the ",decimal,,0|1,No|Yes
+fh_slfisol_past,COVID19_Survey.adult_phase1.fh_slfisol_past,"Has your household had to self-isolate for any reason (that is, not leaving the",decimal,,0|1,No|Yes
 fh_slfisol_past_why1,COVID19_Survey.adult_phase1.fh_slfisol_past_why1,What was the reason you had to self-isolate? (choice=Contact with someone with s,decimal,,0|1,No|Yes
 fh_slfisol_past_why2,COVID19_Survey.adult_phase1.fh_slfisol_past_why2,What was the reason you had to self-isolate? (choice=Had coronavirus symptoms yo,decimal,,0|1,No|Yes
 fh_slfisol_past_why3,COVID19_Survey.adult_phase1.fh_slfisol_past_why3,What was the reason you had to self-isolate? (choice=Someone in the household ha,decimal,,0|1,No|Yes
@@ -121,7 +123,7 @@ as_gp_satis,COVID19_Survey.adult_phase1.as_gp_satis,Did you receive the support 
 as_111,COVID19_Survey.adult_phase1.as_111,NHS 111 by telephone or online,decimal,,0|1,No|Yes
 as_acc_111,COVID19_Survey.adult_phase1.as_acc_111,"Were you able to speak to someone, or gain advice online through NHS 111?",decimal,,0|1|2,No|Yes|Havent tried
 as_111_satis,COVID19_Survey.adult_phase1.as_111_satis,Did you receive the support you needed?,decimal,,0|1|2,No|Definitely|Mostly
-as_ae,COVID19_Survey.adult_phase1.as_ae,Health emergency services (A&E) ,decimal,,0|1,No|Yes
+as_ae,COVID19_Survey.adult_phase1.as_ae,Health emergency services (A&E),decimal,,0|1,No|Yes
 as_acc_ae,COVID19_Survey.adult_phase1.as_acc_ae,Were you able to access emergency care?,decimal,,0|1|2,No|Yes|Havent tried
 as_ae_satis,COVID19_Survey.adult_phase1.as_ae_satis,Did you receive the support you needed?,decimal,,0|1|2,No|Definitely|Mostly
 as_spec,COVID19_Survey.adult_phase1.as_spec,A specialist (consultant) doctor or specialist clinic (hospital outpatient) appo,decimal,,0|1,No|Yes
@@ -150,7 +152,7 @@ as_acc_pharm_mode,COVID19_Survey.adult_phase1.as_acc_pharm_mode,Was pharmacy sup
 as_pharm_satis,COVID19_Survey.adult_phase1.as_pharm_satis,Did you receive the support you needed?,decimal,,0|1|2,No|Definitely|Mostly
 as_othr,COVID19_Survey.adult_phase1.as_othr,Other services e.g. charity/volunteer support,decimal,,0|1,No|Yes
 as_acc_othr,COVID19_Survey.adult_phase1.as_acc_othr,Were you able to access support from a charity or voluntary organisation?,decimal,,0|1|2,No|Yes|Havent tried
-as_acc_othr_mode,COVID19_Survey.adult_phase1.as_acc_othr_mode,Did the charity or voluntary organisation provide support in person or over the ,decimal,,1|2,In person|Phone
+as_acc_othr_mode,COVID19_Survey.adult_phase1.as_acc_othr_mode,Did the charity or voluntary organisation provide support in person or over the,decimal,,1|2,In person|Phone
 as_othr_satis,COVID19_Survey.adult_phase1.as_othr_satis,Did you receive the support you needed?,decimal,,0|1|2,No|Definitely|Mostly
 fl_physact,COVID19_Survey.adult_phase1.fl_physact,How often do you currently do any kind of physical activity?,decimal,,1|2|3|4,Never|1 or 2 days a week|Most days|Every day
 fl_physact_hwmch,COVID19_Survey.adult_phase1.fl_physact_hwmch,"Is this more, less or about the same as you did before lockdown?",decimal,,1|2|3,Less than before|About the same as before|More than before

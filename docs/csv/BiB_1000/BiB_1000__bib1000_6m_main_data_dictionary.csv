@@ -87,7 +87,7 @@ bib6e01,BiB_1000.bib1000_6m_main.bib6e01,Marital status,decimal,,1|2|3|4|5|6,Mar
 bib6e01marcohab,BiB_1000.bib1000_6m_main.bib6e01marcohab,Marital/cohabitation status (derived),decimal,,1|2|3|4,"Married|Cohabiting with partner|Partner, not cohabiting|Single"
 bib6e02,BiB_1000.bib1000_6m_main.bib6e02,Living arrangements,decimal,,1|2|3|4,Living with baby's father|Living with another partner|Not living with partner but in a relationship|Not living with partner and not in a relationship
 bib6e03,BiB_1000.bib1000_6m_main.bib6e03,Number of people living in household,decimal,,,
-bib6f01,BiB_1000.bib1000_6m_main.bib6f01,Current employment status,decimal,,1|2|3|4|5|6,"In a job, working for an employer|On maternity leave from employer| Self employed|Full-time student|Looking after home and family|Doing something else"
+bib6f01,BiB_1000.bib1000_6m_main.bib6f01,Current employment status,decimal,,,
 bib6f01otherspecified,BiB_1000.bib1000_6m_main.bib6f01otherspecified,Specify if other employment status,text,,,
 bib6f02,BiB_1000.bib1000_6m_main.bib6f02,Have you returned to work since child was born,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
 bib6f03,BiB_1000.bib1000_6m_main.bib6f03,Do you work as an employee or are you self-employed,decimal,,1|2|3|4,Employee|Self employed with employees|Self employed without employees|Student

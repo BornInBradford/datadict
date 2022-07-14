@@ -7,4 +7,6 @@ ks1_post2016_reading,BiB_Education_Record.edrecs_ks1_2.ks1_post2016_reading,Key 
 ks1_post2016_science,BiB_Education_Record.edrecs_ks1_2.ks1_post2016_science,Key Stage 1 (post 2016)- Science,decimal,,1|2|3|4,"HNM - Has not met the expected standard|EXS - Working at the expected standard|A - Absent for long periods or recently arrived|D - In exceptional circumstances, pupil disapplied from national curriculum"
 ks1_post2016_testestablishment,BiB_Education_Record.edrecs_ks1_2.ks1_post2016_testestablishment,School Code where test conducted: Key Stage 1 (post 2016),text,,,
 ks1_post2016_writing,BiB_Education_Record.edrecs_ks1_2.ks1_post2016_writing,Key Stage 1 (post 2016)- Writing,decimal,,1|2|3|4|5|6|7,"BLW - Below the standard of the interim pre-key stage standards|PKF - Pre-key stage – foundations for the expected standard|WTS - Working towards the expected standard|EXS - Working at the expected standard|GDS - Working at greater depth within the expected standard|A - Absent for long periods or recently arrived|D - In exceptional circumstances, pupil disapplied from national curriculum"
-ks1_post2016_yeartested,BiB_Education_Record.edrecs_ks1_2.ks1_post2016_yeartested,Year of test: Key Stage 1 (post 2016),decimal,,,
+date_est,BiB_Education_Record.edrecs_ks1_2.date_est,Estimated date of assessment,date,,,
+age_months_est,BiB_Education_Record.edrecs_ks1_2.age_months_est,Estimated age in months at assessment,decimal,,,
+age_years_est,BiB_Education_Record.edrecs_ks1_2.age_years_est,Estimated age in years at assessment,decimal,,,
