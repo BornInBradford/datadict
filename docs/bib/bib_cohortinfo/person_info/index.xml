@@ -19,7 +19,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 13858.00 (100.00%)
+Complete: 13858 (100.00%)
    admincbirthorder Child birth order decimal mean (sd)</description>
     </item>
     
@@ -36,7 +36,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 3353.00 (100.00%)
+Complete: 3353 (100.00%)
    adminfagerecm Father age at recruitment (months) decimal mean (sd)</description>
     </item>
     
@@ -53,7 +53,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 12453.00 (100.00%)
+Complete: 12453 (100.00%)
    adminmagerecm Mother age at recruitment (months) decimal mean (sd)</description>
     </item>
     

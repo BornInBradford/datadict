@@ -19,7 +19,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1309.00 (100.00%)
+Complete: 1309 (100.00%)
    bib18b2carer Carer decimal 1 : Husband/Wife/Partner</description>
     </item>
     
@@ -36,7 +36,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1307.00 (100.00%)
+Complete: 1307 (100.00%)
    bib18c04diagnosis Diagnosis text 109 unique values</description>
     </item>
     
@@ -53,7 +53,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1294.00 (100.00%)
+Complete: 1294 (100.00%)
    bib18e9brand Brand of dried baby cereal decimal 1 : Bebivita</description>
     </item>
     
@@ -85,7 +85,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1293.00 (100.00%)
+Complete: 1293 (100.00%)
    bib18e12brand Brand of dried veg/pasta/rice-based meals decimal 1 : Bebivita</description>
     </item>
     
@@ -102,7 +102,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1294.00 (100.00%)
+Complete: 1294 (100.00%)
    bib18e14brand Brand of breakfast meals decimal 1 : Annabel Karmel</description>
     </item>
     
@@ -119,7 +119,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1294.00 (100.00%)</description>
+Complete: 1294 (100.00%)</description>
     </item>
     
     <item>
@@ -150,7 +150,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1295.00 (100.00%)</description>
+Complete: 1295 (100.00%)</description>
     </item>
     
     <item>
@@ -166,7 +166,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1297.00 (100.00%)</description>
+Complete: 1297 (100.00%)</description>
     </item>
     
     <item>
@@ -182,7 +182,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1297.00 (100.00%)
+Complete: 1297 (100.00%)
    bib18e19brand Brand of pure fruit puree decimal 1 : Annabel Karmel</description>
     </item>
     
@@ -199,7 +199,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1900.00 (100.00%)</description>
+Complete: 1900 (100.00%)</description>
     </item>
     
     <item>
@@ -230,7 +230,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1293.</description>
+Complete: 1293 (100.</description>
     </item>
     
     <item>
@@ -246,7 +246,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1318.00 (100.00%)</description>
+Complete: 1318 (100.00%)</description>
     </item>
     
     <item>
@@ -262,7 +262,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1293.</description>
+Complete: 1293 (100.</description>
     </item>
     
     <item>
@@ -278,7 +278,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1293.</description>
+Complete: 1293 (100.</description>
     </item>
     
     <item>
@@ -306,7 +306,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1245.00 (100.</description>
+Complete: 1245 (100.</description>
     </item>
     
     <item>
@@ -322,7 +322,7 @@ github | csv
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1149.00 (100.00%)
+Complete: 1149 (100.00%)
    agecm_chab18 Child age (months): BiB 1000 18m anthropometry decimal mean (sd)</description>
     </item>
     
