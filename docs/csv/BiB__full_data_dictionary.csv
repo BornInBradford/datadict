@@ -5861,6 +5861,147 @@ BiB_Baseline,base_m12_cookingmethods,ckmwhtfsh,BiB_Baseline.base_m12_cookingmeth
 BiB_Baseline,base_m12_cookingmethods,ckmfshwel,BiB_Baseline.base_m12_cookingmethods.ckmfshwel,Was white fish cooked well done?,decimal,,1|2,Yes|No
 BiB_Baseline,base_m12_cookingmethods,ckmfshoil,BiB_Baseline.base_m12_cookingmethods.ckmfshoil,"Method of cooking oily fish fillets or steaks e.g. salmon, mackeral or trout",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
 BiB_Baseline,base_m12_cookingmethods,ckmfshowd,BiB_Baseline.base_m12_cookingmethods.ckmfshowd,Was oily fish cooked well done?,decimal,,1|2,Yes|No
+BiB_Baseline,base_m1_exercise,BiBPregNumber,BiB_Baseline.base_m1_exercise.BiBPregNumber,Pregnancy number within BiB,decimal,,,
+BiB_Baseline,base_m1_exercise,BiBPersonID,BiB_Baseline.base_m1_exercise.BiBPersonID,Mother identifier,text,,,
+BiB_Baseline,base_m1_exercise,questionnairephase,BiB_Baseline.base_m1_exercise.questionnairephase,"",decimal,,,
+BiB_Baseline,base_m1_exercise,exe1slphrs,BiB_Baseline.base_m1_exercise.exe1slphrs,Over typical 24hrs how many hours spent sleeping or lying with feet up,decimal,,,
+BiB_Baseline,base_m1_exercise,exe1sithrs,BiB_Baseline.base_m1_exercise.exe1sithrs,Of hours not sleeping how many hours spent sitting down,decimal,,,
+BiB_Baseline,base_m1_exercise,exe1fethrs,BiB_Baseline.base_m1_exercise.exe1fethrs,How many hours a day spent on your feet,decimal,,,
+BiB_Baseline,base_m1_exercise,exe1actmov,BiB_Baseline.base_m1_exercise.exe1actmov,How much time actively on the move,decimal,,1|2|3|4|5,Very little (10%)|Some (30%)|About half (50%)|Most (70%)|Almost all (90%)
+BiB_Baseline,base_m1_exercise,exe1wlkspd,BiB_Baseline.base_m1_exercise.exe1wlkspd,Walking speed at present,decimal,,1|2|3|4|5,Very slow|Stroll at an easy pace|Normal speed|Fairly brisk|Fast
+BiB_Baseline,base_m1_exercise,exe1strtpw,BiB_Baseline.base_m1_exercise.exe1strtpw,Strenuous exercise - times per week,decimal,,,
+BiB_Baseline,base_m1_exercise,exe1strmin,BiB_Baseline.base_m1_exercise.exe1strmin,Strenuous exercise - minutes each time,decimal,,,
+BiB_Baseline,base_m1_exercise,exe1modtpw,BiB_Baseline.base_m1_exercise.exe1modtpw,Moderate exercise - times per week,decimal,,,
+BiB_Baseline,base_m1_exercise,exe1modmin,BiB_Baseline.base_m1_exercise.exe1modmin,Moderate exercise - minutes each time,decimal,,,
+BiB_Baseline,base_m1_exercise,exe1gentpw,BiB_Baseline.base_m1_exercise.exe1gentpw,Gentle exercise - times per week,decimal,,,
+BiB_Baseline,base_m1_exercise,exe1genmin,BiB_Baseline.base_m1_exercise.exe1genmin,Gentle exercise - minutes each time,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1Vegetarian,BiB_Baseline.base_m1_foodfrequency.ffq1Vegetarian,Are you a vegetarian?,decimal,,0|1|2,No|Yes|Not Completed
+BiB_Baseline,base_m1_foodfrequency,ffq1AvoidFoods,BiB_Baseline.base_m1_foodfrequency.ffq1AvoidFoods,Consistenly avoided eating certain foods over past 1yr?,decimal,,0|1|2|3|4|5,No|High fat foods|Milk or milk products|Red meat|Wheat or gluten|Other
+BiB_Baseline,base_m1_foodfrequency,ffq1AvoidFoodsOther,BiB_Baseline.base_m1_foodfrequency.ffq1AvoidFoodsOther,Which other foods have you avoided eating?,text,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1Fruit,BiB_Baseline.base_m1_foodfrequency.ffq1Fruit,Consumed fruit in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7|8,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|5+ a day|Less than 1 a week|Once a week|Rarely or never
+BiB_Baseline,base_m1_foodfrequency,ffq1Salad,BiB_Baseline.base_m1_foodfrequency.ffq1Salad,Consumed salad in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7|8,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|5+ a day|Less than 1 a week|Once a week|Rarely or never
+BiB_Baseline,base_m1_foodfrequency,ffq1Vegetables,BiB_Baseline.base_m1_foodfrequency.ffq1Vegetables,Consumed vegetables in last 4wks pregnancy,decimal,,1|2|3|4|5|6,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1VegDishes,BiB_Baseline.base_m1_foodfrequency.ffq1VegDishes,Consumed veg dishes in last 4wks pregnancy,decimal,,1|2|3|4|5|6,1-2 times a week|2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1BeanPulse,BiB_Baseline.base_m1_foodfrequency.ffq1BeanPulse,Consumed beans/pulses in last 4wks pregnancy,decimal,,1|2|3|4|5|6,1-2 times a week|2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Chips,BiB_Baseline.base_m1_foodfrequency.ffq1Chips,Consumed chips in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7,1-2 times a week|2-3 times a week|3-4 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1RFPotatoes,BiB_Baseline.base_m1_foodfrequency.ffq1RFPotatoes,Consumed roast/fried potatoes in last 4wks pregnancy,decimal,,1|2|3|4|5|6,1-2 times a week|2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1OthPotatoes,BiB_Baseline.base_m1_foodfrequency.ffq1OthPotatoes,Consumed other potatoes in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7,1-2 times a week|2-3 times a week|3-4 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1WheatCereal,BiB_Baseline.base_m1_foodfrequency.ffq1WheatCereal,Consumed wheat cereal in last 4wks pregnancy,decimal,,1|2|3|4|5|6,1-2 times a week|2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1OatCereal,BiB_Baseline.base_m1_foodfrequency.ffq1OatCereal,Consumed oat cereal in last 4wks pregnancy,decimal,,1|2|3|4|5|6,1-2 times a week|2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1OthCereal,BiB_Baseline.base_m1_foodfrequency.ffq1OthCereal,Consumed other cereal in last 4wks pregnancy,decimal,,1|2|3|4|5|6,1-2 times a week|2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1WholemealBrd,BiB_Baseline.base_m1_foodfrequency.ffq1WholemealBrd,Consumed wholemeal bread in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7|8,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|5+ a Day|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1WhiteBrd,BiB_Baseline.base_m1_foodfrequency.ffq1WhiteBrd,Consumed white bread in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1CrispBrd,BiB_Baseline.base_m1_foodfrequency.ffq1CrispBrd,Consumed crisp bread in last 4wks pregnancy,decimal,,1|2|3|4|5|6,1-2 times a week|2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1BldRce,BiB_Baseline.base_m1_foodfrequency.ffq1BldRce,Consumed boiled rice in last 4 wks pregnancy,decimal,,1|2|3|4|5|6|7|8,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|5+ a Day|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1PstaNdls,BiB_Baseline.base_m1_foodfrequency.ffq1PstaNdls,Consumed pasta/noodles in last 4wks pregnancy,decimal,,1|2|3|4|5|6,1-2 times a week|2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Savouries,BiB_Baseline.base_m1_foodfrequency.ffq1Savouries,Consumed savouries in last 4wks pregnancy,decimal,,1|2|3|4|5|6,1-2 times a week|2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Pizza,BiB_Baseline.base_m1_foodfrequency.ffq1Pizza,Consumed pizza in last 4wks pregnancy,decimal,,1|2|3|4|5|6,1-2 times a week|2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Cheese,BiB_Baseline.base_m1_foodfrequency.ffq1Cheese,Consumed cheese in last 4wks pregnancy,decimal,,1|2|3|4|5|6,1-2 times a week|2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Yoghurt,BiB_Baseline.base_m1_foodfrequency.ffq1Yoghurt,Consumed yoghur in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7|8,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|5+ a Day|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Crisp,BiB_Baseline.base_m1_foodfrequency.ffq1Crisp,Consumed crisp in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1SvrySnk,BiB_Baseline.base_m1_foodfrequency.ffq1SvrySnk,Consumed savoury snacks in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Cakes,BiB_Baseline.base_m1_foodfrequency.ffq1Cakes,Consumed cakes in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7|8,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|5+ a Day|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Pastries,BiB_Baseline.base_m1_foodfrequency.ffq1Pastries,Consumed pastries in last 4wks pregnancy,decimal,,1|2|3|4|5|6,1-2 times a week|2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Chocolate,BiB_Baseline.base_m1_foodfrequency.ffq1Chocolate,Consumed chocolate in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Biscuits,BiB_Baseline.base_m1_foodfrequency.ffq1Biscuits,Consumed biscuits in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7|8,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|5+ a Day|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1IceCream,BiB_Baseline.base_m1_foodfrequency.ffq1IceCream,Consumed ice cream in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1FizzyDrinks,BiB_Baseline.base_m1_foodfrequency.ffq1FizzyDrinks,Consumed fizzy drinks in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Cordial,BiB_Baseline.base_m1_foodfrequency.ffq1Cordial,Consumed cordial in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7|8,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|5+ a Day|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1FruitJuice,BiB_Baseline.base_m1_foodfrequency.ffq1FruitJuice,Consumed fruit juice in last 4wks pregnancy,decimal,,1|2|3|4|5|6|7,1-2 times a week|2-3 times a week|3-4 times a day|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Beef,BiB_Baseline.base_m1_foodfrequency.ffq1Beef,Consumed beef in last 4wks pregnancy,decimal,,1|2|3|4|5,2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Pork,BiB_Baseline.base_m1_foodfrequency.ffq1Pork,Consumed pork in last 4wks pregnancy,decimal,,1|2|3|4|5,2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Lamb,BiB_Baseline.base_m1_foodfrequency.ffq1Lamb,Consumed lamb in last 4wks pregnancy,decimal,,1|2|3|4|5,2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1ChcknTrky,BiB_Baseline.base_m1_foodfrequency.ffq1ChcknTrky,Consumed chicken/turkey in last 4wks pregnancy,decimal,,1|2|3|4|5|6,2-3 times a week|4-6 times a week|7+ times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Sausages,BiB_Baseline.base_m1_foodfrequency.ffq1Sausages,Consumed sausages in last 4wks pregnancy,decimal,,1|2|3|4|5,2-3 times a week|7+ times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Burgers,BiB_Baseline.base_m1_foodfrequency.ffq1Burgers,Consumed burgers in last 4wks pregnancy,decimal,,1|2|3|4|5,2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1HotDog,BiB_Baseline.base_m1_foodfrequency.ffq1HotDog,Consumed hotdogs in last 4wks pregnancy,decimal,,1|2|3|4,4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Bacon,BiB_Baseline.base_m1_foodfrequency.ffq1Bacon,Consumed bacon in last 4wks pregnancy,decimal,,1|2|3|4|5|6,2-3 times a week|4-6 times a week|7+ times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Pies,BiB_Baseline.base_m1_foodfrequency.ffq1Pies,Consumed pies in last 4wks pregnancy,decimal,,1|2|3|4|5,2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Nuggets,BiB_Baseline.base_m1_foodfrequency.ffq1Nuggets,Consumed chicken/turkey nuggets in last 4wks pregnancy,decimal,,1|2|3|4|5,2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Ham,BiB_Baseline.base_m1_foodfrequency.ffq1Ham,Consumed ham in last 4wks pregnancy,decimal,,1|2|3|4|5,2-3 times a week|7+ times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1CuredSsg,BiB_Baseline.base_m1_foodfrequency.ffq1CuredSsg,Consumed cured sausage in last 4wks pregnancy,decimal,,1|2|3|4|5,2-3 times a week|7+ times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1ChknSauce,BiB_Baseline.base_m1_foodfrequency.ffq1ChknSauce,Consumed chicken/turkey in sauce in last 4wks pregnancy,decimal,,1|2|3|4|5,2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1BfLmbSauce,BiB_Baseline.base_m1_foodfrequency.ffq1BfLmbSauce,Consumed beef/lamb in sauce in last 4wks pregnancy,decimal,,1|2|3|4|5|6,2-3 times a week|4-6 times a week|7+ times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1PrkSauce,BiB_Baseline.base_m1_foodfrequency.ffq1PrkSauce,Consumed pork in sauce in last 4wks pregnancy,decimal,,1|2|3|4,2-3 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Gravy,BiB_Baseline.base_m1_foodfrequency.ffq1Gravy,Consumed gravy from meat juice in last 4wks pregnancy,decimal,,1|2|3|4|5|6,2-3 times a week|4-6 times a week|7+ times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1BatteredFish,BiB_Baseline.base_m1_foodfrequency.ffq1BatteredFish,Consumed battered white fish in last 4wks pregnancy,decimal,,1|2|3|4,2-3 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1WhiteFish,BiB_Baseline.base_m1_foodfrequency.ffq1WhiteFish,Consumed non-battered white fish in last 4wks pregnancy,decimal,,1|2|3|4|5|6,2-3 times a week|4-6 times a week|7+ times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Tuna,BiB_Baseline.base_m1_foodfrequency.ffq1Tuna,Consumed tuna in last 4wks pregnancy,decimal,,1|2|3|4|5|6,2-3 times a week|4-6 times a week|7+ times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1FreshFish,BiB_Baseline.base_m1_foodfrequency.ffq1FreshFish,Consumed fresh fish in last 4wks pregnancy,decimal,,1|2|3|4|5,2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1SmokedFish,BiB_Baseline.base_m1_foodfrequency.ffq1SmokedFish,Consumed smoked fish in last 4wks pregnancy,decimal,,1|2|3,Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1SltdFish,BiB_Baseline.base_m1_foodfrequency.ffq1SltdFish,Consumed salted/dried fish in last 4wks pregnancy,decimal,,1|2|3|4,2-3 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Egg,BiB_Baseline.base_m1_foodfrequency.ffq1Egg,Consumed egg in last 4wks pregnancy,decimal,,1|2|3|4|5|6,2-3 times a week|4-6 times a week|7+ times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1Quiche,BiB_Baseline.base_m1_foodfrequency.ffq1Quiche,Consumed quiche in last 4wks pregnancy,decimal,,1|2|3|4|5,2-3 times a week|4-6 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1EggCurry,BiB_Baseline.base_m1_foodfrequency.ffq1EggCurry,Consumed egg curry in last 4wks pregnancy,decimal,,1|2|3|4,2-3 times a week|Less than 1 a week|Once a week|Rarely or Never
+BiB_Baseline,base_m1_foodfrequency,ffq1ChickenSkin,BiB_Baseline.base_m1_foodfrequency.ffq1ChickenSkin,Do you eat the skin on chicken?,decimal,,0|1|2|3,"None/as little as possible|Never eat chicken|Yes, some of it|Yes, all of it"
+BiB_Baseline,base_m1_foodfrequency,ffq1CkBeef,BiB_Baseline.base_m1_foodfrequency.ffq1CkBeef,How did you cook beef?,decimal,,0|1|2|3|4|5,Did not eat|BBQ|Fry|Grill|Roast|Don't know or take-away
+BiB_Baseline,base_m1_foodfrequency,ffq1CkBeefwd,BiB_Baseline.base_m1_foodfrequency.ffq1CkBeefwd,Did you have beef well done?,decimal,,0|1,No|Yes
+BiB_Baseline,base_m1_foodfrequency,ffq1CkPork,BiB_Baseline.base_m1_foodfrequency.ffq1CkPork,How did you cook pork?,decimal,,0|1|2|3|4|5,Did not eat|BBQ|Fry|Grill|Roast|Don't know or take-away
+BiB_Baseline,base_m1_foodfrequency,ffq1CkPorkwd,BiB_Baseline.base_m1_foodfrequency.ffq1CkPorkwd,Did you have pork well done?,decimal,,0|1,No|Yes
+BiB_Baseline,base_m1_foodfrequency,ffq1CkLamb,BiB_Baseline.base_m1_foodfrequency.ffq1CkLamb,How did you cook lamb?,decimal,,0|1|2|3|4|5,Did not eat|BBQ|Fry|Grill|Roast|Don't know or take-away
+BiB_Baseline,base_m1_foodfrequency,ffq1CkLambwd,BiB_Baseline.base_m1_foodfrequency.ffq1CkLambwd,Did you have lamb well done?,decimal,,0|1,No|Yes
+BiB_Baseline,base_m1_foodfrequency,ffq1CkChicken,BiB_Baseline.base_m1_foodfrequency.ffq1CkChicken,How did you cook chicken?,decimal,,0|1|2|3|4|5,Did not eat|BBQ|Fry|Grill|Roast|Don't know or take-away
+BiB_Baseline,base_m1_foodfrequency,ffq1CkChickenwd,BiB_Baseline.base_m1_foodfrequency.ffq1CkChickenwd,Did you have chicken well done?,decimal,,0|1,No|Yes
+BiB_Baseline,base_m1_foodfrequency,ffq1CkSausage,BiB_Baseline.base_m1_foodfrequency.ffq1CkSausage,How did you cook sausage?,decimal,,0|1|2|3|4|5,Did not eat|BBQ|Fry|Grill|Roast|Don't know or take-away
+BiB_Baseline,base_m1_foodfrequency,ffq1CkSausagewd,BiB_Baseline.base_m1_foodfrequency.ffq1CkSausagewd,Did you have sausage well done?,decimal,,0|1,No|Yes
+BiB_Baseline,base_m1_foodfrequency,ffq1CkBurger,BiB_Baseline.base_m1_foodfrequency.ffq1CkBurger,How did you cook burger?,decimal,,0|1|2|3|4|5,Did not eat|BBQ|Fry|Grill|Roast|Don't know or take-away
+BiB_Baseline,base_m1_foodfrequency,ffq1CkBurgerwd,BiB_Baseline.base_m1_foodfrequency.ffq1CkBurgerwd,Did you have burger well done?,decimal,,0|1,No|Yes
+BiB_Baseline,base_m1_foodfrequency,ffq1CkBacon,BiB_Baseline.base_m1_foodfrequency.ffq1CkBacon,How did you cook bacon?,decimal,,0|1|2|3|4|5,Did not eat|BBQ|Fry|Grill|Roast|Don't know or take-away
+BiB_Baseline,base_m1_foodfrequency,ffq1CkBaconwd,BiB_Baseline.base_m1_foodfrequency.ffq1CkBaconwd,Did you have bacon well done?,decimal,,0|1,No|Yes
+BiB_Baseline,base_m1_foodfrequency,ffq1CkWhtFish,BiB_Baseline.base_m1_foodfrequency.ffq1CkWhtFish,How did you cook white fish?,decimal,,0|1|2|3|4|5,Did not eat|BBQ|Fry|Grill|Roast|Don't know or take-away
+BiB_Baseline,base_m1_foodfrequency,ffq1CkWhtFishwd,BiB_Baseline.base_m1_foodfrequency.ffq1CkWhtFishwd,Did you have white fish well done?,decimal,,0|1,No|Yes
+BiB_Baseline,base_m1_foodfrequency,ffq1CkOilyFish,BiB_Baseline.base_m1_foodfrequency.ffq1CkOilyFish,How did you cook oily fish?,decimal,,0|1|2|3|4,Did not eat|Fry|Grill|Roast|Don't know or take-away
+BiB_Baseline,base_m1_foodfrequency,ffq1CkOilyFishwd,BiB_Baseline.base_m1_foodfrequency.ffq1CkOilyFishwd,Did you have oily fish well done?,decimal,,0|1,No|Yes
+BiB_Baseline,base_m1_foodfrequency,ffq1MilkType,BiB_Baseline.base_m1_foodfrequency.ffq1MilkType,Which milk used in last 4wks pregnancy?,decimal,,0|1|2|3|4,Rarely/never use milk|Semi-skimmed milk|Skimmed milk|Soya|Whole/full-fat milk
+BiB_Baseline,base_m1_foodfrequency,i7_other,BiB_Baseline.base_m1_foodfrequency.i7_other,I7_Other,text,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1MilkFreq,BiB_Baseline.base_m1_foodfrequency.ffq1MilkFreq,Frequency milk per day last 4wk pregnancy?,decimal,,0|1|2|3|4|5,None|1 Pint|1/2 Pint|1/4 Pint|3/4 Pint|More than 1 Pint
+BiB_Baseline,base_m1_foodfrequency,ffq1FatSpreadBread,BiB_Baseline.base_m1_foodfrequency.ffq1FatSpreadBread,Have you used fat spread on bread in last 4wks pregnancy?,decimal,,0|1|2|3,Do not eat bread or toast|Never|Sometimes|Always
+BiB_Baseline,base_m1_foodfrequency,ffq1FatSpreadVeg,BiB_Baseline.base_m1_foodfrequency.ffq1FatSpreadVeg,Have you used fat spread on vegetables last 4wks pregnancy?,decimal,,0|1|2|3,Do not eat vegetables|Never|Sometimes|Always
+BiB_Baseline,base_m1_foodfrequency,ffq1FatSpreadType,BiB_Baseline.base_m1_foodfrequency.ffq1FatSpreadType,Which fat spread do you use on bread?,text,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1FatSpreadTypeOther,BiB_Baseline.base_m1_foodfrequency.ffq1FatSpreadTypeOther,Which other fat spread do you use on bread?,text,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1CookngFat,BiB_Baseline.base_m1_foodfrequency.ffq1CookngFat,What used as cooking fat in last 4wks pregnancy?,decimal,,0|1|2|3|4|5|6|7|8,"None|Butter|Margarine|Vegetable oil|Lard/Dripping|Vegetable oil and Margarine|Butter and Vegetable oil|Butter, Vegetable oil and  Margarine|Butter, Ghee, Vegetable oil,Margarine"
+BiB_Baseline,base_m1_foodfrequency,ffq1CkngFatOther,BiB_Baseline.base_m1_foodfrequency.ffq1CkngFatOther,What used as cooking fat in last 4wks pregnancy?,text,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1CkngOilType,BiB_Baseline.base_m1_foodfrequency.ffq1CkngOilType,If vegetable oil/margarine which type?,decimal,,1|2|3|4,Corn Oil|Olive Oil|Sunflower Oil|Vegetable Oil
+BiB_Baseline,base_m1_foodfrequency,ffq1CkngOilTypeOther,BiB_Baseline.base_m1_foodfrequency.ffq1CkngOilTypeOther,If vegetable oil/margarine which type?,text,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1WhiteBreadFreq,BiB_Baseline.base_m1_foodfrequency.ffq1WhiteBreadFreq,Number white bread slices per week last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1BrownBreadFreq,BiB_Baseline.base_m1_foodfrequency.ffq1BrownBreadFreq,Number brown bread slices per week last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1WrapsFreq,BiB_Baseline.base_m1_foodfrequency.ffq1WrapsFreq,Number wraps slices per week last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1RotiFreq,BiB_Baseline.base_m1_foodfrequency.ffq1RotiFreq,Number roti slices per week last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1PizzaFreq,BiB_Baseline.base_m1_foodfrequency.ffq1PizzaFreq,Number pizza slices per week last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1NaanFreq,BiB_Baseline.base_m1_foodfrequency.ffq1NaanFreq,Number naan slices per week last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1ParathaFreq,BiB_Baseline.base_m1_foodfrequency.ffq1ParathaFreq,Number paratha slices per week last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1OthBrdFreq,BiB_Baseline.base_m1_foodfrequency.ffq1OthBrdFreq,Number other slices per week last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1OthBrd,BiB_Baseline.base_m1_foodfrequency.ffq1OthBrd,Which other bread slices per week last 4wks pregnancy?,text,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1BrownBreadType,BiB_Baseline.base_m1_foodfrequency.ffq1BrownBreadType,Which type of brown bread?,decimal,,1|2|3,Don't know|Wholegrain|Wholemeal
+BiB_Baseline,base_m1_foodfrequency,ffq1ToastFreq,BiB_Baseline.base_m1_foodfrequency.ffq1ToastFreq,How many slices of toast p/wk?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1InstCoffee,BiB_Baseline.base_m1_foodfrequency.ffq1InstCoffee,How many mugs instant coffee p/day last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1InstCoffeecf,BiB_Baseline.base_m1_foodfrequency.ffq1InstCoffeecf,Was instant coffee mainly caffeinated?,decimal,,0|1|2|3,No|Yes|Both|Don't know
+BiB_Baseline,base_m1_foodfrequency,ffq1FiltCoffee,BiB_Baseline.base_m1_foodfrequency.ffq1FiltCoffee,How many mugs filtered coffee p/day last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1FiltCoffeecf,BiB_Baseline.base_m1_foodfrequency.ffq1FiltCoffeecf,Was filtered coffee mainly caffeinated?,decimal,,0|1|2,No|Yes|Don't know
+BiB_Baseline,base_m1_foodfrequency,ffq1Tea,BiB_Baseline.base_m1_foodfrequency.ffq1Tea,How many mugs tea p/day last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1Teacf,BiB_Baseline.base_m1_foodfrequency.ffq1Teacf,Was tea mainly caffeinated?,decimal,,0|1|2|3,No|Yes|Both|Don't know
+BiB_Baseline,base_m1_foodfrequency,ffq1KashTea,BiB_Baseline.base_m1_foodfrequency.ffq1KashTea,How many mugs kashmiri tea p/day last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1KashTeacf,BiB_Baseline.base_m1_foodfrequency.ffq1KashTeacf,Was kashmiri tea mainly caffeinated?,decimal,,0|1|2|3,No|Yes|Both|Don't know
+BiB_Baseline,base_m1_foodfrequency,ffq1HerbTea,BiB_Baseline.base_m1_foodfrequency.ffq1HerbTea,How many mugs herbal tea p/day last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1HerbTeacf,BiB_Baseline.base_m1_foodfrequency.ffq1HerbTeacf,Was herbal tea mainly caffeinated?,decimal,,0|1|2|3,No|Yes|Both|Don't know
+BiB_Baseline,base_m1_foodfrequency,ffq1Cola,BiB_Baseline.base_m1_foodfrequency.ffq1Cola,How many mugs cola p/day last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1Colacf,BiB_Baseline.base_m1_foodfrequency.ffq1Colacf,Was cola mainly caffeinated?,decimal,,0|1|2,No|Yes|Don't know
+BiB_Baseline,base_m1_foodfrequency,ffq1DietCola,BiB_Baseline.base_m1_foodfrequency.ffq1DietCola,How many mugs diet cola p/day last 4wks pregnancy?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1DietColacf,BiB_Baseline.base_m1_foodfrequency.ffq1DietColacf,Was diet cola mainly caffeinated?,decimal,,0|1|2|3,No|Yes|Both|Don't know
+BiB_Baseline,base_m1_foodfrequency,ffq1SugarDrinks,BiB_Baseline.base_m1_foodfrequency.ffq1SugarDrinks,How many teaspoons sugar added to hot drinks?,decimal,,,
+BiB_Baseline,base_m1_foodfrequency,ffq1SugarCereal,BiB_Baseline.base_m1_foodfrequency.ffq1SugarCereal,How many teaspoons sugar added to cereal?,decimal,,,
+BiB_Baseline,base_m23_exercise,BiBPregNumber,BiB_Baseline.base_m23_exercise.BiBPregNumber,Pregnancy number within BiB,decimal,,,
+BiB_Baseline,base_m23_exercise,BiBPersonID,BiB_Baseline.base_m23_exercise.BiBPersonID,Mother identifier,text,,,
+BiB_Baseline,base_m23_exercise,questionnphase,BiB_Baseline.base_m23_exercise.questionnphase,"",text,,,
+BiB_Baseline,base_m23_exercise,questphase,BiB_Baseline.base_m23_exercise.questphase,"",decimal,,,
+BiB_Baseline,base_m23_exercise,exe2pawork,BiB_Baseline.base_m23_exercise.exe2pawork,Amount of physical activity involved in paid work,decimal,,1|2|3|4|5,Not in paid employment|Most time sitting|Most time standing/walking|Physical effort|Vigorous physical effort
+BiB_Baseline,base_m23_exercise,exe2phyelw,BiB_Baseline.base_m23_exercise.exe2phyelw,Time spent doing physical exercise last week,decimal,,1|2|3|4,None|<1hour|1-3 hours|3 hours or more
+BiB_Baseline,base_m23_exercise,exe2cycllw,BiB_Baseline.base_m23_exercise.exe2cycllw,Time spent cycling last week,decimal,,1|2|3|4,None|<1hour|1-3 hours|3 hours or more
+BiB_Baseline,base_m23_exercise,exe2walklw,BiB_Baseline.base_m23_exercise.exe2walklw,Time spent walking last week,decimal,,1|2|3|4,None|<1hour|1-3 hours|3 hours or more
+BiB_Baseline,base_m23_exercise,exe2hwcclw,BiB_Baseline.base_m23_exercise.exe2hwcclw,Time spent doing housework/childcare last week,decimal,,1|2|3|4,None|<1hour|1-3 hours|3 hours or more
+BiB_Baseline,base_m23_exercise,exe2gdiylw,BiB_Baseline.base_m23_exercise.exe2gdiylw,Time spent Gardening/DIY last week,decimal,,1|2|3|4,None|<1hour|1-3 hours|3 hours or more
+BiB_Baseline,base_m23_exercise,exe2walkpc,BiB_Baseline.base_m23_exercise.exe2walkpc,Usual walking pace,decimal,,1|2|3|4,Slow pace|Brisk pace|Steady average pace|Fast pace
+BiB_Baseline,base_m23_exercise,GGPAQ_score,BiB_Baseline.base_m23_exercise.GGPAQ_score,General Practice Physical Activity Score,decimal,,1|2|3|4,Inactive|Moderately inactive|Moderately active|Active
 BiB_Baseline,base_m1_survey,BiBPregNumber,BiB_Baseline.base_m1_survey.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
 BiB_Baseline,base_m1_survey,has_base_m1_survey,BiB_Baseline.base_m1_survey.has_base_m1_survey,Has mother baseline survey (phases 1),decimal,,,
 BiB_Baseline,base_m1_survey,fam1famacc,BiB_Baseline.base_m1_survey.fam1famacc,There are people I know who accept me as I am,decimal,,1|2|3,Not true|Partly true|Certainly true
@@ -5882,6 +6023,32 @@ BiB_Baseline,base_m1_survey,fam1suptrn,BiB_Baseline.base_m1_survey.fam1suptrn,Ho
 BiB_Baseline,base_m1_survey,fam1tenstr,BiB_Baseline.base_m1_survey.fam1tenstr,How much of a problem are teenagers hanging around,decimal,,1|2|3|4,Very big problem|Fairly big problem|Not a very big problem|Not a problem at all
 BiB_Baseline,base_m1_survey,fam1truste,BiB_Baseline.base_m1_survey.fam1truste,Can people be trusted?,decimal,,1|2|3,Can be trusted|Can't be too careful|Don't know
 BiB_Baseline,base_m1_survey,has_mbqph1,BiB_Baseline.base_m1_survey.has_mbqph1,Has: Maternal Baseline Questionnaire (Phase 1),decimal,,1,has
+BiB_Baseline,base_f_survey,BiBPregNumber,BiB_Baseline.base_f_survey.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
+BiB_Baseline,base_f_survey,has_base_f_survey,BiB_Baseline.base_f_survey.has_base_f_survey,Has father baseline survey,decimal,,,
+BiB_Baseline,base_f_survey,agefm_fbqall,BiB_Baseline.base_f_survey.agefm_fbqall,Father age (months): Father baseline questionnaire,decimal,,,
+BiB_Baseline,base_f_survey,agefy_fbqall,BiB_Baseline.base_f_survey.agefy_fbqall,Father age (years): Father baseline questionnaire,decimal,,,
+BiB_Baseline,base_f_survey,fbqageeduc,BiB_Baseline.base_f_survey.fbqageeduc,Age completed education,decimal,,1|2|3,16 or under|17-19|20 or over
+BiB_Baseline,base_f_survey,fbqageuk,BiB_Baseline.base_f_survey.fbqageuk,Age moved to the UK,decimal,,,
+BiB_Baseline,base_f_survey,fbqalcohol,BiB_Baseline.base_f_survey.fbqalcohol,Do you drink alcohol,decimal,,1|2,Yes|No
+BiB_Baseline,base_f_survey,fbqalcoholamt,BiB_Baseline.base_f_survey.fbqalcoholamt,Weekly average no. of units,decimal,,,
+BiB_Baseline,base_f_survey,fbqbiosample,BiB_Baseline.base_f_survey.fbqbiosample,Was a biological sample taken,decimal,,1|2,Yes|No
+BiB_Baseline,base_f_survey,fbqcountrybirth,BiB_Baseline.base_f_survey.fbqcountrybirth,Country born,decimal,,1|2|3,United Kingdom|Pakistan|Other
+BiB_Baseline,base_f_survey,fbqcountrybirthother,BiB_Baseline.base_f_survey.fbqcountrybirthother,Country of birth if other,text,,,
+BiB_Baseline,base_f_survey,fbqethnicgrp,BiB_Baseline.base_f_survey.fbqethnicgrp,Ethnic group,decimal,,1|2|3|4|5|6,White|Mixed|Black/Black British|Asian/Asian British|Chinese|Other
+BiB_Baseline,base_f_survey,fbqethnicgrpother,BiB_Baseline.base_f_survey.fbqethnicgrpother,Ethnic group if other,text,,,
+BiB_Baseline,base_f_survey,fbqheight,BiB_Baseline.base_f_survey.fbqheight,Father's height (cm),decimal,,,
+BiB_Baseline,base_f_survey,fbqjobtitle,BiB_Baseline.base_f_survey.fbqjobtitle,Job title,text,,,
+BiB_Baseline,base_f_survey,fbqobstime,BiB_Baseline.base_f_survey.fbqobstime,How did date of completion relate to point of mother's pregnancy?,decimal,,1|2|3|4|5|6,Scan 1 - dating scan|Scan 2 - 20 wk scan|GTT|Delivery|Post natal ward|Other
+BiB_Baseline,base_f_survey,fbqobstimeother,BiB_Baseline.base_f_survey.fbqobstimeother,Specify other time point in mother's pregnancy,text,,,
+BiB_Baseline,base_f_survey,fbqquestadmin,BiB_Baseline.base_f_survey.fbqquestadmin,Questionnaire administered independently or assisted,decimal,,1|2,Independently|Assisted
+BiB_Baseline,base_f_survey,fbqquestlang,BiB_Baseline.base_f_survey.fbqquestlang,Language used to complete questionnaire,decimal,,1|2|3,English|Mirpuri/Punjabi|Urdu
+BiB_Baseline,base_f_survey,fbqselfemployed,BiB_Baseline.base_f_survey.fbqselfemployed,Are/were you self-employed,decimal,,1|2,Yes|No
+BiB_Baseline,base_f_survey,fbqsmokes,BiB_Baseline.base_f_survey.fbqsmokes,Do you smoke cigarettes nowadays,decimal,,1|2,Yes|No
+BiB_Baseline,base_f_survey,fbqsmokesamt,BiB_Baseline.base_f_survey.fbqsmokesamt,How many cigarettes per day,decimal,,1|2|3|4|5|6,Less than 1 a day|1-5|6-10|11-20|Over 20|Don't know
+BiB_Baseline,base_f_survey,fbqweight,BiB_Baseline.base_f_survey.fbqweight,Father's weight (kg),decimal,,,
+BiB_Baseline,base_f_survey,fbqworkforce,BiB_Baseline.base_f_survey.fbqworkforce,No. people work at your place of work,decimal,,1|2|3|4,1-2|3-24|25-499|500+
+BiB_Baseline,base_f_survey,fbqworklevel,BiB_Baseline.base_f_survey.fbqworklevel,Level worked at,decimal,,1|2|3,Manager|Supervisor|Other employee
+BiB_Baseline,base_f_survey,has_fbqall,BiB_Baseline.base_f_survey.has_fbqall,Has: Father baseline questionnaire,decimal,,1,has
 BiB_Baseline,base_m23_survey,BiBPregNumber,BiB_Baseline.base_m23_survey.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
 BiB_Baseline,base_m23_survey,has_base_m23_survey,BiB_Baseline.base_m23_survey.has_base_m23_survey,Has mother baseline survey (phases 2 & 3),decimal,,,
 BiB_Baseline,base_m23_survey,has_mbqp23,BiB_Baseline.base_m23_survey.has_mbqp23,Has baseline questionnaire phase 2 or 3,decimal,,1,has
@@ -5931,32 +6098,6 @@ BiB_Baseline,base_m23_survey_p3,org2mmubirgrp_p3,BiB_Baseline.base_m23_survey_p3
 BiB_Baseline,base_m23_survey_p3,org2mumbirgrp_p3,BiB_Baseline.base_m23_survey_p3.org2mumbirgrp_p3,Woman Cohort Member: Biraderi,decimal,,1|10|11|12|13|14|15|16|17|18|2|3|4|5|6|7|8|9,Missing|Syed|Malik|Gujjar|Qureshi|Awaan|Sheikh|Qasabi|Other|Bains Rajput|Jatt|Pathan|Don't know|Rajput|Choudhry|Bains|Kashmiri|Mughal
 BiB_Baseline,base_m23_survey_p3,org2pgfbirgrp_p3,BiB_Baseline.base_m23_survey_p3.org2pgfbirgrp_p3,Woman Cohort Members Paternal Grandfather: Biraderi,decimal,,1|10|11|12|13|14|15|16|17|18|2|3|4|5|6|7|8|9,Missing|Syed|Malik|Gujjar|Qureshi|Awaan|Sheikh|Qasabi|Other|Bains Rajput|Jatt|Pathan|Don't know|Rajput|Choudhry|Bains|Kashmiri|Mughal
 BiB_Baseline,base_m23_survey_p3,org2pgmbirgrp_p3,BiB_Baseline.base_m23_survey_p3.org2pgmbirgrp_p3,Woman Cohort Members Paternal Grandmother: Biraderi,decimal,,1|10|11|12|13|14|15|16|17|18|2|3|4|5|6|7|8|9,Missing|Syed|Malik|Gujjar|Qureshi|Awaan|Sheikh|Qasabi|Other|Bains Rajput|Jatt|Pathan|Don't know|Rajput|Choudhry|Bains|Kashmiri|Mughal
-BiB_Baseline,base_f_survey,BiBPregNumber,BiB_Baseline.base_f_survey.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
-BiB_Baseline,base_f_survey,has_base_f_survey,BiB_Baseline.base_f_survey.has_base_f_survey,Has father baseline survey,decimal,,,
-BiB_Baseline,base_f_survey,agefm_fbqall,BiB_Baseline.base_f_survey.agefm_fbqall,Father age (months): Father baseline questionnaire,decimal,,,
-BiB_Baseline,base_f_survey,agefy_fbqall,BiB_Baseline.base_f_survey.agefy_fbqall,Father age (years): Father baseline questionnaire,decimal,,,
-BiB_Baseline,base_f_survey,fbqageeduc,BiB_Baseline.base_f_survey.fbqageeduc,Age completed education,decimal,,1|2|3,16 or under|17-19|20 or over
-BiB_Baseline,base_f_survey,fbqageuk,BiB_Baseline.base_f_survey.fbqageuk,Age moved to the UK,decimal,,,
-BiB_Baseline,base_f_survey,fbqalcohol,BiB_Baseline.base_f_survey.fbqalcohol,Do you drink alcohol,decimal,,1|2,Yes|No
-BiB_Baseline,base_f_survey,fbqalcoholamt,BiB_Baseline.base_f_survey.fbqalcoholamt,Weekly average no. of units,decimal,,,
-BiB_Baseline,base_f_survey,fbqbiosample,BiB_Baseline.base_f_survey.fbqbiosample,Was a biological sample taken,decimal,,1|2,Yes|No
-BiB_Baseline,base_f_survey,fbqcountrybirth,BiB_Baseline.base_f_survey.fbqcountrybirth,Country born,decimal,,1|2|3,United Kingdom|Pakistan|Other
-BiB_Baseline,base_f_survey,fbqcountrybirthother,BiB_Baseline.base_f_survey.fbqcountrybirthother,Country of birth if other,text,,,
-BiB_Baseline,base_f_survey,fbqethnicgrp,BiB_Baseline.base_f_survey.fbqethnicgrp,Ethnic group,decimal,,1|2|3|4|5|6,White|Mixed|Black/Black British|Asian/Asian British|Chinese|Other
-BiB_Baseline,base_f_survey,fbqethnicgrpother,BiB_Baseline.base_f_survey.fbqethnicgrpother,Ethnic group if other,text,,,
-BiB_Baseline,base_f_survey,fbqheight,BiB_Baseline.base_f_survey.fbqheight,Father's height (cm),decimal,,,
-BiB_Baseline,base_f_survey,fbqjobtitle,BiB_Baseline.base_f_survey.fbqjobtitle,Job title,text,,,
-BiB_Baseline,base_f_survey,fbqobstime,BiB_Baseline.base_f_survey.fbqobstime,How did date of completion relate to point of mother's pregnancy?,decimal,,1|2|3|4|5|6,Scan 1 - dating scan|Scan 2 - 20 wk scan|GTT|Delivery|Post natal ward|Other
-BiB_Baseline,base_f_survey,fbqobstimeother,BiB_Baseline.base_f_survey.fbqobstimeother,Specify other time point in mother's pregnancy,text,,,
-BiB_Baseline,base_f_survey,fbqquestadmin,BiB_Baseline.base_f_survey.fbqquestadmin,Questionnaire administered independently or assisted,decimal,,1|2,Independently|Assisted
-BiB_Baseline,base_f_survey,fbqquestlang,BiB_Baseline.base_f_survey.fbqquestlang,Language used to complete questionnaire,decimal,,1|2|3,English|Mirpuri/Punjabi|Urdu
-BiB_Baseline,base_f_survey,fbqselfemployed,BiB_Baseline.base_f_survey.fbqselfemployed,Are/were you self-employed,decimal,,1|2,Yes|No
-BiB_Baseline,base_f_survey,fbqsmokes,BiB_Baseline.base_f_survey.fbqsmokes,Do you smoke cigarettes nowadays,decimal,,1|2,Yes|No
-BiB_Baseline,base_f_survey,fbqsmokesamt,BiB_Baseline.base_f_survey.fbqsmokesamt,How many cigarettes per day,decimal,,1|2|3|4|5|6,Less than 1 a day|1-5|6-10|11-20|Over 20|Don't know
-BiB_Baseline,base_f_survey,fbqweight,BiB_Baseline.base_f_survey.fbqweight,Father's weight (kg),decimal,,,
-BiB_Baseline,base_f_survey,fbqworkforce,BiB_Baseline.base_f_survey.fbqworkforce,No. people work at your place of work,decimal,,1|2|3|4,1-2|3-24|25-499|500+
-BiB_Baseline,base_f_survey,fbqworklevel,BiB_Baseline.base_f_survey.fbqworklevel,Level worked at,decimal,,1|2|3,Manager|Supervisor|Other employee
-BiB_Baseline,base_f_survey,has_fbqall,BiB_Baseline.base_f_survey.has_fbqall,Has: Father baseline questionnaire,decimal,,1,has
 BiB_Baseline,base_f_survey_p1,has_base_f_survey_p1,BiB_Baseline.base_f_survey_p1.has_base_f_survey_p1,Has father baseline survey,decimal,,,
 BiB_Baseline,base_f_survey_p1,agefm_fbqall_p1,BiB_Baseline.base_f_survey_p1.agefm_fbqall_p1,Father age (months): Father baseline questionnaire,decimal,,,
 BiB_Baseline,base_f_survey_p1,agefy_fbqall_p1,BiB_Baseline.base_f_survey_p1.agefy_fbqall_p1,Father age (years): Father baseline questionnaire,decimal,,,
@@ -6123,6 +6264,15 @@ BiB_Bloods,pregnancy_gtt_p3,gttfastglu_p3,BiB_Bloods.pregnancy_gtt_p3.gttfastglu
 BiB_Bloods,pregnancy_gtt_p3,gttgestwks_p3,BiB_Bloods.pregnancy_gtt_p3.gttgestwks_p3,Gestationl age at GTT (completed weeks),decimal,,,
 BiB_Bloods,pregnancy_gtt_p3,gttpostglu_p3,BiB_Bloods.pregnancy_gtt_p3.gttpostglu_p3,2-hour postload glucose,decimal,,,
 BiB_Bloods,pregnancy_gtt_p3,has_mbagtt_p3,BiB_Bloods.pregnancy_gtt_p3.has_mbagtt_p3,Has maternal GTT data,decimal,,1,has
+BiB_Bloods,renal_blood_tests,TestDate,BiB_Bloods.renal_blood_tests.TestDate,Date sample was taken,date,,,
+BiB_Bloods,renal_blood_tests,TotalTests,BiB_Bloods.renal_blood_tests.TotalTests,Total blood test occasions within GU renal study,decimal,,,
+BiB_Bloods,renal_blood_tests,TestDateOrder,BiB_Bloods.renal_blood_tests.TestDateOrder,Date order of test occasions within GU renal study,decimal,,,
+BiB_Bloods,renal_blood_tests,AgeInYears,BiB_Bloods.renal_blood_tests.AgeInYears,"Age at GU renal blood test, years",decimal,,,
+BiB_Bloods,renal_blood_tests,AgeInMonths,BiB_Bloods.renal_blood_tests.AgeInMonths,"Age at GU renal blood test, months",decimal,,,
+BiB_Bloods,renal_blood_tests,sodium,BiB_Bloods.renal_blood_tests.sodium,Sodium (mmol/L),decimal,,,
+BiB_Bloods,renal_blood_tests,potassium,BiB_Bloods.renal_blood_tests.potassium,Potassium (mmol/L),decimal,,,
+BiB_Bloods,renal_blood_tests,urea,BiB_Bloods.renal_blood_tests.urea,Urea (mmol/L),decimal,,,
+BiB_Bloods,renal_blood_tests,creatinine,BiB_Bloods.renal_blood_tests.creatinine,Creatinine (umol/L),decimal,,,
 BiB_Bloods,blood_tests,TestDate,BiB_Bloods.blood_tests.TestDate,Date sample was taken,date,,,
 BiB_Bloods,blood_tests,TotalTests,BiB_Bloods.blood_tests.TotalTests,Total blood test occasions within GU,decimal,,,
 BiB_Bloods,blood_tests,TestDateOrder,BiB_Bloods.blood_tests.TestDateOrder,Date order of test occasions within GU,decimal,,,
@@ -6154,15 +6304,6 @@ BiB_Bloods,cord_bloods,cbldleptin_miss,BiB_Bloods.cord_bloods.cbldleptin_miss,Co
 BiB_Bloods,cord_bloods,cbldtrig,BiB_Bloods.cord_bloods.cbldtrig,Triglyceride,decimal,,,
 BiB_Bloods,cord_bloods,cbldvldl,BiB_Bloods.cord_bloods.cbldvldl,Cord blood VLDL,decimal,,,
 BiB_Bloods,cord_bloods,has_crdbld,BiB_Bloods.cord_bloods.has_crdbld,Has baby cord bloods data,decimal,,1,has
-BiB_Bloods,renal_blood_tests,TestDate,BiB_Bloods.renal_blood_tests.TestDate,Date sample was taken,date,,,
-BiB_Bloods,renal_blood_tests,TotalTests,BiB_Bloods.renal_blood_tests.TotalTests,Total blood test occasions within GU renal study,decimal,,,
-BiB_Bloods,renal_blood_tests,TestDateOrder,BiB_Bloods.renal_blood_tests.TestDateOrder,Date order of test occasions within GU renal study,decimal,,,
-BiB_Bloods,renal_blood_tests,AgeInYears,BiB_Bloods.renal_blood_tests.AgeInYears,"Age at GU renal blood test, years",decimal,,,
-BiB_Bloods,renal_blood_tests,AgeInMonths,BiB_Bloods.renal_blood_tests.AgeInMonths,"Age at GU renal blood test, months",decimal,,,
-BiB_Bloods,renal_blood_tests,sodium,BiB_Bloods.renal_blood_tests.sodium,Sodium (mmol/L),decimal,,,
-BiB_Bloods,renal_blood_tests,potassium,BiB_Bloods.renal_blood_tests.potassium,Potassium (mmol/L),decimal,,,
-BiB_Bloods,renal_blood_tests,urea,BiB_Bloods.renal_blood_tests.urea,Urea (mmol/L),decimal,,,
-BiB_Bloods,renal_blood_tests,creatinine,BiB_Bloods.renal_blood_tests.creatinine,Creatinine (umol/L),decimal,,,
 BiB_Bloods,renal_cystatinc,age_in_months,BiB_Bloods.renal_cystatinc.age_in_months,GU renal: age at serum sample (months),decimal,,,
 BiB_Bloods,renal_cystatinc,age_in_years,BiB_Bloods.renal_cystatinc.age_in_years,GU renal: age at serum sample (years),decimal,,,
 BiB_Bloods,renal_cystatinc,cystatinc,BiB_Bloods.renal_cystatinc.cystatinc,Cystatic C from serum,decimal,,,
@@ -6984,6 +7125,166 @@ BiB_GrowingUp,adult_survey,guadtQualityControl_5comment,BiB_GrowingUp.adult_surv
 BiB_GrowingUp,adult_survey,guadtWhereQComp,BiB_GrowingUp.adult_survey.guadtWhereQComp,Where is this questionnaire being completed?,decimal,,1|2|3,Participant's home|Bus|Other
 BiB_GrowingUp,adult_survey,guadtWhereQComp_other,BiB_GrowingUp.adult_survey.guadtWhereQComp_other,Where is this questionnaire being completed?: Other,text,,,
 BiB_GrowingUp,adult_survey,guadtBackfillBy,BiB_GrowingUp.adult_survey.guadtBackfillBy,"",text,,,
+BiB_GrowingUp,adult_survey_BiB1000_sample,Date,BiB_GrowingUp.adult_survey_BiB1000_sample.Date,Date survey completed,date,,,
+BiB_GrowingUp,adult_survey_BiB1000_sample,AgeMonths,BiB_GrowingUp.adult_survey_BiB1000_sample.AgeMonths,Age in months at survey completion,decimal,,,
+BiB_GrowingUp,adult_survey_BiB1000_sample,AgeYears,BiB_GrowingUp.adult_survey_BiB1000_sample.AgeYears,Age in years at survey completion,decimal,,,
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtMoneyForFood,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtMoneyForFood,In past 12 mths have you felt you didn't have enough money for food,decimal,,1|2|3|4|5,Never true|Sometimes true|Often true|Do not wish to answer|Donâ€™t know
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtAffordBalMeals,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtAffordBalMeals,In past 12 mths have you felt you couldn't afford to eat balanced meals,decimal,,1|2|3|4|5,Never true|Sometimes true|Often true|Do not wish to answer|Donâ€™t know
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtCutOrSkipMeals,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtCutOrSkipMeals,In past 12 mths have you cut the size of or skipped meals,decimal,,1|2|3|4,No|Yes|Do not wish to answer|Donâ€™t know
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtCutOrSkipOften,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtCutOrSkipOften,How often did you skip meals,decimal,,1|2|3|4|5,Only 1 or 2 months|Some months but not every month|Almost every month|Do not wish to answer|Donâ€™t know
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtEatLessShould,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtEatLessShould,In past 12 mths did you eat less than you should because no money for food,decimal,,1|2|3|4,No|Yes|Do not wish to answer|Donâ€™t know
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtHungryDidntEat,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtHungryDidntEat,In past 12 mths were you hungry but didn't eat because no money for food,decimal,,1|2|3|4,No|Yes|Do not wish to answer|Donâ€™t know
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFamilyPA,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFamilyPA,How much do you dis/agree with: My family is physically active,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Not sure|Agree|Strongly agree
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtLikePAWithChild,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtLikePAWithChild,How much do you dis/agree with: I like being physically active with my child,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Not sure|Agree|Strongly agree
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtEnjoyPA,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtEnjoyPA,How much do you enjoy physical activities or sports?,decimal,,1|2|3|4,Donâ€™t enjoy|Sort of enjoy|Really enjoy|Thoroughly enjoy
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtPAFamilyRecreat,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtPAFamilyRecreat,How often does your family use physical activities or sports for recreation,decimal,,1|2|3|4,Rarely|Once in a while|Relatively often|Frequently
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtPAOwnBehavi,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtPAOwnBehavi,How much do you use your own behaviour to encourage your child to be active,decimal,,1|2|3|4,I donâ€™t use my own behaviour to encourage my child to be active|I rarely use my own behaviour to encourage my child to be active|I often use my own behaviour to encourage my child to be active|I constantly use my own behaviour to encourage my child to be active
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtEncourageSB,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtEncourageSB,How much does your behaviour encourage your child to be sedentary?,decimal,,1|2|3|4|5|6,Never|Very rarely|Rarely|Sometimes|Often|Very often
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtTooTiredActive,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtTooTiredActive,Does your child hear you say that you were too tired to be active?,decimal,,1|2|3|4|5|6,Never|Very rarely|Rarely|Sometimes|Often|Very often
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtPAWithChild,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtPAWithChild,Do you play sports/games/other activities with your child,decimal,,1|2|3|4|5|6,Never|Very rarely|Rarely|Sometimes|Often|Very often
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildHearPATalk,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildHearPATalk,Does your child hear you talk about participating in sports/activities,decimal,,1|2|3|4|5|6,Never|Very rarely|Rarely|Sometimes|Often|Very often
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildSeePA,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildSeePA,How often does your child see you doing physical activity,decimal,,1|2|3|4|5|6,Never|Very rarely|Rarely|Sometimes|Often|Very often
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildLimitPA_1,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildLimitPA_1,Frequency child not been active because of the cost,decimal,,1|2|3|4|5|6,Never|1-3 time this month|Once a week|2-4 times a week|5-7 times a week|Not applicable
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildLimitPA_2,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildLimitPA_2,Frequency child not been active because places are difficult to get to,decimal,,1|2|3|4|5|6,Never|1-3 time this month|Once a week|2-4 times a week|5-7 times a week|Not applicable
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildLimitPA_3,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildLimitPA_3,Frequency child not been active because of the weather,decimal,,1|2|3|4|5|6,Never|1-3 time this month|Once a week|2-4 times a week|5-7 times a week|Not applicable
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildLimitPA_4,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildLimitPA_4,Frequency child not been active because you are too busy,decimal,,1|2|3|4|5|6,Never|1-3 time this month|Once a week|2-4 times a week|5-7 times a week|Not applicable
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildLimitPA_5,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildLimitPA_5,Frequency child not been active because of worry about their safety,decimal,,1|2|3|4|5|6,Never|1-3 time this month|Once a week|2-4 times a week|5-7 times a week|Not applicable
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildLimitPA_6,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildLimitPA_6,Frequency child not been active because no-one to supervise them,decimal,,1|2|3|4|5|6,Never|1-3 time this month|Once a week|2-4 times a week|5-7 times a week|Not applicable
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildLimitPA_7,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildLimitPA_7,Frequency child not been active because of a waiting list for clubs,decimal,,1|2|3|4|5|6,Never|1-3 time this month|Once a week|2-4 times a week|5-7 times a week|Not applicable
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtPEincr3Years,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtPEincr3Years,Has the amount of PE/sports your child does increased since starting school,decimal,,1|2|3|4|5|6,Totally disagree|Disagree|Neither agree nor disagree|Agree|Totally agree|Donâ€™t know
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtHowLongPAWeek_1,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtHowLongPAWeek_1,Time you should spend being physically active in a week (hours),text,,,
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtHowLongPAWeek_2,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtHowLongPAWeek_2,Time you should spend being physically active in a week (minutes),text,,,
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtHowHardWorkPA,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtHowHardWorkPA,How hard should your body be working when you are physically active,decimal,,1|2|3,Not at all|A little bit|Quite hard or very hard
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildPAWeek_1,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildPAWeek_1,Length of time you think your child should be physically active per week (hrs),text,,,
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildPAWeek_2,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildPAWeek_2,Length of time you think your child should be physically active per week (mins),text,,,
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildHowHardPA,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildHowHardPA,How hard should your child's body be working when they are physically active,decimal,,1|2|3,Not at all|A little bit|Quite hard or very hard
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtOverallParent,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtOverallParent,"Overall as a parent, how do you feel you are?",decimal,,1|2|3|4|5,Not very good at being a parent|A person who has some trouble being a parent	|An average parent|A better than average parent|A very good parent
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtBehaveWithChild_1,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtBehaveWithChild_1,I feel I am very good at keeping this child amused,decimal,,1|10|2|3|4|5|6|7|8|9,1 Not at all how I feel|10 Exactly how I feel|2|3|4|5|6|7|8|9
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtBehaveWithChild_2,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtBehaveWithChild_2,I feel that I am very good at calming this child when he/she is upset,decimal,,1|10|2|3|4|5|6|7|8|9,1 Not at all how I feel|10 Exactly how I feel|2|3|4|5|6|7|8|9
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtBehaveWithChild_3,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtBehaveWithChild_3,I feel I am very good at keeping this child busy while I am doing housework,decimal,,1|10|2|3|4|5|6|7|8|9,1 Not at all how I feel|10 Exactly how I feel|2|3|4|5|6|7|8|9
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtBehaveWithChild_4,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtBehaveWithChild_4,I feel I am very good at routine tasks of caring for child (e.g. feeding),decimal,,1|10|2|3|4|5|6|7|8|9,1 Not at all how I feel|10 Exactly how I feel|2|3|4|5|6|7|8|9
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildRearing_1,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildRearing_1,"How often do you express affection by hugging, kissing and holding this child?",decimal,,1|2|3|4|5,Never/ almost never|Rarely|Sometimes|Often|Always/ almost always
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildRearing_2,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildRearing_2,How often do you hug or hold this child for no particular reason?,decimal,,1|2|3|4|5,Never/ almost never|Rarely|Sometimes|Often|Always/ almost always
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildRearing_3,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildRearing_3,How often do you tell this child how happy he/she makes you?,decimal,,1|2|3|4|5,Never/ almost never|Rarely|Sometimes|Often|Always/ almost always
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildRearing_4,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildRearing_4,"How often do you have warm, close times together with this child?",decimal,,1|2|3|4|5,Never/ almost never|Rarely|Sometimes|Often|Always/ almost always
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildRearing_5,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildRearing_5,How often do you enjoy doing things with this child?,decimal,,1|2|3|4|5,Never/ almost never|Rarely|Sometimes|Often|Always/ almost always
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtChildRearing_6,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtChildRearing_6,How often do you feel close to your child when they are happy or upset,decimal,,1|2|3|4|5,Never/ almost never|Rarely|Sometimes|Often|Always/ almost always
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadt4weeksbehaviour_1,BiB_GrowingUp.adult_survey_BiB1000_sample.guadt4weeksbehaviour_1,I have been angry with this child,decimal,,1|10|2|3|4|5|6|7|8|9,1 Not at all|10 All the time|2|3|4|5|6|7|8|9
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadt4weeksbehaviour_2,BiB_GrowingUp.adult_survey_BiB1000_sample.guadt4weeksbehaviour_2,I have raised my voice with or shouted at this child,decimal,,1|10|2|3|4|5|6|7|8|9,1 Not at all|10 All the time|2|3|4|5|6|7|8|9
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadt4weeksbehaviour_3,BiB_GrowingUp.adult_survey_BiB1000_sample.guadt4weeksbehaviour_3,"When this child cries, he/she gets on my nerves",decimal,,1|10|2|3|4|5|6|7|8|9,1 Not at all|10 All the time|2|3|4|5|6|7|8|9
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadt4weeksbehaviour_4,BiB_GrowingUp.adult_survey_BiB1000_sample.guadt4weeksbehaviour_4,I have lost my temper with this child.,decimal,,1|10|2|3|4|5|6|7|8|9,1 Not at all|10 All the time|2|3|4|5|6|7|8|9
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadt4weeksbehaviour_5,BiB_GrowingUp.adult_survey_BiB1000_sample.guadt4weeksbehaviour_5,I have left my child alone in their bedroom when they were upset,decimal,,1|10|2|3|4|5|6|7|8|9,1 Not at all|10 All the time|2|3|4|5|6|7|8|9
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_1,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_1,"Over the past 7 days, has your child eaten Fruit salad",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_10,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_10,"Over the past 7 days, has your child eaten Apricot",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_11,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_11,"Over the past 7 days, has your child eaten Cantaloupe/Honeydew melon",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_12,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_12,"Over the past 7 days, has your child eaten Pineapple",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_13,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_13,"Over the past 7 days, has your child eaten Pear",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_14,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_14,"Over the past 7 days, has your child eaten Mandarin/Tangerine/Satsuma",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_15,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_15,"Over the past 7 days, has your child eaten Papaya",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_16,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_16,"Over the past 7 days, has your child eaten Nectarine",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_17,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_17,"Over the past 7 days, has your child eaten Plum",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_18,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_18,"Over the past 7 days, has your child eaten Kiwifruit",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_19,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_19,"Over the past 7 days, has your child eaten Grapes",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_2,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_2,"Over the past 7 days, has your child eaten Strawberries",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_3,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_3,"Over the past 7 days, has your child eaten Orange",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_4,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_4,"Over the past 7 days, has your child eaten Peach",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_5,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_5,"Over the past 7 days, has your child eaten Mango",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_6,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_6,"Over the past 7 days, has your child eaten Dried fruit",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_7,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_7,"Over the past 7 days, has your child eaten Banana",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_8,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_8,"Over the past 7 days, has your child eaten Watermelon",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_9,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_9,"Over the past 7 days, has your child eaten Apple",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit7days_other,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit7days_other,List other fruit your child has eaten over the past 7 days,text,,,
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_1,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_1,"Over the past 7 days, has your child eaten Pumpkin",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_10,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_10,"Over the past 7 days, has your child eaten Peas or beans",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_11,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_11,"Over the past 7 days, has your child eaten Legumes (e.g Chickpeas)",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_12,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_12,"Over the past 7 days, has your child eaten Spinach",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_13,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_13,"Over the past 7 days, has your child eaten Lettuce",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_14,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_14,"Over the past 7 days, has your child eaten tomato",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_15,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_15,"Over the past 7 days, has your child eaten Cucumber",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_16,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_16,"Over the past 7 days, has your child eaten Celery",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_17,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_17,"Over the past 7 days, has your child eaten Peppers",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_18,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_18,"Over the past 7 days, has your child eaten Mushroom",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_19,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_19,"Over the past 7 days, has your child eaten Aubergine",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_2,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_2,"Over the past 7 days, has your child eaten Carrot",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_20,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_20,"Over the past 7 days, has your child eaten Squash",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_21,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_21,"Over the past 7 days, has your child eaten Veg in mixed dishes (soups + stews)",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_22,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_22,"Over the past 7 days, has your child eaten Olives",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_3,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_3,"Over the past 7 days, has your child eaten Cabbage",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_4,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_4,"Over the past 7 days, has your child eaten Cauliflower",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_5,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_5,"Over the past 7 days, has your child eaten Broccoli",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_6,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_6,"Over the past 7 days, has your child eaten Brussel Sprouts",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_7,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_7,"Over the past 7 days, has your child eaten Potato (not chips)",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_8,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_8,"Over the past 7 days, has your child eaten Sweetcorn",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_9,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_9,"Over the past 7 days, has your child eaten Sweet potato",decimal,,1,Yes
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtVeg7days_other,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtVeg7days_other,List other veg your child has eaten over the past 7 days,text,,,
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFood24hours_1,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFood24hours_1,"In past 24hrs, how often has your child had Fruit Juice/Fruit Drink",decimal,,1|2|3|4|5|6,Nil|Once|Twice|Three times|Four times|Five + times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFood24hours_2,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFood24hours_2,"In past 24hrs, how often has your child had Full Cream/Full Fat Milk",decimal,,1|2|3|4|5|6,Nil|Once|Twice|Three times|Four times|Five + times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFood24hours_3,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFood24hours_3,"In past 24hrs, how often has your child had Low Fat/Semi-skimmed/Skimmed Milk",decimal,,1|2|3|4|5|6,Nil|Once|Twice|Three times|Four times|Five + times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFood24hours_4,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFood24hours_4,"In past 24hrs, how often has your child had Cheese and/or Cheese Spreads",decimal,,1|2|3|4|5|6,Nil|Once|Twice|Three times|Four times|Five + times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFood24hours_5,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFood24hours_5,"In past 24hrs, how often has your child had Regular Yoghurt/Custard",decimal,,1|2|3|4|5|6,Nil|Once|Twice|Three times|Four times|Five + times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFood24hours_6,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFood24hours_6,"In past 24hrs, how often has your child had Reduced Fat/Low Fat Yoghurt/Custard",decimal,,1|2|3|4|5|6,Nil|Once|Twice|Three times|Four times|Five + times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFood24hours_7,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFood24hours_7,"In past 24hrs, how often has your child had Vegetables (raw or cooked)",decimal,,1|2|3|4|5|6,Nil|Once|Twice|Three times|Four times|Five + times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFood24hours_8,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFood24hours_8,"In past 24hrs, how often has your child had Fruit (fresh/canned/stewed/dried)",decimal,,1|2|3|4|5|6,Nil|Once|Twice|Three times|Four times|Five + times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtveg24hours,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtveg24hours,How many different vegetables (raw or cooked)?,decimal,,1|2|3|4|5|6,None|One|Two|Three|Four|Five+
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtFruit24hours,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtFruit24hours,"How many different fruits (fresh, caned, stewed or dried)?",decimal,,1|2|3|4|5|6,None|One|Two|Three|Four|Five+
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacks7days_1,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacks7days_1,"Over past 7 days, has child eaten Peanut butter or Nutella",decimal,,1|2|3|4|5|6|7,Nil|Once|Twice|Three times|Four times|Five times|Six+ times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacks7days_10,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacks7days_10,"Over past 7 days, has child eaten Pie, pasty or sausage roll",decimal,,1|2|3|4|5|6|7,Nil|Once|Twice|Three times|Four times|Five times|Six+ times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacks7days_11,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacks7days_11,"Over past 7 days, has child eaten Pizza",decimal,,1|2|3|4|5|6|7,Nil|Once|Twice|Three times|Four times|Five times|Six+ times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacks7days_12,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacks7days_12,"Over past 7 days, has child eaten Chips or French fries",decimal,,1|2|3|4|5|6|7,Nil|Once|Twice|Three times|Four times|Five times|Six+ times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacks7days_13,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacks7days_13,"Over past 7 days, has child eaten Hot Dog/Frankfurter/processed meats",decimal,,1|2|3|4|5|6|7,Nil|Once|Twice|Three times|Four times|Five times|Six+ times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacks7days_14,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacks7days_14,"Over past 7 days, has child eaten Takeaway food",decimal,,1|2|3|4|5|6|7,Nil|Once|Twice|Three times|Four times|Five times|Six+ times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacks7days_2,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacks7days_2,"Over past 7 days, has child eaten Pre-sugared cereals or sugar added to cereal",decimal,,1|2|3|4|5|6|7,Nil|Once|Twice|Three times|Four times|Five times|Six+ times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacks7days_3,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacks7days_3,"Over past 7 days, has child eaten Sweet biscuits/cakes/muffins/doughnuts",decimal,,1|2|3|4|5|6|7,Nil|Once|Twice|Three times|Four times|Five times|Six+ times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacks7days_4,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacks7days_4,"Over past 7 days, has child eaten Crisps or savoury biscuits",decimal,,1|2|3|4|5|6|7,Nil|Once|Twice|Three times|Four times|Five times|Six+ times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacks7days_5,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacks7days_5,"Over past 7 days, has child eaten Sweets, muesli or fruit bars",decimal,,1|2|3|4|5|6|7,Nil|Once|Twice|Three times|Four times|Five times|Six+ times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacks7days_6,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacks7days_6,"Over past 7 days, has child eaten Chocolate",decimal,,1|2|3|4|5|6|7,Nil|Once|Twice|Three times|Four times|Five times|Six+ times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacks7days_7,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacks7days_7,"Over past 7 days, has child eaten Soft drink/cordial (not diet varieties)",decimal,,1|2|3|4|5|6|7,Nil|Once|Twice|Three times|Four times|Five times|Six+ times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacks7days_8,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacks7days_8,"Over past 7 days, has child eaten Ice-cream/Ice-blocks",decimal,,1|2|3|4|5|6|7,Nil|Once|Twice|Three times|Four times|Five times|Six+ times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacks7days_9,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacks7days_9,"Over past 7 days, has child eaten Cheese and/or cheese spreads",decimal,,1|2|3|4|5|6|7,Nil|Once|Twice|Three times|Four times|Five times|Six+ times
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtvegLastWeek,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtvegLastWeek,How many days in the last week did your child have some vegetables,decimal,,1|2|3|4|5|6|7|8,None|One|Two|Three|Four|Five|Six|Every day
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtfruitLastWeek,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtfruitLastWeek,How many days in the last week did your child have some fruit,decimal,,1|2|3|4|5|6|7|8,None|One|Two|Three|Four|Five|Six|Every day
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtDinnerTable,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtDinnerTable,How many days a week do your family sit at a table to eat dinner together,decimal,,1|2|3|4|5|6|7|8,0|1|2|3|4|5|6|7
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtBreakTV,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtBreakTV,How often does your child eat breakfast in front of the TV each week,decimal,,1|2|3|4|5|6|7|8,0|1|2|3|4|5|6|7
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtLunchTV,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtLunchTV,How often does your child eat lunch in front of the TV each week,decimal,,1|2|3|4|5|6|7|8,0|1|2|3|4|5|6|7
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtdinnerTV,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtdinnerTV,How often does your child eat dinner in front of the TV each week,decimal,,1|2|3|4|5|6|7|8,0|1|2|3|4|5|6|7
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtSnacksTV,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtSnacksTV,How often does your child eat snacks in front of the TV each week,decimal,,1|2|3|4|5|6|7|8,0|1|2|3|4|5|6|7
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtDinnerAwayHome,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtDinnerAwayHome,How often does your child eat dinner away from home each week,decimal,,1|2|3|4|5|6|7|8,0|1|2|3|4|5|6|7
+BiB_GrowingUp,adult_survey_BiB1000_sample,guadtMostMeals,BiB_GrowingUp.adult_survey_BiB1000_sample.guadtMostMeals,Please tell me where are most meals eaten in your house,decimal,,1|2|3|4,At the dining table|On the sofa or couch|At the coffee table|Somewhere else
+BiB_GrowingUp,adult_survey_MeDALL_sample,Date,BiB_GrowingUp.adult_survey_MeDALL_sample.Date,Date survey completed,date,,,
+BiB_GrowingUp,adult_survey_MeDALL_sample,AgeMonths,BiB_GrowingUp.adult_survey_MeDALL_sample.AgeMonths,Age in months at survey completion,decimal,,,
+BiB_GrowingUp,adult_survey_MeDALL_sample,AgeYears,BiB_GrowingUp.adult_survey_MeDALL_sample.AgeYears,Age in years at survey completion,decimal,,,
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtWheezingInChest,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtWheezingInChest,Has your child ever had wheezing or whistling in their chest,decimal,,1|2,No|Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtWheeze12Months,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtWheeze12Months,Has your child had wheezing or whistling in the chestin the past 12 months?,decimal,,1|2,No|Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtAttacksWheezing,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtAttacksWheezing,How many attacks of wheezing has your child hadin the past 12 months?,decimal,,1|2|3|4,None|1 to 3|4 to 12|More than 12
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtSleepDisturb,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtSleepDisturb,"In past 12 mths, how often has your child's sleep been disturbed due to wheeze",decimal,,1|2|3,Never woken with wheezing|Less than one night per week|One or more nights per week
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtWheezingSpeech,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtWheezingSpeech,"In past 12 mths, has wheezing limited your child's sleep",decimal,,1|2,No|Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtEverHadAsthma,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtEverHadAsthma,Has your child ever had asthma,decimal,,1|2,No|Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtWheezyExercise,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtWheezyExercise,"In past 12 mths, has your child been wheezy after exercise",decimal,,1|2,No|Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtDryCoughAtNight,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtDryCoughAtNight,"In past 12 mths, has child had a dry cough at night without a cold",decimal,,1|2,No|Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtSneezeNotCold,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtSneezeNotCold,Has child ever had sneezing/runny or blocked nose without a cold,decimal,,1|2,No|Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtSneeze12months,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtSneeze12months,In past 12 mths has child had sneezing/runny or blocked nose without a cold,decimal,,1|2,No|Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtItchyWateryEyes,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtItchyWateryEyes,"In past 12 mths, has child had itchy/watery eyes with nose problem",decimal,,1|2,No|Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtNoseMonth_1,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtNoseMonth_1,Nose problem occurred in January,decimal,,1,Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtNoseMonth_10,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtNoseMonth_10,Nose problem occurred in October,decimal,,1,Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtNoseMonth_11,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtNoseMonth_11,Nose problem occurred in November,decimal,,1,Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtNoseMonth_12,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtNoseMonth_12,Nose problem occurred in December,decimal,,1,Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtNoseMonth_2,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtNoseMonth_2,Nose problem occurred in February,decimal,,1,Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtNoseMonth_3,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtNoseMonth_3,Nose problem occurred in March,decimal,,1,Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtNoseMonth_4,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtNoseMonth_4,Nose problem occurred in April,decimal,,1,Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtNoseMonth_5,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtNoseMonth_5,Nose problem occurred in May,decimal,,1,Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtNoseMonth_6,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtNoseMonth_6,Nose problem occurred in June,decimal,,1,Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtNoseMonth_7,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtNoseMonth_7,Nose problem occurred in July,decimal,,1,Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtNoseMonth_8,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtNoseMonth_8,Nose problem occurred in August,decimal,,1,Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtNoseMonth_9,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtNoseMonth_9,Nose problem occurred in September,decimal,,1,Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtNoseDailyActiv,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtNoseDailyActiv,In past 12 mths nose problem interfered with child's daily activities,decimal,,1|2|3|4,Not at all|A little|A moderate amount|A lot
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtHayfeverEver,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtHayfeverEver,Has your child ever had hayfever?,decimal,,1|2,No|Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtItchyRashEver,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtItchyRashEver,Has child ever had an itchy rash coming and going for >=6 mths,decimal,,1|2,No|Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtRash12Months,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtRash12Months,Has your child had this itchy rash at any time in the past 12 months?,decimal,,1|2,No|Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtItchyRashWhere,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtItchyRashWhere,Has rash been on elbows/knees/ankles/under buttocks/neck/ears/eyes,decimal,,1|2,No|Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtAgeItchyRash,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtAgeItchyRash,At what age did this itchy rash first occur?,decimal,,1|2|3,Under 2 years|Age 2-4 years|Age 5 or more
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtItchyRashClear,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtItchyRashClear,Has this rash cleared completely at any time during the past 12 months?,decimal,,1|2,No|Yes
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtRashKeptAwake,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtRashKeptAwake,In past 12 mths how often has child been kept awake by rash,decimal,,1|2|3,Never in the past 12 months|Less than one night per week|One or more nights per week
+BiB_GrowingUp,adult_survey_MeDALL_sample,guadtEczemaEver,BiB_GrowingUp.adult_survey_MeDALL_sample.guadtEczemaEver,Has your child ever had eczema?,decimal,,1|2,No|Yes
 BiB_GrowingUp,child_survey_adult_comp,Date,BiB_GrowingUp.child_survey_adult_comp.Date,Date survey completed,date,,,
 BiB_GrowingUp,child_survey_adult_comp,AgeMonths,BiB_GrowingUp.child_survey_adult_comp.AgeMonths,Age in months at survey completion,decimal,,,
 BiB_GrowingUp,child_survey_adult_comp,AgeYears,BiB_GrowingUp.child_survey_adult_comp.AgeYears,Age in years at survey completion,decimal,,,
