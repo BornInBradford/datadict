@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metnmr_mother_d/metnmr_mother_a/</guid>
       <description>Table ID: BiB_Metabolomics.metnmr_mother_a
 github | csv
-   Entity type Variables Entities Updated     Compound 3 227 2021-02-11    Compound annotations for nuclear magnetic resonance metabolomics (Nightingale) with 227 markers from mother pregnancy bloods.
+   Entity type Variables Entities Updated     Compound 3 227 2022-07-21    Compound annotations for nuclear magnetic resonance metabolomics (Nightingale) with 227 markers from mother pregnancy bloods.
    variable label value_type summary     Description NMR metabolomics compound description text 227 unique values
 227 non-missing values
 6 to 81 characters

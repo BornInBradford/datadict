@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_6m_main/bib1000_6m_b6mqb4/</guid>
       <description>Table ID: BiB_1000.bib1000_6m_b6mqb4
 github | csv
-   Entity type Variables Entities Updated     Participant 3 1336 2020-12-01    BiB 1000 6m: Parent-reported child medical diagnoses
+   Entity type Variables Entities Updated     Participant 3 1336 2022-07-22    BiB 1000 6m: Parent-reported child medical diagnoses
    variable label value_type summary     has_bib1000_6m_b6mqb4 Has bib 1000 6m parent-reported child diagnoses decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -31,7 +31,7 @@ Complete: 1361 (100.00%)
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_6m_main/bib1000_6m_b6mqe3/</guid>
       <description>Table ID: BiB_1000.bib1000_6m_b6mqe3
 github | csv
-   Entity type Variables Entities Updated     Participant 4 1336 2020-12-01    BiB 1000 6m: People living in household
+   Entity type Variables Entities Updated     Participant 4 1336 2022-07-22    BiB 1000 6m: People living in household
    variable label value_type summary     has_bib1000_6m_b6mqe3 Has bib 1000 6m people living in household decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -63,7 +63,7 @@ Complete: 1321 (100.</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_6m_main/bib1000_anthro_6m/</guid>
       <description>Table ID: BiB_1000.bib1000_anthro_6m
 github | csv
-   Entity type Variables Entities Updated     Participant 9 1299 2022-07-05    Child anthropometry from the BiB 1000 subcohort at 6m
+   Entity type Variables Entities Updated     Participant 9 1299 2022-07-20    Child anthropometry from the BiB 1000 subcohort at 6m
    variable label value_type summary     has_bib1000_anthro_6m Has bib 1000 6m anthropometry decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max

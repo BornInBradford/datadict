@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_medall/medall_skinprick/medall_skinprick_qc/</guid>
       <description>Table ID: BiB_MeDALL.medall_skinprick_qc
 github | csv
-   Entity type Variables Entities Updated     Participant 14 228 2020-12-02    MeDALL child skin prick test QC double coding results.
+   Entity type Variables Entities Updated     Participant 14 228 2022-07-20    MeDALL child skin prick test QC double coding results.
    variable label value_type summary     has_medall_skinprick_qc Has medall skin prick qc decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max

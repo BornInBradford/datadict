@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metnmr_baby_d/metnmr_baby_a/</guid>
       <description>Table ID: BiB_Metabolomics.metnmr_baby_a
 github | csv
-   Entity type Variables Entities Updated     Compound 5 85 2021-02-11    Compound annotations for nuclear magnetic resonance metabolomics (Nightingale) with 85 markers from neonatal cord bloods.
+   Entity type Variables Entities Updated     Compound 5 85 2022-07-21    Compound annotations for nuclear magnetic resonance metabolomics (Nightingale) with 85 markers from neonatal cord bloods.
    variable label value_type summary     Description NMR metabolomics compound description text 85 unique values
 85 non-missing values
 6 to 64 characters

@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/medall_qd1/</guid>
       <description>Table ID: BiB_MeDALL.medall_qd1
 github | csv
-   Entity type Variables Entities Updated     Participant 16 2594 2020-12-02    MeDALL questionnaire. Question D1: child abnormal reactions to food.
+   Entity type Variables Entities Updated     Participant 16 2594 2022-07-22    MeDALL questionnaire. Question D1: child abnormal reactions to food.
    variable label value_type summary     has_medall_qd1 Has medall questionnaire: reactions to food decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -30,7 +30,7 @@ Complete: 2604 (100.00%)</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/medall_qd5/</guid>
       <description>Table ID: BiB_MeDALL.medall_qd5
 github | csv
-   Entity type Variables Entities Updated     Participant 13 2594 2020-12-02    MeDALL questionnaire. Question D5: child abnormal reactions to medicines.
+   Entity type Variables Entities Updated     Participant 13 2594 2022-07-22    MeDALL questionnaire. Question D5: child abnormal reactions to medicines.
    variable label value_type summary     has_medall_qd5 Has medall questionnaire: reactions to medicines decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -46,7 +46,7 @@ Complete: 2598 (100.00%)</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/medall_qd8/</guid>
       <description>Table ID: BiB_MeDALL.medall_qd8
 github | csv
-   Entity type Variables Entities Updated     Participant 13 2594 2020-12-02    MeDALL questionnaire. Question D8: child abnormal reactions to vaccines.
+   Entity type Variables Entities Updated     Participant 13 2594 2022-07-22    MeDALL questionnaire. Question D8: child abnormal reactions to vaccines.
    variable label value_type summary     has_medall_qd8 Has medall questionnaire: reactions to vaccines decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max

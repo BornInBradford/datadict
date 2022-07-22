@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p1/</guid>
       <description>Table ID: BiB_Pregnancy.matrecs_bib_preg_p1
 github | csv
-   Entity type Variables Entities Updated     Participant 143 9921 2022-07-05    _p1 tables contain the same variables as their parent table but only data collected at the first pregnancy
+   Entity type Variables Entities Updated     Participant 143 9921 2022-07-22    _p1 tables contain the same variables as their parent table but only data collected at the first pregnancy
    variable label value_type summary     has_matrecs_bib_preg_p1 Has maternity records bib pregnancy decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max</description>
@@ -28,7 +28,7 @@ min &amp;lt; median &amp;lt; max</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p2/</guid>
       <description>Table ID: BiB_Pregnancy.matrecs_bib_preg_p2
 github | csv
-   Entity type Variables Entities Updated     Participant 143 992 2022-07-05    _p2 tables contain the same variables as their parent table but only data collected at the second pregnancy
+   Entity type Variables Entities Updated     Participant 143 992 2022-07-22    _p2 tables contain the same variables as their parent table but only data collected at the second pregnancy
    variable label value_type summary     has_matrecs_bib_preg_p2 Has maternity records bib pregnancy decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max</description>
@@ -42,7 +42,7 @@ min &amp;lt; median &amp;lt; max</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_preg_p3/</guid>
       <description>Table ID: BiB_Pregnancy.matrecs_bib_preg_p3
 github | csv
-   Entity type Variables Entities Updated     Participant 143 26 2022-07-05    _p3 tables contain the same variables as their parent table but only data collected at the third pregnancy
+   Entity type Variables Entities Updated     Participant 143 26 2022-07-22    _p3 tables contain the same variables as their parent table but only data collected at the third pregnancy
    variable label value_type summary     has_matrecs_bib_preg_p3 Has maternity records bib pregnancy decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max</description>
@@ -56,7 +56,7 @@ min &amp;lt; median &amp;lt; max</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_admiss/</guid>
       <description>Table ID: BiB_Pregnancy.matrecs_bib_admiss
 github | csv
-   Entity type Variables Entities Updated     Participant 17 813 2022-07-05    This source contains information about hospital admissions during the maternal period. 80 observations were dropped due to missing data or data entry errors.
+   Entity type Variables Entities Updated     Participant 17 813 2022-07-21    This source contains information about hospital admissions during the maternal period. 80 observations were dropped due to missing data or data entry errors.
    variable label value_type summary     BiBPregNumber  decimal mean (sd)
 1.10 (0.32)
 min &amp;lt; median &amp;lt; max</description>
@@ -70,7 +70,7 @@ min &amp;lt; median &amp;lt; max</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_pregbp/</guid>
       <description>Table ID: BiB_Pregnancy.matrecs_bib_pregbp
 github | csv
-   Entity type Variables Entities Updated     Participant 8 10005 2022-07-05    This source contains information about blood pressure during the BiB pregnancy. 940 observations were dropped due to data entry errors.
+   Entity type Variables Entities Updated     Participant 8 10005 2022-07-20    This source contains information about blood pressure during the BiB pregnancy. 940 observations were dropped due to data entry errors.
    variable label value_type summary     BiBPregNumber Cohort recruited pregnancy number decimal mean (sd)
 1.09 (0.29)
 min &amp;lt; median &amp;lt; max</description>
@@ -84,7 +84,7 @@ min &amp;lt; median &amp;lt; max</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_labbp/</guid>
       <description>Table ID: BiB_Pregnancy.matrecs_bib_labbp
 github | csv
-   Entity type Variables Entities Updated     Participant 8 7995 2022-07-05    This source contains information about blood pressure during labour for the BiB pregnancy. 1913 observations were dropped due to data entry errors.
+   Entity type Variables Entities Updated     Participant 8 7995 2022-07-20    This source contains information about blood pressure during labour for the BiB pregnancy. 1913 observations were dropped due to data entry errors.
    variable label value_type summary     BiBPregNumber  decimal mean (sd)
 1.08 (0.28)
 min &amp;lt; median &amp;lt; max</description>
@@ -98,7 +98,7 @@ min &amp;lt; median &amp;lt; max</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_postbp/</guid>
       <description>Table ID: BiB_Pregnancy.matrecs_bib_postbp
 github | csv
-   Entity type Variables Entities Updated     Participant 7 9292 2020-11-18    This source contains information about blood pressure taken postpartum for the BiB pregnancy. 907 observations were dropped due to data entry errors.
+   Entity type Variables Entities Updated     Participant 7 9292 2022-07-20    This source contains information about blood pressure taken postpartum for the BiB pregnancy. 907 observations were dropped due to data entry errors.
    variable label value_type summary     BiBPregNumber Cohort recruited pregnancy number decimal mean (sd)
 1.08 (0.28)
 min &amp;lt; median &amp;lt; max</description>
@@ -112,7 +112,7 @@ min &amp;lt; median &amp;lt; max</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_meds/</guid>
       <description>Table ID: BiB_Pregnancy.matrecs_bib_meds
 github | csv
-   Entity type Variables Entities Updated     Participant 6 3664 2020-11-18    This source contains information about medications taken during the BiB pregnancy.
+   Entity type Variables Entities Updated     Participant 6 3664 2022-07-21    This source contains information about medications taken during the BiB pregnancy.
    variable label value_type summary     BiBPregNumber Cohort recruited pregnancy number decimal mean (sd)
 1.09 (0.29)
 min &amp;lt; median &amp;lt; max
@@ -142,7 +142,7 @@ min &amp;lt; median &amp;lt; max</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_proteinuria/</guid>
       <description>Table ID: BiB_Pregnancy.matrecs_bib_proteinuria
 github | csv
-   Entity type Variables Entities Updated     Participant 7 6918 2022-07-05    This source contains information about proteinuria observations during the BiB pregnancy.
+   Entity type Variables Entities Updated     Participant 7 6918 2022-07-22    This source contains information about proteinuria observations during the BiB pregnancy.
    variable label value_type summary     BiBPregNumber Cohort recruited pregnancy number decimal mean (sd)
 1.10 (0.31)
 min &amp;lt; median &amp;lt; max

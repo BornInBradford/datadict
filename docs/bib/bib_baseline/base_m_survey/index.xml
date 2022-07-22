@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p1/</guid>
       <description>Table ID: BiB_Baseline.base_m_survey_p1
 github | csv
-   Entity type Variables Entities Updated     Participant 340 10376 2022-07-05    _p1 tables contain the same variables as their parent table but only data collected at the first pregnancy
+   Entity type Variables Entities Updated     Participant 340 10376 2022-07-22    _p1 tables contain the same variables as their parent table but only data collected at the first pregnancy
    variable label value_type summary     has_base_m_survey_p1 Has mother baseline survey decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -29,7 +29,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p2/</guid>
       <description>Table ID: BiB_Baseline.base_m_survey_p2
 github | csv
-   Entity type Variables Entities Updated     Participant 340 993 2022-07-05    _p2 tables contain the same variables as their parent table but only data collected at the second pregnancy
+   Entity type Variables Entities Updated     Participant 340 993 2022-07-22    _p2 tables contain the same variables as their parent table but only data collected at the second pregnancy
    variable label value_type summary     has_base_m_survey_p2 Has mother baseline survey decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -44,7 +44,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p3/</guid>
       <description>Table ID: BiB_Baseline.base_m_survey_p3
 github | csv
-   Entity type Variables Entities Updated     Participant 340 26 2022-07-05    _p3 tables contain the same variables as their parent table but only data collected at the third pregnancy
+   Entity type Variables Entities Updated     Participant 340 26 2022-07-22    _p3 tables contain the same variables as their parent table but only data collected at the third pregnancy
    variable label value_type summary     has_base_m_survey_p3 Has mother baseline survey decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -59,7 +59,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_wide/</guid>
       <description>Table ID: BiB_Baseline.base_m_survey_wide
 github | csv
-   Entity type Variables Entities Updated     Participant 1020 10519 2022-07-05    _wide tables contain the same data as their parent table, but introduce separate variable names for variables recorded at successive waves, e.g. pregnancies
+   Entity type Variables Entities Updated     Participant 1020 10519 2022-07-22    _wide tables contain the same data as their parent table, but introduce separate variable names for variables recorded at successive waves, e.g. pregnancies
    variable label value_type summary     has_base_m_survey_p1 Has maternal baseline survey decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max</description>

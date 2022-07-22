@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ef_task_ps/ef_task_ps_bib/</guid>
       <description>Table ID: BiB_PrimarySchoolYears.ef_task_ps_bib
 github | csv
-   Entity type Variables Entities Updated     Participant 19 5985 2022-07-05    Copy of ef_task_ps, only containing BiB records
+   Entity type Variables Entities Updated     Participant 19 5985 2022-07-22    Copy of ef_task_ps, only containing BiB records
    variable label value_type summary     BiBPersonID  text 5985 unique values
 5985 non-missing values
 8 characters
