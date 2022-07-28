@@ -1,7 +1,0 @@
-variable,full_name,label,value_type,description,categories,categories_label
-child_age_m,BiB_Geographic.house_nbhd.child_age_m,Childs actual age (months),decimal,,,
-IMD_2010_decile,BiB_Geographic.house_nbhd.IMD_2010_decile,IMD 2010 decile,decimal,,,
-IMD_2010_score,BiB_Geographic.house_nbhd.IMD_2010_score,IMD 2010 score,decimal,,,
-IMD_2019_decile,BiB_Geographic.house_nbhd.IMD_2019_decile,IMD 2019 decile,decimal,,,
-IMD_2019_score,BiB_Geographic.house_nbhd.IMD_2019_score,IMD 2019 score,decimal,,,
-property_type,BiB_Geographic.house_nbhd.property_type,Property type,decimal,,1|2|3|4|5,Terraced|Semi-Detached|Self Contained Flat (Includes Maisonette / Apartment)|Detached|Other

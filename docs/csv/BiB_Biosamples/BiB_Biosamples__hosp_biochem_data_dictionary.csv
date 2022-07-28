@@ -1,0 +1,16 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_cord_bloods,BiB_Biosamples.hosp_biochem.has_cord_bloods,Has baby cord blood biomarkers,decimal,,,
+cbldadiponectin,BiB_Biosamples.hosp_biochem.cbldadiponectin,Cord blood adiponectin,decimal,,,
+cbldbatch,BiB_Biosamples.hosp_biochem.cbldbatch,Cord blood batch,decimal,,1|2,Cord bloods batch 1: 2012|Cord bloods batch 2: 2017
+cbldchol,BiB_Biosamples.hosp_biochem.cbldchol,Cord blood Cholesterol,decimal,,,
+cbldcrp,BiB_Biosamples.hosp_biochem.cbldcrp,Cord blood CRP,decimal,,,
+cbldcrp_miss,BiB_Biosamples.hosp_biochem.cbldcrp_miss,Cord blood CRP missing reason,decimal,,1|2|3,CRP: value <0.20 mg/L|CRP: value <0.24 mg/L|CRP: insufficient sample
+cbldhdl,BiB_Biosamples.hosp_biochem.cbldhdl,Cord blood HDL,decimal,,,
+cbldinsulin,BiB_Biosamples.hosp_biochem.cbldinsulin,Insulin,decimal,,,
+cbldinsulin_miss,BiB_Biosamples.hosp_biochem.cbldinsulin_miss,Cord blood insulin missing reason,decimal,,1|2|3,Insulin: value <0.1 mU/L|Insulin: value >25 mU/L|Insulin: insufficient sample
+cbldldl,BiB_Biosamples.hosp_biochem.cbldldl,Cord blood LDL,decimal,,,
+cbldleptin,BiB_Biosamples.hosp_biochem.cbldleptin,Cord blood leptin,decimal,,,
+cbldleptin_miss,BiB_Biosamples.hosp_biochem.cbldleptin_miss,Cord blood leptin missing reason,decimal,,1,Sample haemolysed
+cbldtrig,BiB_Biosamples.hosp_biochem.cbldtrig,Triglyceride,decimal,,,
+cbldvldl,BiB_Biosamples.hosp_biochem.cbldvldl,Cord blood VLDL,decimal,,,
+has_crdbld,BiB_Biosamples.hosp_biochem.has_crdbld,Has baby cord bloods data,decimal,,1,has

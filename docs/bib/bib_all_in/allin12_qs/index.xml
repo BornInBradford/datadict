@@ -29,7 +29,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_all_in/allin12_qs/allin12_ct/</guid>
       <description>Table ID: BiB_ALL_IN.allin12_ct
 github | csv
-   Entity type Variables Entities Updated     Participant 6 2553 2022-07-22    ALL IN 12 month questionnaire - children&amp;rsquo;s travel - long format section
+   Entity type Variables Entities Updated     Participant 6 2553 2022-07-27    ALL IN 12 month questionnaire - children&amp;rsquo;s travel - long format section
    variable label value_type summary     has_allin12_ct Has all in 12m child travel decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -59,7 +59,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_all_in/allin12_qs/allin12_ei/</guid>
       <description>Table ID: BiB_ALL_IN.allin12_ei
 github | csv
-   Entity type Variables Entities Updated     Participant 5 2553 2022-07-22    ALL IN 12 month questionnaire - extra immunisations - long format section
+   Entity type Variables Entities Updated     Participant 5 2553 2022-07-26    ALL IN 12 month questionnaire - extra immunisations - long format section
    variable label value_type summary     has_allin12_ei Has all in 12m extra immunisations decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -74,7 +74,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_all_in/allin12_qs/allin12_hh/</guid>
       <description>Table ID: BiB_ALL_IN.allin12_hh
 github | csv
-   Entity type Variables Entities Updated     Participant 9 2553 2022-07-22    ALL IN 12 month questionnaire - household - long format section
+   Entity type Variables Entities Updated     Participant 9 2553 2022-07-28    ALL IN 12 month questionnaire - household - long format section
    variable label value_type summary     has_allin12_hh Has all in 12m household decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max

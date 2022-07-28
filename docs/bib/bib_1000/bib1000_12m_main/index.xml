@@ -95,7 +95,7 @@ Complete: 1315 (100.00%)
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f14/</guid>
       <description>Table ID: BiB_1000.bib1000_12m_b12f14
 github | csv
-   Entity type Variables Entities Updated     Participant 7 1313 2022-07-22    BiB 1000 12m: Breakfast meals
+   Entity type Variables Entities Updated     Participant 7 1313 2022-07-27    BiB 1000 12m: Breakfast meals
    variable label value_type summary     has_bib1000_12m_b12f14 Has bib 1000 12m breakfast meals decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max

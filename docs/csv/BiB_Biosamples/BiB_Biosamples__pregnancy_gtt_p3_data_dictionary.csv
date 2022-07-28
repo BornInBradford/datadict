@@ -1,0 +1,8 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_pregnancy_gtt_p3,BiB_Biosamples.pregnancy_gtt_p3.has_pregnancy_gtt_p3,Has maternal baseline gtt,decimal,,,
+agemm_mbagtt_p3,BiB_Biosamples.pregnancy_gtt_p3.agemm_mbagtt_p3,Mother age (months): Maternal Baseline GTT,decimal,,,
+agemy_mbagtt_p3,BiB_Biosamples.pregnancy_gtt_p3.agemy_mbagtt_p3,Mother age (years): Maternal Baseline GTT,decimal,,,
+gttfastglu_p3,BiB_Biosamples.pregnancy_gtt_p3.gttfastglu_p3,Fasting glucose,decimal,,,
+gttgestwks_p3,BiB_Biosamples.pregnancy_gtt_p3.gttgestwks_p3,Gestationl age at GTT (completed weeks),decimal,,,
+gttpostglu_p3,BiB_Biosamples.pregnancy_gtt_p3.gttpostglu_p3,2-hour postload glucose,decimal,,,
+has_mbagtt_p3,BiB_Biosamples.pregnancy_gtt_p3.has_mbagtt_p3,Has maternal GTT data,decimal,,1,has

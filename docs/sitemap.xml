@@ -8,11 +8,11 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_biobank/current_samples/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/ch_core_geog/</loc>
-  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/participant_pathway/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_person/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/</loc>
   </url><url>
@@ -44,7 +44,7 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_congenital_anomalies/conganom_yhcar/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_bloods/hosp_biochem/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/hosp_biochem/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_baby/</loc>
   </url><url>
@@ -52,13 +52,13 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p1/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_bloods/hosp_haem/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/hosp_haem/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p2/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/eclipse_preg/eclipse_preg_p2/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_bloods/hosp_hba1c/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/hosp_hba1c/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_p3/</loc>
   </url><url>
@@ -66,45 +66,45 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/base_m_survey_wide/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_bloods/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/pregnancy_bloods/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m2_foodfrequency/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_bloods/pregnancy_bloods_vitd/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/pregnancy_bloods/pregnancy_bloods_vitd/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/child_info/child_info_bib/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_gtt/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/pregnancy_gtt/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m1_consumptionoffats/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_gtt/pregnancy_gtt_p1/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/pregnancy_gtt/pregnancy_gtt_p1/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m12_cookingmethods/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m1_exercise/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_gtt/pregnancy_gtt_p2/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/pregnancy_gtt/pregnancy_gtt_p2/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_exercise/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m1_foodfrequency/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_bloods/pregnancy_gtt/pregnancy_gtt_p3/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/pregnancy_gtt/pregnancy_gtt_p3/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_bloods/cord_bloods/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/cord_bloods/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/house_nbhd/</loc>
-  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/adult_survey/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_bloods/blood_tests/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/blood_tests/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_bloods/renal_blood_tests/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/renal_blood_tests/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_bloods/renal_cystatinc/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/renal_cystatinc/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/ad_core_geog/</loc>
   </url><url>
@@ -147,6 +147,8 @@
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_mum/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/child_survey_adult_comp/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_lsoa/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/</loc>
   </url><url>
@@ -206,7 +208,7 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_f_survey/base_f_survey_p1/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_bloods/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_f_survey/base_f_survey_p2/</loc>
   </url><url>
