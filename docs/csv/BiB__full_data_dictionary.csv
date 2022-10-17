@@ -3936,6 +3936,30 @@ BiB_Biosamples,pregnancy_gtt,gttfastglu,BiB_Biosamples.pregnancy_gtt.gttfastglu,
 BiB_Biosamples,pregnancy_gtt,gttgestwks,BiB_Biosamples.pregnancy_gtt.gttgestwks,Gestationl age at GTT (completed weeks),decimal,,,
 BiB_Biosamples,pregnancy_gtt,gttpostglu,BiB_Biosamples.pregnancy_gtt.gttpostglu,2-hour postload glucose,decimal,,,
 BiB_Biosamples,pregnancy_gtt,has_mbagtt,BiB_Biosamples.pregnancy_gtt.has_mbagtt,Has maternal GTT data,decimal,,1,has
+BiB_Biosamples,cord_bloods,has_cord_bloods,BiB_Biosamples.cord_bloods.has_cord_bloods,Has baby cord blood biomarkers,decimal,,,
+BiB_Biosamples,cord_bloods,cbldadiponectin,BiB_Biosamples.cord_bloods.cbldadiponectin,Cord blood adiponectin,decimal,,,
+BiB_Biosamples,cord_bloods,cbldbatch,BiB_Biosamples.cord_bloods.cbldbatch,Cord blood batch,decimal,,1|2,Cord bloods batch 1: 2012|Cord bloods batch 2: 2017
+BiB_Biosamples,cord_bloods,cbldchol,BiB_Biosamples.cord_bloods.cbldchol,Cord blood Cholesterol,decimal,,,
+BiB_Biosamples,cord_bloods,cbldcrp,BiB_Biosamples.cord_bloods.cbldcrp,Cord blood CRP,decimal,,,
+BiB_Biosamples,cord_bloods,cbldcrp_miss,BiB_Biosamples.cord_bloods.cbldcrp_miss,Cord blood CRP missing reason,decimal,,1|2|3,CRP: value <0.20 mg/L|CRP: value <0.24 mg/L|CRP: insufficient sample
+BiB_Biosamples,cord_bloods,cbldhdl,BiB_Biosamples.cord_bloods.cbldhdl,Cord blood HDL,decimal,,,
+BiB_Biosamples,cord_bloods,cbldinsulin,BiB_Biosamples.cord_bloods.cbldinsulin,Insulin,decimal,,,
+BiB_Biosamples,cord_bloods,cbldinsulin_miss,BiB_Biosamples.cord_bloods.cbldinsulin_miss,Cord blood insulin missing reason,decimal,,1|2|3,Insulin: value <0.1 mU/L|Insulin: value >25 mU/L|Insulin: insufficient sample
+BiB_Biosamples,cord_bloods,cbldldl,BiB_Biosamples.cord_bloods.cbldldl,Cord blood LDL,decimal,,,
+BiB_Biosamples,cord_bloods,cbldleptin,BiB_Biosamples.cord_bloods.cbldleptin,Cord blood leptin,decimal,,,
+BiB_Biosamples,cord_bloods,cbldleptin_miss,BiB_Biosamples.cord_bloods.cbldleptin_miss,Cord blood leptin missing reason,decimal,,1,Sample haemolysed
+BiB_Biosamples,cord_bloods,cbldtrig,BiB_Biosamples.cord_bloods.cbldtrig,Triglyceride,decimal,,,
+BiB_Biosamples,cord_bloods,cbldvldl,BiB_Biosamples.cord_bloods.cbldvldl,Cord blood VLDL,decimal,,,
+BiB_Biosamples,cord_bloods,has_crdbld,BiB_Biosamples.cord_bloods.has_crdbld,Has baby cord bloods data,decimal,,1,has
+BiB_Biosamples,renal_blood_tests,TestDate,BiB_Biosamples.renal_blood_tests.TestDate,Date sample was taken,date,,,
+BiB_Biosamples,renal_blood_tests,TotalTests,BiB_Biosamples.renal_blood_tests.TotalTests,Total blood test occasions within GU renal study,decimal,,,
+BiB_Biosamples,renal_blood_tests,TestDateOrder,BiB_Biosamples.renal_blood_tests.TestDateOrder,Date order of test occasions within GU renal study,decimal,,,
+BiB_Biosamples,renal_blood_tests,AgeInYears,BiB_Biosamples.renal_blood_tests.AgeInYears,"Age at GU renal blood test, years",decimal,,,
+BiB_Biosamples,renal_blood_tests,AgeInMonths,BiB_Biosamples.renal_blood_tests.AgeInMonths,"Age at GU renal blood test, months",decimal,,,
+BiB_Biosamples,renal_blood_tests,sodium,BiB_Biosamples.renal_blood_tests.sodium,Sodium (mmol/L),decimal,,,
+BiB_Biosamples,renal_blood_tests,potassium,BiB_Biosamples.renal_blood_tests.potassium,Potassium (mmol/L),decimal,,,
+BiB_Biosamples,renal_blood_tests,urea,BiB_Biosamples.renal_blood_tests.urea,Urea (mmol/L),decimal,,,
+BiB_Biosamples,renal_blood_tests,creatinine,BiB_Biosamples.renal_blood_tests.creatinine,Creatinine (umol/L),decimal,,,
 BiB_Biosamples,blood_tests,TestDate,BiB_Biosamples.blood_tests.TestDate,Date sample was taken,date,,,
 BiB_Biosamples,blood_tests,TotalTests,BiB_Biosamples.blood_tests.TotalTests,Total blood test occasions within GU,decimal,,,
 BiB_Biosamples,blood_tests,TestDateOrder,BiB_Biosamples.blood_tests.TestDateOrder,Date order of test occasions within GU,decimal,,,
@@ -3954,33 +3978,6 @@ BiB_Biosamples,blood_tests,cholhdl_ratio,BiB_Biosamples.blood_tests.cholhdl_rati
 BiB_Biosamples,blood_tests,nonhdlchol,BiB_Biosamples.blood_tests.nonhdlchol,Non HDL Cholesterol,decimal,,,
 BiB_Biosamples,covid_antibody_blood_tests,covidtestdate,BiB_Biosamples.covid_antibody_blood_tests.covidtestdate,Date of covid test,date,,,
 BiB_Biosamples,covid_antibody_blood_tests,ABresult,BiB_Biosamples.covid_antibody_blood_tests.ABresult,Covid anitbody test result,decimal,,1|2|3,Detected|Equivocal|Not Detected
-BiB_Biosamples,renal_blood_tests,TestDate,BiB_Biosamples.renal_blood_tests.TestDate,Date sample was taken,date,,,
-BiB_Biosamples,renal_blood_tests,TotalTests,BiB_Biosamples.renal_blood_tests.TotalTests,Total blood test occasions within GU renal study,decimal,,,
-BiB_Biosamples,renal_blood_tests,TestDateOrder,BiB_Biosamples.renal_blood_tests.TestDateOrder,Date order of test occasions within GU renal study,decimal,,,
-BiB_Biosamples,renal_blood_tests,AgeInYears,BiB_Biosamples.renal_blood_tests.AgeInYears,"Age at GU renal blood test, years",decimal,,,
-BiB_Biosamples,renal_blood_tests,AgeInMonths,BiB_Biosamples.renal_blood_tests.AgeInMonths,"Age at GU renal blood test, months",decimal,,,
-BiB_Biosamples,renal_blood_tests,sodium,BiB_Biosamples.renal_blood_tests.sodium,Sodium (mmol/L),decimal,,,
-BiB_Biosamples,renal_blood_tests,potassium,BiB_Biosamples.renal_blood_tests.potassium,Potassium (mmol/L),decimal,,,
-BiB_Biosamples,renal_blood_tests,urea,BiB_Biosamples.renal_blood_tests.urea,Urea (mmol/L),decimal,,,
-BiB_Biosamples,renal_blood_tests,creatinine,BiB_Biosamples.renal_blood_tests.creatinine,Creatinine (umol/L),decimal,,,
-BiB_Biosamples,renal_cystatinc,age_in_months,BiB_Biosamples.renal_cystatinc.age_in_months,GU renal: age at serum sample (months),decimal,,,
-BiB_Biosamples,renal_cystatinc,age_in_years,BiB_Biosamples.renal_cystatinc.age_in_years,GU renal: age at serum sample (years),decimal,,,
-BiB_Biosamples,renal_cystatinc,cystatinc,BiB_Biosamples.renal_cystatinc.cystatinc,Cystatic C from serum,decimal,,,
-BiB_Biosamples,cord_bloods,has_cord_bloods,BiB_Biosamples.cord_bloods.has_cord_bloods,Has baby cord blood biomarkers,decimal,,,
-BiB_Biosamples,cord_bloods,cbldadiponectin,BiB_Biosamples.cord_bloods.cbldadiponectin,Cord blood adiponectin,decimal,,,
-BiB_Biosamples,cord_bloods,cbldbatch,BiB_Biosamples.cord_bloods.cbldbatch,Cord blood batch,decimal,,1|2,Cord bloods batch 1: 2012|Cord bloods batch 2: 2017
-BiB_Biosamples,cord_bloods,cbldchol,BiB_Biosamples.cord_bloods.cbldchol,Cord blood Cholesterol,decimal,,,
-BiB_Biosamples,cord_bloods,cbldcrp,BiB_Biosamples.cord_bloods.cbldcrp,Cord blood CRP,decimal,,,
-BiB_Biosamples,cord_bloods,cbldcrp_miss,BiB_Biosamples.cord_bloods.cbldcrp_miss,Cord blood CRP missing reason,decimal,,1|2|3,CRP: value <0.20 mg/L|CRP: value <0.24 mg/L|CRP: insufficient sample
-BiB_Biosamples,cord_bloods,cbldhdl,BiB_Biosamples.cord_bloods.cbldhdl,Cord blood HDL,decimal,,,
-BiB_Biosamples,cord_bloods,cbldinsulin,BiB_Biosamples.cord_bloods.cbldinsulin,Insulin,decimal,,,
-BiB_Biosamples,cord_bloods,cbldinsulin_miss,BiB_Biosamples.cord_bloods.cbldinsulin_miss,Cord blood insulin missing reason,decimal,,1|2|3,Insulin: value <0.1 mU/L|Insulin: value >25 mU/L|Insulin: insufficient sample
-BiB_Biosamples,cord_bloods,cbldldl,BiB_Biosamples.cord_bloods.cbldldl,Cord blood LDL,decimal,,,
-BiB_Biosamples,cord_bloods,cbldleptin,BiB_Biosamples.cord_bloods.cbldleptin,Cord blood leptin,decimal,,,
-BiB_Biosamples,cord_bloods,cbldleptin_miss,BiB_Biosamples.cord_bloods.cbldleptin_miss,Cord blood leptin missing reason,decimal,,1,Sample haemolysed
-BiB_Biosamples,cord_bloods,cbldtrig,BiB_Biosamples.cord_bloods.cbldtrig,Triglyceride,decimal,,,
-BiB_Biosamples,cord_bloods,cbldvldl,BiB_Biosamples.cord_bloods.cbldvldl,Cord blood VLDL,decimal,,,
-BiB_Biosamples,cord_bloods,has_crdbld,BiB_Biosamples.cord_bloods.has_crdbld,Has baby cord bloods data,decimal,,1,has
 BiB_Biosamples,maternal_iodine,BiBPregNumber,BiB_Biosamples.maternal_iodine.BiBPregNumber,Pregnancy number within BiB,decimal,,,
 BiB_Biosamples,maternal_iodine,AliquotID,BiB_Biosamples.maternal_iodine.AliquotID,Aliquot ID,decimal,,,
 BiB_Biosamples,maternal_iodine,ShippingDate,BiB_Biosamples.maternal_iodine.ShippingDate,Shipping date for iodine analysis,date,,,
@@ -3993,6 +3990,9 @@ BiB_Biosamples,maternal_iodine,CreatinineAnalysisDate,BiB_Biosamples.maternal_io
 BiB_Biosamples,maternal_iodine,CreRunNumber,BiB_Biosamples.maternal_iodine.CreRunNumber,Run number for creatinine analysis,text,,,
 BiB_Biosamples,maternal_iodine,CreatinineConcentration,BiB_Biosamples.maternal_iodine.CreatinineConcentration,Creatinine Concentration (g/L),decimal,,,
 BiB_Biosamples,maternal_iodine,ICrRatio,BiB_Biosamples.maternal_iodine.ICrRatio,Iodine:Creatinine Ratio (µg/g),decimal,,,
+BiB_Biosamples,renal_cystatinc,age_in_months,BiB_Biosamples.renal_cystatinc.age_in_months,GU renal: age at serum sample (months),decimal,,,
+BiB_Biosamples,renal_cystatinc,age_in_years,BiB_Biosamples.renal_cystatinc.age_in_years,GU renal: age at serum sample (years),decimal,,,
+BiB_Biosamples,renal_cystatinc,cystatinc,BiB_Biosamples.renal_cystatinc.cystatinc,Cystatic C from serum,decimal,,,
 BiB_Breathes,air_qual_survey,GrowingUpID,BiB_Breathes.air_qual_survey.GrowingUpID,Growing Up participant identifier,text,,,
 BiB_Breathes,air_qual_survey,BiBPersonID,BiB_Breathes.air_qual_survey.BiBPersonID,BiB participant identifier,text,,,
 BiB_Breathes,air_qual_survey,ParticipantType,BiB_Breathes.air_qual_survey.ParticipantType,Participant type,decimal,,1|2,General public|Growing Up
