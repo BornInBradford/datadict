@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/dnam_info/dnam_controls/</guid>
       <description>Table ID: BiB_CohortInfo.dnam_controls
 github | csv
-   Entity type Variables Entities Updated     lab_id 1 25 2021-02-05    BiB DNA methylation control sample IDs
+   Entity type Variables Entities Updated     lab_id 1 25 2022-09-29    BiB DNA methylation control sample IDs
    variable label value_type summary     ParticipantType BiB Participant Type vs Control decimal 1 : Child
 2 : Mother
 3 : Control

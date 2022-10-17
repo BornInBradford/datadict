@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/sdq_data/sdq_data_bib/</guid>
       <description>Table ID: BiB_PrimarySchoolYears.sdq_data_bib
 github | csv
-   Entity type Variables Entities Updated     Participant 59 1073 2022-07-22    Copy of sdq_data, only containing BiB records
+   Entity type Variables Entities Updated     Participant 59 1073 2022-10-01    Copy of sdq_data, only containing BiB records
    variable label value_type summary     BiBPersonID  text 1073 unique values
 1107 non-missing values
 8 characters

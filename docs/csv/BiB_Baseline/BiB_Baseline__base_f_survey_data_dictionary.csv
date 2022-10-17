@@ -10,8 +10,6 @@ fbqalcoholamt,BiB_Baseline.base_f_survey.fbqalcoholamt,Weekly average no. of uni
 fbqbiosample,BiB_Baseline.base_f_survey.fbqbiosample,Was a biological sample taken,decimal,,1|2,Yes|No
 fbqcountrybirth,BiB_Baseline.base_f_survey.fbqcountrybirth,Country born,decimal,,1|2|3,United Kingdom|Pakistan|Other
 fbqcountrybirthother,BiB_Baseline.base_f_survey.fbqcountrybirthother,Country of birth if other,text,,,
-fbqethnicgrp,BiB_Baseline.base_f_survey.fbqethnicgrp,Ethnic group,decimal,,1|2|3|4|5|6,White|Mixed|Black/Black British|Asian/Asian British|Chinese|Other
-fbqethnicgrpother,BiB_Baseline.base_f_survey.fbqethnicgrpother,Ethnic group if other,text,,,
 fbqheight,BiB_Baseline.base_f_survey.fbqheight,Father's height (cm),decimal,,,
 fbqjobtitle,BiB_Baseline.base_f_survey.fbqjobtitle,Job title,text,,,
 fbqobstime,BiB_Baseline.base_f_survey.fbqobstime,How did date of completion relate to point of mother's pregnancy?,decimal,,1|2|3|4|5|6,Scan 1 - dating scan|Scan 2 - 20 wk scan|GTT|Delivery|Post natal ward|Other

@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_36m_main/bib1000_36m_b36j17/</guid>
       <description>Table ID: BiB_1000.bib1000_36m_b36j17
 github | csv
-   Entity type Variables Entities Updated     Participant 5 1232 2022-07-22    BiB 1000 36m: Other foods consumed by child
+   Entity type Variables Entities Updated     Participant 5 1232 2022-09-28    BiB 1000 36m: Other foods consumed by child
    variable label value_type summary     has_bib1000_36m_b36j17 Has bib 1000 36m other foods consumed by child decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -30,7 +30,7 @@ Complete: 1232 (100.</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_36m_main/bib1000_36m_b3j19a/</guid>
       <description>Table ID: BiB_1000.bib1000_36m_b3j19a
 github | csv
-   Entity type Variables Entities Updated     Participant 6 1232 2022-07-22    BiB 1000 36m: Vitamins or multivitamins
+   Entity type Variables Entities Updated     Participant 6 1232 2022-09-28    BiB 1000 36m: Vitamins or multivitamins
    variable label value_type summary     has_bib1000_36m_b3j19a Has bib 1000 36m vitamins or multivitamins decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -47,7 +47,7 @@ Complete: 1232 (100.00%)
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_36m_main/bib1000_36m_b3j19b/</guid>
       <description>Table ID: BiB_1000.bib1000_36m_b3j19b
 github | csv
-   Entity type Variables Entities Updated     Participant 6 1232 2022-07-22    BiB 1000 36m: Cod liver oil or other oil
+   Entity type Variables Entities Updated     Participant 6 1232 2022-09-28    BiB 1000 36m: Cod liver oil or other oil
    variable label value_type summary     has_bib1000_36m_b3j19b Has bib 1000 36m cod liver oil or other oil decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -62,7 +62,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_36m_main/bib1000_36m_b3j19c/</guid>
       <description>Table ID: BiB_1000.bib1000_36m_b3j19c
 github | csv
-   Entity type Variables Entities Updated     Participant 5 1232 2022-07-22    BiB 1000 36m: Other supplements
+   Entity type Variables Entities Updated     Participant 5 1232 2022-09-28    BiB 1000 36m: Other supplements
    variable label value_type summary     has_bib1000_36m_b3j19c Has bib 1000 36m other supplements decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
@@ -79,45 +79,12 @@ Complete: 1232 (100.00%)
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_36m_main/bib1000_36m_b36qi9/</guid>
       <description>Table ID: BiB_1000.bib1000_36m_b36qi9
 github | csv
-   Entity type Variables Entities Updated     Participant 4 1232 2022-07-22    BiB 1000 36m: Physical activity clubs attended by child
+   Entity type Variables Entities Updated     Participant 4 1232 2022-09-28    BiB 1000 36m: Physical activity clubs attended by child
    variable label value_type summary     has_bib1000_36m_b36qi9 Has bib 1000 36m physical activity clubs (child) decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
 Complete: 1238 (100.</description>
-    </item>
-    
-    <item>
-      <title>BiB 1000 36m Growth</title>
-      <link>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_36m_main/bib1000_growth_36m/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_36m_main/bib1000_growth_36m/</guid>
-      <description>Table ID: BiB_1000.bib1000_growth_36m
-github | csv
-   Entity type Variables Entities Updated     Participant 13 1153 2022-07-05    Height and weight measures from the BiB 1000 subcohort at 36m
-   variable label value_type summary     has_bib1000_growth_36m Has bib 1000 36m growth decimal mean (sd)
-1.00 (0.00)
-min &amp;lt; median &amp;lt; max
-1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1153 (100.</description>
-    </item>
-    
-    <item>
-      <title>BiB 1000 36m anthropometry</title>
-      <link>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_36m_main/bib1000_anthro_36m/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_36m_main/bib1000_anthro_36m/</guid>
-      <description>Table ID: BiB_1000.bib1000_anthro_36m
-github | csv
-   Entity type Variables Entities Updated     Participant 9 998 2022-07-20    Child anthropometry from the BiB 1000 subcohort at 36m
-   variable label value_type summary     has_bib1000_anthro_36m Has bib 1000 36m anthropometry decimal mean (sd)
-1.00 (0.00)
-min &amp;lt; median &amp;lt; max
-1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 998 (100.00%)
-   agecm_chab36 Child age (months): BiB 1000 36m anthropometry decimal mean (sd)</description>
     </item>
     
   </channel>

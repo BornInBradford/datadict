@@ -245,18 +245,6 @@ guadtLangPapers,BiB_GrowingUp.adult_survey.guadtLangPapers,In what language are 
 guadtClothingOutHome,BiB_GrowingUp.adult_survey.guadtClothingOutHome,What type of clothing do you usually wear outside the home?,decimal,,1|2|3|4,Traditional South Asian clothing|Western style clothing|Western and South Asian style clothing equally|Other
 guadtSAFestivals,BiB_GrowingUp.adult_survey.guadtSAFestivals,Do you go to South Asian festivals,text,,,
 guadtFriendsBackgrou,BiB_GrowingUp.adult_survey.guadtFriendsBackgrou,What is your friendsâ€™ cultural background?,decimal,,1|2|3|4|5|6,Only South Asian|Mostly South Asian|Mostly English|Only English|South Asian and English equally|Other
-guadtEthnicGroup,BiB_GrowingUp.adult_survey.guadtEthnicGroup,To which of these groups do you consider you belong?,decimal,,1|2|3|4|5|6,White|Mixed ethnic group|Black or Black British|Asian or Asian British|Chinese|Other
-guadtWhiteCultural,BiB_GrowingUp.adult_survey.guadtWhiteCultural,What do you consider your cultural background?,decimal,,1|2|3,British|Irish|Other
-guadtWhiteCultural_other,BiB_GrowingUp.adult_survey.guadtWhiteCultural_other,What do you consider your cultural background?: Other,text,,,
-guadtMxdEthnicCultur,BiB_GrowingUp.adult_survey.guadtMxdEthnicCultur,What do you consider your cultural background?,decimal,,1|2|3|4|5|6|7|8,White and Black Caribbean|White and Black African|White and Indian|White and Pakistani|White and Bangladeshi|White and Indian Caribbean|White and African-Indian|Other
-guadtMxdEthnicCultur_other,BiB_GrowingUp.adult_survey.guadtMxdEthnicCultur_other,What do you consider your cultural background?: Other,text,,,
-guadtBlackCultural,BiB_GrowingUp.adult_survey.guadtBlackCultural,What do you consider your cultural background?,decimal,,1|2|3,Caribbean|African|Other
-guadtBlackCultural_other,BiB_GrowingUp.adult_survey.guadtBlackCultural_other,What do you consider your cultural background?: Other,text,,,
-guadtAsianCultural,BiB_GrowingUp.adult_survey.guadtAsianCultural,What do you consider your cultural background?,decimal,,1|2|3|4|5|6,Indian|Pakistani|Bangladeshi|Indian Caribbean|African- Indian|Other
-guadtAsianCultural_other,BiB_GrowingUp.adult_survey.guadtAsianCultural_other,What do you consider your cultural background?: Other,text,,,
-guadtChineseCultural,BiB_GrowingUp.adult_survey.guadtChineseCultural,What do you consider your cultural background?,decimal,,1|2|3|4|5,Chinese|Japanese|Filipino|Vietnamese|Other
-guadtChineseCultural_other,BiB_GrowingUp.adult_survey.guadtChineseCultural_other,What do you consider your cultural background?: Other,text,,,
-guadtOtherCultural,BiB_GrowingUp.adult_survey.guadtOtherCultural,What do you consider your cultural background?,text,,,
 guadtPlaceYouBorn,BiB_GrowingUp.adult_survey.guadtPlaceYouBorn,What country were you born in?,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,England|Slovakia|Bangladesh|India|Pakistan|Sri Lanka|Philippines|Don't know|Other|Northern Ireland|Scotland|Wales|Channel Islands|Isle of Man|Republic of Ireland|Czech Republic|Poland
 guadtPlaceYouBorn_other,BiB_GrowingUp.adult_survey.guadtPlaceYouBorn_other,What country were you born in?: Other,text,,,
 guadtHowOldMovedUK_1,BiB_GrowingUp.adult_survey.guadtHowOldMovedUK_1,Age when moved to UK (years),text,,,

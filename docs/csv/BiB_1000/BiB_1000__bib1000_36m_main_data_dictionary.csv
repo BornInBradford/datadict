@@ -401,39 +401,6 @@ bib36j20other,BiB_1000.bib1000_36m_main.bib36j20other,Other,decimal,,1|2|3|4,Yes
 bib36j20otherdescription,BiB_1000.bib1000_36m_main.bib36j20otherdescription,Other specified,text,,,
 bib36j20peanutfree,BiB_1000.bib1000_36m_main.bib36j20peanutfree,Peanut free,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
 bib36j20vegetarian,BiB_1000.bib1000_36m_main.bib36j20vegetarian,Vegetarian,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
-bib36k01,BiB_1000.bib1000_36m_main.bib36k01,Considerate of other's feelings,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k02,BiB_1000.bib1000_36m_main.bib36k02,Restless/overactive/cannot stay still,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k03,BiB_1000.bib1000_36m_main.bib36k03,Complains of headaches/stomach-aches/sickness,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k04,BiB_1000.bib1000_36m_main.bib36k04,Shares with other children,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k05,BiB_1000.bib1000_36m_main.bib36k05,Has temper tantrums,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k06,BiB_1000.bib1000_36m_main.bib36k06,Solitary/tends to play alone,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k07,BiB_1000.bib1000_36m_main.bib36k07,Obedient/does what adults request,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k08,BiB_1000.bib1000_36m_main.bib36k08,Worries,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k09,BiB_1000.bib1000_36m_main.bib36k09,Helpful is someone is hurt,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k10,BiB_1000.bib1000_36m_main.bib36k10,Fidgety,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k11,BiB_1000.bib1000_36m_main.bib36k11,Has at least one good friend,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k12,BiB_1000.bib1000_36m_main.bib36k12,Fights with/bullies others,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k13,BiB_1000.bib1000_36m_main.bib36k13,Unhappy/down-hearted,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k14,BiB_1000.bib1000_36m_main.bib36k14,Liked by other children,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k15,BiB_1000.bib1000_36m_main.bib36k15,Easily distracted,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k16,BiB_1000.bib1000_36m_main.bib36k16,Nervous in new situations,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k17,BiB_1000.bib1000_36m_main.bib36k17,Kind to younger children,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k18,BiB_1000.bib1000_36m_main.bib36k18,Argumentative with adults,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k19,BiB_1000.bib1000_36m_main.bib36k19,Picked on/bullied by other children,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k20,BiB_1000.bib1000_36m_main.bib36k20,Volunteers to help others,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k21,BiB_1000.bib1000_36m_main.bib36k21,Thinks things out before acting,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k22,BiB_1000.bib1000_36m_main.bib36k22,Can be spiteful,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k23,BiB_1000.bib1000_36m_main.bib36k23,Gets on better with adults than children,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k24,BiB_1000.bib1000_36m_main.bib36k24,"Many fears, easily scared",decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36k25,BiB_1000.bib1000_36m_main.bib36k25,Sees tasks through to end,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-bib36l01,BiB_1000.bib1000_36m_main.bib36l01,"Does your child have difficulties in e.g. emotion, concentration",decimal,,1|2|3|4,"No difficulties|Yes, minor difficulties|Yes, more serious difficulties|Yes, severe difficulties"
-bib36l02,BiB_1000.bib1000_36m_main.bib36l02,How long have these been present,decimal,,1|2|3|4,Less than a month|1-5 months|5-12 months|Over a year
-bib36l03,BiB_1000.bib1000_36m_main.bib36l03,Doe the difficulties upset your child,decimal,,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
-bib36l04a,BiB_1000.bib1000_36m_main.bib36l04a,Do difficulties interfere with home life,decimal,,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
-bib36l04b,BiB_1000.bib1000_36m_main.bib36l04b,Do difficulties interfere with friendships,decimal,,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
-bib36l04c,BiB_1000.bib1000_36m_main.bib36l04c,Do difficulties interfere with classroom learning,decimal,,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
-bib36l04d,BiB_1000.bib1000_36m_main.bib36l04d,Do difficulties interfere with leisure activities,decimal,,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
-bib36l05,BiB_1000.bib1000_36m_main.bib36l05,Do the difficulties put a burden on you/your family,decimal,,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
 bib36language,BiB_1000.bib1000_36m_main.bib36language,Language questionnaire administered in,decimal,,1|2|3|4,English|Mirpuri|Urdu|Other
 bib36m01,BiB_1000.bib1000_36m_main.bib36m01,Bananas,decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
 bib36m02,BiB_1000.bib1000_36m_main.bib36m02,Apples,decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10

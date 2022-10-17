@@ -82,11 +82,11 @@ medb06ani,BiB_MeDALL.medall_quest.medb06ani,Nose or eye trouble associated with 
 medb06apl,BiB_MeDALL.medall_quest.medb06apl,Nose or eye trouble associated with air pollutants,decimal,,1|2|3,Yes|No|Don't know
 medb06dus,BiB_MeDALL.medall_quest.medb06dus,Nose or eye trouble associated with house dust,decimal,,1|2|3,Yes|No|Don't know
 medb06grs,BiB_MeDALL.medall_quest.medb06grs,Nose or eye trouble associated with grass/trees/flowers,decimal,,1|2|3,Yes|No|Don't know
-medb06osp,BiB_MeDALL.medall_quest.medb06osp,Nose or eye trouble - Other specified ,text,,,
+medb06osp,BiB_MeDALL.medall_quest.medb06osp,Nose or eye trouble - Other specified,text,,,
 medb06oth,BiB_MeDALL.medall_quest.medb06oth,In the past 12 months nose trouble associated with other,decimal,,1|2|3,Yes|No|Don't know
 medb07,BiB_MeDALL.medall_quest.medb07,"In the past 12 months did your child take any medicines, tablets, nasal sprays o",decimal,,1|2,Yes|No
 medb07med,BiB_MeDALL.medall_quest.medb07med,If yes to medb7 medication specified,text,,,
-medb08,BiB_MeDALL.medall_quest.medb08,"Ever had a problem with sneezing, or a runny or a blocked nose ",decimal,,1|2,Yes|No
+medb08,BiB_MeDALL.medall_quest.medb08,"Ever had a problem with sneezing, or a runny or a blocked nose",decimal,,1|2,Yes|No
 medb09,BiB_MeDALL.medall_quest.medb09,Ever had hay fever,decimal,,1|2,Yes|No
 medb10,BiB_MeDALL.medall_quest.medb10,Diagnosed with allergic rhinitis,decimal,,1|2,Yes|No
 medb6tob,BiB_MeDALL.medall_quest.medb6tob,Nose or eye trouble associated with tobacco smoke,decimal,,1|2|3,Yes|No|Don't know
@@ -106,7 +106,7 @@ medc08,BiB_MeDALL.medall_quest.medc08,Ever been diagnosed with eczema/dermatitis
 medc09apr,BiB_MeDALL.medall_quest.medc09apr,Eczema occurred April,decimal,,1,Yes
 medc09aug,BiB_MeDALL.medall_quest.medc09aug,Eczema occurred August,decimal,,1,Yes
 medc09dec,BiB_MeDALL.medall_quest.medc09dec,Eczema occurred December,decimal,,1,Yes
-medc09dn,BiB_MeDALL.medall_quest.medc09dn,Don't know month eczema occurred ,decimal,,1,Yes
+medc09dn,BiB_MeDALL.medall_quest.medc09dn,Don't know month eczema occurred,decimal,,1,Yes
 medc09feb,BiB_MeDALL.medall_quest.medc09feb,Eczema occurred February,decimal,,1,Yes
 medc09jan,BiB_MeDALL.medall_quest.medc09jan,Eczema occurred January,decimal,,1,Yes
 medc09jul,BiB_MeDALL.medall_quest.medc09jul,Eczema occurred July,decimal,,1,Yes
@@ -470,39 +470,6 @@ medi15d,BiB_MeDALL.medall_quest.medi15d,How many males between 10 and 20,decimal
 medi15e,BiB_MeDALL.medall_quest.medi15e,How many females between 10 and 20,decimal,,,
 medi15f,BiB_MeDALL.medall_quest.medi15f,How many male children less than 10,decimal,,,
 medi15g,BiB_MeDALL.medall_quest.medi15g,How many female children less than 10,decimal,,,
-medj01sdq,BiB_MeDALL.medall_quest.medj01sdq,Considerate,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj02sdq,BiB_MeDALL.medall_quest.medj02sdq,Restless,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj03sdq,BiB_MeDALL.medall_quest.medj03sdq,Headaches,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj04sdq,BiB_MeDALL.medall_quest.medj04sdq,Shares,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj05sdq,BiB_MeDALL.medall_quest.medj05sdq,Temper,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj06sdq,BiB_MeDALL.medall_quest.medj06sdq,Solitary,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj07sdq,BiB_MeDALL.medall_quest.medj07sdq,Obedient,decimal,,1|2|3,Certainly true|Somewhat true|Not true
-medj08sdq,BiB_MeDALL.medall_quest.medj08sdq,Worries,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj09sdq,BiB_MeDALL.medall_quest.medj09sdq,Helpful,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj10sdq,BiB_MeDALL.medall_quest.medj10sdq,Fidgeting,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj11sdq,BiB_MeDALL.medall_quest.medj11sdq,Friend,decimal,,1|2|3,Certainly true|Somewhat true|Not true
-medj12sdq,BiB_MeDALL.medall_quest.medj12sdq,Fights,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj13sdq,BiB_MeDALL.medall_quest.medj13sdq,Unhappy,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj14sdq,BiB_MeDALL.medall_quest.medj14sdq,Liked,decimal,,1|2|3,Certainly true|Somewhat true|Not true
-medj15sdq,BiB_MeDALL.medall_quest.medj15sdq,Distracted,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj16sdq,BiB_MeDALL.medall_quest.medj16sdq,Nervous,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj17sdq,BiB_MeDALL.medall_quest.medj17sdq,Kind,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj18sdq,BiB_MeDALL.medall_quest.medj18sdq,Lies,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj19sdq,BiB_MeDALL.medall_quest.medj19sdq,Bullied,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj20sdq,BiB_MeDALL.medall_quest.medj20sdq,Volunteers,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj21sdq,BiB_MeDALL.medall_quest.medj21sdq,Thinks,decimal,,1|2|3,Certainly true|Somewhat true|Not true
-medj22sdq,BiB_MeDALL.medall_quest.medj22sdq,Steals,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj23sdq,BiB_MeDALL.medall_quest.medj23sdq,Adults,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj24sdq,BiB_MeDALL.medall_quest.medj24sdq,Fears,decimal,,1|2|3,Not true|Somewhat true|Certainly true
-medj25sdq,BiB_MeDALL.medall_quest.medj25sdq,Attention,decimal,,1|2|3,Certainly true|Somewhat true|Not true
-medj26sdq,BiB_MeDALL.medall_quest.medj26sdq,One or More,decimal,,1|2|3|4,No difficulties|Yes minor|Yes serious|Yes severe
-medj27sdq,BiB_MeDALL.medall_quest.medj27sdq,If yes time,decimal,,1|2|3|4,<1 month|1-5|5-12|>1 year
-medj28sdq,BiB_MeDALL.medall_quest.medj28sdq,Upset,decimal,,1|2|3|4,not at all|only a little|quite a lot|a great deal
-medj29asdq,BiB_MeDALL.medall_quest.medj29asdq,Home life,decimal,,1|2|3|4,not at all|only a little|quite a lot|a great deal
-medj29bsdq,BiB_MeDALL.medall_quest.medj29bsdq,Friendships,decimal,,1|2|3|4,not at all|only a little|quite a lot|a great deal
-medj29csdq,BiB_MeDALL.medall_quest.medj29csdq,Classroom,decimal,,1|2|3|4,not at all|only a little|quite a lot|a great deal
-medj29dsdq,BiB_MeDALL.medall_quest.medj29dsdq,Leisure,decimal,,1|2|3|4,not at all|only a little|quite a lot|a great deal
-medj30sdq,BiB_MeDALL.medall_quest.medj30sdq,Family burden,decimal,,1|2|3|4,not at all|only a little|quite a lot|a great deal
 medlangua,BiB_MeDALL.medall_quest.medlangua,Language used to administer questionnaire,decimal,,1|2|3|4,English|Mirpuri|Urdu|Other
 medlanoth,BiB_MeDALL.medall_quest.medlanoth,Other language used,text,,,
 medmthage,BiB_MeDALL.medall_quest.medmthage,Mothers age when questionnaire completed,decimal,,,

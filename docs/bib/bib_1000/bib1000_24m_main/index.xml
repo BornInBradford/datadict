@@ -6,38 +6,5 @@
     <description>Recent content in BiB 1000 24m Questionnaire main table on Born in Bradford Data Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_24m_main/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>BiB 1000 24m Growth</title>
-      <link>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_24m_main/bib1000_growth_24m/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_24m_main/bib1000_growth_24m/</guid>
-      <description>Table ID: BiB_1000.bib1000_growth_24m
-github | csv
-   Entity type Variables Entities Updated     Participant 13 1132 2022-07-05    Height and weight measures from the BiB 1000 subcohort at 24m
-   variable label value_type summary     has_bib1000_growth_24m Has bib 1000 24m growth decimal mean (sd)
-1.00 (0.00)
-min &amp;lt; median &amp;lt; max
-1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1132 (100.</description>
-    </item>
-    
-    <item>
-      <title>BiB 1000 24m anthropometry</title>
-      <link>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_24m_main/bib1000_anthro_24m/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_24m_main/bib1000_anthro_24m/</guid>
-      <description>Table ID: BiB_1000.bib1000_anthro_24m
-github | csv
-   Entity type Variables Entities Updated     Participant 9 908 2022-07-20    Child anthropometry from the BiB 1000 subcohort at 24m
-   variable label value_type summary     has_bib1000_anthro_24m Has bib 1000 24m anthropometry decimal mean (sd)
-1.00 (0.00)
-min &amp;lt; median &amp;lt; max
-1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 908 (100.00%)
-   agecm_chab24 Child age (months): BiB 1000 24m anthropometry decimal mean (sd)</description>
-    </item>
-    
   </channel>
 </rss>

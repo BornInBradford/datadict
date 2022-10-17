@@ -14,7 +14,7 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairm_s/metms_pairm_r/</guid>
       <description>Table ID: BiB_Metabolomics.metms_pairm_r
 github | csv
-   Entity type Variables Entities Updated     Participant 1170 999 2022-07-22    Mass spectrometry metabolomics (Metabolon) with over 1300 markers from mother pregnancy bloods. Paired neonatal sample data also available. Raw values.
+   Entity type Variables Entities Updated     Participant 1170 999 2022-09-30    Mass spectrometry metabolomics (Metabolon) with over 1300 markers from mother pregnancy bloods. Paired neonatal sample data also available. Raw values.
    variable label value_type summary     BiBPregNumber  decimal mean (sd)
 1.10 (0.32)
 min &amp;lt; median &amp;lt; max
@@ -29,7 +29,7 @@ min &amp;lt; median &amp;lt; max
       <guid>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairm_s/metms_pairm_h/</guid>
       <description>Table ID: BiB_Metabolomics.metms_pairm_h
 github | csv
-   Entity type Variables Entities Updated     Participant 6 999 2022-07-21    Sample header information (meta data) from mass spectrometry metabolomics (Metabolon) on paired mother samples.
+   Entity type Variables Entities Updated     Participant 6 999 2022-09-30    Sample header information (meta data) from mass spectrometry metabolomics (Metabolon) on paired mother samples.
    variable label value_type summary     BiBPregNumber  decimal mean (sd)
 1.10 (0.32)
 min &amp;lt; median &amp;lt; max
@@ -45,7 +45,7 @@ Complete: 1000 (100.00%)</description>
       <guid>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairm_s/metms_pairm_c/</guid>
       <description>Table ID: BiB_Metabolomics.metms_pairm_c
 github | csv
-   Entity type Variables Entities Updated     Compound 19 1168 2022-07-21    Meta data about compounds (markers) from mass spectrometry metabolomics (Metabolon) on paired mother samples.
+   Entity type Variables Entities Updated     Compound 19 1168 2022-09-30    Meta data about compounds (markers) from mass spectrometry metabolomics (Metabolon) on paired mother samples.
    variable value_type summary     VariableNameRaw text 1168 unique values
 1168 non-missing values
 8 to 11 characters

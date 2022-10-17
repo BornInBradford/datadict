@@ -1,6 +1,8 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Biosamples.hosp_haem.BiBPregNumber,"",decimal,,,
-GestAgeSample,BiB_Biosamples.hosp_haem.GestAgeSample,Gestational age at blood sample (days),decimal,,,
+BiBPregNumber,BiB_Biosamples.hosp_haem.BiBPregNumber,Pregnancy number within BiB,decimal,,,
+MotherAgeSample_Mths,BiB_Biosamples.hosp_haem.MotherAgeSample_Mths,Mother's age at sample (months)',decimal,,,
+MotherAgeSample_Yrs,BiB_Biosamples.hosp_haem.MotherAgeSample_Yrs,Mother's age at sample (years)',decimal,,,
+GestAgeSample_Days,BiB_Biosamples.hosp_haem.GestAgeSample_Days,Gestational age at blood sample (days),decimal,,,
 Hb,BiB_Biosamples.hosp_haem.Hb,Haemoglobin (g/dL),decimal,,,
 WBC,BiB_Biosamples.hosp_haem.WBC,White blood cell count (10^9/L),decimal,,,
 PLTS,BiB_Biosamples.hosp_haem.PLTS,Platelet count (10^9/L),decimal,,,

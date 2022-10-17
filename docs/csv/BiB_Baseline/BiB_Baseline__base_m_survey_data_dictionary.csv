@@ -105,23 +105,6 @@ edu0mumosc,BiB_Baseline.base_m_survey.edu0mumosc,Mum overseas country of qualifi
 edu0mumosq,BiB_Baseline.base_m_survey.edu0mumosq,Mum overseas qualification,text,,,
 edu0mumpak,BiB_Baseline.base_m_survey.edu0mumpak,Mum Pakistan qualification,decimal,,,
 edu0mumqct,BiB_Baseline.base_m_survey.edu0mumqct,Mum country of qualification,decimal,,1|2|3|4|5,UK|Pakistan|Other overseas|No qualifications|Don't know
-eth0asianb,BiB_Baseline.base_m_survey.eth0asianb,Asian or Asian British - cultural background,decimal,,1|2|3|4|5|6,Indian|Pakistani|Bangladeshi|Indian Caribbean|African-Indian|Other
-eth0asnoth,BiB_Baseline.base_m_survey.eth0asnoth,Asian or Asian British - other cultural background,text,,,
-eth0blackb,BiB_Baseline.base_m_survey.eth0blackb,Black or Black British - cultural background,decimal,,1|2|3,Caribbean|African|Other
-eth0blkoth,BiB_Baseline.base_m_survey.eth0blkoth,Black or Black British - other cultural background,text,,,
-eth0chines,BiB_Baseline.base_m_survey.eth0chines,Chinese - cultural background,decimal,,1|2|3|4|5,Chinese|Japanese|Filipino|Vietnamese|Other
-eth0chnoth,BiB_Baseline.base_m_survey.eth0chnoth,Chinese - other cultural background,text,,,
-eth0eth3gp,BiB_Baseline.base_m_survey.eth0eth3gp,Mother's ethnic group - 3 categories,decimal,,1|2|3,White British|Pakistani|Other
-eth0eth9gp,BiB_Baseline.base_m_survey.eth0eth9gp,Woman's ethnic group - 9 categories,decimal,,1|2|3|4|5|6|7|8|9,White British|White Other|Mixed-White and Black|Mixed-White and South Asian|Black|Indian|Pakistani|Bangladeshi|Other
-eth0ethall,BiB_Baseline.base_m_survey.eth0ethall,Mother's ethnic group - all categories,decimal,,1|10|11|12|13|14|15|16|17|18|19|2|20|21|22|23|24|25|26|3|4|5|6|7|8|9,White - British|White & African-Indian|Mixed - Other|Black - Caribbean|Black - African|Black - Other|Asian - Indian|Asian - Pakistani|Asian - Bangladeshi|Asian - Indian Caribbean|Asian - African Indian|White - Irish|Asian - Other|Chinese|Japanese|Filipino|Vietanemse|Chinese - Other|Other|White - Other|White & Black Caribbean|White & Black African|White & Indian|White & Pakistani|White & Bangladeshi|White & Indian Caribbean
-eth0ethgrp,BiB_Baseline.base_m_survey.eth0ethgrp,Mother's ethnic group,decimal,,1|2|3|4|5|6,White|Mixed ethnic group|Black or Black British|Asian or Asian British|Chinese|Other
-eth0mixedb,BiB_Baseline.base_m_survey.eth0mixedb,Mixed - cultural background,decimal,,1|2|3|4|5|6|7|8,White and Black Caribbean|White and Black African|White and Indian|White and Pakistani|White and Bangladeshi|White and Indian Caribbean|White and African-Indian|Other
-eth0mixoth,BiB_Baseline.base_m_survey.eth0mixoth,Mixed - other cultural background,text,,,
-eth0otherb,BiB_Baseline.base_m_survey.eth0otherb,Other cultural background,decimal,,1,Other
-eth0othoth,BiB_Baseline.base_m_survey.eth0othoth,Other cultural background-description,text,,,
-eth0saethg,BiB_Baseline.base_m_survey.eth0saethg,South Asian ethnic groups only,decimal,,1|2|3|4,Pakistani|Indian|Bangladeshi|Other South Asian
-eth0whiteb,BiB_Baseline.base_m_survey.eth0whiteb,White - cultural background,decimal,,1|2|3,British|Irish|Other
-eth0whtoth,BiB_Baseline.base_m_survey.eth0whtoth,White - other cultural background,text,,,
 fin0billfl,BiB_Baseline.base_m_survey.fin0billfl,Up to date with bills change flag,decimal,,,
 fin0bllctx,BiB_Baseline.base_m_survey.fin0bllctx,Behind with council tax bill,decimal,,1|2,Yes|No
 fin0bllelc,BiB_Baseline.base_m_survey.fin0bllelc,Behind with electricity,decimal,,1|2,Yes|No

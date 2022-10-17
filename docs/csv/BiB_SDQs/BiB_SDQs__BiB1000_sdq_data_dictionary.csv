@@ -1,0 +1,57 @@
+variable,full_name,label,value_type,description,categories,categories_label
+AgeMonths,BiB_SDQs.BiB1000_sdq.AgeMonths,Child age (months) BiB1000 36m questionnaire,decimal,,,
+AgeYears,BiB_SDQs.BiB1000_sdq.AgeYears,Child age (years) BiB1000 36m questionnaire,decimal,,,
+sdq_consid,BiB_SDQs.BiB1000_sdq.sdq_consid,Considerate of other people's feelings,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_restles,BiB_SDQs.BiB1000_sdq.sdq_restles,"Restless, overactive",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_somatic,BiB_SDQs.BiB1000_sdq.sdq_somatic,Often complains of headaches,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_shares,BiB_SDQs.BiB1000_sdq.sdq_shares,Shares readily with other children,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_tantrum,BiB_SDQs.BiB1000_sdq.sdq_tantrum,Often has temper tantrums or hot tempers,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_loner,BiB_SDQs.BiB1000_sdq.sdq_loner,"Rather solitary, tends to play alone",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_obeys,BiB_SDQs.BiB1000_sdq.sdq_obeys,Generally obedient,decimal,,0|1|2,Certainly True|Somewhat True|Not True
+sdq_worries,BiB_SDQs.BiB1000_sdq.sdq_worries,Many worries,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_caring,BiB_SDQs.BiB1000_sdq.sdq_caring,Helpful if someone is hurt,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_fidgety,BiB_SDQs.BiB1000_sdq.sdq_fidgety,Constantly fidgeting or squirming,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_friend,BiB_SDQs.BiB1000_sdq.sdq_friend,Has at least one good friend,decimal,,0|1|2,Certainly True|Somewhat True|Not True
+sdq_fights,BiB_SDQs.BiB1000_sdq.sdq_fights,Often fights with other children,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_unhappy,BiB_SDQs.BiB1000_sdq.sdq_unhappy,"Often unhappy, downhearted",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_popular,BiB_SDQs.BiB1000_sdq.sdq_popular,Generally liked by other children,decimal,,0|1|2,Certainly True|Somewhat True|Not True
+sdq_distrac,BiB_SDQs.BiB1000_sdq.sdq_distrac,"Easily distracted, concentration wonders",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_clingy,BiB_SDQs.BiB1000_sdq.sdq_clingy,Nervous or clingy in new situations,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_kind,BiB_SDQs.BiB1000_sdq.sdq_kind,Kind to younger children,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_argue,BiB_SDQs.BiB1000_sdq.sdq_argue,Often argumentative with adults,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_bullied,BiB_SDQs.BiB1000_sdq.sdq_bullied,Picked on or bullied,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_helpout,BiB_SDQs.BiB1000_sdq.sdq_helpout,Often volunteers to help others,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_reflect,BiB_SDQs.BiB1000_sdq.sdq_reflect,Can stop and think things out before acting,decimal,,0|1|2,Certainly True|Somewhat True|Not True
+sdq_spiteful,BiB_SDQs.BiB1000_sdq.sdq_spiteful,Can be spiteful to others,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_oldbest,BiB_SDQs.BiB1000_sdq.sdq_oldbest,Gets on better with adults than children,decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_afraid,BiB_SDQs.BiB1000_sdq.sdq_afraid,"Many fears, easily scared",decimal,,0|1|2,Not True|Somewhat True|Certainly True
+sdq_attention,BiB_SDQs.BiB1000_sdq.sdq_attention,Sees tasks through to the end,decimal,,0|1|2,Certainly True|Somewhat True|Not True
+diffemotions,BiB_SDQs.BiB1000_sdq.diffemotions,Does your child have difficulties with emotions?,decimal,,0|1|2|3,"No|Yes, minor difficulties|Yes, definite difficulties|Yes, severe difficulties"
+difflength,BiB_SDQs.BiB1000_sdq.difflength,How long have difficulties been present?,decimal,,0|1|2|3,Less than a month|1-5 months|6-12 months|Over a year
+sdq_distress,BiB_SDQs.BiB1000_sdq.sdq_distress,Difficulties upset or distress child,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
+sdq_homelife,BiB_SDQs.BiB1000_sdq.sdq_homelife,Interfere with home life,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
+sdq_friendships,BiB_SDQs.BiB1000_sdq.sdq_friendships,Interfere with friendships,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
+sdq_learning,BiB_SDQs.BiB1000_sdq.sdq_learning,Interfere with learning,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
+sdq_leisure,BiB_SDQs.BiB1000_sdq.sdq_leisure,Interfere with leisure activities,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
+diffburden,BiB_SDQs.BiB1000_sdq.diffburden,Do difficulties put a burden on you/family?,decimal,,0|1|2,Not at all/A little|Quite a lot|A great deal
+Total_Difficulties_Score,BiB_SDQs.BiB1000_sdq.Total_Difficulties_Score,Sum of all scales except prosocial scale,decimal,,,
+Emotional_Score,BiB_SDQs.BiB1000_sdq.Emotional_Score,Sum of Emotional scale,decimal,,,
+Conduct_Score,BiB_SDQs.BiB1000_sdq.Conduct_Score,Sum of Conduct scale,decimal,,,
+Hyperactivity_Score,BiB_SDQs.BiB1000_sdq.Hyperactivity_Score,Sum of Hyperactivity scale,decimal,,,
+Peer_Problems_Score,BiB_SDQs.BiB1000_sdq.Peer_Problems_Score,Sum of Peer Problem scale,decimal,,,
+Prosocial_Score,BiB_SDQs.BiB1000_sdq.Prosocial_Score,Sum of Prosocial scale,decimal,,,
+Impact_Score,BiB_SDQs.BiB1000_sdq.Impact_Score,Sum of overall stress and impairment,decimal,,,
+Total_FourCat,BiB_SDQs.BiB1000_sdq.Total_FourCat,Four category total different scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
+Emotional_FourCat,BiB_SDQs.BiB1000_sdq.Emotional_FourCat,Four category emotional scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
+Conduct_FourCat,BiB_SDQs.BiB1000_sdq.Conduct_FourCat,Four category conduct scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
+Hyperactivity_FourCat,BiB_SDQs.BiB1000_sdq.Hyperactivity_FourCat,Four category hyperactivity scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
+PeerProblem_FourCat,BiB_SDQs.BiB1000_sdq.PeerProblem_FourCat,Four category peer problem scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
+Prosocial_FourCat,BiB_SDQs.BiB1000_sdq.Prosocial_FourCat,Four category prosocial scale score,decimal,,1|2|3|4,Close to average|Slightly lowered|Low|Very low
+Impact_FourCat,BiB_SDQs.BiB1000_sdq.Impact_FourCat,Four category impact scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
+QuestSource,BiB_SDQs.BiB1000_sdq.QuestSource,Questionnaire source,text,,,
+CompletedBy,BiB_SDQs.BiB1000_sdq.CompletedBy,Questionnaire completed by...,text,,,
+Emotional_Pro,BiB_SDQs.BiB1000_sdq.Emotional_Pro,Emotional scale pro-rata,decimal,,,
+Conduct_Pro,BiB_SDQs.BiB1000_sdq.Conduct_Pro,Conduct scale pro-rata,decimal,,,
+Hyperactivity_Pro,BiB_SDQs.BiB1000_sdq.Hyperactivity_Pro,Hyperactivity scale pro-rata,decimal,,,
+PeerProblems_Pro,BiB_SDQs.BiB1000_sdq.PeerProblems_Pro,Peer problems scale pro-rata,decimal,,,
+Prosocial_Pro,BiB_SDQs.BiB1000_sdq.Prosocial_Pro,Prosocial scale pro-rata,decimal,,,

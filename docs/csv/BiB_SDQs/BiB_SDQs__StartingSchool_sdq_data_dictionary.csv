@@ -1,0 +1,66 @@
+variable,full_name,label,value_type,description,categories,categories_label
+SSChildID,BiB_SDQs.StartingSchool_sdq.SSChildID,Starting School Child ID,text,,,
+AgeYears,BiB_SDQs.StartingSchool_sdq.AgeYears,SDQ Completer Age,decimal,,1|2|3|4|5|6|7|8|9,20-25 yrs|26-30 yrs|31-35 yrs|36-40 yrs|41-45 yrs|46-50 yrs|51-55 yrs|56-60 yrs|60+ yrs
+AgeMonths,BiB_SDQs.StartingSchool_sdq.AgeMonths,Age in months at SDQ,decimal,,,
+has_stschool_sdq,BiB_SDQs.StartingSchool_sdq.has_stschool_sdq,Has starting school: sdq,decimal,,,
+has_sscsdq,BiB_SDQs.StartingSchool_sdq.has_sscsdq,Has Starting School SDQ,decimal,,1,has
+sssdqcompleter,BiB_SDQs.StartingSchool_sdq.sssdqcompleter,SDQ Completer ID,decimal,,,
+sssdqcompposition,BiB_SDQs.StartingSchool_sdq.sssdqcompposition,SDQ Completer Postion,decimal,,1|2|3|4|5|6,Class Teacher|Head of Year|Teaching Assistant|Nursery Nurse|Supply Teacher|EY Phase Leader
+sdq_fights,BiB_SDQs.StartingSchool_sdq.sdq_fights,Often fights with other children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_lies,BiB_SDQs.StartingSchool_sdq.sdq_lies,Often lies or cheats,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_steals,BiB_SDQs.StartingSchool_sdq.sdq_steals,"Steals from home, school or elsewhere",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_tantrum,BiB_SDQs.StartingSchool_sdq.sdq_tantrum,Often has temper tantrums or hot tempers,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_obeys,BiB_SDQs.StartingSchool_sdq.sdq_obeys,Generally obedient,decimal,,0|1|2,Certainly true|Somewhat true|Not true
+sdq_somatic,BiB_SDQs.StartingSchool_sdq.sdq_somatic,Often complains of headaches,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_afraid,BiB_SDQs.StartingSchool_sdq.sdq_afraid,"Many fears, easily scared",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_clingy,BiB_SDQs.StartingSchool_sdq.sdq_clingy,Nervous or clingy in new situations,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_unhappy,BiB_SDQs.StartingSchool_sdq.sdq_unhappy,"Often unhappy, downhearted",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_worries,BiB_SDQs.StartingSchool_sdq.sdq_worries,Many worries,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_attention,BiB_SDQs.StartingSchool_sdq.sdq_attention,Sees tasks through to the end,decimal,,0|1|2,Certainly true|Somewhat true|Not true
+sdq_distrac,BiB_SDQs.StartingSchool_sdq.sdq_distrac,"Easily distracted, concentration wanders",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_fidgety,BiB_SDQs.StartingSchool_sdq.sdq_fidgety,Constantly fidgeting or squirming,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_restles,BiB_SDQs.StartingSchool_sdq.sdq_restles,"Restless, overactive",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_reflect,BiB_SDQs.StartingSchool_sdq.sdq_reflect,Thinks things out before acting,decimal,,0|1|2,Certainly true|Somewhat true|Not true
+sdq_distress,BiB_SDQs.StartingSchool_sdq.sdq_distress,Difficulties upset or distress child,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
+sdq_cllearning,BiB_SDQs.StartingSchool_sdq.sdq_cllearning,Interfere with classroom learning,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
+sdq_peerrel,BiB_SDQs.StartingSchool_sdq.sdq_peerrel,Interfere with peer relations,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
+sdq_oldbest,BiB_SDQs.StartingSchool_sdq.sdq_oldbest,Gets on better with adults than with other children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_bullied,BiB_SDQs.StartingSchool_sdq.sdq_bullied,Picked on or bullied by other children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_friend,BiB_SDQs.StartingSchool_sdq.sdq_friend,Has at least on good friend,decimal,,0|1|2,Certainly true|Somewhat true|Not true
+sdq_popular,BiB_SDQs.StartingSchool_sdq.sdq_popular,Generally liked by other children,decimal,,0|1|2,Certainly true|Somewhat true|Not true
+sdq_loner,BiB_SDQs.StartingSchool_sdq.sdq_loner,"Rather solitary, tends to play alone",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_consid,BiB_SDQs.StartingSchool_sdq.sdq_consid,Considerate of other people's feelings,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_caring,BiB_SDQs.StartingSchool_sdq.sdq_caring,Helpful if someone is hurt,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_kind,BiB_SDQs.StartingSchool_sdq.sdq_kind,Kind to younger children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_helpout,BiB_SDQs.StartingSchool_sdq.sdq_helpout,Often volunteers to help others,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_shares,BiB_SDQs.StartingSchool_sdq.sdq_shares,Shares readily with other children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+Emotional_Score,BiB_SDQs.StartingSchool_sdq.Emotional_Score,Sum of the Emotional Scale,decimal,,,
+Conduct_Score,BiB_SDQs.StartingSchool_sdq.Conduct_Score,Sum of the Conduct Scale,decimal,,,
+Hyperactivity_Score,BiB_SDQs.StartingSchool_sdq.Hyperactivity_Score,Sum of the Hyperactivity Scale,decimal,,,
+Peer_Problems_Score,BiB_SDQs.StartingSchool_sdq.Peer_Problems_Score,Sum of the Peer Problems Scale,decimal,,,
+Prosocial_Score,BiB_SDQs.StartingSchool_sdq.Prosocial_Score,Sum of the Prosocial Scale,decimal,,,
+Total_Difficulties_Score,BiB_SDQs.StartingSchool_sdq.Total_Difficulties_Score,Sum of all scales apart from Prosocial scale,decimal,,,
+Externalising_Score,BiB_SDQs.StartingSchool_sdq.Externalising_Score,Sum of conduct and hyperactivity scales,decimal,,,
+Internalising_Score,BiB_SDQs.StartingSchool_sdq.Internalising_Score,Sum of emotional and peer problems scales,decimal,,,
+Impact_Score,BiB_SDQs.StartingSchool_sdq.Impact_Score,Overall distress and impairment,decimal,,,
+Total_ThreeCat,BiB_SDQs.StartingSchool_sdq.Total_ThreeCat,Three category total difference score,decimal,,1|2|3,Normal|Borderline|Abnormal
+Emotional_ThreeCat,BiB_SDQs.StartingSchool_sdq.Emotional_ThreeCat,Three category emotional scale score,decimal,,1|2|3,Normal|Borderline|Abnormal
+Conduct_ThreeCat,BiB_SDQs.StartingSchool_sdq.Conduct_ThreeCat,Three category conduct scale score,decimal,,1|2|3,Normal|Borderline|Abnormal
+Hyperactivity_ThreeCat,BiB_SDQs.StartingSchool_sdq.Hyperactivity_ThreeCat,Three category hyperactivity scale score,decimal,,1|2|3,Normal|Borderline|Abnormal
+PeerProblem_ThreeCat,BiB_SDQs.StartingSchool_sdq.PeerProblem_ThreeCat,Three category peer problems scale score,decimal,,1|2|3,Normal|Borderline|Abnormal
+Prosocial_ThreeCat,BiB_SDQs.StartingSchool_sdq.Prosocial_ThreeCat,Three category prosocial scale score,decimal,,1|2|3,Normal|Borderline|Abnormal
+Impact_ThreeCat,BiB_SDQs.StartingSchool_sdq.Impact_ThreeCat,Three category impact scale score,decimal,,1|2|3,Normal|Borderline|Abnormal
+Total_FourCat,BiB_SDQs.StartingSchool_sdq.Total_FourCat,Four category total different scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
+Emotional_FourCat,BiB_SDQs.StartingSchool_sdq.Emotional_FourCat,Four category emotional scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
+Conduct_FourCat,BiB_SDQs.StartingSchool_sdq.Conduct_FourCat,Four category conduct scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
+Hyperactivity_FourCat,BiB_SDQs.StartingSchool_sdq.Hyperactivity_FourCat,Four category hyperactivity scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
+PeerProblem_FourCat,BiB_SDQs.StartingSchool_sdq.PeerProblem_FourCat,Four category peer problem scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
+Prosocial_FourCat,BiB_SDQs.StartingSchool_sdq.Prosocial_FourCat,Four category prosocial scale score,decimal,,1|2|3|4,Close to average|Slightly lowered|Low|Very low
+Impact_FourCat,BiB_SDQs.StartingSchool_sdq.Impact_FourCat,Four category impact scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
+QuestSource,BiB_SDQs.StartingSchool_sdq.QuestSource,Questionnaire source,text,,,
+CompletedBy,BiB_SDQs.StartingSchool_sdq.CompletedBy,Questionnaire completed by...,text,,,
+Emotional_Pro,BiB_SDQs.StartingSchool_sdq.Emotional_Pro,Emotional scale pro-rata,decimal,,,
+Conduct_Pro,BiB_SDQs.StartingSchool_sdq.Conduct_Pro,Conduct scale pro-rata,decimal,,,
+Hyperactivity_Pro,BiB_SDQs.StartingSchool_sdq.Hyperactivity_Pro,Hyperactivity scale pro-rata,decimal,,,
+PeerProblems_Pro,BiB_SDQs.StartingSchool_sdq.PeerProblems_Pro,Peer problems scale pro-rata,decimal,,,
+Prosocial_Pro,BiB_SDQs.StartingSchool_sdq.Prosocial_Pro,Prosocial scale pro-rata,decimal,,,

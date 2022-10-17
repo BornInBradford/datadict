@@ -14,13 +14,13 @@
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_6m_main/bib1000_6m_b6mqb4/</guid>
       <description>Table ID: BiB_1000.bib1000_6m_b6mqb4
 github | csv
-   Entity type Variables Entities Updated     Participant 3 1336 2022-07-22    BiB 1000 6m: Parent-reported child medical diagnoses
+   Entity type Variables Entities Updated     Participant 3 1336 2022-09-28    BiB 1000 6m: Parent-reported child medical diagnoses
    variable label value_type summary     has_bib1000_6m_b6mqb4 Has bib 1000 6m parent-reported child diagnoses decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
 Complete: 1361 (100.00%)
-   bib6b4diagnosis Diagnosis given text 136 unique values</description>
+   bib6b4diagnosis Diagnosis given text 137 unique values</description>
     </item>
     
     <item>
@@ -31,45 +31,12 @@ Complete: 1361 (100.00%)
       <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_6m_main/bib1000_6m_b6mqe3/</guid>
       <description>Table ID: BiB_1000.bib1000_6m_b6mqe3
 github | csv
-   Entity type Variables Entities Updated     Participant 4 1336 2022-07-22    BiB 1000 6m: People living in household
+   Entity type Variables Entities Updated     Participant 4 1336 2022-09-28    BiB 1000 6m: People living in household
    variable label value_type summary     has_bib1000_6m_b6mqe3 Has bib 1000 6m people living in household decimal mean (sd)
 1.00 (0.00)
 min &amp;lt; median &amp;lt; max
 1.00 &amp;lt; 1.00 &amp;lt; 1.00
 Complete: 4892 (100.00%)</description>
-    </item>
-    
-    <item>
-      <title>BiB 1000 6m Growth</title>
-      <link>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_6m_main/bib1000_growth_6m/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_6m_main/bib1000_growth_6m/</guid>
-      <description>Table ID: BiB_1000.bib1000_growth_6m
-github | csv
-   Entity type Variables Entities Updated     Participant 13 1321 2022-07-05    Height and weight measures from the BiB 1000 subcohort at 6m
-   variable label value_type summary     has_bib1000_growth_6m Has bib 1000 6m growth decimal mean (sd)
-1.00 (0.00)
-min &amp;lt; median &amp;lt; max
-1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1321 (100.</description>
-    </item>
-    
-    <item>
-      <title>BiB 1000 6m anthropometry</title>
-      <link>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_6m_main/bib1000_anthro_6m/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_6m_main/bib1000_anthro_6m/</guid>
-      <description>Table ID: BiB_1000.bib1000_anthro_6m
-github | csv
-   Entity type Variables Entities Updated     Participant 9 1299 2022-07-20    Child anthropometry from the BiB 1000 subcohort at 6m
-   variable label value_type summary     has_bib1000_anthro_6m Has bib 1000 6m anthropometry decimal mean (sd)
-1.00 (0.00)
-min &amp;lt; median &amp;lt; max
-1.00 &amp;lt; 1.00 &amp;lt; 1.00
-Complete: 1299 (100.00%)
-   agecm_chab6m Child age (months): BiB 1000 6m anthropometry decimal mean (sd)</description>
     </item>
     
   </channel>
