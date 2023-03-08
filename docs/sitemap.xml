@@ -64,6 +64,8 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_sdqs/growingup_sdq/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/ethnicity/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m2_foodfrequency/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/pregnancy_bloods/pregnancy_bloods_vitd/</loc>
@@ -71,6 +73,8 @@
     <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/child_info/child_info_bib/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_sdqs/medall_sdq/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/related_pairs/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/pregnancy_gtt/</loc>
   </url><url>
@@ -490,9 +494,19 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/categories/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_air_quality/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/ethnicity/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_built_env_indoor_qual/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_food_env/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_gs_greenness/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_public_transport_traffic/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_sc_walkability_lu/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/categories/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/help/</loc>
   </url><url>
