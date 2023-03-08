@@ -11,7 +11,6 @@ fbqbiosample,BiB_Baseline.base_f_survey.fbqbiosample,Was a biological sample tak
 fbqcountrybirth,BiB_Baseline.base_f_survey.fbqcountrybirth,Country born,decimal,,1|2|3,United Kingdom|Pakistan|Other
 fbqcountrybirthother,BiB_Baseline.base_f_survey.fbqcountrybirthother,Country of birth if other,text,,,
 fbqheight,BiB_Baseline.base_f_survey.fbqheight,Father's height (cm),decimal,,,
-fbqjobtitle,BiB_Baseline.base_f_survey.fbqjobtitle,Job title,text,,,
 fbqobstime,BiB_Baseline.base_f_survey.fbqobstime,How did date of completion relate to point of mother's pregnancy?,decimal,,1|2|3|4|5|6,Scan 1 - dating scan|Scan 2 - 20 wk scan|GTT|Delivery|Post natal ward|Other
 fbqobstimeother,BiB_Baseline.base_f_survey.fbqobstimeother,Specify other time point in mother's pregnancy,text,,,
 fbqquestadmin,BiB_Baseline.base_f_survey.fbqquestadmin,Questionnaire administered independently or assisted,decimal,,1|2,Independently|Assisted

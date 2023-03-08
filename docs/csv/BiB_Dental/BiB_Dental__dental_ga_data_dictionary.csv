@@ -39,3 +39,11 @@ dgaLL1,BiB_Dental.dental_ga.dgaLL1,Location of adult tooth,decimal,,0|1|2|3|4,Ni
 dgaLR1,BiB_Dental.dental_ga.dgaLR1,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
 dgaLR4,BiB_Dental.dental_ga.dgaLR4,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
 dgaLR5,BiB_Dental.dental_ga.dgaLR5,Location of adult tooth,decimal,,0|1|2|3|4,Nil treatment|Extracted|Filled|Sealed|Crowned
+dgaUR7,BiB_Dental.dental_ga.dgaUR7,Location of adult tooth,decimal,,0|1|2|3,NIL Treatment|Extracted|Filled|Crowned
+dgaUR5,BiB_Dental.dental_ga.dgaUR5,Location of adult tooth,decimal,,0|1|2|3,NIL Treatment|Extracted|Filled|Crowned
+dgaUR2,BiB_Dental.dental_ga.dgaUR2,Location of adult tooth,decimal,,0|1|2|3,NIL Treatment|Extracted|Filled|Crowned
+dgaUL2,BiB_Dental.dental_ga.dgaUL2,Location of adult tooth,decimal,,0|1|2|3,NIL Treatment|Extracted|Filled|Crowned
+dgaUL5,BiB_Dental.dental_ga.dgaUL5,Location of adult tooth,decimal,,0|1|2|3,NIL Treatment|Extracted|Filled|Crowned
+dgaUL7,BiB_Dental.dental_ga.dgaUL7,Location of adult tooth,decimal,,0|1|2|3,NIL Treatment|Extracted|Filled|Crowned
+dgaLL7,BiB_Dental.dental_ga.dgaLL7,Location of adult tooth,decimal,,0|1|2|3,NIL Treatment|Extracted|Filled|Crowned
+dgaLR7,BiB_Dental.dental_ga.dgaLR7,Location of adult tooth,decimal,,0|1|2|3,NIL Treatment|Extracted|Filled|Crowned

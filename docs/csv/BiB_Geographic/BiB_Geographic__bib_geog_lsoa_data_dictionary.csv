@@ -3,4 +3,6 @@ IMD_2010_decile,BiB_Geographic.bib_geog_lsoa.IMD_2010_decile,IMD 2010 decile,dec
 IMD_2010_score,BiB_Geographic.bib_geog_lsoa.IMD_2010_score,IMD 2010 score,decimal,,,
 IMD_2019_decile,BiB_Geographic.bib_geog_lsoa.IMD_2019_decile,IMD 2019 decile,decimal,,,
 IMD_2019_score,BiB_Geographic.bib_geog_lsoa.IMD_2019_score,IMD 2019 score,decimal,,,
-IMD_2019_decile_bfd,BiB_Geographic.bib_geog_lsoa.IMD_2019_decile_bfd,IMD 2019 decile - relcassified for only Bradford LSOA,decimal,,,
+IMD_2019_decile_bfd,BiB_Geographic.bib_geog_lsoa.IMD_2019_decile_bfd,IMD 2019 decile - reclassified for only Bradford LSOA,decimal,,,
+TDI_2011_score,BiB_Geographic.bib_geog_lsoa.TDI_2011_score,Townsend deprivation index (score) using 2011 census data,decimal,,,
+TDI_2011_quintile,BiB_Geographic.bib_geog_lsoa.TDI_2011_quintile,Townsend deprivation index (quintile) using 2011 census data,decimal,,,

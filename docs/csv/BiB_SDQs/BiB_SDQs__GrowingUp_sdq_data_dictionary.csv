@@ -19,7 +19,7 @@ sdq_reflect,BiB_SDQs.GrowingUp_sdq.sdq_reflect,Your child thinks things out befo
 sdq_steals,BiB_SDQs.GrowingUp_sdq.sdq_steals,"Your child steals from home, school or elsewhere",decimal,,0|1|2,Not true|Somewhat true|Certainly true
 sdq_oldbest,BiB_SDQs.GrowingUp_sdq.sdq_oldbest,Your child gets on better with adults than with other children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
 sdq_afraid,BiB_SDQs.GrowingUp_sdq.sdq_afraid,"Your child has many fears, is easily scared",decimal,,0|1|2,Not true|Somewhat true|Certainly true
-sdq_attention,BiB_SDQs.GrowingUp_sdq.sdq_attention,"Your child sees tasks through to the end, has a good attention span",decimal,,0|1|2,Certainly true|Somewhat true|Not true
+sdq_attends,BiB_SDQs.GrowingUp_sdq.sdq_attends,"Your child sees tasks through to the end, has a good attention span",decimal,,0|1|2,Certainly true|Somewhat true|Not true
 sdq_somatic,BiB_SDQs.GrowingUp_sdq.sdq_somatic,"Your child often complains of headaches, stomach-aches or sickness",decimal,,0|1|2,Not true|Somewhat true|Certainly true
 sdq_shares,BiB_SDQs.GrowingUp_sdq.sdq_shares,"Your child shares readily with other children (treats, toys, pencils etc.)",decimal,,0|1|2,Not true|Somewhat true|Certainly true
 sdq_tantrum,BiB_SDQs.GrowingUp_sdq.sdq_tantrum,Your child often has temper tantrums or hot tempers,decimal,,0|1|2,Not true|Somewhat true|Certainly true
@@ -27,19 +27,18 @@ sdq_loner,BiB_SDQs.GrowingUp_sdq.sdq_loner,"Your child is rather solitary, tends
 sdq_obeys,BiB_SDQs.GrowingUp_sdq.sdq_obeys,"Your child is generally obedient, usually does what adults request",decimal,,0|1|2,Certainly true|Somewhat true|Not true
 sdq_worries,BiB_SDQs.GrowingUp_sdq.sdq_worries,"Your child has many worries, often seems worried",decimal,,0|1|2,Not true|Somewhat true|Certainly true
 sdq_caring,BiB_SDQs.GrowingUp_sdq.sdq_caring,"Your child is helpful if someone is hurt, upset or feeling ill",decimal,,0|1|2,Not true|Somewhat true|Certainly true
-diffemotions,BiB_SDQs.GrowingUp_sdq.diffemotions,Do you think your child has difficulties?,decimal,,0|1|2|3,"No|Yes, minor difficulties|Yes, definite difficulties|Yes, severe difficulties"
-difflength,BiB_SDQs.GrowingUp_sdq.difflength,How long have difficulties been present?,decimal,,0|1|2|3,Less than a month|1-5 months|6-12 months|Over a year
+diffemotions,BiB_SDQs.GrowingUp_sdq.diffemotions,Child has difficulties with emotions/concentration/behaviour/social contact,decimal,,1|2|3|4,"No|Yes, minor difficulties|Yes, definite difficulties|Yes, severe difficulties"
+difflength,BiB_SDQs.GrowingUp_sdq.difflength,"If child has difficulties, how long have they had them for",decimal,,1|2|3|4,Less than a month|1-5 months|6-12 months|Over a year
 sdq_distress,BiB_SDQs.GrowingUp_sdq.sdq_distress,Difficulties upset or distress child,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
 sdq_homelife,BiB_SDQs.GrowingUp_sdq.sdq_homelife,Interfere with homelife,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
 sdq_friendship,BiB_SDQs.GrowingUp_sdq.sdq_friendship,Interfere with friendship,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
 sdq_classroom,BiB_SDQs.GrowingUp_sdq.sdq_classroom,Interfere with classroom learning,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
 sdq_leisure,BiB_SDQs.GrowingUp_sdq.sdq_leisure,Interfere with leisure activities,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
-diffburden,BiB_SDQs.GrowingUp_sdq.diffburden,Do difficulties burden you/family?,decimal,,0|1|2,Not at all/A little|Quite a lot|A great deal
-guadtSDQ11,BiB_SDQs.GrowingUp_sdq.guadtSDQ11,Do you have any other comments or concerns?,text,,,
+diffburden,BiB_SDQs.GrowingUp_sdq.diffburden,Do the difficulties put a burden on you or the family as a whole,decimal,,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
 Emotional_Score,BiB_SDQs.GrowingUp_sdq.Emotional_Score,Sum of Emotional scale,decimal,,,
 Conduct_Score,BiB_SDQs.GrowingUp_sdq.Conduct_Score,Sum of Conduct scale,decimal,,,
 Hyperactivity_Score,BiB_SDQs.GrowingUp_sdq.Hyperactivity_Score,Sum of Hyperactivity scale,decimal,,,
-Peer_Problems_Score,BiB_SDQs.GrowingUp_sdq.Peer_Problems_Score,Sum of Peer Problem scale,decimal,,,
+Peer_Problem_Score,BiB_SDQs.GrowingUp_sdq.Peer_Problem_Score,Sum of Peer Problem scale,decimal,,,
 Prosocial_Score,BiB_SDQs.GrowingUp_sdq.Prosocial_Score,Sum of Prosocial scale,decimal,,,
 Total_Difficulties_Score,BiB_SDQs.GrowingUp_sdq.Total_Difficulties_Score,Sum of all scales except prosocial scale,decimal,,,
 Externalising_Score,BiB_SDQs.GrowingUp_sdq.Externalising_Score,Sum of conduct and hyperactivity scale,decimal,,,
@@ -61,8 +60,3 @@ Prosocial_FourCat,BiB_SDQs.GrowingUp_sdq.Prosocial_FourCat,Four category prosoci
 Impact_FourCat,BiB_SDQs.GrowingUp_sdq.Impact_FourCat,Four category impact scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
 QuestSource,BiB_SDQs.GrowingUp_sdq.QuestSource,Questionnaire source,text,,,
 CompletedBy,BiB_SDQs.GrowingUp_sdq.CompletedBy,Questionnaire completed by...,text,,,
-Emotional_Pro,BiB_SDQs.GrowingUp_sdq.Emotional_Pro,Emotional scale pro-rata,decimal,,,
-Conduct_Pro,BiB_SDQs.GrowingUp_sdq.Conduct_Pro,Conduct scale pro-rata,decimal,,,
-Hyperactivity_Pro,BiB_SDQs.GrowingUp_sdq.Hyperactivity_Pro,Hyperactivity scale pro-rata,decimal,,,
-PeerProblems_Pro,BiB_SDQs.GrowingUp_sdq.PeerProblems_Pro,Peer problems scale pro-rata,decimal,,,
-Prosocial_Pro,BiB_SDQs.GrowingUp_sdq.Prosocial_Pro,Prosocial scale pro-rata,decimal,,,

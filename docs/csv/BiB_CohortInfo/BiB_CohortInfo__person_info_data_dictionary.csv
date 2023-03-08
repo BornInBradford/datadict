@@ -4,5 +4,5 @@ ParticipantType,BiB_CohortInfo.person_info.ParticipantType,Participant type - po
 Gender,BiB_CohortInfo.person_info.Gender,Participant gender,text,,,
 BiBFatherID,BiB_CohortInfo.person_info.BiBFatherID,BiB person identifier of child's father,text,,,
 BiBMotherID,BiB_CohortInfo.person_info.BiBMotherID,BiB person identifier of child's mother,text,,,
-BiBPregNumber,BiB_CohortInfo.person_info.BiBPregNumber,Cohort recruited pregnancy number,text,,,
+BiBPregNumber,BiB_CohortInfo.person_info.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
 PregnancyID,BiB_CohortInfo.person_info.PregnancyID,Legacy BiB pregnancy ID,text,,,

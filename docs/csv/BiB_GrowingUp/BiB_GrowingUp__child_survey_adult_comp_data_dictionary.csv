@@ -129,18 +129,6 @@ guadtLanguageQstion_3,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageQstion_
 guadtLanguageQstion_4,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageQstion_4,Questionnaire was administered in Urdu,decimal,,1,Yes
 guadtLanguageQstion_other,BiB_GrowingUp.child_survey_adult_comp.guadtLanguageQstion_other,Questionnaire was administered in other language (state),text,,,
 guadtInterpreter,BiB_GrowingUp.child_survey_adult_comp.guadtInterpreter,Was an interpreter used?,decimal,,1|2|3,"No|Yes, hospital or study interpreter|Yes, family member or friend"
-QualityControl_1,BiB_GrowingUp.child_survey_adult_comp.QualityControl_1,Interpretation of questions,text,,,
-QualityControl_1comment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_1comment,"",text,,,
-QualityControl_2,BiB_GrowingUp.child_survey_adult_comp.QualityControl_2,Reasons for unanswered questions,text,,,
-QualityControl_2comment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_2comment,"",text,,,
-QualityControl_3,BiB_GrowingUp.child_survey_adult_comp.QualityControl_3,Issues with other people present	,text,,,
-QualityControl_3comment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_3comment,"",text,,,
-QualityControl_4,BiB_GrowingUp.child_survey_adult_comp.QualityControl_4,Issues with translation of questions,text,,,
-QualityControl_4comment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_4comment,"",text,,,
-QualityControl_5,BiB_GrowingUp.child_survey_adult_comp.QualityControl_5,Other issues,text,,,
-QualityControl_5comment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_5comment,Quality control_5 comment,text,,,
-QualityControl_other,BiB_GrowingUp.child_survey_adult_comp.QualityControl_other,Any other problems completing this questionnaire,text,,,
-QualityControl_othercomment,BiB_GrowingUp.child_survey_adult_comp.QualityControl_othercomment,"",text,,,
 guadtAdministered,BiB_GrowingUp.child_survey_adult_comp.guadtAdministered,Was this questionnaire administered or self-completed?,decimal,,1|2|3,Administered (except for all self-completion sections)|All self-completed|All administered (including self-completion sections)
 guadtMoneyForFood,BiB_GrowingUp.child_survey_adult_comp.guadtMoneyForFood,In past 12 mths have you felt you didn't have enough money for food,decimal,,1|2|3|4|5,Never true|Sometimes true|Often true|Do not wish to answer|Donâ€™t know
 guadtAffordBalMeals,BiB_GrowingUp.child_survey_adult_comp.guadtAffordBalMeals,In past 12 mths have you felt you couldn't afford to eat balanced meals,decimal,,1|2|3|4|5,Never true|Sometimes true|Often true|Do not wish to answer|Donâ€™t know
@@ -451,7 +439,6 @@ guadtWeekdaySleep,BiB_GrowingUp.child_survey_adult_comp.guadtWeekdaySleep,What i
 guadtWeekendSleep,BiB_GrowingUp.child_survey_adult_comp.guadtWeekendSleep,What is your childâ€™s usual amount of sleep each night at weekends?,decimal,,1|10|11|2|3|4|5|6|7|8|9,Less than five hours|Thirteen hours|More than thirteen hours|Five hours|Six hours|Seven hours|Eight hours|Nine hours|Ten hours|Eleven hours|Twelve hours
 guadtBedWeekday,BiB_GrowingUp.child_survey_adult_comp.guadtBedWeekday,What is your childâ€™s usual bedtime on weeknights?,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,6.00pm|10.30pm|11.00pm|11.30pm|12.00am|12.30am|1.00am|1.30am|2.00am|6.30pm|7.00pm|7.30pm|8.00pm|8.30pm|9.00pm|9.30pm|10.00pm
 guadtBedWeekend,BiB_GrowingUp.child_survey_adult_comp.guadtBedWeekend,What is your childâ€™s usual bedtime at weekends?,decimal,,1|10|11|12|13|14|15|16|17|2|3|4|5|6|7|8|9,6.00pm|10.30pm|11.00pm|11.30pm|12.00am|12.30am|1.00am|1.30am|2.00am|6.30pm|7.00pm|7.30pm|8.00pm|8.30pm|9.00pm|9.30pm|10.00pm
-guadtSDQ11,BiB_GrowingUp.child_survey_adult_comp.guadtSDQ11,Do you have any other comments or concerns?,text,,,
 guadtWhereQComp,BiB_GrowingUp.child_survey_adult_comp.guadtWhereQComp,Where was this questionnaire completed?,decimal,,1|2|3,Participant's home|Bus|Other
 guadtWhereQComp_other,BiB_GrowingUp.child_survey_adult_comp.guadtWhereQComp_other,Where was this questionnaire completed (other)?,text,,,
 guadtBackfillBy,BiB_GrowingUp.child_survey_adult_comp.guadtBackfillBy,Who completed the backfill?,text,,,

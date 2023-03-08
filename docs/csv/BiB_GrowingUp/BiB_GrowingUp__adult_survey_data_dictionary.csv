@@ -65,9 +65,7 @@ guadtNumberEmploy,BiB_GrowingUp.adult_survey.guadtNumberEmploy,Number of people 
 guadtNumberEmployee,BiB_GrowingUp.adult_survey.guadtNumberEmployee,"If you are self-employed, how many people do/did you employ",decimal,,1|2,1-24|25 or more
 guadtSuperviseEmploy,BiB_GrowingUp.adult_survey.guadtSuperviseEmploy,Do/did you supervise any other employee,decimal,,1|2,No|Yes
 guadtHoursPerWeek,BiB_GrowingUp.adult_survey.guadtHoursPerWeek,How many hours do/did you work in a typical week,text,,,
-guadtJobTitle,BiB_GrowingUp.adult_survey.guadtJobTitle,What is/was your job title?,text,,,
 guadtTypeWork,BiB_GrowingUp.adult_survey.guadtTypeWork,Which of these best describes the sort of work you do/did?,decimal,,1|2|3|4|5|6|7|8|9,Modern professional|Clerical and intermediate|Senior managers/administrators|Technical and craft|Semi-routine manual|Routine manual and service|Middle/junior managers|Traditional professional|Other
-guadtTypeWork_other,BiB_GrowingUp.adult_survey.guadtTypeWork_other,Which of these describes the other sort of work you do/did,text,,,
 guadtNS_SEC,BiB_GrowingUp.adult_survey.guadtNS_SEC,NS-SEC category,decimal,,1|2|3|4|5,"Managerial, administrative and professional occupations|Intermediate occupations|Small employers and own account workers|Lower supervisory and technical occupations|Semi-routine and routine occupations"
 guadtWorkTravel,BiB_GrowingUp.adult_survey.guadtWorkTravel,How do you usually travel to work?,decimal,,1|2|3|4|5|6|7,"I work mainly at/from home|On foot|Car or taxi|Bicycle|Train|Motor cycle, scooter or moped|Other"
 guadtWorkTravel_other,BiB_GrowingUp.adult_survey.guadtWorkTravel_other,How do you usually travel to work?: Other,text,,,
@@ -78,23 +76,22 @@ guadtPartNoEmploy,BiB_GrowingUp.adult_survey.guadtPartNoEmploy,How many people w
 guadtPartnerEmployee,BiB_GrowingUp.adult_survey.guadtPartnerEmployee,"If you partner is self-employed, how many people do/did they employ",decimal,,1|2,1-24|25 or more
 guadtPartSupervise,BiB_GrowingUp.adult_survey.guadtPartSupervise,Does/did your partner supervise any other employee,decimal,,1|2,No|Yes
 guadtPartnerHours,BiB_GrowingUp.adult_survey.guadtPartnerHours,How many hours does/did your partner work in a typical week,text,,,
-guadtPartJobTitle,BiB_GrowingUp.adult_survey.guadtPartJobTitle,What is/was your partner's job title,text,,,
 guadtPartnerTypeWork,BiB_GrowingUp.adult_survey.guadtPartnerTypeWork,Which of these best describes the sort of work your partner does/did?,decimal,,1|2|3|4|5|6|7|8|9,Modern professional|Clerical and intermediate|Senior managers/administrators|Technical and craft|Semi-routine manual|Routine manual and service|Middle/junior managers|Traditional professional|Other
-guadtPartnerTypeWork_other,BiB_GrowingUp.adult_survey.guadtPartnerTypeWork_other,Which of these describes the other sort of work partner does/did,text,,,
 guadtPartNS_SEC,BiB_GrowingUp.adult_survey.guadtPartNS_SEC,Partner's NS-SEC category,decimal,,1|2|3|4|5,"Managerial, administrative and professional occupations|Intermediate occupations|Small employers and own account workers|Lower supervisory and technical occupations|Semi-routine and routine occupations"
-guadtBenefits_Housing,BiB_GrowingUp.adult_survey.guadtBenefits_Housing,Do you receive housing related benefits,decimal,,1,Yes
-guadtBenefits_Disability,BiB_GrowingUp.adult_survey.guadtBenefits_Disability,Do you receive disability benefits,decimal,,1,Yes
-guadtBenefits_CarersCredit,BiB_GrowingUp.adult_survey.guadtBenefits_CarersCredit,Do you receive carers credit,decimal,,1,Yes
-guadtBenefits_Unemployment,BiB_GrowingUp.adult_survey.guadtBenefits_Unemployment,Do you receive unemployment related benefits,decimal,,1,Yes
-guadtBenefits_UniversalCredit,BiB_GrowingUp.adult_survey.guadtBenefits_UniversalCredit,Do you receive universal credit,decimal,,1,Yes
-guadtBenefits_NoneOfListed,BiB_GrowingUp.adult_survey.guadtBenefits_NoneOfListed,Don't received any of the listed benefits,decimal,,1,Yes
-guadtBenefits_NotWishToAnswer,BiB_GrowingUp.adult_survey.guadtBenefits_NotWishToAnswer,Doesn't wish to answer question about benefits,decimal,,1,Yes
-guadtBenefits_Dontknow,BiB_GrowingUp.adult_survey.guadtBenefits_Dontknow,Doesn't know if in receipt of any benefits,decimal,,1,Yes
+guadtBenefits_receive,BiB_GrowingUp.adult_survey.guadtBenefits_receive,Do you receive benefits,decimal,,1|2,Yes|No
+guadtBenefits_Housing,BiB_GrowingUp.adult_survey.guadtBenefits_Housing,Do you receive housing related benefits,decimal,,1|2,Yes|No
+guadtBenefits_Disability,BiB_GrowingUp.adult_survey.guadtBenefits_Disability,Do you receive disability benefits,decimal,,1|2,Yes|No
+guadtBenefits_CarersCredit,BiB_GrowingUp.adult_survey.guadtBenefits_CarersCredit,Do you receive carers credit,decimal,,1|2,Yes|No
+guadtBenefits_Unemployment,BiB_GrowingUp.adult_survey.guadtBenefits_Unemployment,Do you receive unemployment related benefits,decimal,,1|2,Yes|No
+guadtBenefits_UniversalCredit,BiB_GrowingUp.adult_survey.guadtBenefits_UniversalCredit,Do you receive universal credit,decimal,,1|2,Yes|No
+guadtBenefits_NoneOfListed,BiB_GrowingUp.adult_survey.guadtBenefits_NoneOfListed,Don't received any of the listed benefits,decimal,,1|2,Yes|No
+guadtBenefits_NotWishToAnswer,BiB_GrowingUp.adult_survey.guadtBenefits_NotWishToAnswer,Doesn't wish to answer question about benefits,decimal,,1|2,Yes|No
+guadtBenefits_Dontknow,BiB_GrowingUp.adult_survey.guadtBenefits_Dontknow,Doesn't know if in receipt of any benefits,decimal,,1|2,Yes|No
 guadtManagingFinance,BiB_GrowingUp.adult_survey.guadtManagingFinance,How well is your household managing financially these days,decimal,,1|2|3|4|5|6,Living comfortably|Doing alright|Just about getting by|Finding it quite difficult|Finding it very difficult|Do not wish to answer
 guadtFinanceLastYear,BiB_GrowingUp.adult_survey.guadtFinanceLastYear,How well is your household managing financially compared to 1 yr ago,decimal,,1|2|3|4,Better off|Worse off|About the same|Do not wish to answer
 guadtMoneyWorry,BiB_GrowingUp.adult_survey.guadtMoneyWorry,How often have you worried about money in the last few weeks,decimal,,1|2|3|4|5,Never|Only sometimes|Quite often|Almost all the time|Do not wish to answer
 guadtTrustPeople,BiB_GrowingUp.adult_survey.guadtTrustPeople,"Would you say that people can be trusted, or you can't be too careful",decimal,,1|2,Can be trusted|Can't be too careful in dealing with people
-guadtFeelingsPartner,BiB_GrowingUp.adult_survey.guadtFeelingsPartner,My husband/partner doesnâ€™t seem to listen to me,decimal,,1|2|3|4|5|6|7,Totally agree|Agree|Neither agree nor disagree|Disagree|Totally disagree|Do not wish to answer|Not applicable
+guadtFeelingsPartner,BiB_GrowingUp.adult_survey.guadtFeelingsPartner,My husband/partner doesn't seem to listen to me,decimal,,1|2|3|4|5|6|7,Totally agree|Agree|Neither agree nor disagree|Disagree|Totally disagree|Do not wish to answer|Not applicable
 guadtInflLocalArea,BiB_GrowingUp.adult_survey.guadtInflLocalArea,Do you feel you can influence decisions affecting your local area,decimal,,1|2|3|4|5|6|7,Strongly agree|Agree|Neither agree nor disagree|Disagree|Strongly disagree|Donâ€™t have an opinion|Donâ€™t know
 guadtGeneralHealth,BiB_GrowingUp.adult_survey.guadtGeneralHealth,How would you describe your health generally?,decimal,,1|2|3|4|5,Excellent|Very good|Good|Fair|Poor
 guadtTeethHealth,BiB_GrowingUp.adult_survey.guadtTeethHealth,How would you describe the health of your teeth and mouth?,decimal,,1|2|3|4|5,Excellent|Very good|Good|Fair|Poor
@@ -257,16 +254,7 @@ guadtLanguageQstion_1,BiB_GrowingUp.adult_survey.guadtLanguageQstion_1,Questionn
 guadtLanguageQstion_2,BiB_GrowingUp.adult_survey.guadtLanguageQstion_2,Questionnaire administered in Mirpuri,decimal,,1,Yes
 guadtLanguageQstion_3,BiB_GrowingUp.adult_survey.guadtLanguageQstion_3,Questionnaire administered in Punjabi,decimal,,1,Yes
 guadtLanguageQstion_4,BiB_GrowingUp.adult_survey.guadtLanguageQstion_4,Questionnaire administered in Urdu,decimal,,1,Yes
-guadtQualityControl_1,BiB_GrowingUp.adult_survey.guadtQualityControl_1,Interpretation of questions,text,,,
-guadtQualityControl_1comment,BiB_GrowingUp.adult_survey.guadtQualityControl_1comment,Comment re: interpretation of questions,text,,,
-guadtQualityControl_2,BiB_GrowingUp.adult_survey.guadtQualityControl_2,Reason for unanswered questions,text,,,
-guadtQualityControl_2comment,BiB_GrowingUp.adult_survey.guadtQualityControl_2comment,Comment re: reason for unanswered questions,text,,,
-guadtQualityControl_3,BiB_GrowingUp.adult_survey.guadtQualityControl_3,Issues with other people present,text,,,
-guadtQualityControl_3comment,BiB_GrowingUp.adult_survey.guadtQualityControl_3comment,Comment re: issues with other people present,text,,,
-guadtQualityControl_4,BiB_GrowingUp.adult_survey.guadtQualityControl_4,Issues with translation of questions,text,,,
-guadtQualityControl_4comment,BiB_GrowingUp.adult_survey.guadtQualityControl_4comment,Comment on issues of translation of questions,text,,,
-guadtQualityControl_5,BiB_GrowingUp.adult_survey.guadtQualityControl_5,Other issues,text,,,
-guadtQualityControl_5comment,BiB_GrowingUp.adult_survey.guadtQualityControl_5comment,Comment on other issues,text,,,
 guadtWhereQComp,BiB_GrowingUp.adult_survey.guadtWhereQComp,Where is this questionnaire being completed?,decimal,,1|2|3,Participant's home|Bus|Other
 guadtWhereQComp_other,BiB_GrowingUp.adult_survey.guadtWhereQComp_other,Where is this questionnaire being completed?: Other,text,,,
+guadtVoting_88,BiB_GrowingUp.adult_survey.guadtVoting_88,Not eligible to vote,decimal,,1,Yes
 guadtBackfillBy,BiB_GrowingUp.adult_survey.guadtBackfillBy,"",text,,,

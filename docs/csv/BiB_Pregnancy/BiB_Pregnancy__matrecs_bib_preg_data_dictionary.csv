@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Pregnancy.matrecs_bib_preg.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
+BiBPregNumber,BiB_Pregnancy.matrecs_bib_preg.BiBPregNumber,"",decimal,,,
 has_matrecs_bib_preg,BiB_Pregnancy.matrecs_bib_preg.has_matrecs_bib_preg,Has maternity records bib pregnancy,decimal,,,
 has_prnprg,BiB_Pregnancy.matrecs_bib_preg.has_prnprg,Has: Pregnancy third trimester weight,decimal,,1,has
 prnbp3rdtriw,BiB_Pregnancy.matrecs_bib_preg.prnbp3rdtriw,3rd trimester weight,decimal,,,
@@ -10,7 +10,6 @@ prnbpamnioreasons,BiB_Pregnancy.matrecs_bib_preg.prnbpamnioreasons,Amniocentesis
 prnbpanaemianoted,BiB_Pregnancy.matrecs_bib_preg.prnbpanaemianoted,Anaemia noted,decimal,,1|2|3,No|Yes|Not documented
 prnbpanaemiaresult,BiB_Pregnancy.matrecs_bib_preg.prnbpanaemiaresult,Anaemia result,decimal,,,
 prnbpantibody,BiB_Pregnancy.matrecs_bib_preg.prnbpantibody,Antibodies,text,,,
-prnbpbookingdate,BiB_Pregnancy.matrecs_bib_preg.prnbpbookingdate,Date of booking,date,,,
 prnbpbplabn,BiB_Pregnancy.matrecs_bib_preg.prnbpbplabn,Number of BP obs in labour,decimal,,,
 prnbpbplabtaken,BiB_Pregnancy.matrecs_bib_preg.prnbpbplabtaken,Any BPs recorded in labour,decimal,,1|2|3,No|Yes|Not documented
 prnbpbppostn,BiB_Pregnancy.matrecs_bib_preg.prnbpbppostn,Number of BPs recorded post partum,decimal,,,

@@ -3,9 +3,9 @@ GrowingUpID,BiB_Breathes.air_qual_survey.GrowingUpID,Growing Up participant iden
 BiBPersonID,BiB_Breathes.air_qual_survey.BiBPersonID,BiB participant identifier,text,,,
 ParticipantType,BiB_Breathes.air_qual_survey.ParticipantType,Participant type,decimal,,1|2,General public|Growing Up
 QuestionnaireType,BiB_Breathes.air_qual_survey.QuestionnaireType,Questionnaire type,decimal,,1|2,Paper|Online
-sex,BiB_Breathes.air_qual_survey.sex,"",decimal,,,
+sex,BiB_Breathes.air_qual_survey.sex,"",decimal,,1|2|3|4,Male|Female|Prefer to use my own term|Prefer not to say
 age,BiB_Breathes.air_qual_survey.age,"",decimal,,1|2|3|4|5|6|7,18-24|25-34|35-44|45-54|55-64|65+|Prefer not to say
-ethnicity,BiB_Breathes.air_qual_survey.ethnicity,Ethnicity - 5 categories,decimal,,1|2|3|4|5,White|Mixed|Asian|Black|Other
+ethnicity,BiB_Breathes.air_qual_survey.ethnicity,Ethnicity - 16 categories,decimal,,1|10|11|12|13|14|15|16|2|3|4|5|6|7|8|9,"English, Welsh, Scottish, Northern Irish or British|Bangladeshi|Chinese|Any other Asian background|African|Caribbean|Other Black, African or Caribbean background|Any other ethnic group|Irish|Any other White background|White and Black Caribbean|White and Black African|White and Asian|Any other Mixed background|Indian|Pakistani"
 date,BiB_Breathes.air_qual_survey.date,Todays date,date,,,
 bre1_pcd_1,BiB_Breathes.air_qual_survey.bre1_pcd_1,2) Do you travel to Bradford regularly for work/study/leisure?,decimal,,1|2|3,Yes|No|Not Applicable
 bre1_aq_bfd,BiB_Breathes.air_qual_survey.bre1_aq_bfd,3) What do you think about the air quality in Bradford generally?,decimal,,1|2|3|4|5,Very Poor|Poor|Fair|Good|Excellent

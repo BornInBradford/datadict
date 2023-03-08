@@ -1,4 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_Baseline.base_m1_foodfrequency.BiBPregNumber,Pregnancy number within BiB,decimal,,,
 ffq1Vegetarian,BiB_Baseline.base_m1_foodfrequency.ffq1Vegetarian,Are you a vegetarian?,decimal,,0|1|2,No|Yes|Not Completed
 ffq1AvoidFoods,BiB_Baseline.base_m1_foodfrequency.ffq1AvoidFoods,Consistenly avoided eating certain foods over past 1yr?,decimal,,0|1|2|3|4|5,No|High fat foods|Milk or milk products|Red meat|Wheat or gluten|Other
 ffq1AvoidFoodsOther,BiB_Baseline.base_m1_foodfrequency.ffq1AvoidFoodsOther,Which other foods have you avoided eating?,text,,,
