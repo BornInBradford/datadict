@@ -32,6 +32,8 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_baseline/pregnancy_survey/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m_survey/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairm_s/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_cohortinfo/recruitment/</loc>
@@ -145,8 +147,6 @@
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_f_survey/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_biobank/</loc>
-  </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/sdq_data/sdq_data_bib/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_mum/</loc>
   </url><url>
