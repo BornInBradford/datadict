@@ -1,14 +1,15 @@
 variable,full_name,label,value_type,description,categories,categories_label
-ParticipantType,BiB_Geographic.bib_geog_person.ParticipantType,Participants relationship in the family,decimal,,1|2|3,Child|Father|Mother
-date_address_data,BiB_Geographic.bib_geog_person.date_address_data,Date of latest available address data,date,,,
+ParticipantType,BiB_Geographic.bib_geog_person.ParticipantType,Participants relationship in the family,text,,,
 age_m,BiB_Geographic.bib_geog_person.age_m,Participants actual age (months),decimal,,,
-age_closest_data_point,BiB_Geographic.bib_geog_person.age_closest_data_point,Age at data point closest to participants actual age,decimal,,,
-temporal_accuracy_m,BiB_Geographic.bib_geog_person.temporal_accuracy_m,Difference in months between age at closest data point and actual age,decimal,,,
+age_closest_data_point,BiB_Geographic.bib_geog_person.age_closest_data_point,Age at latest available address data (months),decimal,,,
+date_address_data_received,BiB_Geographic.bib_geog_person.date_address_data_received,Date of latest available address data for this time point,date,,,
+months_to_closest_data_received,BiB_Geographic.bib_geog_person.months_to_closest_data_received,Time (months) to most recently received address data,decimal,,,
 property_id,BiB_Geographic.bib_geog_person.property_id,Unique ID of property (BiB generated),text,,,
-move_no,BiB_Geographic.bib_geog_person.move_no,Number of times participant moved house at each time point,decimal,,,
-total_moves,BiB_Geographic.bib_geog_person.total_moves,Cumulative number of times participant has moved house,decimal,,,
+move_no,BiB_Geographic.bib_geog_person.move_no,Cumulative number of times participant moved house including current data point,decimal,,,
+total_moves,BiB_Geographic.bib_geog_person.total_moves,Total number of times participant has moved house within BiB study period,decimal,,,
 LSOA11CD,BiB_Geographic.bib_geog_person.LSOA11CD,LSOA 2011 code,text,,,
 data_source,BiB_Geographic.bib_geog_person.data_source,Source of data: registration or tracing,decimal,,1|2,Registration|Tracing
 not_in_eng_wales,BiB_Geographic.bib_geog_person.not_in_eng_wales,If yes (1) sensitive columns have been set to NA to avoid disclosure of data,decimal,,0|1,No|Yes
-missing_address_data,BiB_Geographic.bib_geog_person.missing_address_data,If yes (1) then address data was not available from tracing or registration data,decimal,,0|1,No|Yes
+no_historical_address_data,BiB_Geographic.bib_geog_person.no_historical_address_data,If yes (1) then no address data was available for any time point,decimal,,0|1,No|Yes
 low_qual_data,BiB_Geographic.bib_geog_person.low_qual_data,"If yes (1), the geocoded data is of unreliable quality and has been removed",decimal,,0|1,No|Yes
+is_data_interpolated,BiB_Geographic.bib_geog_person.is_data_interpolated,"If yes (1), address record has been interpolated from closest available data",decimal,,0|1,No|Yes

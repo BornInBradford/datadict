@@ -52,10 +52,10 @@
 <tbody>
 <tr>
 <td style="text-align:left">Participant</td>
-<td style="text-align:left">7</td>
+<td style="text-align:left">11</td>
 <td style="text-align:left">29664</td>
-<td style="text-align:left">2022-12-22</td>
-<td style="text-align:left"><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/child_info">child_info</a><br><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/father_info">father_info</a><br><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/mother_info">mother_info</a></td>
+<td style="text-align:left">2023-04-26</td>
+<td style="text-align:left"><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/father_info">father_info</a><br><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/mother_info">mother_info</a><br><a href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/child_info">child_info</a></td>
 </tr>
 </tbody>
 </table>
@@ -83,10 +83,34 @@
 <td style="text-align:left">3 unique values<br>29664 non-missing values<br>5 to 6 characters<br></td>
 </tr>
 <tr>
+<td style="text-align:left">ParticipantType_cat</td>
+<td style="text-align:left">Participant type (categorical)</td>
+<td style="text-align:left">decimal</td>
+<td style="text-align:left">1 : Mother<br>2 : Child<br>3 : Father<br>Complete: 29664 (100.00%)<br><br></td>
+</tr>
+<tr>
 <td style="text-align:left">Gender</td>
 <td style="text-align:left">Participant gender</td>
 <td style="text-align:left">text</td>
 <td style="text-align:left">3 unique values<br>29664 non-missing values<br>4 to 13 characters<br></td>
+</tr>
+<tr>
+<td style="text-align:left">Gender_cat</td>
+<td style="text-align:left">Participant gender (categorical)</td>
+<td style="text-align:left">decimal</td>
+<td style="text-align:left">1 : Female<br>2 : Male<br>3 : Indeterminate<br>Complete: 29664 (100.00%)<br><br></td>
+</tr>
+<tr>
+<td style="text-align:left">YearOfBirth</td>
+<td style="text-align:left">Participant year of birth</td>
+<td style="text-align:left">decimal</td>
+<td style="text-align:left">mean (sd)<br>1993.53 (14.96)<br><br>min &lt; median &lt; max<br>1947.00 &lt; 1989.00 &lt; 2011.00<br><br>Complete: 29664 (100.00%)<br><br></td>
+</tr>
+<tr>
+<td style="text-align:left">MonthOfBirth</td>
+<td style="text-align:left">Participant month of birth</td>
+<td style="text-align:left">decimal</td>
+<td style="text-align:left">mean (sd)<br>6.51 (3.50)<br><br>min &lt; median &lt; max<br>1.00 &lt; 7.00 &lt; 12.00<br><br>Complete: 29664 (100.00%)<br><br></td>
 </tr>
 <tr>
 <td style="text-align:left">BiBFatherID</td>
@@ -102,9 +126,9 @@
 </tr>
 <tr>
 <td style="text-align:left">BiBPregNumber</td>
-<td style="text-align:left">Cohort recruited pregnancy number</td>
-<td style="text-align:left">decimal</td>
-<td style="text-align:left">mean (sd)<br>1.10 (0.31)<br><br>min &lt; median &lt; max<br>1.00 &lt; 1.00 &lt; 3.00<br><br>Complete: 13858 (46.72%)<br><br></td>
+<td style="text-align:left">BiB cohort pregnancy number</td>
+<td style="text-align:left">text</td>
+<td style="text-align:left">3 unique values<br>13858 non-missing values<br>1 characters<br></td>
 </tr>
 <tr>
 <td style="text-align:left">PregnancyID</td>
@@ -449,10 +473,6 @@
 <ul class="sub-menu">
 
 <li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_person/">BiB person level geographic information</a>
-  
-</li>
-
-<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house/">BiB house level geographic information</a>
   
 </li>
 
@@ -840,7 +860,11 @@
   
 </li>
 
-<li class=""><a href="https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/sdq_data/">Primary School Years SDQ data</a>
+<li class=" has-sub-menu"><a href="https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/sdq_data/">Primary School Years SDQ data<span class="mark closed">+</span></a>
+  
+<ul class="sub-menu">
+<li class=""><a href="https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/sdq_data/sdq_data_bib/">Primary School Years SDQ data BiB only</a></li>
+</ul>
   
 </li>
 

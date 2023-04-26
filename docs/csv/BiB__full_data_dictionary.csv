@@ -3953,21 +3953,6 @@ BiB_Biosamples,blood_tests,hdl,BiB_Biosamples.blood_tests.hdl,HDL (mmol/L),decim
 BiB_Biosamples,blood_tests,ldl,BiB_Biosamples.blood_tests.ldl,LDL (mmol/L),decimal,,,
 BiB_Biosamples,blood_tests,cholhdl_ratio,BiB_Biosamples.blood_tests.cholhdl_ratio,Cholesterol/HDL Ratio,decimal,,,
 BiB_Biosamples,blood_tests,nonhdlchol,BiB_Biosamples.blood_tests.nonhdlchol,Non HDL Cholesterol,decimal,,,
-BiB_Biosamples,cord_bloods,has_cord_bloods,BiB_Biosamples.cord_bloods.has_cord_bloods,Has baby cord blood biomarkers,decimal,,,
-BiB_Biosamples,cord_bloods,cbldadiponectin,BiB_Biosamples.cord_bloods.cbldadiponectin,Cord blood adiponectin,decimal,,,
-BiB_Biosamples,cord_bloods,cbldbatch,BiB_Biosamples.cord_bloods.cbldbatch,Cord blood batch,decimal,,1|2,Cord bloods batch 1: 2012|Cord bloods batch 2: 2017
-BiB_Biosamples,cord_bloods,cbldchol,BiB_Biosamples.cord_bloods.cbldchol,Cord blood Cholesterol,decimal,,,
-BiB_Biosamples,cord_bloods,cbldcrp,BiB_Biosamples.cord_bloods.cbldcrp,Cord blood CRP,decimal,,,
-BiB_Biosamples,cord_bloods,cbldcrp_miss,BiB_Biosamples.cord_bloods.cbldcrp_miss,Cord blood CRP missing reason,decimal,,1|2|3,CRP: value <0.20 mg/L|CRP: value <0.24 mg/L|CRP: insufficient sample
-BiB_Biosamples,cord_bloods,cbldhdl,BiB_Biosamples.cord_bloods.cbldhdl,Cord blood HDL,decimal,,,
-BiB_Biosamples,cord_bloods,cbldinsulin,BiB_Biosamples.cord_bloods.cbldinsulin,Insulin,decimal,,,
-BiB_Biosamples,cord_bloods,cbldinsulin_miss,BiB_Biosamples.cord_bloods.cbldinsulin_miss,Cord blood insulin missing reason,decimal,,1|2|3,Insulin: value <0.1 mU/L|Insulin: value >25 mU/L|Insulin: insufficient sample
-BiB_Biosamples,cord_bloods,cbldldl,BiB_Biosamples.cord_bloods.cbldldl,Cord blood LDL,decimal,,,
-BiB_Biosamples,cord_bloods,cbldleptin,BiB_Biosamples.cord_bloods.cbldleptin,Cord blood leptin,decimal,,,
-BiB_Biosamples,cord_bloods,cbldleptin_miss,BiB_Biosamples.cord_bloods.cbldleptin_miss,Cord blood leptin missing reason,decimal,,1,Sample haemolysed
-BiB_Biosamples,cord_bloods,cbldtrig,BiB_Biosamples.cord_bloods.cbldtrig,Triglyceride,decimal,,,
-BiB_Biosamples,cord_bloods,cbldvldl,BiB_Biosamples.cord_bloods.cbldvldl,Cord blood VLDL,decimal,,,
-BiB_Biosamples,cord_bloods,has_crdbld,BiB_Biosamples.cord_bloods.has_crdbld,Has baby cord bloods data,decimal,,1,has
 BiB_Biosamples,covid_antibody_blood_tests,covidtestdate,BiB_Biosamples.covid_antibody_blood_tests.covidtestdate,Date of covid test,date,,,
 BiB_Biosamples,covid_antibody_blood_tests,ABresult,BiB_Biosamples.covid_antibody_blood_tests.ABresult,Covid anitbody test result,decimal,,1|2|3,Detected|Equivocal|Not Detected
 BiB_Biosamples,maternal_iodine,BiBPregNumber,BiB_Biosamples.maternal_iodine.BiBPregNumber,Pregnancy number within BiB,decimal,,,
@@ -3991,6 +3976,21 @@ BiB_Biosamples,renal_blood_tests,sodium,BiB_Biosamples.renal_blood_tests.sodium,
 BiB_Biosamples,renal_blood_tests,potassium,BiB_Biosamples.renal_blood_tests.potassium,Potassium (mmol/L),decimal,,,
 BiB_Biosamples,renal_blood_tests,urea,BiB_Biosamples.renal_blood_tests.urea,Urea (mmol/L),decimal,,,
 BiB_Biosamples,renal_blood_tests,creatinine,BiB_Biosamples.renal_blood_tests.creatinine,Creatinine (umol/L),decimal,,,
+BiB_Biosamples,cord_bloods,has_cord_bloods,BiB_Biosamples.cord_bloods.has_cord_bloods,Has baby cord blood biomarkers,decimal,,,
+BiB_Biosamples,cord_bloods,cbldadiponectin,BiB_Biosamples.cord_bloods.cbldadiponectin,Cord blood adiponectin,decimal,,,
+BiB_Biosamples,cord_bloods,cbldbatch,BiB_Biosamples.cord_bloods.cbldbatch,Cord blood batch,decimal,,1|2,Cord bloods batch 1: 2012|Cord bloods batch 2: 2017
+BiB_Biosamples,cord_bloods,cbldchol,BiB_Biosamples.cord_bloods.cbldchol,Cord blood Cholesterol,decimal,,,
+BiB_Biosamples,cord_bloods,cbldcrp,BiB_Biosamples.cord_bloods.cbldcrp,Cord blood CRP,decimal,,,
+BiB_Biosamples,cord_bloods,cbldcrp_miss,BiB_Biosamples.cord_bloods.cbldcrp_miss,Cord blood CRP missing reason,decimal,,1|2|3,CRP: value <0.20 mg/L|CRP: value <0.24 mg/L|CRP: insufficient sample
+BiB_Biosamples,cord_bloods,cbldhdl,BiB_Biosamples.cord_bloods.cbldhdl,Cord blood HDL,decimal,,,
+BiB_Biosamples,cord_bloods,cbldinsulin,BiB_Biosamples.cord_bloods.cbldinsulin,Insulin,decimal,,,
+BiB_Biosamples,cord_bloods,cbldinsulin_miss,BiB_Biosamples.cord_bloods.cbldinsulin_miss,Cord blood insulin missing reason,decimal,,1|2|3,Insulin: value <0.1 mU/L|Insulin: value >25 mU/L|Insulin: insufficient sample
+BiB_Biosamples,cord_bloods,cbldldl,BiB_Biosamples.cord_bloods.cbldldl,Cord blood LDL,decimal,,,
+BiB_Biosamples,cord_bloods,cbldleptin,BiB_Biosamples.cord_bloods.cbldleptin,Cord blood leptin,decimal,,,
+BiB_Biosamples,cord_bloods,cbldleptin_miss,BiB_Biosamples.cord_bloods.cbldleptin_miss,Cord blood leptin missing reason,decimal,,1,Sample haemolysed
+BiB_Biosamples,cord_bloods,cbldtrig,BiB_Biosamples.cord_bloods.cbldtrig,Triglyceride,decimal,,,
+BiB_Biosamples,cord_bloods,cbldvldl,BiB_Biosamples.cord_bloods.cbldvldl,Cord blood VLDL,decimal,,,
+BiB_Biosamples,cord_bloods,has_crdbld,BiB_Biosamples.cord_bloods.has_crdbld,Has baby cord bloods data,decimal,,1,has
 BiB_Biosamples,renal_cystatinc,age_in_months,BiB_Biosamples.renal_cystatinc.age_in_months,GU renal: age at serum sample (months),decimal,,,
 BiB_Biosamples,renal_cystatinc,age_in_years,BiB_Biosamples.renal_cystatinc.age_in_years,GU renal: age at serum sample (years),decimal,,,
 BiB_Biosamples,renal_cystatinc,cystatinc,BiB_Biosamples.renal_cystatinc.cystatinc,Cystatic C from serum,decimal,,,
@@ -4216,10 +4216,14 @@ BiB_ChildGrowth,bioimpedance,cweight,BiB_ChildGrowth.bioimpedance.cweight,"",dec
 BiB_ChildGrowth,bioimpedance,cbmi,BiB_ChildGrowth.bioimpedance.cbmi,BMI (kg/m2),decimal,,,
 BiB_CohortInfo,person_info,PersonID,BiB_CohortInfo.person_info.PersonID,Legacy BiB person identifier,decimal,,,
 BiB_CohortInfo,person_info,ParticipantType,BiB_CohortInfo.person_info.ParticipantType,Participant type - position in cohort family,text,,,
+BiB_CohortInfo,person_info,ParticipantType_cat,BiB_CohortInfo.person_info.ParticipantType_cat,Participant type (categorical),decimal,,1|2|3,Mother|Child|Father
 BiB_CohortInfo,person_info,Gender,BiB_CohortInfo.person_info.Gender,Participant gender,text,,,
+BiB_CohortInfo,person_info,Gender_cat,BiB_CohortInfo.person_info.Gender_cat,Participant gender (categorical),decimal,,1|2|3,Female|Male|Indeterminate
+BiB_CohortInfo,person_info,YearOfBirth,BiB_CohortInfo.person_info.YearOfBirth,Participant year of birth,decimal,,,
+BiB_CohortInfo,person_info,MonthOfBirth,BiB_CohortInfo.person_info.MonthOfBirth,Participant month of birth,decimal,,,
 BiB_CohortInfo,person_info,BiBFatherID,BiB_CohortInfo.person_info.BiBFatherID,BiB person identifier of child's father,text,,,
 BiB_CohortInfo,person_info,BiBMotherID,BiB_CohortInfo.person_info.BiBMotherID,BiB person identifier of child's mother,text,,,
-BiB_CohortInfo,person_info,BiBPregNumber,BiB_CohortInfo.person_info.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
+BiB_CohortInfo,person_info,BiBPregNumber,BiB_CohortInfo.person_info.BiBPregNumber,BiB cohort pregnancy number,text,,,
 BiB_CohortInfo,person_info,PregnancyID,BiB_CohortInfo.person_info.PregnancyID,Legacy BiB pregnancy ID,text,,,
 BiB_CohortInfo,ethnicity,ParticipantType,BiB_CohortInfo.ethnicity.ParticipantType,BiB participant type,decimal,,1|2|3,Mother|Father|Child
 BiB_CohortInfo,ethnicity,ethsource,BiB_CohortInfo.ethnicity.ethsource,Source of ethnicity data,decimal,,1|2|3|4|5,Growing Up|Baseline|Primary care|Education records|Mother's ethnicity
@@ -4512,30 +4516,27 @@ BiB_Education_Record,edrecs_ks2,writing_TAO,BiB_Education_Record.edrecs_ks2.writ
 BiB_Education_Record,edrecs_ks2,maths_ProgressScore,BiB_Education_Record.edrecs_ks2.maths_ProgressScore,Maths - Progress Score,decimal,,,
 BiB_Education_Record,edrecs_ks2,reading_ProgressScore,BiB_Education_Record.edrecs_ks2.reading_ProgressScore,Reading - Progress Score,decimal,,,
 BiB_Education_Record,edrecs_ks2,writing_ProgressScore,BiB_Education_Record.edrecs_ks2.writing_ProgressScore,Writing - Progress Score,decimal,,,
-BiB_Geographic,bib_geog_person,ParticipantType,BiB_Geographic.bib_geog_person.ParticipantType,Participants relationship in the family,decimal,,1|2|3,Child|Father|Mother
-BiB_Geographic,bib_geog_person,date_address_data,BiB_Geographic.bib_geog_person.date_address_data,Date of latest available address data,date,,,
+BiB_Geographic,bib_geog_person,ParticipantType,BiB_Geographic.bib_geog_person.ParticipantType,Participants relationship in the family,text,,,
 BiB_Geographic,bib_geog_person,age_m,BiB_Geographic.bib_geog_person.age_m,Participants actual age (months),decimal,,,
-BiB_Geographic,bib_geog_person,age_closest_data_point,BiB_Geographic.bib_geog_person.age_closest_data_point,Age at data point closest to participants actual age,decimal,,,
-BiB_Geographic,bib_geog_person,temporal_accuracy_m,BiB_Geographic.bib_geog_person.temporal_accuracy_m,Difference in months between age at closest data point and actual age,decimal,,,
+BiB_Geographic,bib_geog_person,age_closest_data_point,BiB_Geographic.bib_geog_person.age_closest_data_point,Age at latest available address data (months),decimal,,,
+BiB_Geographic,bib_geog_person,date_address_data_received,BiB_Geographic.bib_geog_person.date_address_data_received,Date of latest available address data for this time point,date,,,
+BiB_Geographic,bib_geog_person,months_to_closest_data_received,BiB_Geographic.bib_geog_person.months_to_closest_data_received,Time (months) to most recently received address data,decimal,,,
 BiB_Geographic,bib_geog_person,property_id,BiB_Geographic.bib_geog_person.property_id,Unique ID of property (BiB generated),text,,,
-BiB_Geographic,bib_geog_person,move_no,BiB_Geographic.bib_geog_person.move_no,Number of times participant moved house at each time point,decimal,,,
-BiB_Geographic,bib_geog_person,total_moves,BiB_Geographic.bib_geog_person.total_moves,Cumulative number of times participant has moved house,decimal,,,
+BiB_Geographic,bib_geog_person,move_no,BiB_Geographic.bib_geog_person.move_no,Cumulative number of times participant moved house including current data point,decimal,,,
+BiB_Geographic,bib_geog_person,total_moves,BiB_Geographic.bib_geog_person.total_moves,Total number of times participant has moved house within BiB study period,decimal,,,
 BiB_Geographic,bib_geog_person,LSOA11CD,BiB_Geographic.bib_geog_person.LSOA11CD,LSOA 2011 code,text,,,
 BiB_Geographic,bib_geog_person,data_source,BiB_Geographic.bib_geog_person.data_source,Source of data: registration or tracing,decimal,,1|2,Registration|Tracing
 BiB_Geographic,bib_geog_person,not_in_eng_wales,BiB_Geographic.bib_geog_person.not_in_eng_wales,If yes (1) sensitive columns have been set to NA to avoid disclosure of data,decimal,,0|1,No|Yes
-BiB_Geographic,bib_geog_person,missing_address_data,BiB_Geographic.bib_geog_person.missing_address_data,If yes (1) then address data was not available from tracing or registration data,decimal,,0|1,No|Yes
+BiB_Geographic,bib_geog_person,no_historical_address_data,BiB_Geographic.bib_geog_person.no_historical_address_data,If yes (1) then no address data was available for any time point,decimal,,0|1,No|Yes
 BiB_Geographic,bib_geog_person,low_qual_data,BiB_Geographic.bib_geog_person.low_qual_data,"If yes (1), the geocoded data is of unreliable quality and has been removed",decimal,,0|1,No|Yes
-BiB_Geographic,bib_geog_house,LSOA11CD,BiB_Geographic.bib_geog_house.LSOA11CD,LSOA 2011 code,text,,,
-BiB_Geographic,bib_geog_house,WD21CD,BiB_Geographic.bib_geog_house.WD21CD,Ward 2021 code,text,,,
-BiB_Geographic,bib_geog_house,house_type,BiB_Geographic.bib_geog_house.house_type,Property type,decimal,,1|2|3|4|5,Terraced|Semi-Detached|Detached|Flat (including Maisonette/Apartment)|Other
-BiB_Geographic,bib_geog_house,is_in_bfd_la,BiB_Geographic.bib_geog_house.is_in_bfd_la,Is participant in Bradford LA?,decimal,,0|1,No|Yes
-BiB_Geographic,bib_geog_house,is_in_bibbs_area,BiB_Geographic.bib_geog_house.is_in_bibbs_area,Is participant in BiBBS area?,decimal,,0|1,No|Yes
-BiB_Geographic,bib_geog_house,is_in_caz,BiB_Geographic.bib_geog_house.is_in_caz,Is participant in clean air zone (CAZ)?,decimal,,0|1,No|Yes
+BiB_Geographic,bib_geog_person,is_data_interpolated,BiB_Geographic.bib_geog_person.is_data_interpolated,"If yes (1), address record has been interpolated from closest available data",decimal,,0|1,No|Yes
 BiB_Geographic,bib_geog_lsoa,IMD_2010_decile,BiB_Geographic.bib_geog_lsoa.IMD_2010_decile,IMD 2010 decile,decimal,,,
 BiB_Geographic,bib_geog_lsoa,IMD_2010_score,BiB_Geographic.bib_geog_lsoa.IMD_2010_score,IMD 2010 score,decimal,,,
 BiB_Geographic,bib_geog_lsoa,IMD_2019_decile,BiB_Geographic.bib_geog_lsoa.IMD_2019_decile,IMD 2019 decile,decimal,,,
 BiB_Geographic,bib_geog_lsoa,IMD_2019_score,BiB_Geographic.bib_geog_lsoa.IMD_2019_score,IMD 2019 score,decimal,,,
 BiB_Geographic,bib_geog_lsoa,IMD_2019_decile_bfd,BiB_Geographic.bib_geog_lsoa.IMD_2019_decile_bfd,IMD 2019 decile - reclassified for only Bradford LSOA,decimal,,,
+BiB_Geographic,bib_geog_lsoa,IDACI_2019_decile,BiB_Geographic.bib_geog_lsoa.IDACI_2019_decile,Income Deprivation Affecting Children Index (IDACI) 2019 decile,decimal,,,
+BiB_Geographic,bib_geog_lsoa,IDACI_2019_score,BiB_Geographic.bib_geog_lsoa.IDACI_2019_score,Income Deprivation Affecting Children Index (IDACI) 2019 score,decimal,,,
 BiB_Geographic,bib_geog_lsoa,TDI_2011_score,BiB_Geographic.bib_geog_lsoa.TDI_2011_score,Townsend deprivation index (score) using 2011 census data,decimal,,,
 BiB_Geographic,bib_geog_lsoa,TDI_2011_quintile,BiB_Geographic.bib_geog_lsoa.TDI_2011_quintile,Townsend deprivation index (quintile) using 2011 census data,decimal,,,
 BiB_Geographic,bib_geog_house_air_quality,aq_2018_cbmcd_pm10_g_1_100_mean,BiB_Geographic.bib_geog_house_air_quality.aq_2018_cbmcd_pm10_g_1_100_mean,"Mean conc of PM10 within 100m circular buffer of home address, 2018 CBMDC",decimal,"Average concentration of Particulate Matter (PM10 < 10µm) in micrograms within 100m circular buffer around the home address, using 2018 data from the City of Bradford Metropolitan District Council.",,

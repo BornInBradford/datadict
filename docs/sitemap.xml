@@ -108,8 +108,6 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/renal_cystatinc/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house/</loc>
-  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/maternal_iodine/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/ad_core_geog/</loc>
@@ -147,6 +145,8 @@
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_f_survey/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_biobank/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/sdq_data/sdq_data_bib/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_mum/</loc>
   </url><url>

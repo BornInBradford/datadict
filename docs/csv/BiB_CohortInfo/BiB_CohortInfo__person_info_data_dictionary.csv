@@ -1,8 +1,12 @@
 variable,full_name,label,value_type,description,categories,categories_label
 PersonID,BiB_CohortInfo.person_info.PersonID,Legacy BiB person identifier,decimal,,,
 ParticipantType,BiB_CohortInfo.person_info.ParticipantType,Participant type - position in cohort family,text,,,
+ParticipantType_cat,BiB_CohortInfo.person_info.ParticipantType_cat,Participant type (categorical),decimal,,1|2|3,Mother|Child|Father
 Gender,BiB_CohortInfo.person_info.Gender,Participant gender,text,,,
+Gender_cat,BiB_CohortInfo.person_info.Gender_cat,Participant gender (categorical),decimal,,1|2|3,Female|Male|Indeterminate
+YearOfBirth,BiB_CohortInfo.person_info.YearOfBirth,Participant year of birth,decimal,,,
+MonthOfBirth,BiB_CohortInfo.person_info.MonthOfBirth,Participant month of birth,decimal,,,
 BiBFatherID,BiB_CohortInfo.person_info.BiBFatherID,BiB person identifier of child's father,text,,,
 BiBMotherID,BiB_CohortInfo.person_info.BiBMotherID,BiB person identifier of child's mother,text,,,
-BiBPregNumber,BiB_CohortInfo.person_info.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
+BiBPregNumber,BiB_CohortInfo.person_info.BiBPregNumber,BiB cohort pregnancy number,text,,,
 PregnancyID,BiB_CohortInfo.person_info.PregnancyID,Legacy BiB pregnancy ID,text,,,
