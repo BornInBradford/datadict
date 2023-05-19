@@ -59,7 +59,7 @@
 </tr>
 </tbody>
 </table>
-<p>BiB participants address location every 6 months from birth. Contains person level information, such as age, number of house moves and data qulaity indicatiors. Can be linked to bib_geog_house by &ldquo;property_id&rdquo; and bib_geog_lsoa by &ldquo;LSOA11CD&rdquo;. Obtained from monthly NHS Tracing Service searches.</p>
+<p>BiB participants address location estimated for every 6 months from first event of study participation (e.g. birth or registration). Contains person level information, such as age, number of house moves and data quality indicators.   <br> <strong>Data construction</strong>:  The source data for this table is address strings from monthly searches of the NHS Tracing service (e.g. health care records), which contain limited geographic information and are temporally irregular. To improve the quality of the geographic data, the address strings are passed through the <a href="https://osdatahub.os.uk/docs/places/overview">OS Places API</a>, which attempts to match each address string to a geo-located address, providing additional geographic information.  <br> <strong>Important information on temporal data:</strong> This dataset contains data from two separate timelines, which are important to clarify. Temporal variables fixed to the participants age such as <em>age_m</em> are calculated at 6 monthly periods based on date of birth. Separately, address data from NHS tracing services, such as <em>date_address_data_received</em> is received as and when, and may not align with the 6 monthly time periods used to structure the dataset. Where this occurs, address data for some 6 monthly time points has been interpolated from the nearest available data from NHS tracing.  The variable <em>is_data_interpolated</em> flags if data has been interpolated, whilst <em>months_to_closest_data_received</em> can be used to assess the temporal difference between the participants age, and the recency of the address data. <br>  <strong>Usage instructions:</strong> Can be linked to bib_geog_property by &ldquo;property_id&rdquo; and bib_geog_lsoa by &ldquo;LSOA11CD&rdquo;.</p>
 <table>
 <thead>
 <tr>
@@ -104,7 +104,7 @@
 <td style="text-align:left">property_id</td>
 <td style="text-align:left">Unique ID of property (BiB generated)</td>
 <td style="text-align:left">text</td>
-<td style="text-align:left">32009 unique values<br>834631 non-missing values<br>1 to 40 characters<br></td>
+<td style="text-align:left">32009 unique values<br>834566 non-missing values<br>1 to 40 characters<br></td>
 </tr>
 <tr>
 <td style="text-align:left">move_no</td>
@@ -122,7 +122,7 @@
 <td style="text-align:left">LSOA11CD</td>
 <td style="text-align:left">LSOA 2011 code</td>
 <td style="text-align:left">text</td>
-<td style="text-align:left">3502 unique values<br>834602 non-missing values<br>1 to 9 characters<br></td>
+<td style="text-align:left">3502 unique values<br>834564 non-missing values<br>1 to 9 characters<br></td>
 </tr>
 <tr>
 <td style="text-align:left">data_source</td>
@@ -159,7 +159,7 @@
 <div class="edit-meta">
 
 <br></div><nav class="pagination"><a class="nav nav-prev" href="https://borninbradford.github.io/datadict/bib/bib_geographic/" title="BiB Geographic Information"><i class="fas fa-arrow-left" aria-hidden="true"></i> Prev - BiB Geographic Information</a>
-<a class="nav nav-next" href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_lsoa/" title="BiB LSOA level geographic information">Next - BiB LSOA level geographic information <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+<a class="nav nav-next" href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_property/" title="BiB property level geographic information">Next - BiB property level geographic information <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
 </nav><footer></footer>
 </main>
 <div class="sidebar">
@@ -494,31 +494,27 @@
   
 </li>
 
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_property/">BiB property level geographic information</a>
+  
+</li>
+
 <li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_lsoa/">BiB LSOA level geographic information</a>
   
 </li>
 
-<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_air_quality/">BiB house level air quality information</a>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_air_quality/">BiB property level air quality information</a>
   
 </li>
 
-<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_built_env_indoor_qual/">BiB house level built environment and indoor building quality</a>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_built_env_indoor_qual/">BiB property level built environment and indoor building quality</a>
   
 </li>
 
-<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_food_env/">BiB house level food environment data</a>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_public_transport_traffic/">BiB property level public transport and traffic data</a>
   
 </li>
 
-<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_gs_greenness/">BiB house level green space and greenness data</a>
-  
-</li>
-
-<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_public_transport_traffic/">BiB house level public transport and traffic data</a>
-  
-</li>
-
-<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_sc_walkability_lu/">BiB house level street centrality, walkabilty and land use data</a>
+<li class=""><a href="https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_sc_walkability_lu/">BiB property level street centrality, walkabilty and land use data</a>
   
 </li>
 </ul>
@@ -994,15 +990,31 @@
   
 <ul class="sub-menu">
 
-<li class=""><a href="https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/ch_core_geog/">BiBBS child core geographic information</a>
+<li class=""><a href="https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/bibbs_geog_person/">BiBBS person level geographic information</a>
   
 </li>
 
-<li class=""><a href="https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/ad_core_geog/">BiBBS adult core geographic information</a>
+<li class=""><a href="https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/bibbs_geog_property/">BiBBS property level geographic information</a>
   
 </li>
 
-<li class=""><a href="https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/house_nbhd/">BiBBS participant&#39;s housing and neighbourhood information</a>
+<li class=""><a href="https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/bibbs_geog_lsoa/">BiBBS LSOA level geographic information</a>
+  
+</li>
+
+<li class=""><a href="https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/bibbs_geog_air_quality/">BiBBS property level air quality information</a>
+  
+</li>
+
+<li class=""><a href="https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/bibbs_geog_built_env_indoor_qual/">BiBBS property level built environment and indoor building quality</a>
+  
+</li>
+
+<li class=""><a href="https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/bibbs_geog_public_transport_traffic/">BiBBS property level public transport and traffic data</a>
+  
+</li>
+
+<li class=""><a href="https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/bibbs_geog_sc_walkability_lu/">BiBBS property level street centrality, walkabilty and land use data</a>
   
 </li>
 </ul>

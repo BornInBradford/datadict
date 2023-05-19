@@ -1,0 +1,7 @@
+variable,full_name,label,value_type,description,categories,categories_label
+LSOA11CD,BiBBS_Geographic.bibbs_geog_property.LSOA11CD,LSOA 2011 code,text,,,
+WD21CD,BiBBS_Geographic.bibbs_geog_property.WD21CD,Ward 2021 code,text,,,
+property_type,BiBBS_Geographic.bibbs_geog_property.property_type,Property type,decimal,,1|2|3|4|5,Terraced|Semi-Detached|Detached|Flat (including Maisonette/Apartment)|Other
+is_in_bfd_la,BiBBS_Geographic.bibbs_geog_property.is_in_bfd_la,Is participant in Bradford LA?,decimal,,0|1,No|Yes
+is_in_bibbs_area,BiBBS_Geographic.bibbs_geog_property.is_in_bibbs_area,Is participant in BiBBS area?,decimal,,0|1,No|Yes
+is_in_caz,BiBBS_Geographic.bibbs_geog_property.is_in_caz,Is participant in clean air zone (CAZ)?,decimal,,0|1,No|Yes

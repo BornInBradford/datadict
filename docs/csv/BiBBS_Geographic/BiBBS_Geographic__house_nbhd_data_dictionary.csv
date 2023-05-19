@@ -1,8 +1,0 @@
-variable,full_name,label,value_type,description,categories,categories_label
-age_m,BiBBS_Geographic.house_nbhd.age_m,Participants actual age (months),decimal,,,
-IMD_2010_decile,BiBBS_Geographic.house_nbhd.IMD_2010_decile,IMD 2010 decile,decimal,,,
-IMD_2010_score,BiBBS_Geographic.house_nbhd.IMD_2010_score,IMD 2010 score,decimal,,,
-IMD_2019_decile,BiBBS_Geographic.house_nbhd.IMD_2019_decile,IMD 2019 decile,decimal,,,
-IMD_2019_score,BiBBS_Geographic.house_nbhd.IMD_2019_score,IMD 2019 score,decimal,,,
-IMD_2019_decile_bfd,BiBBS_Geographic.house_nbhd.IMD_2019_decile_bfd,IMD 2019 decile - reclassified using only Bradford LSOA,decimal,,,
-house_type,BiBBS_Geographic.house_nbhd.house_type,Property type,decimal,,1|2|3|4|5,Terraced|Semi-Detached|Self Contained Flat (Includes Maisonette / Apartment)|Detached|Other
