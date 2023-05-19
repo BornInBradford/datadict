@@ -1,0 +1,14 @@
+variable,full_name,label,value_type,description,categories,categories_label
+date_address_data,BiBBS_Geographic.ad_core_geog.date_address_data,Date of latest available address data,date,,,
+age_m,BiBBS_Geographic.ad_core_geog.age_m,Participants actual age (months),decimal,,,
+age_closest_data_point,BiBBS_Geographic.ad_core_geog.age_closest_data_point,Age at data point closest to participants actual age,decimal,,,
+temporal_accuracy_m,BiBBS_Geographic.ad_core_geog.temporal_accuracy_m,Difference in months between participants age at closest data point and actual a,decimal,,,
+LSOA11CD,BiBBS_Geographic.ad_core_geog.LSOA11CD,LSOA 2011 code,text,,,
+WD21CD,BiBBS_Geographic.ad_core_geog.WD21CD,Ward 2021 code,text,,,
+is_in_bfd_la,BiBBS_Geographic.ad_core_geog.is_in_bfd_la,Is participant in Bradford LA?,decimal,,0|1,No|Yes
+is_in_bibbs_area,BiBBS_Geographic.ad_core_geog.is_in_bibbs_area,Is participant in BiBBS area?,decimal,,0|1,No|Yes
+data_source,BiBBS_Geographic.ad_core_geog.data_source,Source of data: registration (1) or tracing (2),decimal,,1|2,Registration|Tracing
+study,BiBBS_Geographic.ad_core_geog.study,Is participant in BiB (1) or BiBBS (2),decimal,,1|2,BiB|BiBBS
+not_in_eng_wales,BiBBS_Geographic.ad_core_geog.not_in_eng_wales,Indicates if address is not in England or Wales,decimal,,0|1,No|Yes
+missing_address_data,BiBBS_Geographic.ad_core_geog.missing_address_data,Indicates if record has missing address data,decimal,,0|1,No|Yes
+poor_qual_data,BiBBS_Geographic.ad_core_geog.poor_qual_data,Indicates if record has poor quality data,decimal,,0|1,No|Yes

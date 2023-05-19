@@ -16,6 +16,8 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/ch_core_geog/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_breathes/air_qual_survey/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_childgrowth/growth_anthro/</loc>
@@ -108,6 +110,8 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/maternal_iodine/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/ad_core_geog/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_childgrowth/bioimpedance/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_congenital_anomalies/conganom_gp/</loc>
@@ -151,6 +155,8 @@
     <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_lsoa/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/house_nbhd/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_bibplus_phase3/</loc>
   </url><url>
@@ -487,6 +493,18 @@
     <loc>https://borninbradford.github.io/datadict/crosscohort/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_air_quality/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_built_env_indoor_qual/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_food_env/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_gs_greenness/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_public_transport_traffic/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_house_sc_walkability_lu/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/categories/</loc>
   </url><url>
