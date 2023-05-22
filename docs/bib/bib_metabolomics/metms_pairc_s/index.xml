@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MS metabolomics paired child samples scaled on Born in Bradford Data Dictionary</title>
+    <link>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/</link>
+    <description>Recent content in MS metabolomics paired child samples scaled on Born in Bradford Data Dictionary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MS metabolomics paired child samples raw</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_r/</guid>
+      <description>Table ID: BiB_Metabolomics.metms_pairc_r
+github | csv
+   Entity type Variables Entities Updated     Participant 1170 1000 2022-09-30    Mass spectrometry metabolomics (Metabolon) with over 1300 markers from neonatal bloods. Paired mother pregnancy sample data also available. Raw values.
+   variable label value_type summary     has_metms_pairc_r Has ms metabolomics paired child samples raw decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+    <item>
+      <title>MS metabolomics paired child samples header</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_h/</guid>
+      <description>Table ID: BiB_Metabolomics.metms_pairc_h
+github | csv
+   Entity type Variables Entities Updated     Participant 6 1000 2022-09-30    Sample header information (meta data) from mass spectrometry metabolomics (Metabolon) on paired child samples.
+   variable label value_type summary     has_metms_pairc_h Has ms metabolomics paired child samples header decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.</description>
+    </item>
+    
+    <item>
+      <title>MS metabolomics paired child samples compound metadata</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_c/</guid>
+      <description>Table ID: BiB_Metabolomics.metms_pairc_c
+github | csv
+   Entity type Variables Entities Updated     Compound 19 1168 2022-09-30    Meta data about compounds (markers) from mass spectrometry metabolomics (Metabolon) on paired child samples.
+   variable value_type summary     VariableNameRaw text 1168 unique values
+1168 non-missing values
+8 to 11 characters
+   VariableNameScaled text 1168 unique values
+1168 non-missing values</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MeDALL Questionnaire on Born in Bradford Data Dictionary</title>
+    <link>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/</link>
+    <description>Recent content in MeDALL Questionnaire on Born in Bradford Data Dictionary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MeDALL Questionnaire reactions to food</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/medall_qd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/medall_qd1/</guid>
+      <description>Table ID: BiB_MeDALL.medall_qd1
+github | csv
+   Entity type Variables Entities Updated     Participant 16 2594 2022-09-30    MeDALL questionnaire. Question D1: child abnormal reactions to food.
+   variable label value_type summary     has_medall_qd1 Has medall questionnaire: reactions to food decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+Complete: 2604 (100.00%)</description>
+    </item>
+    
+    <item>
+      <title>MeDALL Questionnaire reactions to medicines</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/medall_qd5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/medall_qd5/</guid>
+      <description>Table ID: BiB_MeDALL.medall_qd5
+github | csv
+   Entity type Variables Entities Updated     Participant 13 2594 2022-09-30    MeDALL questionnaire. Question D5: child abnormal reactions to medicines.
+   variable label value_type summary     has_medall_qd5 Has medall questionnaire: reactions to medicines decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+Complete: 2598 (100.00%)</description>
+    </item>
+    
+    <item>
+      <title>MeDALL Questionnaire reactions to vaccines</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/medall_qd8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_medall/medall_quest/medall_qd8/</guid>
+      <description>Table ID: BiB_MeDALL.medall_qd8
+github | csv
+   Entity type Variables Entities Updated     Participant 13 2594 2022-09-30    MeDALL questionnaire. Question D8: child abnormal reactions to vaccines.
+   variable label value_type summary     has_medall_qd8 Has medall questionnaire: reactions to vaccines decimal mean (sd)
+1.00 (0.00)
+min &amp;lt; median &amp;lt; max
+1.00 &amp;lt; 1.00 &amp;lt; 1.00
+Complete: 2595 (100.00%)</description>
+    </item>
+    
+  </channel>
+</rss>
