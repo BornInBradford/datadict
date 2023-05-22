@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Pregnancy.matrecs_bib_preg.BiBPregNumber,"",decimal,,,
+BiBPregNumber,BiB_Pregnancy.matrecs_bib_preg.BiBPregNumber,,decimal,,,
 has_matrecs_bib_preg,BiB_Pregnancy.matrecs_bib_preg.has_matrecs_bib_preg,Has maternity records bib pregnancy,decimal,,,
 has_prnprg,BiB_Pregnancy.matrecs_bib_preg.has_prnprg,Has: Pregnancy third trimester weight,decimal,,1,has
 prnbp3rdtriw,BiB_Pregnancy.matrecs_bib_preg.prnbp3rdtriw,3rd trimester weight,decimal,,,

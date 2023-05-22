@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPersonID,BiB_PrimarySchoolYears.ef_task_inhibition_bib.BiBPersonID,"",text,,,
+BiBPersonID,BiB_PrimarySchoolYears.ef_task_inhibition_bib.BiBPersonID,,text,,,
 PSYSchoolID,BiB_PrimarySchoolYears.ef_task_inhibition_bib.PSYSchoolID,Primary School Years: School pseudonym,decimal,,,
 PSYClassID,BiB_PrimarySchoolYears.ef_task_inhibition_bib.PSYClassID,Primary School Years: Class pseudonym,decimal,,,
 TestYearGroup,BiB_PrimarySchoolYears.ef_task_inhibition_bib.TestYearGroup,Year group of Inhibition completion,decimal,,,

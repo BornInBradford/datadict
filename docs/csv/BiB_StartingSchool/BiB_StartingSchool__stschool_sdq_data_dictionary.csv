@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPersonID,BiB_StartingSchool.stschool_sdq.BiBPersonID,"",text,,,
+BiBPersonID,BiB_StartingSchool.stschool_sdq.BiBPersonID,,text,,,
 has_stschool_sdq,BiB_StartingSchool.stschool_sdq.has_stschool_sdq,Has starting school: sdq,decimal,,,
 has_sscsdq,BiB_StartingSchool.stschool_sdq.has_sscsdq,Has Starting School SDQ,decimal,,1,has
 sssdqcasecondprob,BiB_StartingSchool.stschool_sdq.sssdqcasecondprob,SDQ Conduct Subscale Caseness,decimal,,1|2|3,Normal|Borderline|Abnormal

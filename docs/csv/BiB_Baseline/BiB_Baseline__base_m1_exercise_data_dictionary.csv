@@ -1,7 +1,7 @@
 variable,full_name,label,value_type,description,categories,categories_label
 BiBPregNumber,BiB_Baseline.base_m1_exercise.BiBPregNumber,Pregnancy number within BiB,decimal,,,
 BiBPersonID,BiB_Baseline.base_m1_exercise.BiBPersonID,Mother identifier,text,,,
-questionnairephase,BiB_Baseline.base_m1_exercise.questionnairephase,"",decimal,,,
+questionnairephase,BiB_Baseline.base_m1_exercise.questionnairephase,,decimal,,,
 exe1slphrs,BiB_Baseline.base_m1_exercise.exe1slphrs,Over typical 24hrs how many hours spent sleeping or lying with feet up,decimal,,,
 exe1sithrs,BiB_Baseline.base_m1_exercise.exe1sithrs,Of hours not sleeping how many hours spent sitting down,decimal,,,
 exe1fethrs,BiB_Baseline.base_m1_exercise.exe1fethrs,How many hours a day spent on your feet,decimal,,,

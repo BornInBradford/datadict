@@ -1,7 +1,7 @@
 variable,full_name,label,value_type,description,categories,categories_label
 Cohort,COVID19_Survey.adult_phase1.Cohort,Cohort,decimal,,1|2,BiB|Better Start
 BiBPersonID,COVID19_Survey.adult_phase1.BiBPersonID,BiB participant study ID,text,,,
-BiBBSPersonID,COVID19_Survey.adult_phase1.BiBBSPersonID,"",text,,,
+BiBBSPersonID,COVID19_Survey.adult_phase1.BiBBSPersonID,,text,,,
 BiBParticipantType,COVID19_Survey.adult_phase1.BiBParticipantType,BiB Participant Type,text,,,
 Date,COVID19_Survey.adult_phase1.Date,Date of COVID-19 Adult Wave 1 survey,date,,,
 age_months,COVID19_Survey.adult_phase1.age_months,Age in months,decimal,,,
@@ -13,7 +13,7 @@ ladistrictcode2019,COVID19_Survey.adult_phase1.ladistrictcode2019,Local Authorit
 ladistrictname2019,COVID19_Survey.adult_phase1.ladistrictname2019,Local Authority District name (2019),text,,,
 ward,COVID19_Survey.adult_phase1.ward,Ward,text,,,
 lsoacode2011,COVID19_Survey.adult_phase1.lsoacode2011,LSOA code (2011),text,,,
-lsoaname2011,COVID19_Survey.adult_phase1.lsoaname2011,"",text,,,
+lsoaname2011,COVID19_Survey.adult_phase1.lsoaname2011,,text,,,
 imdrank,COVID19_Survey.adult_phase1.imdrank,Index of Multiple Deprivation (IMD) Rank,decimal,,,
 imddecile,COVID19_Survey.adult_phase1.imddecile,Index of Multiple Deprivation (IMD) Decile,decimal,,,
 Age_01April2020,COVID19_Survey.adult_phase1.Age_01April2020,Age (years) as at 1st April 2020,decimal,,,

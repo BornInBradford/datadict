@@ -1,7 +1,7 @@
 project,table,variable,full_name,label,value_type,description,categories,categories_label
 COVID19_Survey,adult_phase1,Cohort,COVID19_Survey.adult_phase1.Cohort,Cohort,decimal,,1|2,BiB|Better Start
 COVID19_Survey,adult_phase1,BiBPersonID,COVID19_Survey.adult_phase1.BiBPersonID,BiB participant study ID,text,,,
-COVID19_Survey,adult_phase1,BiBBSPersonID,COVID19_Survey.adult_phase1.BiBBSPersonID,"",text,,,
+COVID19_Survey,adult_phase1,BiBBSPersonID,COVID19_Survey.adult_phase1.BiBBSPersonID,,text,,,
 COVID19_Survey,adult_phase1,BiBParticipantType,COVID19_Survey.adult_phase1.BiBParticipantType,BiB Participant Type,text,,,
 COVID19_Survey,adult_phase1,Date,COVID19_Survey.adult_phase1.Date,Date of COVID-19 Adult Wave 1 survey,date,,,
 COVID19_Survey,adult_phase1,age_months,COVID19_Survey.adult_phase1.age_months,Age in months,decimal,,,
@@ -13,7 +13,7 @@ COVID19_Survey,adult_phase1,ladistrictcode2019,COVID19_Survey.adult_phase1.ladis
 COVID19_Survey,adult_phase1,ladistrictname2019,COVID19_Survey.adult_phase1.ladistrictname2019,Local Authority District name (2019),text,,,
 COVID19_Survey,adult_phase1,ward,COVID19_Survey.adult_phase1.ward,Ward,text,,,
 COVID19_Survey,adult_phase1,lsoacode2011,COVID19_Survey.adult_phase1.lsoacode2011,LSOA code (2011),text,,,
-COVID19_Survey,adult_phase1,lsoaname2011,COVID19_Survey.adult_phase1.lsoaname2011,"",text,,,
+COVID19_Survey,adult_phase1,lsoaname2011,COVID19_Survey.adult_phase1.lsoaname2011,,text,,,
 COVID19_Survey,adult_phase1,imdrank,COVID19_Survey.adult_phase1.imdrank,Index of Multiple Deprivation (IMD) Rank,decimal,,,
 COVID19_Survey,adult_phase1,imddecile,COVID19_Survey.adult_phase1.imddecile,Index of Multiple Deprivation (IMD) Decile,decimal,,,
 COVID19_Survey,adult_phase1,Age_01April2020,COVID19_Survey.adult_phase1.Age_01April2020,Age (years) as at 1st April 2020,decimal,,,
@@ -512,7 +512,7 @@ COVID19_Survey,adult_bib_phase2,c19a2_symp_swell___7,COVID19_Survey.adult_bib_ph
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_symp_wk,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_symp_wk,48) Have you experienced any of the symptoms above in the last week?,decimal,,0|1,No|Yes
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_cnct,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_cnct,49) Have you been in close contact with anyone with Covid-19 in the last two wee,decimal,,1|2|3,"Yes, I was in contact with a confirmed/tested Covid-19 case|Yes, I was in contact with a suspected Covid-19 case|No, not to my knowledge"
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_expsymp,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_expsymp,50) Do you think you have or have had Covid-19?,decimal,,1|2|3|4,"Yes, confirmed by a positive test|Yes, suspected by a doctor but not tested|Yes, my own suspicions|No"
-COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_sympwhn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_sympwhn,"",date,,,
+COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_sympwhn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_sympwhn,,date,,,
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_test___0,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_test___0,51) Have you ever had a test to see if you have or have had Covid-19 (tell us ab,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_test___1,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_test___1,51) Have you ever had a test to see if you have or have had Covid-19 (tell us ab,decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_test___2,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_test___2,51) Have you ever had a test to see if you have or have had Covid-19 (tell us ab,decimal,,0|1,Unchecked|Checked
@@ -525,11 +525,11 @@ COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testtyp___3,COVID19_Survey.adult_bib
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testtyp____2,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testtyp____2,What kind of test have you had (tick all that apply)? (choice=Dont know),decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testtyp_exp,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testtyp_exp,"If you said Other, please can you describe here",text,,,
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testswab,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testswab,52) Have you had a positive result from a swab test?,decimal,,-2|0|1,Dont know|No|Yes
-COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testswab_whn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testswab_whn,"",date,,,
+COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testswab_whn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testswab_whn,,date,,,
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testab,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testab,53) Have you had a positive result from an antibody test?,decimal,,-2|0|1,Dont know|No|Yes
-COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testab_whn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testab_whn,"",date,,,
+COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testab_whn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testab_whn,,date,,,
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testoth,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testoth,54) Have you had a positive result from the other test?,decimal,,-2|0|1,Dont know|No|Yes
-COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testoth_whn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testoth_whn,"",date,,,
+COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testoth_whn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testoth_whn,,date,,,
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testiso,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testiso,"55) If you or a household member had symptoms or a positive test result, did you",decimal,,0|1,No|Yes - go to question 56.
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_testiso_no,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testiso_no,"If you answered no, can you please tell us why?",text,,,
 COVID19_Survey,adult_bib_phase2,c19a2_cv_wt_flu,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_flu,56) Have you had the flu vaccine in the last year?,decimal,,-2|0|1,Dont know|No|Yes
@@ -900,8 +900,8 @@ COVID19_Survey,adult_bibplus_phase3,GrowingUpID,COVID19_Survey.adult_bibplus_pha
 COVID19_Survey,adult_bibplus_phase3,BiBPersonID,COVID19_Survey.adult_bibplus_phase3.BiBPersonID,BiB participant identifier,text,,,
 COVID19_Survey,adult_bibplus_phase3,ParticipantType,COVID19_Survey.adult_bibplus_phase3.ParticipantType,Participant type,decimal,,1|2,General public|Growing Up
 COVID19_Survey,adult_bibplus_phase3,QuestionnaireType,COVID19_Survey.adult_bibplus_phase3.QuestionnaireType,Questionnaire type,decimal,,1|2,Paper|Online
-COVID19_Survey,adult_bibplus_phase3,sex,COVID19_Survey.adult_bibplus_phase3.sex,"",decimal,,1|2|3|4,Male|Female|Prefer to use my own term|Prefer not to say
-COVID19_Survey,adult_bibplus_phase3,age,COVID19_Survey.adult_bibplus_phase3.age,"",decimal,,1|2|3|4|5|6|7,18-24|25-34|35-44|45-54|55-64|65+|Prefer not to say
+COVID19_Survey,adult_bibplus_phase3,sex,COVID19_Survey.adult_bibplus_phase3.sex,,decimal,,1|2|3|4,Male|Female|Prefer to use my own term|Prefer not to say
+COVID19_Survey,adult_bibplus_phase3,age,COVID19_Survey.adult_bibplus_phase3.age,,decimal,,1|2|3|4|5|6|7,18-24|25-34|35-44|45-54|55-64|65+|Prefer not to say
 COVID19_Survey,adult_bibplus_phase3,ethnicity,COVID19_Survey.adult_bibplus_phase3.ethnicity,Ethnicity - 16 categories,decimal,,1|10|11|12|13|14|15|16|2|3|4|5|6|7|8|9,"English, Welsh, Scottish, Northern Irish or British|Bangladeshi|Chinese|Any other Asian background|African|Caribbean|Other Black, African or Caribbean background|Any other ethnic group|Irish|Any other White background|White and Black Caribbean|White and Black African|White and Asian|Any other Mixed background|Indian|Pakistani"
 COVID19_Survey,adult_bibplus_phase3,date,COVID19_Survey.adult_bibplus_phase3.date,Todays date,date,,,
 COVID19_Survey,adult_bibplus_phase3,bre1_aq_bfd,COVID19_Survey.adult_bibplus_phase3.bre1_aq_bfd,3) What do you think about the air quality in Bradford generally?,decimal,,1|2|3|4|5,Very Poor|Poor|Fair|Good|Excellent
@@ -1139,7 +1139,7 @@ COVID19_Survey,adult_bibbs_phase3,hhe_fd_oth_rev1___0,COVID19_Survey.adult_bibbs
 COVID19_Survey,adult_bibbs_phase3,hhe_fd_oth_rev1___1,COVID19_Survey.adult_bibbs_phase3.hhe_fd_oth_rev1___1,19) Other (During first lockdown),decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bibbs_phase3,hhe_fd_oth_rev1___2,COVID19_Survey.adult_bibbs_phase3.hhe_fd_oth_rev1___2,19) Other (During latest lockdown),decimal,,0|1,Unchecked|Checked
 COVID19_Survey,adult_bibbs_phase3,hhe_fd_oth_rev1___3,COVID19_Survey.adult_bibbs_phase3.hhe_fd_oth_rev1___3,19) Other (Now),decimal,,0|1,Unchecked|Checked
-COVID19_Survey,adult_bibbs_phase3,c19b2_hhe_fd_othexp,COVID19_Survey.adult_bibbs_phase3.c19b2_hhe_fd_othexp,"",text,,,
+COVID19_Survey,adult_bibbs_phase3,c19b2_hhe_fd_othexp,COVID19_Survey.adult_bibbs_phase3.c19b2_hhe_fd_othexp,,text,,,
 COVID19_Survey,adult_bibbs_phase3,hhe_finannow_c19b2,COVID19_Survey.adult_bibbs_phase3.hhe_finannow_c19b2,20) How well are you managing financially?,decimal,,-1|-2|1|2|3|4|5,Do not wish to answer|Dont know|Living comfortably|Doing alright|Just about getting by|Finding it quite difficult|Finding it very difficult
 COVID19_Survey,adult_bibbs_phase3,hhe_bills_c19b2,COVID19_Survey.adult_bibbs_phase3.hhe_bills_c19b2,21) Are you currently up to date with all bills?,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
 COVID19_Survey,adult_bibbs_phase3,hhe_wrypay_c19b2,COVID19_Survey.adult_bibbs_phase3.hhe_wrypay_c19b2,22) I worry about paying the rent/mortgage,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
@@ -1161,13 +1161,13 @@ COVID19_Survey,adult_bibbs_phase3,fh_phq_7_c19b2,COVID19_Survey.adult_bibbs_phas
 COVID19_Survey,adult_bibbs_phase3,fh_phq_8_c19b2,COVID19_Survey.adult_bibbs_phase3.fh_phq_8_c19b2,"24) Moving/speaking slowly, or being fidgety/restless",decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
 COVID19_Survey,adult_bibbs_phase3,fh_phq_hwdiff_c19b2,COVID19_Survey.adult_bibbs_phase3.fh_phq_hwdiff_c19b2,25) How difficult have these problems made daily activities?,decimal,,0|1|2|3,Not at all|Somewhat difficult|Very difficult|Extremely difficult
 COVID19_Survey,adult_bibbs_phase3,c19b2_fh_ons_lifeworth,COVID19_Survey.adult_bibbs_phase3.c19b2_fh_ons_lifeworth,26) Do you feel the things you do in your life are worthwhile?,decimal,,0|1|10|2|3|4|5|6|7|8|9,0 = Not at all worthwhile|1|10 = Completely worthwhile|2|3|4|5|6|7|8|9
-COVID19_Survey,adult_bibbs_phase3,wc_wrynow_1_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_wrynow_1_c19b2,"",text,,,
-COVID19_Survey,adult_bibbs_phase3,wc_wrynow_2_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_wrynow_2_c19b2,"",text,,,
-COVID19_Survey,adult_bibbs_phase3,wc_wrynow_3_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_wrynow_3_c19b2,"",text,,,
-COVID19_Survey,adult_bibbs_phase3,wc_chllnge_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_chllnge_c19b2,"",text,,,
-COVID19_Survey,adult_bibbs_phase3,wc_easier_c19b2_rev1,COVID19_Survey.adult_bibbs_phase3.wc_easier_c19b2_rev1,"",text,,,
+COVID19_Survey,adult_bibbs_phase3,wc_wrynow_1_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_wrynow_1_c19b2,,text,,,
+COVID19_Survey,adult_bibbs_phase3,wc_wrynow_2_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_wrynow_2_c19b2,,text,,,
+COVID19_Survey,adult_bibbs_phase3,wc_wrynow_3_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_wrynow_3_c19b2,,text,,,
+COVID19_Survey,adult_bibbs_phase3,wc_chllnge_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_chllnge_c19b2,,text,,,
+COVID19_Survey,adult_bibbs_phase3,wc_easier_c19b2_rev1,COVID19_Survey.adult_bibbs_phase3.wc_easier_c19b2_rev1,,text,,,
 COVID19_Survey,adult_bibbs_phase3,bibbs_covid19_questi_v_1,COVID19_Survey.adult_bibbs_phase3.bibbs_covid19_questi_v_1,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
-COVID19_Survey,adult_bibbs_phase3,end_data_entry_notes,COVID19_Survey.adult_bibbs_phase3.end_data_entry_notes,"",decimal,,,
+COVID19_Survey,adult_bibbs_phase3,end_data_entry_notes,COVID19_Survey.adult_bibbs_phase3.end_data_entry_notes,,decimal,,,
 COVID19_Survey,adult_bibbs_phase3,end_sbmit,COVID19_Survey.adult_bibbs_phase3.end_sbmit, Please confirm that you have completed your questionnaire:,decimal,,1,"Yes, Im ready to submit"
 COVID19_Survey,adult_bibbs_phase3,adult_bibbs_phase_3__v_7,COVID19_Survey.adult_bibbs_phase3.adult_bibbs_phase_3__v_7,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
 COVID19_Survey,child_phase1_covid,Cohort,COVID19_Survey.child_phase1_covid.Cohort,Cohort,text,,,

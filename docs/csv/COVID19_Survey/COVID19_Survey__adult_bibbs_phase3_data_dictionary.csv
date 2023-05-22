@@ -68,7 +68,7 @@ hhe_fd_oth_rev1___0,COVID19_Survey.adult_bibbs_phase3.hhe_fd_oth_rev1___0,19) Ot
 hhe_fd_oth_rev1___1,COVID19_Survey.adult_bibbs_phase3.hhe_fd_oth_rev1___1,19) Other (During first lockdown),decimal,,0|1,Unchecked|Checked
 hhe_fd_oth_rev1___2,COVID19_Survey.adult_bibbs_phase3.hhe_fd_oth_rev1___2,19) Other (During latest lockdown),decimal,,0|1,Unchecked|Checked
 hhe_fd_oth_rev1___3,COVID19_Survey.adult_bibbs_phase3.hhe_fd_oth_rev1___3,19) Other (Now),decimal,,0|1,Unchecked|Checked
-c19b2_hhe_fd_othexp,COVID19_Survey.adult_bibbs_phase3.c19b2_hhe_fd_othexp,"",text,,,
+c19b2_hhe_fd_othexp,COVID19_Survey.adult_bibbs_phase3.c19b2_hhe_fd_othexp,,text,,,
 hhe_finannow_c19b2,COVID19_Survey.adult_bibbs_phase3.hhe_finannow_c19b2,20) How well are you managing financially?,decimal,,-1|-2|1|2|3|4|5,Do not wish to answer|Dont know|Living comfortably|Doing alright|Just about getting by|Finding it quite difficult|Finding it very difficult
 hhe_bills_c19b2,COVID19_Survey.adult_bibbs_phase3.hhe_bills_c19b2,21) Are you currently up to date with all bills?,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
 hhe_wrypay_c19b2,COVID19_Survey.adult_bibbs_phase3.hhe_wrypay_c19b2,22) I worry about paying the rent/mortgage,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
@@ -90,12 +90,12 @@ fh_phq_7_c19b2,COVID19_Survey.adult_bibbs_phase3.fh_phq_7_c19b2,24) Trouble conc
 fh_phq_8_c19b2,COVID19_Survey.adult_bibbs_phase3.fh_phq_8_c19b2,"24) Moving/speaking slowly, or being fidgety/restless",decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
 fh_phq_hwdiff_c19b2,COVID19_Survey.adult_bibbs_phase3.fh_phq_hwdiff_c19b2,25) How difficult have these problems made daily activities?,decimal,,0|1|2|3,Not at all|Somewhat difficult|Very difficult|Extremely difficult
 c19b2_fh_ons_lifeworth,COVID19_Survey.adult_bibbs_phase3.c19b2_fh_ons_lifeworth,26) Do you feel the things you do in your life are worthwhile?,decimal,,0|1|10|2|3|4|5|6|7|8|9,0 = Not at all worthwhile|1|10 = Completely worthwhile|2|3|4|5|6|7|8|9
-wc_wrynow_1_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_wrynow_1_c19b2,"",text,,,
-wc_wrynow_2_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_wrynow_2_c19b2,"",text,,,
-wc_wrynow_3_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_wrynow_3_c19b2,"",text,,,
-wc_chllnge_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_chllnge_c19b2,"",text,,,
-wc_easier_c19b2_rev1,COVID19_Survey.adult_bibbs_phase3.wc_easier_c19b2_rev1,"",text,,,
+wc_wrynow_1_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_wrynow_1_c19b2,,text,,,
+wc_wrynow_2_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_wrynow_2_c19b2,,text,,,
+wc_wrynow_3_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_wrynow_3_c19b2,,text,,,
+wc_chllnge_c19b2,COVID19_Survey.adult_bibbs_phase3.wc_chllnge_c19b2,,text,,,
+wc_easier_c19b2_rev1,COVID19_Survey.adult_bibbs_phase3.wc_easier_c19b2_rev1,,text,,,
 bibbs_covid19_questi_v_1,COVID19_Survey.adult_bibbs_phase3.bibbs_covid19_questi_v_1,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete
-end_data_entry_notes,COVID19_Survey.adult_bibbs_phase3.end_data_entry_notes,"",decimal,,,
+end_data_entry_notes,COVID19_Survey.adult_bibbs_phase3.end_data_entry_notes,,decimal,,,
 end_sbmit,COVID19_Survey.adult_bibbs_phase3.end_sbmit, Please confirm that you have completed your questionnaire:,decimal,,1,"Yes, Im ready to submit"
 adult_bibbs_phase_3__v_7,COVID19_Survey.adult_bibbs_phase3.adult_bibbs_phase_3__v_7,Complete?,decimal,,0|1|2,Incomplete|Unverified|Complete

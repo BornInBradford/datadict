@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_MeDALL.medall_ndvi.BiBPregNumber,"",decimal,,,
+BiBPregNumber,BiB_MeDALL.medall_ndvi.BiBPregNumber,,decimal,,,
 has_medall_ndvi,BiB_MeDALL.medall_ndvi.has_medall_ndvi,Has medall residential ndvi and green space,decimal,,,
 agemm_mdndvi,BiB_MeDALL.medall_ndvi.agemm_mdndvi,Mother age (months): MeDALL residential NDVI and green space,decimal,,,
 agemy_mdndvi,BiB_MeDALL.medall_ndvi.agemy_mdndvi,Mother age (years): MeDALL residential NDVI and green space,decimal,,,

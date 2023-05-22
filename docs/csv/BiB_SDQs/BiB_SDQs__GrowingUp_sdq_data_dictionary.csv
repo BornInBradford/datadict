@@ -1,7 +1,7 @@
 variable,full_name,label,value_type,description,categories,categories_label
-date,BiB_SDQs.GrowingUp_sdq.date,"",date,,,
-AgeYears,BiB_SDQs.GrowingUp_sdq.AgeYears,"",decimal,,,
-AgeMonths,BiB_SDQs.GrowingUp_sdq.AgeMonths,"",decimal,,,
+date,BiB_SDQs.GrowingUp_sdq.date,,date,,,
+AgeYears,BiB_SDQs.GrowingUp_sdq.AgeYears,,decimal,,,
+AgeMonths,BiB_SDQs.GrowingUp_sdq.AgeMonths,,decimal,,,
 sdq_consid,BiB_SDQs.GrowingUp_sdq.sdq_consid,Your child is considerate of other people's feelings,decimal,,0|1|2,Not true|Somewhat true|Certainly true
 sdq_fidgety,BiB_SDQs.GrowingUp_sdq.sdq_fidgety,Your child is constantly fidgeting or squirming,decimal,,0|1|2,Not true|Somewhat true|Certainly true
 sdq_friend,BiB_SDQs.GrowingUp_sdq.sdq_friend,Your child has at least one good friend,decimal,,0|1|2,Certainly true|Somewhat true|Not true

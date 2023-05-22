@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Pregnancy.eclipse_preg.BiBPregNumber,"",decimal,,,
+BiBPregNumber,BiB_Pregnancy.eclipse_preg.BiBPregNumber,,decimal,,,
 has_eclipse_preg,BiB_Pregnancy.eclipse_preg.has_eclipse_preg,Has eclipse pregnancy record,decimal,,,
 bkfcomplet,BiB_Pregnancy.eclipse_preg.bkfcomplet,Backfill completed,decimal,,1|2,No|Yes
 bkfdiabete,BiB_Pregnancy.eclipse_preg.bkfdiabete,Diabetes prior to pregnancy,decimal,,1|2,No|Yes

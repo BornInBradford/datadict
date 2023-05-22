@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Metabolomics.metnmr_mother_d.BiBPregNumber,"",decimal,,,
+BiBPregNumber,BiB_Metabolomics.metnmr_mother_d.BiBPregNumber,,decimal,,,
 has_metnmr_mother,BiB_Metabolomics.metnmr_mother_d.has_metnmr_mother,Has NMR metabolomics (mother),decimal,,,
 metabolsampgestage,BiB_Metabolomics.metnmr_mother_d.metabolsampgestage,NMR metabolomics gestational age sample taken,decimal,,,
 metabolbibsampleid,BiB_Metabolomics.metnmr_mother_d.metabolbibsampleid,NMR metabolomics sample ID,decimal,,,

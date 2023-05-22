@@ -1,8 +1,8 @@
 variable,full_name,label,value_type,description,categories,categories_label
-lab_id1,BiB_CohortInfo.exomeseq_info.lab_id1,"",text,,,
-ParticipantType,BiB_CohortInfo.exomeseq_info.ParticipantType,"",decimal,,,
-Gender,BiB_CohortInfo.exomeseq_info.Gender,"",decimal,,,
-lab_id2,BiB_CohortInfo.exomeseq_info.lab_id2,"",text,,,
-exseq_phase,BiB_CohortInfo.exomeseq_info.exseq_phase,"",decimal,,,
-copies,BiB_CohortInfo.exomeseq_info.copies,"",decimal,,,
+lab_id1,BiB_CohortInfo.exomeseq_info.lab_id1,,text,,,
+ParticipantType,BiB_CohortInfo.exomeseq_info.ParticipantType,,decimal,,,
+Gender,BiB_CohortInfo.exomeseq_info.Gender,,decimal,,,
+lab_id2,BiB_CohortInfo.exomeseq_info.lab_id2,,text,,,
+exseq_phase,BiB_CohortInfo.exomeseq_info.exseq_phase,,decimal,,,
+copies,BiB_CohortInfo.exomeseq_info.copies,,decimal,,,
 passed_qc,BiB_CohortInfo.exomeseq_info.passed_qc,Exome sequence data in post-QC variant call files,decimal,,1,Yes

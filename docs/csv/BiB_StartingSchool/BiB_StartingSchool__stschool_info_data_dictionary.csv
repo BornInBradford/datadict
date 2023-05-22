@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPersonID,BiB_StartingSchool.stschool_info.BiBPersonID,"",text,,,
+BiBPersonID,BiB_StartingSchool.stschool_info.BiBPersonID,,text,,,
 has_stschool_info,BiB_StartingSchool.stschool_info.has_stschool_info,Has starting school child info,decimal,,,
 agecm_ssbpvs,BiB_StartingSchool.stschool_info.agecm_ssbpvs,Age in months at BPVS,decimal,,,
 agecm_ssckat,BiB_StartingSchool.stschool_info.agecm_ssckat,Age in months at CKAT,decimal,,,

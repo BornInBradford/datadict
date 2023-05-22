@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_MeDALL.medall_greenspace.BiBPregNumber,"",decimal,,,
+BiBPregNumber,BiB_MeDALL.medall_greenspace.BiBPregNumber,,decimal,,,
 has_medall_greenspace,BiB_MeDALL.medall_greenspace.has_medall_greenspace,Has medall green space questionnaire,decimal,,,
 grnsp_atnursery,BiB_MeDALL.medall_greenspace.grnsp_atnursery,Does child go to nursery or child-minder?,decimal,,1|2,No|Yes
 grnsp_atschool,BiB_MeDALL.medall_greenspace.grnsp_atschool,Does child attend school?,decimal,,1|2,No|Yes

@@ -1,8 +1,8 @@
 variable,full_name,label,value_type,description,categories,categories_label
 BiBPregNumber,BiB_Baseline.base_m23_exercise.BiBPregNumber,Pregnancy number within BiB,decimal,,,
 BiBPersonID,BiB_Baseline.base_m23_exercise.BiBPersonID,Mother identifier,text,,,
-questionnphase,BiB_Baseline.base_m23_exercise.questionnphase,"",text,,,
-questphase,BiB_Baseline.base_m23_exercise.questphase,"",decimal,,,
+questionnphase,BiB_Baseline.base_m23_exercise.questionnphase,,text,,,
+questphase,BiB_Baseline.base_m23_exercise.questphase,,decimal,,,
 exe2pawork,BiB_Baseline.base_m23_exercise.exe2pawork,Amount of physical activity involved in paid work,decimal,,1|2|3|4|5,Not in paid employment|Most time sitting|Most time standing/walking|Physical effort|Vigorous physical effort
 exe2phyelw,BiB_Baseline.base_m23_exercise.exe2phyelw,Time spent doing physical exercise last week,decimal,,1|2|3|4,None|<1hour|1-3 hours|3 hours or more
 exe2cycllw,BiB_Baseline.base_m23_exercise.exe2cycllw,Time spent cycling last week,decimal,,1|2|3|4,None|<1hour|1-3 hours|3 hours or more

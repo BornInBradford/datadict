@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Metabolomics.metms_2k_s.BiBPregNumber,"",decimal,,,
+BiBPregNumber,BiB_Metabolomics.metms_2k_s.BiBPregNumber,,decimal,,,
 has_metms_2k_s,BiB_Metabolomics.metms_2k_s.has_metms_2k_s,Has ms metabolomics 2000 mothers scaled,decimal,,,
 metm2s38768,BiB_Metabolomics.metms_2k_s.metm2s38768,(14 or 15)-methylpalmitate (a17:0 or i17:0) [scaled],decimal,,,
 metm2s38296,BiB_Metabolomics.metms_2k_s.metm2s38296,(16 or 17)-methylstearate (a19:0 or i19:0) [scaled],decimal,,,

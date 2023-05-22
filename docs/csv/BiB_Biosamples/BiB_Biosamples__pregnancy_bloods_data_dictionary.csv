@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Biosamples.pregnancy_bloods.BiBPregNumber,"",decimal,,,
+BiBPregNumber,BiB_Biosamples.pregnancy_bloods.BiBPregNumber,,decimal,,,
 has_pregnancy_bloods,BiB_Biosamples.pregnancy_bloods.has_pregnancy_bloods,Has pregnancy blood biomarkers,decimal,,,
 agemm_matbld,BiB_Biosamples.pregnancy_bloods.agemm_matbld,Mother age (months): Maternal Bloods,decimal,,,
 agemy_matbld,BiB_Biosamples.pregnancy_bloods.agemy_matbld,Mother age (years): Maternal Bloods,decimal,,,

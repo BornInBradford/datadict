@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPersonID,BiB_PrimarySchoolYears.sdq_data_bib.BiBPersonID,"",text,,,
+BiBPersonID,BiB_PrimarySchoolYears.sdq_data_bib.BiBPersonID,,text,,,
 PSYSchoolID,BiB_PrimarySchoolYears.sdq_data_bib.PSYSchoolID,Primary School Years: School pseudonym,decimal,,,
 PSYClassID,BiB_PrimarySchoolYears.sdq_data_bib.PSYClassID,Primary School Years: Class pseudonym,decimal,,,
 TestYearGroup,BiB_PrimarySchoolYears.sdq_data_bib.TestYearGroup,Year group of SDQ completion,decimal,,,

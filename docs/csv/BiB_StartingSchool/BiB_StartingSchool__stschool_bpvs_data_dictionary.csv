@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPersonID,BiB_StartingSchool.stschool_bpvs.BiBPersonID,"",text,,,
+BiBPersonID,BiB_StartingSchool.stschool_bpvs.BiBPersonID,,text,,,
 has_stschool_bpvs,BiB_StartingSchool.stschool_bpvs.has_stschool_bpvs,Has starting school: bpvs,decimal,,,
 has_ssbpvs,BiB_StartingSchool.stschool_bpvs.has_ssbpvs,Has Starting School BPVS,decimal,,1,has
 ssbpvsBasalSet,BiB_StartingSchool.stschool_bpvs.ssbpvsBasalSet,BPVS Basal Set,decimal,,,

@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Metabolomics.metms_pairm_r.BiBPregNumber,"",decimal,,,
+BiBPregNumber,BiB_Metabolomics.metms_pairm_r.BiBPregNumber,,decimal,,,
 has_metms_pairm_r,BiB_Metabolomics.metms_pairm_r.has_metms_pairm_r,Has ms metabolomics paired mother samples raw,decimal,,,
 metmsr42370,BiB_Metabolomics.metms_pairm_r.metmsr42370,S-1-pyrroline-5-carboxylate [raw],decimal,,,
 metmsr485,BiB_Metabolomics.metms_pairm_r.metmsr485,spermidine [raw],decimal,,,

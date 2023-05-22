@@ -1,9 +1,9 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPersonID,BiB_PrimarySchoolYears.child_info_bib.BiBPersonID,"",text,,,
+BiBPersonID,BiB_PrimarySchoolYears.child_info_bib.BiBPersonID,,text,,,
 PSYSchoolID,BiB_PrimarySchoolYears.child_info_bib.PSYSchoolID,Primary School Years: School pseudonym,decimal,,,
 PSYClassID,BiB_PrimarySchoolYears.child_info_bib.PSYClassID,Primary School Years: Class pseudonym,decimal,,,
 YearOfBirth,BiB_PrimarySchoolYears.child_info_bib.YearOfBirth,PSY child year of birth,decimal,,,
-AcadTermBirth,BiB_PrimarySchoolYears.child_info_bib.AcadTermBirth,"",decimal,,1|2|3,Autumn|Spring|Summer
+AcadTermBirth,BiB_PrimarySchoolYears.child_info_bib.AcadTermBirth,,decimal,,1|2|3,Autumn|Spring|Summer
 MonthOfBirth,BiB_PrimarySchoolYears.child_info_bib.MonthOfBirth,PSY child month of birth,decimal,,,
 Gender,BiB_PrimarySchoolYears.child_info_bib.Gender,PSY child gender,decimal,,1|2,Female|Male
 ethnicity_text,BiB_PrimarySchoolYears.child_info_bib.ethnicity_text,PSY child ethnicity: original text value,text,,,

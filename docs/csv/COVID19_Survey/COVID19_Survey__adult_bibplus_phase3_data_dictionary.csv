@@ -3,8 +3,8 @@ GrowingUpID,COVID19_Survey.adult_bibplus_phase3.GrowingUpID,Growing Up participa
 BiBPersonID,COVID19_Survey.adult_bibplus_phase3.BiBPersonID,BiB participant identifier,text,,,
 ParticipantType,COVID19_Survey.adult_bibplus_phase3.ParticipantType,Participant type,decimal,,1|2,General public|Growing Up
 QuestionnaireType,COVID19_Survey.adult_bibplus_phase3.QuestionnaireType,Questionnaire type,decimal,,1|2,Paper|Online
-sex,COVID19_Survey.adult_bibplus_phase3.sex,"",decimal,,1|2|3|4,Male|Female|Prefer to use my own term|Prefer not to say
-age,COVID19_Survey.adult_bibplus_phase3.age,"",decimal,,1|2|3|4|5|6|7,18-24|25-34|35-44|45-54|55-64|65+|Prefer not to say
+sex,COVID19_Survey.adult_bibplus_phase3.sex,,decimal,,1|2|3|4,Male|Female|Prefer to use my own term|Prefer not to say
+age,COVID19_Survey.adult_bibplus_phase3.age,,decimal,,1|2|3|4|5|6|7,18-24|25-34|35-44|45-54|55-64|65+|Prefer not to say
 ethnicity,COVID19_Survey.adult_bibplus_phase3.ethnicity,Ethnicity - 16 categories,decimal,,1|10|11|12|13|14|15|16|2|3|4|5|6|7|8|9,"English, Welsh, Scottish, Northern Irish or British|Bangladeshi|Chinese|Any other Asian background|African|Caribbean|Other Black, African or Caribbean background|Any other ethnic group|Irish|Any other White background|White and Black Caribbean|White and Black African|White and Asian|Any other Mixed background|Indian|Pakistani"
 date,COVID19_Survey.adult_bibplus_phase3.date,Todays date,date,,,
 bre1_aq_bfd,COVID19_Survey.adult_bibplus_phase3.bre1_aq_bfd,3) What do you think about the air quality in Bradford generally?,decimal,,1|2|3|4|5,Very Poor|Poor|Fair|Good|Excellent

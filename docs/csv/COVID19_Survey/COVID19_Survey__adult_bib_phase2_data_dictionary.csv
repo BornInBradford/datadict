@@ -331,7 +331,7 @@ c19a2_symp_swell___7,COVID19_Survey.adult_bib_phase2.c19a2_symp_swell___7,Sudden
 c19a2_cv_wt_symp_wk,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_symp_wk,48) Have you experienced any of the symptoms above in the last week?,decimal,,0|1,No|Yes
 c19a2_cv_wt_cnct,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_cnct,49) Have you been in close contact with anyone with Covid-19 in the last two wee,decimal,,1|2|3,"Yes, I was in contact with a confirmed/tested Covid-19 case|Yes, I was in contact with a suspected Covid-19 case|No, not to my knowledge"
 c19a2_cv_wt_expsymp,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_expsymp,50) Do you think you have or have had Covid-19?,decimal,,1|2|3|4,"Yes, confirmed by a positive test|Yes, suspected by a doctor but not tested|Yes, my own suspicions|No"
-c19a2_cv_wt_sympwhn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_sympwhn,"",date,,,
+c19a2_cv_wt_sympwhn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_sympwhn,,date,,,
 c19a2_cv_wt_test___0,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_test___0,51) Have you ever had a test to see if you have or have had Covid-19 (tell us ab,decimal,,0|1,Unchecked|Checked
 c19a2_cv_wt_test___1,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_test___1,51) Have you ever had a test to see if you have or have had Covid-19 (tell us ab,decimal,,0|1,Unchecked|Checked
 c19a2_cv_wt_test___2,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_test___2,51) Have you ever had a test to see if you have or have had Covid-19 (tell us ab,decimal,,0|1,Unchecked|Checked
@@ -344,11 +344,11 @@ c19a2_cv_wt_testtyp___3,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testtyp___3,
 c19a2_cv_wt_testtyp____2,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testtyp____2,What kind of test have you had (tick all that apply)? (choice=Dont know),decimal,,0|1,Unchecked|Checked
 c19a2_cv_wt_testtyp_exp,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testtyp_exp,"If you said Other, please can you describe here",text,,,
 c19a2_cv_wt_testswab,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testswab,52) Have you had a positive result from a swab test?,decimal,,-2|0|1,Dont know|No|Yes
-c19a2_cv_wt_testswab_whn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testswab_whn,"",date,,,
+c19a2_cv_wt_testswab_whn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testswab_whn,,date,,,
 c19a2_cv_wt_testab,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testab,53) Have you had a positive result from an antibody test?,decimal,,-2|0|1,Dont know|No|Yes
-c19a2_cv_wt_testab_whn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testab_whn,"",date,,,
+c19a2_cv_wt_testab_whn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testab_whn,,date,,,
 c19a2_cv_wt_testoth,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testoth,54) Have you had a positive result from the other test?,decimal,,-2|0|1,Dont know|No|Yes
-c19a2_cv_wt_testoth_whn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testoth_whn,"",date,,,
+c19a2_cv_wt_testoth_whn,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testoth_whn,,date,,,
 c19a2_cv_wt_testiso,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testiso,"55) If you or a household member had symptoms or a positive test result, did you",decimal,,0|1,No|Yes - go to question 56.
 c19a2_cv_wt_testiso_no,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_testiso_no,"If you answered no, can you please tell us why?",text,,,
 c19a2_cv_wt_flu,COVID19_Survey.adult_bib_phase2.c19a2_cv_wt_flu,56) Have you had the flu vaccine in the last year?,decimal,,-2|0|1,Dont know|No|Yes

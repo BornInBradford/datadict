@@ -1,6 +1,6 @@
 variable,full_name,label,value_type,description,categories,categories_label
 has_allin24_ei,BiB_ALL_IN.allin24_ei.has_allin24_ei,Has all in 24m extra immunisations,decimal,,,
-all24m1imothdesc,BiB_ALL_IN.allin24_ei.all24m1imothdesc,"",text,,,
-all24m1imothdt,BiB_ALL_IN.allin24_ei.all24m1imothdt,"",date,,,
-all24m1imothrbk,BiB_ALL_IN.allin24_ei.all24m1imothrbk,"",decimal,,,
+all24m1imothdesc,BiB_ALL_IN.allin24_ei.all24m1imothdesc,,text,,,
+all24m1imothdt,BiB_ALL_IN.allin24_ei.all24m1imothdt,,date,,,
+all24m1imothrbk,BiB_ALL_IN.allin24_ei.all24m1imothrbk,,decimal,,,
 has_all2qs,BiB_ALL_IN.allin24_ei.has_all2qs,Has ALL IN 24m questionnaire,decimal,,1,has

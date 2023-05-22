@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPersonID,BiB_StartingSchool.stschool_ckat.BiBPersonID,"",text,,,
+BiBPersonID,BiB_StartingSchool.stschool_ckat.BiBPersonID,,text,,,
 has_stschool_ckat,BiB_StartingSchool.stschool_ckat.has_stschool_ckat,Has starting school: ckat,decimal,,,
 has_ssckat,BiB_StartingSchool.stschool_ckat.has_ssckat,Has Starting School CKAT,decimal,,1,has
 ssckatraim01scrapDT1,BiB_StartingSchool.stschool_ckat.ssckatraim01scrapDT1,Aiming (Initiation) Deceleration Time,decimal,,,

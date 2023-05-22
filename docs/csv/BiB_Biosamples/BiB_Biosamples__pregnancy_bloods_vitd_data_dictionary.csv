@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Biosamples.pregnancy_bloods_vitd.BiBPregNumber,"",decimal,,,
+BiBPregNumber,BiB_Biosamples.pregnancy_bloods_vitd.BiBPregNumber,,decimal,,,
 has_pregnancy_bloods_vitd,BiB_Biosamples.pregnancy_bloods_vitd.has_pregnancy_bloods_vitd,Has pregnacy bloods vitamin d,decimal,,,
 agemm_matbvd,BiB_Biosamples.pregnancy_bloods_vitd.agemm_matbvd,Mother age (months): Maternal Bloods: Vitamin D,decimal,,,
 agemy_matbvd,BiB_Biosamples.pregnancy_bloods_vitd.agemy_matbvd,Mother age (years): Maternal Bloods: Vitamin D,decimal,,,

@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Pregnancy.pregnancy_ultrasound.BiBPregNumber,"",decimal,,,
+BiBPregNumber,BiB_Pregnancy.pregnancy_ultrasound.BiBPregNumber,,decimal,,,
 gestaged_matuss,BiB_Pregnancy.pregnancy_ultrasound.gestaged_matuss,Estimated gestational age (days): Ultrasound scans,decimal,,,
 gestagew_matuss,BiB_Pregnancy.pregnancy_ultrasound.gestagew_matuss,Estimated gestational age (weeks): Ultrasound scans,decimal,,,
 has_matuss,BiB_Pregnancy.pregnancy_ultrasound.has_matuss,Has: Ultrasound scans,decimal,,1,has

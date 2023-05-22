@@ -63,7 +63,7 @@ Hyperactivity_FourCat,BiB_SDQs.COVID_phase1_sdq.Hyperactivity_FourCat,Four categ
 PeerProblems_FourCat,BiB_SDQs.COVID_phase1_sdq.PeerProblems_FourCat,Four category peer problem scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
 Prosocial_FourCat,BiB_SDQs.COVID_phase1_sdq.Prosocial_FourCat,Four category prosocial scale score,decimal,,1|2|3|4,Close to average|Slightly lowered|Low|Very low
 Impact_FourCat,BiB_SDQs.COVID_phase1_sdq.Impact_FourCat,Four category impact scale score,decimal,,1|2|3|4,Close to average|Slightly raised|High|Very high
-QuestSource,BiB_SDQs.COVID_phase1_sdq.QuestSource,"",text,,,
+QuestSource,BiB_SDQs.COVID_phase1_sdq.QuestSource,,text,,,
 CompletedBy,BiB_SDQs.COVID_phase1_sdq.CompletedBy,Questionnaire completed by...,text,,,
 Emotional_Pro,BiB_SDQs.COVID_phase1_sdq.Emotional_Pro,Emotional scale pro-rata,decimal,,,
 Conduct_Pro,BiB_SDQs.COVID_phase1_sdq.Conduct_Pro,Conduct scale pro-rata,decimal,,,

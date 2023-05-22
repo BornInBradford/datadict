@@ -19,7 +19,7 @@ sdq_distrac,BiB_SDQs.MeDALL_sdq.sdq_distrac,"Easily distracted, concentration wa
 sdq_clingy,BiB_SDQs.MeDALL_sdq.sdq_clingy,Nervous or clingy in new situations,decimal,,0|1|2,Not true|Somewhat true|Certainly true
 sdq_kind,BiB_SDQs.MeDALL_sdq.sdq_kind,Kind to younger children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
 sdq_lies,BiB_SDQs.MeDALL_sdq.sdq_lies,Often lies or cheats,decimal,,0|1|2,Not true|Somewhat true|Certainly true
-sdq_bullied,BiB_SDQs.MeDALL_sdq.sdq_bullied,"",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+sdq_bullied,BiB_SDQs.MeDALL_sdq.sdq_bullied,,decimal,,0|1|2,Not true|Somewhat true|Certainly true
 sdq_helpout,BiB_SDQs.MeDALL_sdq.sdq_helpout,Often volunteers to help others,decimal,,0|1|2,Not true|Somewhat true|Certainly true
 sdq_reflect,BiB_SDQs.MeDALL_sdq.sdq_reflect,Thinks things through before acting,decimal,,0|1|2,Certainly true|Somewhat true|Not true
 sdq_steals,BiB_SDQs.MeDALL_sdq.sdq_steals,"Steals from home, school or elsewhere",decimal,,0|1|2,Not true|Somewhat true|Certainly true
@@ -34,15 +34,15 @@ sdq_friendship,BiB_SDQs.MeDALL_sdq.sdq_friendship,Interfere with friendships,dec
 sdq_classroom,BiB_SDQs.MeDALL_sdq.sdq_classroom,Interfere with classroom learning,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
 sdq_leisure,BiB_SDQs.MeDALL_sdq.sdq_leisure,Interfere with leisure activities,decimal,,0|1|2,Not at all/A little|A medium amount|A great deal
 diffburden,BiB_SDQs.MeDALL_sdq.diffburden,Family burden,decimal,,1|2|3|4,not at all|only a little|quite a lot|a great deal
-Emotional_Score,BiB_SDQs.MeDALL_sdq.Emotional_Score,"",decimal,,,
-Conduct_Score,BiB_SDQs.MeDALL_sdq.Conduct_Score,"",decimal,,,
-Hyperactivity_Score,BiB_SDQs.MeDALL_sdq.Hyperactivity_Score,"",decimal,,,
-Peer_Problems_Score,BiB_SDQs.MeDALL_sdq.Peer_Problems_Score,"",decimal,,,
-Prosocial_Score,BiB_SDQs.MeDALL_sdq.Prosocial_Score,"",decimal,,,
-Total_Difficulties_Score,BiB_SDQs.MeDALL_sdq.Total_Difficulties_Score,"",decimal,,,
-Externalising_Score,BiB_SDQs.MeDALL_sdq.Externalising_Score,"",decimal,,,
-Internalising_Score,BiB_SDQs.MeDALL_sdq.Internalising_Score,"",decimal,,,
-Impact_Score,BiB_SDQs.MeDALL_sdq.Impact_Score,"",decimal,,,
+Emotional_Score,BiB_SDQs.MeDALL_sdq.Emotional_Score,,decimal,,,
+Conduct_Score,BiB_SDQs.MeDALL_sdq.Conduct_Score,,decimal,,,
+Hyperactivity_Score,BiB_SDQs.MeDALL_sdq.Hyperactivity_Score,,decimal,,,
+Peer_Problems_Score,BiB_SDQs.MeDALL_sdq.Peer_Problems_Score,,decimal,,,
+Prosocial_Score,BiB_SDQs.MeDALL_sdq.Prosocial_Score,,decimal,,,
+Total_Difficulties_Score,BiB_SDQs.MeDALL_sdq.Total_Difficulties_Score,,decimal,,,
+Externalising_Score,BiB_SDQs.MeDALL_sdq.Externalising_Score,,decimal,,,
+Internalising_Score,BiB_SDQs.MeDALL_sdq.Internalising_Score,,decimal,,,
+Impact_Score,BiB_SDQs.MeDALL_sdq.Impact_Score,,decimal,,,
 Total_ThreeCat,BiB_SDQs.MeDALL_sdq.Total_ThreeCat,Three category total difference score,decimal,,1|2|3,Normal|Borderline|Abnormal
 Emotional_ThreeCat,BiB_SDQs.MeDALL_sdq.Emotional_ThreeCat,Three category emotional scale score,decimal,,1|2|3,Normal|Borderline|Abnormal
 Conduct_ThreeCat,BiB_SDQs.MeDALL_sdq.Conduct_ThreeCat,Three category conduct scale score,decimal,,1|2|3,Normal|Borderline|Abnormal

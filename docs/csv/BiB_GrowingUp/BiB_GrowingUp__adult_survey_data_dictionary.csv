@@ -167,7 +167,7 @@ guadtECigarettes,BiB_GrowingUp.adult_survey.guadtECigarettes,Do you smoke e-ciga
 guadtECigHowOften,BiB_GrowingUp.adult_survey.guadtECigHowOften,How many times per day do you smoke e-cigarettes,decimal,,1|2|3|4|5,Less than one time a day|1-5 times a day|6-10 times a day|11-20 times a day|20 times a day or more
 guadtTypeECig,BiB_GrowingUp.adult_survey.guadtTypeECig,Which type of e-cigarettes do you smoke?,decimal,,1|2|3,Cig-a-likes (disposable/pre-filled cartridges)|Vape pens/Mods (refilled with liquids)|Don't know
 guadtECigNicotine,BiB_GrowingUp.adult_survey.guadtECigNicotine,Do you smoke e-cigarettes with or without nicotine?,decimal,,1|2|3,With nicotine|Nicotine-free|Don't know
-guadtECigNicotine_other,BiB_GrowingUp.adult_survey.guadtECigNicotine_other,"",text,,,
+guadtECigNicotine_other,BiB_GrowingUp.adult_survey.guadtECigNicotine_other,,text,,,
 guadtAlcohol,BiB_GrowingUp.adult_survey.guadtAlcohol,Do you drink any alcohol?,decimal,,1|2|3,No|Yes|Do not wish to answer
 guadtUnitsWeek,BiB_GrowingUp.adult_survey.guadtUnitsWeek,How many units do you drink in a week?,text,,,
 guadtMaleAlcUnit,BiB_GrowingUp.adult_survey.guadtMaleAlcUnit,How often do you consume more than eight units of alcohol on one occasion?,decimal,,1|2|3|4|5,Never|Rarely; less than once a month|1 to 3 times a month|1 to 4 times a week|Do not wish to answer
@@ -257,4 +257,4 @@ guadtLanguageQstion_4,BiB_GrowingUp.adult_survey.guadtLanguageQstion_4,Questionn
 guadtWhereQComp,BiB_GrowingUp.adult_survey.guadtWhereQComp,Where is this questionnaire being completed?,decimal,,1|2|3,Participant's home|Bus|Other
 guadtWhereQComp_other,BiB_GrowingUp.adult_survey.guadtWhereQComp_other,Where is this questionnaire being completed?: Other,text,,,
 guadtVoting_88,BiB_GrowingUp.adult_survey.guadtVoting_88,Not eligible to vote,decimal,,1,Yes
-guadtBackfillBy,BiB_GrowingUp.adult_survey.guadtBackfillBy,"",text,,,
+guadtBackfillBy,BiB_GrowingUp.adult_survey.guadtBackfillBy,,text,,,

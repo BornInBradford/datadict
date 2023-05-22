@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_CohortInfo.preg_info.BiBPregNumber,"",decimal,,,
+BiBPregNumber,BiB_CohortInfo.preg_info.BiBPregNumber,,decimal,,,
 has_preg_info,BiB_CohortInfo.preg_info.has_preg_info,Has pregnancy information,decimal,,,
 PregnancyID,BiB_CohortInfo.preg_info.PregnancyID,Legacy BiB Pregnancy ID,text,,,
 adminpagebookmm,BiB_CohortInfo.preg_info.adminpagebookmm,Mother age in months at pregnancy booking date,decimal,,,

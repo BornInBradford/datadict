@@ -1,5 +1,5 @@
 variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Pregnancy.matrecs_bib_labbp.BiBPregNumber,"",decimal,,,
+BiBPregNumber,BiB_Pregnancy.matrecs_bib_labbp.BiBPregNumber,,decimal,,,
 has_matrecs_bib_labbp,BiB_Pregnancy.matrecs_bib_labbp.has_matrecs_bib_labbp,Has maternity records labour blood pressure,decimal,,,
 has_prnbpl,BiB_Pregnancy.matrecs_bib_labbp.has_prnbpl,Has: Maternal records: Labour blood pressure,decimal,,1,has
 prnlabbpdiastolic,BiB_Pregnancy.matrecs_bib_labbp.prnlabbpdiastolic,Labour diastolic blood pressure,decimal,,,
