@@ -1,0 +1,7 @@
+variable,full_name,label,value_type,description,categories,categories_label
+ParticipantType,BiB_CohortInfo.dnam_info.ParticipantType,BiB Participant Type vs Control,decimal,,1|2|3,Child|Mother|Control
+BiBMotherID,BiB_CohortInfo.dnam_info.BiBMotherID,BiB person identifier of child's mother,text,,,
+BiBPregNumber,BiB_CohortInfo.dnam_info.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
+Gender,BiB_CohortInfo.dnam_info.Gender,Participant Gender,decimal,,1|2,Female|Male
+lab_id,BiB_CohortInfo.dnam_info.lab_id,Lab-assigned sample ID,text,,,
+replicate,BiB_CohortInfo.dnam_info.replicate,Replicate analysis of same sample,decimal,,,

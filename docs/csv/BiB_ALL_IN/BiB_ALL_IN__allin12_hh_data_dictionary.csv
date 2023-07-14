@@ -1,0 +1,10 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_allin12_hh,BiB_ALL_IN.allin12_hh.has_allin12_hh,Has all in 12m household,decimal,,,
+all12age,BiB_ALL_IN.allin12_hh.all12age,"",decimal,,,
+all12mon,BiB_ALL_IN.allin12_hh.all12mon,"",decimal,,,
+all12name,BiB_ALL_IN.allin12_hh.all12name,"",text,,,
+all12namena,BiB_ALL_IN.allin12_hh.all12namena,"",decimal,,,
+all12rship,BiB_ALL_IN.allin12_hh.all12rship,"",decimal,,,
+all12sex,BiB_ALL_IN.allin12_hh.all12sex,"",decimal,,,
+all12yr,BiB_ALL_IN.allin12_hh.all12yr,"",text,,,
+has_all1qs,BiB_ALL_IN.allin12_hh.has_all1qs,Has ALL IN 12m questionnaire,decimal,,1,has

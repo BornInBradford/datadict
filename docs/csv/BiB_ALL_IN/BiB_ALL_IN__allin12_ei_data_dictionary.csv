@@ -1,0 +1,6 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_allin12_ei,BiB_ALL_IN.allin12_ei.has_allin12_ei,Has all in 12m extra immunisations,decimal,,,
+all12n1dteothimm,BiB_ALL_IN.allin12_ei.all12n1dteothimm,Date other imm given,date,,,
+all12n1othrbk,BiB_ALL_IN.allin12_ei.all12n1othrbk,Other imm checked red book,decimal,,,
+all12n1othvac,BiB_ALL_IN.allin12_ei.all12n1othvac,Other immunisation,text,,,
+has_all1qs,BiB_ALL_IN.allin12_ei.has_all1qs,Has ALL IN 12m questionnaire,decimal,,1,has

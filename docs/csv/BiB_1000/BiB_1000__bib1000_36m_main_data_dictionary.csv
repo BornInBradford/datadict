@@ -1,0 +1,447 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_36m_main,BiB_1000.bib1000_36m_main.has_bib1000_36m_main,Has bib 1000 36m questionnaire main table,decimal,,,
+agecm_b36tab,BiB_1000.bib1000_36m_main.agecm_b36tab,Child age (months) BiB1000 36m questionnaire,decimal,,,
+agecy_b36tab,BiB_1000.bib1000_36m_main.agecy_b36tab,Child age (years) BiB1000 36m questionnaire,decimal,,,
+agemm_b36tab,BiB_1000.bib1000_36m_main.agemm_b36tab,Mother age (months) BiB1000 36m questionnaire,decimal,,,
+agemy_b36tab,BiB_1000.bib1000_36m_main.agemy_b36tab,Mother age (years) BiB1000 36m questionnaire,decimal,,,
+bib36a01,BiB_1000.bib1000_36m_main.bib36a01,Describe your own health,decimal,,1|2|3|4|5,Excellent|Very good|Good|Fair|Poor
+bib36a02,BiB_1000.bib1000_36m_main.bib36a02,Describe your child's health,decimal,,1|2|3|4|5,Excellent|Very good|Good|Fair|Poor
+bib36b01,BiB_1000.bib1000_36m_main.bib36b01,Has child seen a doctor/nurse since birth,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b02,BiB_1000.bib1000_36m_main.bib36b02,How many times seen doctor/nurse,decimal,,1|2|3|4|5|6|7,Once|Twice|3-4 times|5-10 times|11+ times|Don't know|Refused to answer
+bib36b03aaccident,BiB_1000.bib1000_36m_main.bib36b03aaccident,Saw doctor - accident,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03abreathprob,BiB_1000.bib1000_36m_main.bib36b03abreathprob,Saw doctor - breathing problems,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03achestinf,BiB_1000.bib1000_36m_main.bib36b03achestinf,Saw doctor - chest infection,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03aconstipation,BiB_1000.bib1000_36m_main.bib36b03aconstipation,Saw doctor - constipation,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03aconvulsions,BiB_1000.bib1000_36m_main.bib36b03aconvulsions,Saw doctor - convulsions,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03acough,BiB_1000.bib1000_36m_main.bib36b03acough,Saw doctor - cough,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03acrying,BiB_1000.bib1000_36m_main.bib36b03acrying,Saw doctor - crying,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03adiarrhoea,BiB_1000.bib1000_36m_main.bib36b03adiarrhoea,Saw doctor - diarrhoea,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03aearprob,BiB_1000.bib1000_36m_main.bib36b03aearprob,Saw doctor - ear problems,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03againmuchwt,BiB_1000.bib1000_36m_main.bib36b03againmuchwt,Saw doctor - gaining too much weight,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03ahightemp,BiB_1000.bib1000_36m_main.bib36b03ahightemp,Saw doctor - high temperature,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03anogainwt,BiB_1000.bib1000_36m_main.bib36b03anogainwt,Saw doctor - not gaining weight,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03aother,BiB_1000.bib1000_36m_main.bib36b03aother,Saw doctor - other reason,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03askinprob,BiB_1000.bib1000_36m_main.bib36b03askinprob,Saw doctor - skin problems,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03asnuffles,BiB_1000.bib1000_36m_main.bib36b03asnuffles,Saw doctor - snuffles,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03athrush,BiB_1000.bib1000_36m_main.bib36b03athrush,Saw doctor - thrush,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03atummy,BiB_1000.bib1000_36m_main.bib36b03atummy,Saw doctor - tummy upset,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03auti,BiB_1000.bib1000_36m_main.bib36b03auti,Saw doctor - urinary tract infection,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03avomiting,BiB_1000.bib1000_36m_main.bib36b03avomiting,Saw doctor - vomiting,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03baccident,BiB_1000.bib1000_36m_main.bib36b03baccident,Saw nurse - accident,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bbreathprob,BiB_1000.bib1000_36m_main.bib36b03bbreathprob,Saw nurse - breathing problems,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bchestinf,BiB_1000.bib1000_36m_main.bib36b03bchestinf,Saw nurse - chest infection,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bconstipation,BiB_1000.bib1000_36m_main.bib36b03bconstipation,Saw nurse - constipation,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bconvulsions,BiB_1000.bib1000_36m_main.bib36b03bconvulsions,Saw nurse - convulsions,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bcough,BiB_1000.bib1000_36m_main.bib36b03bcough,Saw nurse - cough,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bcrying,BiB_1000.bib1000_36m_main.bib36b03bcrying,Saw nurse - crying,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bdiarrhoea,BiB_1000.bib1000_36m_main.bib36b03bdiarrhoea,Saw nurse - diarrhoea,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bearprob,BiB_1000.bib1000_36m_main.bib36b03bearprob,Saw nurse - ear problems,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bgainmuchwt,BiB_1000.bib1000_36m_main.bib36b03bgainmuchwt,Saw nurse - gaining too much weight,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bhightemp,BiB_1000.bib1000_36m_main.bib36b03bhightemp,Saw nurse - high temperature,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bnogainwt,BiB_1000.bib1000_36m_main.bib36b03bnogainwt,Saw nurse - not gaining weight,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bother,BiB_1000.bib1000_36m_main.bib36b03bother,Saw nurse - other reason,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bskinprob,BiB_1000.bib1000_36m_main.bib36b03bskinprob,Saw nurse - skin problems,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bsnuffles,BiB_1000.bib1000_36m_main.bib36b03bsnuffles,Saw nurse - snuffles,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bthrush,BiB_1000.bib1000_36m_main.bib36b03bthrush,Saw nurse - thrush,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03btummy,BiB_1000.bib1000_36m_main.bib36b03btummy,Saw nurse - tummy upset,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03buti,BiB_1000.bib1000_36m_main.bib36b03buti,Saw nurse - urinary tract infection,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b03bvomiting,BiB_1000.bib1000_36m_main.bib36b03bvomiting,Saw nurse - vomiting,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b04a,BiB_1000.bib1000_36m_main.bib36b04a,Has child been given a medical diagnosis,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b04b,BiB_1000.bib1000_36m_main.bib36b04b,Medical diagnosis 1,text,,,
+bib36b04c,BiB_1000.bib1000_36m_main.bib36b04c,Medical diagnosis 2,text,,,
+bib36b04d,BiB_1000.bib1000_36m_main.bib36b04d,Medical diagnosis 3,text,,,
+bib36b04e,BiB_1000.bib1000_36m_main.bib36b04e,Medical diagnosis 4,text,,,
+bib36b05a,BiB_1000.bib1000_36m_main.bib36b05a,Has child been admitted to hospital in last 12 mths,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b05b,BiB_1000.bib1000_36m_main.bib36b05b,Number of hospital admissions,decimal,,,
+bib36b06a,BiB_1000.bib1000_36m_main.bib36b06a,Has child been to an outpatient clinic in last 12 mths,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b06b,BiB_1000.bib1000_36m_main.bib36b06b,Number of outpatient clinics attended,decimal,,,
+bib36b07a,BiB_1000.bib1000_36m_main.bib36b07a,Has child been hurt/injured/had accident and needed medical attention,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36b07b,BiB_1000.bib1000_36m_main.bib36b07b,Number of times child has been hurt etc,decimal,,,
+bib36c01,BiB_1000.bib1000_36m_main.bib36c01,Was child ever breastfed,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36c02,BiB_1000.bib1000_36m_main.bib36c02,Is child still being breastfed,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36d01a,BiB_1000.bib1000_36m_main.bib36d01a,Hours of day-time sleep,decimal,,,
+bib36d01b,BiB_1000.bib1000_36m_main.bib36d01b,Hours of night-time sleep,decimal,,,
+bib36e01,BiB_1000.bib1000_36m_main.bib36e01,Have you ever regularly smoked cigarettes,decimal,,1|2|3,"Yes, for >1 year|Yes, for <1 year|No"
+bib36e02,BiB_1000.bib1000_36m_main.bib36e02,Do you smoke nowadays,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36e02a,BiB_1000.bib1000_36m_main.bib36e02a,"If no, age stopped smoking",decimal,,,
+bib36e03,BiB_1000.bib1000_36m_main.bib36e03,"If yes, number of cigs smoked since giving birth",decimal,,1|2|3|4|5|6,None|1-5 per day|6-10 per day|11-20 per day|20+ per day|Not applicable
+bib36e04a,BiB_1000.bib1000_36m_main.bib36e04a,Are you exposed to other peoples' smoke,decimal,,1|2|3,Yes|No|<1 hour per day/occasionally
+bib36e04b,BiB_1000.bib1000_36m_main.bib36e04b,"If yes, for how many hours",decimal,,,
+bib36e05a,BiB_1000.bib1000_36m_main.bib36e05a,Is child exposed to other peoples' smoke,decimal,,1|2|3,Yes|No|<1 hour per day/occasionally
+bib36e05b,BiB_1000.bib1000_36m_main.bib36e05b,"If yes, for how many hours",decimal,,,
+bib36e06,BiB_1000.bib1000_36m_main.bib36e06,Have you drunk alcohol since giving birth,decimal,,1|2|3|4,"Yes, once a week or more|Yes, occasionally|No|Don't remember"
+bib36e07beeravg,BiB_1000.bib1000_36m_main.bib36e07beeravg,Average number of units/week of beer,decimal,,,
+bib36e07beerdr,BiB_1000.bib1000_36m_main.bib36e07beerdr,Don't remember the number of units/week of beer,decimal,,1,Don't remember
+bib36e07beermax,BiB_1000.bib1000_36m_main.bib36e07beermax,Maximum number of units/week of beer,decimal,,,
+bib36e07otheravg,BiB_1000.bib1000_36m_main.bib36e07otheravg,Average number of units/week of other,decimal,,,
+bib36e07otherdr,BiB_1000.bib1000_36m_main.bib36e07otherdr,Don't remember the number of units/week of other,decimal,,1,Don't remember
+bib36e07othermax,BiB_1000.bib1000_36m_main.bib36e07othermax,Maximum number of units/week of other,decimal,,,
+bib36e07spiritsavg,BiB_1000.bib1000_36m_main.bib36e07spiritsavg,Average number of units/week of spirits,decimal,,,
+bib36e07spiritsdr,BiB_1000.bib1000_36m_main.bib36e07spiritsdr,Don't remember the number of units/week of spirits,decimal,,1,Don't remember
+bib36e07spiritsmax,BiB_1000.bib1000_36m_main.bib36e07spiritsmax,Maximum number of units/week of spirits,decimal,,,
+bib36e07wineavg,BiB_1000.bib1000_36m_main.bib36e07wineavg,Average number of units/week of wine,decimal,,,
+bib36e07winedr,BiB_1000.bib1000_36m_main.bib36e07winedr,Don't remember the number of units/week of wine,decimal,,1,Don't remember
+bib36e07winemax,BiB_1000.bib1000_36m_main.bib36e07winemax,Maximum number of units/week of wine,decimal,,,
+bib36e08,BiB_1000.bib1000_36m_main.bib36e08,How often have you drank 5+ units of alcohol on 1 occasion,decimal,,1|2|3|4|5|6,Every day|Nearly every day|1-4 times/week|1-3 times/month|Rarely|Never
+bib36f01,BiB_1000.bib1000_36m_main.bib36f01,Fruit,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f02,BiB_1000.bib1000_36m_main.bib36f02,Salad,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f03,BiB_1000.bib1000_36m_main.bib36f03,Vegetables,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f04,BiB_1000.bib1000_36m_main.bib36f04,"Boiled, mashed or jacket potatoes",decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f05,BiB_1000.bib1000_36m_main.bib36f05,Fried or roasted potatoes,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f06,BiB_1000.bib1000_36m_main.bib36f06,Oven-cooked chips,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f07,BiB_1000.bib1000_36m_main.bib36f07,Fried chips,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f08,BiB_1000.bib1000_36m_main.bib36f08,Fried rice/biryani,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f09,BiB_1000.bib1000_36m_main.bib36f09,Chapattis etc with butter,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f10,BiB_1000.bib1000_36m_main.bib36f10,Boiled rice,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f11,BiB_1000.bib1000_36m_main.bib36f11,Chapattis etc without butter,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f12,BiB_1000.bib1000_36m_main.bib36f12,Biscuits,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f13,BiB_1000.bib1000_36m_main.bib36f13,Cakes/pastries,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f14,BiB_1000.bib1000_36m_main.bib36f14,Crisps/other savoury snacks,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f15,BiB_1000.bib1000_36m_main.bib36f15,Chevda/Bombay mix etc,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f16,BiB_1000.bib1000_36m_main.bib36f16,Indian sweets,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f17,BiB_1000.bib1000_36m_main.bib36f17,Samosas/pakoras/spring rolls,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f18,BiB_1000.bib1000_36m_main.bib36f18,Sausage rolls/pork pies/pasties,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f19,BiB_1000.bib1000_36m_main.bib36f19,Other snacks,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f19other,BiB_1000.bib1000_36m_main.bib36f19other,Specify other snacks,text,,,
+bib36f20,BiB_1000.bib1000_36m_main.bib36f20,Natural fruit juice,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f21,BiB_1000.bib1000_36m_main.bib36f21,Mango juice,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f22,BiB_1000.bib1000_36m_main.bib36f22,Fruit drinks/squash - sugar-free,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f23,BiB_1000.bib1000_36m_main.bib36f23,Fruit drinks/squash - contains sugar,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f24,BiB_1000.bib1000_36m_main.bib36f24,Coke/Pepsi/Fanta,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f25,BiB_1000.bib1000_36m_main.bib36f25,Diet Coke/Pepsi/Fanta,decimal,,1|2|3|4|5|6|7|8,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|1-2 per day|3-4 per day|5+ per day
+bib36f26,BiB_1000.bib1000_36m_main.bib36f26,Meat/vegetarian pies/pasties,decimal,,1|2|3|4|5|6,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|7+ per week
+bib36f27,BiB_1000.bib1000_36m_main.bib36f27,Pizza/quiche/flan,decimal,,1|2|3|4|5|6,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|7+ per week
+bib36f28,BiB_1000.bib1000_36m_main.bib36f28,Chip-shop meal,decimal,,1|2|3|4|5|6,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|7+ per week
+bib36f29,BiB_1000.bib1000_36m_main.bib36f29,Beef/veggie burgers,decimal,,1|2|3|4|5|6,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|7+ per week
+bib36f30,BiB_1000.bib1000_36m_main.bib36f30,Fried chicken take-away,decimal,,1|2|3|4|5|6,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|7+ per week
+bib36f31,BiB_1000.bib1000_36m_main.bib36f31,Indian meal take-away,decimal,,1|2|3|4|5|6,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|7+ per week
+bib36f32,BiB_1000.bib1000_36m_main.bib36f32,Donner kebab,decimal,,1|2|3|4|5|6,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|7+ per week
+bib36f33,BiB_1000.bib1000_36m_main.bib36f33,Chinese meal take-away,decimal,,1|2|3|4|5|6,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|7+ per week
+bib36f34,BiB_1000.bib1000_36m_main.bib36f34,Other ready meal/take-away,decimal,,1|2|3|4|5|6,Rarely or never|<1 a week|1 per week|2-3 per week|4-6 per week|7+ per week
+bib36f34other,BiB_1000.bib1000_36m_main.bib36f34other,Specify other ready meal/take-away,text,,,
+bib36g01,BiB_1000.bib1000_36m_main.bib36g01,"In last week, number of times spent walking 10+ minutes",decimal,,,
+bib36g02mumwalktot,BiB_1000.bib1000_36m_main.bib36g02mumwalktot,Total mins mother walked continuously >10 mins,decimal,,,
+bib36g03,BiB_1000.bib1000_36m_main.bib36g03,"In the last week, number of times did vigorous gardening/heavy work",decimal,,,
+bib36g04mumgardtot,BiB_1000.bib1000_36m_main.bib36g04mumgardtot,Total mins mother did vig. gardening/heavy work continuously >10 mins,decimal,,,
+bib36g05,BiB_1000.bib1000_36m_main.bib36g05,"In the last week, number of times did vigorous physical activity",decimal,,,
+bib36g05mumvigpatot,BiB_1000.bib1000_36m_main.bib36g05mumvigpatot,Total mins mother did vig. activity continuously >10 mins,decimal,,,
+bib36g07,BiB_1000.bib1000_36m_main.bib36g07,"In the last week, number of times did moderate physical activity",decimal,,,
+bib36g07mummodtot,BiB_1000.bib1000_36m_main.bib36g07mummodtot,Total mins mother did mod. activity continuously >10 mins,decimal,,,
+bib36g09a,BiB_1000.bib1000_36m_main.bib36g09a,Taking stairs/being active 30+ mins a day is enough to improve health,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib36g09b,BiB_1000.bib1000_36m_main.bib36g09b,Half hour brisk walking on most days is enough to improve health,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib36g09c,BiB_1000.bib1000_36m_main.bib36g09c,Essential to do vigorous exercise for 20+ mins 3 times/week to improve health,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib36g09d,BiB_1000.bib1000_36m_main.bib36g09d,"Exercise doesn't have to be done all at once, 10 minute blocks are OK",decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib36g09e,BiB_1000.bib1000_36m_main.bib36g09e,Moderate exercise that increases your heart rate slightly can improve health,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Agree strongly
+bib36g10awkdaymins,BiB_1000.bib1000_36m_main.bib36g10awkdaymins,Minutes spent sitting while travelling on a week day,decimal,,,
+bib36g10awkendmins,BiB_1000.bib1000_36m_main.bib36g10awkendmins,Minutes spent sitting while travelling on a weekend day,decimal,,,
+bib36g10bwkdaymins,BiB_1000.bib1000_36m_main.bib36g10bwkdaymins,Minutes spent sitting at work on a week day,decimal,,,
+bib36g10bwkendmins,BiB_1000.bib1000_36m_main.bib36g10bwkendmins,Minutes spent sitting at work on a weekend day,decimal,,,
+bib36g10cwkdaymins,BiB_1000.bib1000_36m_main.bib36g10cwkdaymins,Minutes spent sitting watching TV on a week day,decimal,,,
+bib36g10cwkendmins,BiB_1000.bib1000_36m_main.bib36g10cwkendmins,Minutes spent sitting watching TV on a weekend day,decimal,,,
+bib36g10dwkdaymins,BiB_1000.bib1000_36m_main.bib36g10dwkdaymins,Minutes spent sitting at a computer  on a week day,decimal,,,
+bib36g10dwkendmins,BiB_1000.bib1000_36m_main.bib36g10dwkendmins,Minutes spent sitting at a computer on a weekend day,decimal,,,
+bib36g10ewkdaymins,BiB_1000.bib1000_36m_main.bib36g10ewkdaymins,Minutes spent sitting in leisure time on a week day,decimal,,,
+bib36g10ewkendmins,BiB_1000.bib1000_36m_main.bib36g10ewkendmins,Minutes spent sitting in leisure time on a weekend day,decimal,,,
+bib36g10mumcomptot,BiB_1000.bib1000_36m_main.bib36g10mumcomptot,Total mins mother sits using a computer weekly,decimal,,,
+bib36g10mumleistot,BiB_1000.bib1000_36m_main.bib36g10mumleistot,Total mins mother sits during leisure time weekly,decimal,,,
+bib36g10mumsittot,BiB_1000.bib1000_36m_main.bib36g10mumsittot,Total mins mother sits weekly,decimal,,,
+bib36g10mumtravtot,BiB_1000.bib1000_36m_main.bib36g10mumtravtot,Total mins mother sits travelling weekly,decimal,,,
+bib36g10mumtvtot,BiB_1000.bib1000_36m_main.bib36g10mumtvtot,Total mins mother sits watching TV weekly,decimal,,,
+bib36g10mumworktot,BiB_1000.bib1000_36m_main.bib36g10mumworktot,Total mins mother sits at work weekly,decimal,,,
+bib36gmumactdurtot,BiB_1000.bib1000_36m_main.bib36gmumactdurtot,Total mins mother did walking/mod/vig activity continuously >10 mins,decimal,,,
+bib36gmumactfreqtot,BiB_1000.bib1000_36m_main.bib36gmumactfreqtot,Total sessions mother did walking/mod/vig activity continuously >10 mins,decimal,,,
+bib36gmumsuffactvol,BiB_1000.bib1000_36m_main.bib36gmumsuffactvol,Physical activity group based on total activity time only,decimal,,,
+bib36gmumsuffactvolfreq,BiB_1000.bib1000_36m_main.bib36gmumsuffactvolfreq,Physical activity group based on total activity time and frequency,decimal,,,
+bib36h01,BiB_1000.bib1000_36m_main.bib36h01,Does your child have a TV in his bedroom,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36h02wkdays,BiB_1000.bib1000_36m_main.bib36h02wkdays,Hours/day TV on at home on weekdays,decimal,,,
+bib36h02wkends,BiB_1000.bib1000_36m_main.bib36h02wkends,Hours/day TV on at home on weekends,decimal,,,
+bib36h03a,BiB_1000.bib1000_36m_main.bib36h03a,Hours/day mum watches TV on week days before 6pm,decimal,,1|2|3|4|5|6,None|<1 hour/day|1-2 hours/day|2-3 hours/day|3-4 hours/day|>4 hours/day
+bib36h03b,BiB_1000.bib1000_36m_main.bib36h03b,Hours/day mum watches TV on week days after 6pm,decimal,,1|2|3|4|5|6,None|<1 hour/day|1-2 hours/day|2-3 hours/day|3-4 hours/day|>4 hours/day
+bib36h03c,BiB_1000.bib1000_36m_main.bib36h03c,Hours/day mum watches TV on weekends before 6pm,decimal,,1|2|3|4|5|6,None|<1 hour/day|1-2 hours/day|2-3 hours/day|3-4 hours/day|>4 hours/day
+bib36h03d,BiB_1000.bib1000_36m_main.bib36h03d,Hours/day mum watches TV on weekends after 6pm,decimal,,1|2|3|4|5|6,None|<1 hour/day|1-2 hours/day|2-3 hours/day|3-4 hours/day|>4 hours/day
+bib36h03mumhravday,BiB_1000.bib1000_36m_main.bib36h03mumhravday,Avg hours of daily TV viewing by mum,decimal,,,
+bib36h03mumhrdaywk,BiB_1000.bib1000_36m_main.bib36h03mumhrdaywk,Hours of daily weekday TV viewing by mum,decimal,,,
+bib36h03mumhrdaywkend,BiB_1000.bib1000_36m_main.bib36h03mumhrdaywkend,Hours of daily weekend TV viewing by mum,decimal,,,
+bib36h04a,BiB_1000.bib1000_36m_main.bib36h04a,Hours/day child watches TV on week days before 6pm,decimal,,1|2|3|4|5|6,None|<1 hour/day|1-2 hours/day|2-3 hours/day|3-4 hours/day|>4 hours/day
+bib36h04b,BiB_1000.bib1000_36m_main.bib36h04b,Hours/day child watches TV on week days after 6pm,decimal,,1|2|3|4|5|6,None|<1 hour/day|1-2 hours/day|2-3 hours/day|3-4 hours/day|>4 hours/day
+bib36h04c,BiB_1000.bib1000_36m_main.bib36h04c,Hours/day child watches TV on weekends before 6pm,decimal,,1|2|3|4|5|6,None|<1 hour/day|1-2 hours/day|2-3 hours/day|3-4 hours/day|>4 hours/day
+bib36h04chd3yravcat,BiB_1000.bib1000_36m_main.bib36h04chd3yravcat,"Avg hours of TV viewing in 3rd year of life, categorised",decimal,,0|1|2|3,Zero hours TV daily|0-1 hours TV daily|1-2 hours TV daily|>2 hours TV daily
+bib36h04chdhravday,BiB_1000.bib1000_36m_main.bib36h04chdhravday,Avg hours of daily TV viewing by child,decimal,,,
+bib36h04chdhrdaywk,BiB_1000.bib1000_36m_main.bib36h04chdhrdaywk,Hours of daily weekday TV viewing by child,decimal,,,
+bib36h04chdhrdaywkend,BiB_1000.bib1000_36m_main.bib36h04chdhrdaywkend,Hours of daily weekend TV viewing by child,decimal,,,
+bib36h04d,BiB_1000.bib1000_36m_main.bib36h04d,Hours/day child watches TV on weekends after 6pm,decimal,,1|2|3|4|5|6,None|<1 hour/day|1-2 hours/day|2-3 hours/day|3-4 hours/day|>4 hours/day
+bib36i01ahowlong,BiB_1000.bib1000_36m_main.bib36i01ahowlong,How long spent colouring/drawing/craft,decimal,,1|2|3|4,Upto 15 mins/day|16-30 mins/day|31-60 mins/day|>1 hour/day
+bib36i01ahowoften,BiB_1000.bib1000_36m_main.bib36i01ahowoften,How often spent colouring/drawing/craft,decimal,,1|2|3|4|5|6|7|8,1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week|<once per week
+bib36i01amins,BiB_1000.bib1000_36m_main.bib36i01amins,Minutes spent colouring/drawing/craft if >1 hour,decimal,,,
+bib36i01bhowlong,BiB_1000.bib1000_36m_main.bib36i01bhowlong,How long spent sitting playing with toys,decimal,,1|2|3|4,Upto 15 mins/day|16-30 mins/day|31-60 mins/day|>1 hour/day
+bib36i01bhowoften,BiB_1000.bib1000_36m_main.bib36i01bhowoften,How often spent sitting playing with toys,decimal,,1|2|3|4|5|6|7|8,1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week|<once per week
+bib36i01bmins,BiB_1000.bib1000_36m_main.bib36i01bmins,Minutes spent sitting playing with toys if >1 hour,decimal,,,
+bib36i01chowlong,BiB_1000.bib1000_36m_main.bib36i01chowlong,How long spent watching TV/DVDs,decimal,,1|2|3|4,Upto 15 mins/day|16-30 mins/day|31-60 mins/day|>1 hour/day
+bib36i01chowoften,BiB_1000.bib1000_36m_main.bib36i01chowoften,How often spent watching TV/DVDs,decimal,,1|2|3|4|5|6|7|8,1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week|<once per week
+bib36i01cmins,BiB_1000.bib1000_36m_main.bib36i01cmins,Minutes spent watching TV/DVDs if >1 hour,decimal,,,
+bib36i01dhowlong,BiB_1000.bib1000_36m_main.bib36i01dhowlong,How long spent playing on the computer,decimal,,1|2|3|4,Upto 15 mins/day|16-30 mins/day|31-60 mins/day|>1 hour/day
+bib36i01dhowoften,BiB_1000.bib1000_36m_main.bib36i01dhowoften,How often spent playing on the computer,decimal,,1|2|3|4|5|6|7|8,1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week|<once per week
+bib36i01dmins,BiB_1000.bib1000_36m_main.bib36i01dmins,Minutes spent playing on the computer if >1 hour,decimal,,,
+bib36i01ehowlong,BiB_1000.bib1000_36m_main.bib36i01ehowlong,How long spent listening/singing to music,decimal,,1|2|3|4,Upto 15 mins/day|16-30 mins/day|31-60 mins/day|>1 hour/day
+bib36i01ehowoften,BiB_1000.bib1000_36m_main.bib36i01ehowoften,How often spent listening/singing to music,decimal,,1|2|3|4|5|6|7|8,1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week|<once per week
+bib36i01emins,BiB_1000.bib1000_36m_main.bib36i01emins,Minutes spent listening/singing to music if >1 hour,decimal,,,
+bib36i01fhowlong,BiB_1000.bib1000_36m_main.bib36i01fhowlong,How long spent reading/being read to,decimal,,1|2|3|4,Upto 15 mins/day|16-30 mins/day|31-60 mins/day|>1 hour/day
+bib36i01fhowoften,BiB_1000.bib1000_36m_main.bib36i01fhowoften,How often spent reading/being read to,decimal,,1|2|3|4|5|6|7|8,1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week|<once per week
+bib36i01fmins,BiB_1000.bib1000_36m_main.bib36i01fmins,Minutes spent reading/being read to if >1 hour,decimal,,,
+bib36i01ghowlong,BiB_1000.bib1000_36m_main.bib36i01ghowlong,How long spent playing actively inside the house,decimal,,1|2|3|4,Upto 15 mins/day|16-30 mins/day|31-60 mins/day|>1 hour/day
+bib36i01ghowoften,BiB_1000.bib1000_36m_main.bib36i01ghowoften,How often spent playing actively inside the house,decimal,,1|2|3|4|5|6|7|8,1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week|<once per week
+bib36i01gmins,BiB_1000.bib1000_36m_main.bib36i01gmins,Minutes spent playing actively inside the house if >1 hour,decimal,,,
+bib36i01hhowlong,BiB_1000.bib1000_36m_main.bib36i01hhowlong,How long spent playing actively in the garden,decimal,,1|2|3|4,Upto 15 mins/day|16-30 mins/day|31-60 mins/day|>1 hour/day
+bib36i01hhowoften,BiB_1000.bib1000_36m_main.bib36i01hhowoften,How often spent playing actively in the garden,decimal,,1|2|3|4|5|6|7|8,1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week|<once per week
+bib36i01hmins,BiB_1000.bib1000_36m_main.bib36i01hmins,Minutes spent playing actively in the garden if >1 hour,decimal,,,
+bib36i01ihowlong,BiB_1000.bib1000_36m_main.bib36i01ihowlong,How long spent engaging in physical activity,decimal,,1|2|3|4,Upto 15 mins/day|16-30 mins/day|31-60 mins/day|>1 hour/day
+bib36i01ihowoften,BiB_1000.bib1000_36m_main.bib36i01ihowoften,How often spent engaging in physical activity,decimal,,1|2|3|4|5|6|7|8,1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week|<once per week
+bib36i01imins,BiB_1000.bib1000_36m_main.bib36i01imins,Minutes spent engaging in physical activity if >1 hour,decimal,,,
+bib36i02ahowlong,BiB_1000.bib1000_36m_main.bib36i02ahowlong,How long spent in buggy/pushchair,decimal,,1|2|3|4,Upto 15 mins/day|16-30 mins/day|31-60 mins/day|>1 hour/day
+bib36i02ahowoften,BiB_1000.bib1000_36m_main.bib36i02ahowoften,How often spent in buggy/pushchair,decimal,,1|2|3|4|5|6|7|8,1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week|<once per week
+bib36i02amins,BiB_1000.bib1000_36m_main.bib36i02amins,Minutes spent in buggy/pushchair if >1 hour,decimal,,,
+bib36i02bhowlong,BiB_1000.bib1000_36m_main.bib36i02bhowlong,How long spent walking,decimal,,1|2|3|4,Upto 15 mins/day|16-30 mins/day|31-60 mins/day|>1 hour/day
+bib36i02bhowoften,BiB_1000.bib1000_36m_main.bib36i02bhowoften,How often spent walking,decimal,,1|2|3|4|5|6|7|8,1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week|<once per week
+bib36i02bmins,BiB_1000.bib1000_36m_main.bib36i02bmins,Minutes spent walking if >1 hour,decimal,,,
+bib36i02chowlong,BiB_1000.bib1000_36m_main.bib36i02chowlong,How long spent being carried,decimal,,1|2|3|4,Upto 15 mins/day|16-30 mins/day|31-60 mins/day|>1 hour/day
+bib36i02chowoften,BiB_1000.bib1000_36m_main.bib36i02chowoften,How often spent being carried,decimal,,1|2|3|4|5|6|7|8,1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week|<once per week
+bib36i02cmins,BiB_1000.bib1000_36m_main.bib36i02cmins,Minutes spent being carried if >1 hour,decimal,,,
+bib36i02dhowlong,BiB_1000.bib1000_36m_main.bib36i02dhowlong,How long spent in the car,decimal,,1|2|3|4,Upto 15 mins/day|16-30 mins/day|31-60 mins/day|>1 hour/day
+bib36i02dhowoften,BiB_1000.bib1000_36m_main.bib36i02dhowoften,How often spent in the car,decimal,,1|2|3|4|5|6|7|8,1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week|<once per week
+bib36i02dmins,BiB_1000.bib1000_36m_main.bib36i02dmins,Minutes spent in the car if >1 hour,decimal,,,
+bib36i02ehowlong,BiB_1000.bib1000_36m_main.bib36i02ehowlong,How long spent on public transport,decimal,,1|2|3|4,Upto 15 mins/day|16-30 mins/day|31-60 mins/day|>1 hour/day
+bib36i02ehowoften,BiB_1000.bib1000_36m_main.bib36i02ehowoften,How often spent on public transport,decimal,,1|2|3|4|5|6|7|8,1 day per week|2 days per week|3 days per week|4 days per week|5 days per week|6 days per week|7 days per week|<once per week
+bib36i02emins,BiB_1000.bib1000_36m_main.bib36i02emins,Minutes spent on public transport if >1 hour,decimal,,,
+bib36i03,BiB_1000.bib1000_36m_main.bib36i03,Is there space for child to play outside,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36i04,BiB_1000.bib1000_36m_main.bib36i04,How often has child played at park,decimal,,1|2|3|4|5|6,Never|1-3 times/month|Once a week|2-3 times/week|5-6 times/week|Everyday
+bib36i05,BiB_1000.bib1000_36m_main.bib36i05,How long as child played at park,decimal,,1|2|3|4|5,NA|Up to 15 minutes|16-30 minutes|31-60 minutes|>60 minutes
+bib36i06,BiB_1000.bib1000_36m_main.bib36i06,Any indoor facilities for child to play inside,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36i07,BiB_1000.bib1000_36m_main.bib36i07,How often has child playing at indoor facilities,decimal,,1|2|3|4|5|6,Never|1-3 times/month|Once a week|2-3 times/week|5-6 times/week|Everyday
+bib36i08,BiB_1000.bib1000_36m_main.bib36i08,How long has child played at indoor facilities,decimal,,1|2|3|4|5,NA|Up to 15 minutes|16-30 minutes|31-60 minutes|>60 minutes
+bib36i09,BiB_1000.bib1000_36m_main.bib36i09,Does child attend any organised/structure physical activity programmes,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36i10,BiB_1000.bib1000_36m_main.bib36i10,How much time has child spent at nursery each week,decimal,,1|2|3,Full time|Part time|They don't go
+bib36i10mins,BiB_1000.bib1000_36m_main.bib36i10mins,Number of minutes child spent at nursery,decimal,,,
+bib36i11,BiB_1000.bib1000_36m_main.bib36i11,Does nursery have an indoor movement area,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36i12,BiB_1000.bib1000_36m_main.bib36i12,Does nursery have an outdoor play area,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j01a,BiB_1000.bib1000_36m_main.bib36j01a,Unsweetened cereals,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j01b,BiB_1000.bib1000_36m_main.bib36j01b,Sweetened cereals,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j01c,BiB_1000.bib1000_36m_main.bib36j01c,Ready Brek or porridge,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j01d,BiB_1000.bib1000_36m_main.bib36j01d,Muesli,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j02a,BiB_1000.bib1000_36m_main.bib36j02a,White bread or rolls,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j02b,BiB_1000.bib1000_36m_main.bib36j02b,Brown or granary bread or rolls,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j02c,BiB_1000.bib1000_36m_main.bib36j02c,Wholemeal bread or rolls,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j02d,BiB_1000.bib1000_36m_main.bib36j02d,"Croissants, garlic bread",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j02e,BiB_1000.bib1000_36m_main.bib36j02e,Other bread,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j03a,BiB_1000.bib1000_36m_main.bib36j03a,Full fat cow�s milk,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j03b,BiB_1000.bib1000_36m_main.bib36j03b,Semi-skimmed cow�s milk,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j03c,BiB_1000.bib1000_36m_main.bib36j03c,Skimmed cow�s milk,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j03d,BiB_1000.bib1000_36m_main.bib36j03d,Soya milk,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j03e,BiB_1000.bib1000_36m_main.bib36j03e,Flavoured milk,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j04a,BiB_1000.bib1000_36m_main.bib36j04a,Drinking yoghurts,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j04b,BiB_1000.bib1000_36m_main.bib36j04b,Flavoured yoghurts,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j04c,BiB_1000.bib1000_36m_main.bib36j04c,Fromage frais,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j04d,BiB_1000.bib1000_36m_main.bib36j04d,"Natural, low-fat or low-calorie yoghurt",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j04e,BiB_1000.bib1000_36m_main.bib36j04e,Cream,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j04f,BiB_1000.bib1000_36m_main.bib36j04f,Full fat cream,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j04g,BiB_1000.bib1000_36m_main.bib36j04g,Cheddar-type cheese,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j04h,BiB_1000.bib1000_36m_main.bib36j04h,"Edam, Brie or cheese spreads",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j04i,BiB_1000.bib1000_36m_main.bib36j04i,Low fat hard or soft cheese,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j04j,BiB_1000.bib1000_36m_main.bib36j04j,Eggs,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j05a,BiB_1000.bib1000_36m_main.bib36j05a,Meat burgers or mince,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j05b,BiB_1000.bib1000_36m_main.bib36j05b,Meat sauce,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j05c,BiB_1000.bib1000_36m_main.bib36j05c,Frankfurters,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j05d,BiB_1000.bib1000_36m_main.bib36j05d,Fried or grilled sausage,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j05e,BiB_1000.bib1000_36m_main.bib36j05e,Bacon or gammon,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j05f,BiB_1000.bib1000_36m_main.bib36j05f,Cold ham or turkey,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j05g,BiB_1000.bib1000_36m_main.bib36j05g,Salami or continental sausage,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j05h,BiB_1000.bib1000_36m_main.bib36j05h,"Stewed, fried, grilled or roast beef, port or lamb",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j05i,BiB_1000.bib1000_36m_main.bib36j05i,Chicken nuggets/chicken stick,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j05j,BiB_1000.bib1000_36m_main.bib36j05j,"Casseroled, fried, grilled or roast chicken or turkey",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j05k,BiB_1000.bib1000_36m_main.bib36j05k,"Meat or chicken pies, pasties or sausage rolls",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j06a,BiB_1000.bib1000_36m_main.bib36j06a,Fish fingers,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j06b,BiB_1000.bib1000_36m_main.bib36j06b,Fish cakes or fish pie,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j06c,BiB_1000.bib1000_36m_main.bib36j06c,Grilled or poached white fish,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j06d,BiB_1000.bib1000_36m_main.bib36j06d,White fish fried or cooked in batter or scampi,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j06e,BiB_1000.bib1000_36m_main.bib36j06e,Fried oily fish,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j06f,BiB_1000.bib1000_36m_main.bib36j06f,Smoked oily fish,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j06g,BiB_1000.bib1000_36m_main.bib36j06g,Tinned tuna,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j06h,BiB_1000.bib1000_36m_main.bib36j06h,"Tinned salmon, sardines, mackerel, pilchards",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j06i,BiB_1000.bib1000_36m_main.bib36j06i,Prawns,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j07a,BiB_1000.bib1000_36m_main.bib36j07a,"Boiled, mashed or baked potatoes",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j07b,BiB_1000.bib1000_36m_main.bib36j07b,Potato croquettes or waffles,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j07c,BiB_1000.bib1000_36m_main.bib36j07c,Roast or fried potatoes,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j07d,BiB_1000.bib1000_36m_main.bib36j07d,Oven chips,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j07e,BiB_1000.bib1000_36m_main.bib36j07e,Home-cooked chips,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j07f,BiB_1000.bib1000_36m_main.bib36j07f,"Chips from a chip shop, caf� or restaurant",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j07g,BiB_1000.bib1000_36m_main.bib36j07g,Spaghetti and other pasta or couscous,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j07h,BiB_1000.bib1000_36m_main.bib36j07h,Rice,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j07i,BiB_1000.bib1000_36m_main.bib36j07i,Noodles,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j08a,BiB_1000.bib1000_36m_main.bib36j08a,Pizza,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j08b,BiB_1000.bib1000_36m_main.bib36j08b,Quiche,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j08c,BiB_1000.bib1000_36m_main.bib36j08c,"Quorn, soya or tofu products",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j08d,BiB_1000.bib1000_36m_main.bib36j08d,"Nut roast, nut burgers or vegetable burgers",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j08e,BiB_1000.bib1000_36m_main.bib36j08e,Bakes beans,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j08f,BiB_1000.bib1000_36m_main.bib36j08f,Other beans or lentils,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j08g,BiB_1000.bib1000_36m_main.bib36j08g,Canned or dried soup,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j08h,BiB_1000.bib1000_36m_main.bib36j08h,Home-made soup,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j08i,BiB_1000.bib1000_36m_main.bib36j08i,Bottled sauces,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j08j,BiB_1000.bib1000_36m_main.bib36j08j,Tomato sauces,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j08k,BiB_1000.bib1000_36m_main.bib36j08k,Other sauces,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j08l,BiB_1000.bib1000_36m_main.bib36j08l,Gravy,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j08m,BiB_1000.bib1000_36m_main.bib36j08m,Mayonnaise or salad cream,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09a,BiB_1000.bib1000_36m_main.bib36j09a,Mixed vegetable dishes,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09b,BiB_1000.bib1000_36m_main.bib36j09b,Peas or green beans,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09c,BiB_1000.bib1000_36m_main.bib36j09c,Sweetcorn,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09d,BiB_1000.bib1000_36m_main.bib36j09d,Broccoli,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09e,BiB_1000.bib1000_36m_main.bib36j09e,Cabbage,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09f,BiB_1000.bib1000_36m_main.bib36j09f,Spinach,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09g,BiB_1000.bib1000_36m_main.bib36j09g,Other green vegetables,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09h,BiB_1000.bib1000_36m_main.bib36j09h,"Cauliflower, swede or turnip",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09i,BiB_1000.bib1000_36m_main.bib36j09i,Raw carrot,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09j,BiB_1000.bib1000_36m_main.bib36j09j,Cooked carrot,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09k,BiB_1000.bib1000_36m_main.bib36j09k,Onions,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09l,BiB_1000.bib1000_36m_main.bib36j09l,Tomatoes,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09m,BiB_1000.bib1000_36m_main.bib36j09m,Peppers,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09n,BiB_1000.bib1000_36m_main.bib36j09n,Other salad vegetables,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09o,BiB_1000.bib1000_36m_main.bib36j09o,Coleslaw,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j09p,BiB_1000.bib1000_36m_main.bib36j09p,Potato salad,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j10a,BiB_1000.bib1000_36m_main.bib36j10a,Fresh fruit salad,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j10b,BiB_1000.bib1000_36m_main.bib36j10b,Tinned fruit,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j10c,BiB_1000.bib1000_36m_main.bib36j10c,Apples,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j10d,BiB_1000.bib1000_36m_main.bib36j10d,Oranges,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j10e,BiB_1000.bib1000_36m_main.bib36j10e,Bananas,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j10f,BiB_1000.bib1000_36m_main.bib36j10f,"Grapes, melon, pear",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j10g,BiB_1000.bib1000_36m_main.bib36j10g,Kiwi,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j10h,BiB_1000.bib1000_36m_main.bib36j10h,Other fresh fruit,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j10i,BiB_1000.bib1000_36m_main.bib36j10i,Dried fruit,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11a,BiB_1000.bib1000_36m_main.bib36j11a,Pure apple juice,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11b,BiB_1000.bib1000_36m_main.bib36j11b,Other pure fruit juice,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11c,BiB_1000.bib1000_36m_main.bib36j11c,High juice fruit drinks,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11d,BiB_1000.bib1000_36m_main.bib36j11d,Regular fruit juice drinks,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11e,BiB_1000.bib1000_36m_main.bib36j11e,Other fruit flavoured drinks including flavoured water,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11f,BiB_1000.bib1000_36m_main.bib36j11f,Regular blackcurrant diluting juice,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11g,BiB_1000.bib1000_36m_main.bib36j11g,No added sugar diluting juice,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11h,BiB_1000.bib1000_36m_main.bib36j11h,"Regular orange, lemon or other diluting juice",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11i,BiB_1000.bib1000_36m_main.bib36j11i,"No added sugar orange, lemon, or other diluted juice",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11j,BiB_1000.bib1000_36m_main.bib36j11j,Regular fizzy drinks,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11k,BiB_1000.bib1000_36m_main.bib36j11k,Low calorie or diet fizzy drinks,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11l,BiB_1000.bib1000_36m_main.bib36j11l,Drinking chocolate powder,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11m,BiB_1000.bib1000_36m_main.bib36j11m,Tea,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11n,BiB_1000.bib1000_36m_main.bib36j11n,Tap or mineral water,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j11o,BiB_1000.bib1000_36m_main.bib36j11o,Smoothies,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j12a,BiB_1000.bib1000_36m_main.bib36j12a,Sugar,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j12b,BiB_1000.bib1000_36m_main.bib36j12b,"Jam, honey, snacks",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j12c,BiB_1000.bib1000_36m_main.bib36j12c,Peanut butter,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j12d,BiB_1000.bib1000_36m_main.bib36j12d,Chocolate spread,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j12e,BiB_1000.bib1000_36m_main.bib36j12e,Marmite,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j12f,BiB_1000.bib1000_36m_main.bib36j12f,Butter or margarine,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j13a,BiB_1000.bib1000_36m_main.bib36j13a,Regular crisps,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j13b,BiB_1000.bib1000_36m_main.bib36j13b,Reduced fat crisps,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j13c,BiB_1000.bib1000_36m_main.bib36j13c,Other savoury snacks,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j13d,BiB_1000.bib1000_36m_main.bib36j13d,Peanuts and other nuts,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j13e,BiB_1000.bib1000_36m_main.bib36j13e,"Savoury biscuit, crackers or breadsticks",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j14a,BiB_1000.bib1000_36m_main.bib36j14a,Plain biscuit,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j14b,BiB_1000.bib1000_36m_main.bib36j14b,Fancy biscuit,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j14c,BiB_1000.bib1000_36m_main.bib36j14c,Chocolate biscuits or cookies,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j14d,BiB_1000.bib1000_36m_main.bib36j14d,Cereal bars or flapjacks,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j14e,BiB_1000.bib1000_36m_main.bib36j14e,Scones or pancakes,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j14f,BiB_1000.bib1000_36m_main.bib36j14f,"Donuts, muffins or pastries",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j14g,BiB_1000.bib1000_36m_main.bib36j14g,Fruit cake or malt loaf,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j14h,BiB_1000.bib1000_36m_main.bib36j14h,Plain cakes,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j14i,BiB_1000.bib1000_36m_main.bib36j14i,Cakes with icing,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j14j,BiB_1000.bib1000_36m_main.bib36j14j,Cream cakes or gateaux,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j15a,BiB_1000.bib1000_36m_main.bib36j15a,"Mousse, blancmange or trifle",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j15b,BiB_1000.bib1000_36m_main.bib36j15b,Jelly,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j15c,BiB_1000.bib1000_36m_main.bib36j15c,Milk puddings,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j15d,BiB_1000.bib1000_36m_main.bib36j15d,Sponge puddings,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j15e,BiB_1000.bib1000_36m_main.bib36j15e,"Fruit tarts, crumbles or pies, other pastries",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j15f,BiB_1000.bib1000_36m_main.bib36j15f,Custard,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j15g,BiB_1000.bib1000_36m_main.bib36j15g,Cheesecake,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j16a,BiB_1000.bib1000_36m_main.bib36j16a,"Boiled, chewy or chocolate sweets",decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j16b,BiB_1000.bib1000_36m_main.bib36j16b,Chocolate bars,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j16c,BiB_1000.bib1000_36m_main.bib36j16c,Wrapper ice creams,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j16d,BiB_1000.bib1000_36m_main.bib36j16d,Other ice cream,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j16e,BiB_1000.bib1000_36m_main.bib36j16e,Iced lollies,decimal,,1|2|3|4|5|6|7|8|9,Rarely or never|1 or 2 per month|1 per week|2-3 per week|4-6 per week|1 per day|2-3 per day|4-6 per day|7+ per day
+bib36j18acantbelieve,BiB_1000.bib1000_36m_main.bib36j18acantbelieve,I Can�t Believe It�s Not Butter,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18acloverlight,BiB_1000.bib1000_36m_main.bib36j18acloverlight,Clover Light,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18acloveroriginal,BiB_1000.bib1000_36m_main.bib36j18acloveroriginal,Clover Original,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18aflorabuttery,BiB_1000.bib1000_36m_main.bib36j18aflorabuttery,Flora Buttery,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18afloralight,BiB_1000.bib1000_36m_main.bib36j18afloralight,Flora Light,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18afloraoriginal,BiB_1000.bib1000_36m_main.bib36j18afloraoriginal,Flora Original,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18afloraproactiv,BiB_1000.bib1000_36m_main.bib36j18afloraproactiv,Flora ProActiv,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18aother,BiB_1000.bib1000_36m_main.bib36j18aother,Other brand of margarine,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18aotherdescription,BiB_1000.bib1000_36m_main.bib36j18aotherdescription,Other brand of margarine specified,text,,,
+bib36j18asmolive,BiB_1000.bib1000_36m_main.bib36j18asmolive,Supermarkets own olive oil spread,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18asmsunflower,BiB_1000.bib1000_36m_main.bib36j18asmsunflower,Supermarkets own sunflower spread,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18avitalite,BiB_1000.bib1000_36m_main.bib36j18avitalite,Vitalite,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18badams,BiB_1000.bib1000_36m_main.bib36j18badams,Adams,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18banchor,BiB_1000.bib1000_36m_main.bib36j18banchor,Anchor,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18bdesighee,BiB_1000.bib1000_36m_main.bib36j18bdesighee,Desi ghee,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18bghee,BiB_1000.bib1000_36m_main.bib36j18bghee,Ghee (shop bought),decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18blurpakbutter,BiB_1000.bib1000_36m_main.bib36j18blurpakbutter,Lurpak butter,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18blurpakspread,BiB_1000.bib1000_36m_main.bib36j18blurpakspread,Lurpak spread,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18bother,BiB_1000.bib1000_36m_main.bib36j18bother,Other brand of butter,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18botherdescription,BiB_1000.bib1000_36m_main.bib36j18botherdescription,Other brand of butter specified,text,,,
+bib36j18bsmown,BiB_1000.bib1000_36m_main.bib36j18bsmown,Supermarkets own butter,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18ccorn,BiB_1000.bib1000_36m_main.bib36j18ccorn,Corn oil,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18ccrispdry,BiB_1000.bib1000_36m_main.bib36j18ccrispdry,Crisp and dry,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18colive,BiB_1000.bib1000_36m_main.bib36j18colive,Olive oil,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18cother,BiB_1000.bib1000_36m_main.bib36j18cother,Other brand of oil/fat,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18cotherdescription,BiB_1000.bib1000_36m_main.bib36j18cotherdescription,Other brand of oil/fat specified,text,,,
+bib36j18csunflower,BiB_1000.bib1000_36m_main.bib36j18csunflower,Sunflower oil,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j18cvegetable,BiB_1000.bib1000_36m_main.bib36j18cvegetable,Vegetable oil,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j20diabetic,BiB_1000.bib1000_36m_main.bib36j20diabetic,Diabetic,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j20eggfree,BiB_1000.bib1000_36m_main.bib36j20eggfree,Egg free,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j20glutenfree,BiB_1000.bib1000_36m_main.bib36j20glutenfree,Gluten free,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j20halal,BiB_1000.bib1000_36m_main.bib36j20halal,Halal,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j20lactosefree,BiB_1000.bib1000_36m_main.bib36j20lactosefree,Lactose free,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j20milkfree,BiB_1000.bib1000_36m_main.bib36j20milkfree,Milk free,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j20organic,BiB_1000.bib1000_36m_main.bib36j20organic,Organic,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j20other,BiB_1000.bib1000_36m_main.bib36j20other,Other,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j20otherdescription,BiB_1000.bib1000_36m_main.bib36j20otherdescription,Other specified,text,,,
+bib36j20peanutfree,BiB_1000.bib1000_36m_main.bib36j20peanutfree,Peanut free,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36j20vegetarian,BiB_1000.bib1000_36m_main.bib36j20vegetarian,Vegetarian,decimal,,1|2|3|4,Yes|No|Don't know|Refused to answer
+bib36language,BiB_1000.bib1000_36m_main.bib36language,Language questionnaire administered in,decimal,,1|2|3|4,English|Mirpuri|Urdu|Other
+bib36m01,BiB_1000.bib1000_36m_main.bib36m01,Bananas,decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m02,BiB_1000.bib1000_36m_main.bib36m02,Apples,decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m03,BiB_1000.bib1000_36m_main.bib36m03,Melon,decimal,,1|2|3|4,0|0.5|1|More than one
+bib36m04,BiB_1000.bib1000_36m_main.bib36m04,Grapes,decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m05,BiB_1000.bib1000_36m_main.bib36m05,Oranges,decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m06,BiB_1000.bib1000_36m_main.bib36m06,Pears,decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m07,BiB_1000.bib1000_36m_main.bib36m07,Peaches,decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m08,BiB_1000.bib1000_36m_main.bib36m08,Canned Fruit in syrup,decimal,,1|2|3|4,0|1|2-5|More than 5
+bib36m09,BiB_1000.bib1000_36m_main.bib36m09,Canned Fruit in juice/water,decimal,,1|2|3|4,0|1|2-5|More than 5
+bib36m10,BiB_1000.bib1000_36m_main.bib36m10,Plums,decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m11,BiB_1000.bib1000_36m_main.bib36m11,Kiwis,decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m12,BiB_1000.bib1000_36m_main.bib36m12,Pineapple,decimal,,1|2|3|4,0|0.5|1|More than one
+bib36m13,BiB_1000.bib1000_36m_main.bib36m13,Berries or cherries,decimal,,1|2|3|4,0|1 to 5|6 to 10|More than 10
+bib36m14,BiB_1000.bib1000_36m_main.bib36m14,Grapefruit,decimal,,1|2|3|4,0|0.5|1 to 3|More than 3
+bib36m15,BiB_1000.bib1000_36m_main.bib36m15,Fruit salad,decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m16,BiB_1000.bib1000_36m_main.bib36m16,Dried fruit,decimal,,1|2|3|4,0|1|2|More than 2
+bib36m17,BiB_1000.bib1000_36m_main.bib36m17,Carrots,decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m18,BiB_1000.bib1000_36m_main.bib36m18,Celery,decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m19,BiB_1000.bib1000_36m_main.bib36m19,Greens/Spinach,decimal,,1|2|3|4,0|1|2|More than 2
+bib36m20,BiB_1000.bib1000_36m_main.bib36m20,Lettuce,decimal,,1|2|3|4,0|1|2|More than 2
+bib36m21,BiB_1000.bib1000_36m_main.bib36m21,Sweetcorn,decimal,,1|2|3|4,0|1|2|More than 2
+bib36m22,BiB_1000.bib1000_36m_main.bib36m22,Peas,decimal,,1|2|3|4,0|1|2|More than 2
+bib36m23,BiB_1000.bib1000_36m_main.bib36m23,"Tomatoes (Fresh, Individual)",decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m24,BiB_1000.bib1000_36m_main.bib36m24,"Tomatoes (Can, medium can)",decimal,,1|2|3|4,0|1|2-5|More than 5
+bib36m25,BiB_1000.bib1000_36m_main.bib36m25,Broccoli,decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m26,BiB_1000.bib1000_36m_main.bib36m26,Green beans,decimal,,1|2|3|4,0|1|2|More than 2
+bib36m27,BiB_1000.bib1000_36m_main.bib36m27,Cabbage,decimal,,1|2|3|4,0|0.5|1|More than one
+bib36m28,BiB_1000.bib1000_36m_main.bib36m28,Other vegetables,decimal,,1|2|3|4,0|0.5|1|More than one
+bib36m29,BiB_1000.bib1000_36m_main.bib36m29,Canned vegetables,decimal,,1|2|3|4,0|1|2-5|More than 5
+bib36m30,BiB_1000.bib1000_36m_main.bib36m30,"Crisps, tortilla chips",decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m31,BiB_1000.bib1000_36m_main.bib36m31,Salted nuts,decimal,,1|2|3|4,0|0.5 to 3|4 to 10|More than 10
+bib36m32,BiB_1000.bib1000_36m_main.bib36m32,Biscuits,decimal,,1|2|3|4,0|1 to 15|16 to 30|More than 30
+bib36m33,BiB_1000.bib1000_36m_main.bib36m33,Sweets,decimal,,1|2|3|4,0|1|2-5|More than 5
+bib36m34,BiB_1000.bib1000_36m_main.bib36m34,Chocolate,decimal,,1|2|3|4,0|1|2-5|More than 5
+bib36m35,BiB_1000.bib1000_36m_main.bib36m35,"Cakes, muffins",decimal,,1|2|3|4,0|1 to 3|4 to 10|More than 10
+bib36m36,BiB_1000.bib1000_36m_main.bib36m36,Ice Cream,decimal,,1|2|3|4,0|1|2|More than 2
+bib36m37,BiB_1000.bib1000_36m_main.bib36m37,"Fizzy Drinks, non-diet",decimal,,1|2|3|4,0|1 to 5|6 to 10|More than 10
+bib36m38,BiB_1000.bib1000_36m_main.bib36m38,"Fizzy Drinks, diet",decimal,,1|2|3|4,0|1 to 5|6 to 10|More than 10
+bib36m39,BiB_1000.bib1000_36m_main.bib36m39,Sports Drinks,decimal,,1|2|3|4,0|1 to 5|6 to 10|More than 10
+bib36m40,BiB_1000.bib1000_36m_main.bib36m40,Fruit Drinks,decimal,,1|2|3|4,0|1 to 5|6 to 10|More than 10
+bib36motherweight,BiB_1000.bib1000_36m_main.bib36motherweight,Mother's weight (kg),decimal,,,
+bib36motherweightunable,BiB_1000.bib1000_36m_main.bib36motherweightunable,Mother's weight unavailable,decimal,,1,Not applicable
+has_bib1kc,BiB_1000.bib1000_36m_main.has_bib1kc,Child was recruited to BiB 1000,decimal,,1,has

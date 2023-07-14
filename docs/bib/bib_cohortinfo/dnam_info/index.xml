@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BiB DNA methylation data linkage on Born in Bradford Data Dictionary</title>
+    <link>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/dnam_info/</link>
+    <description>Recent content in BiB DNA methylation data linkage on Born in Bradford Data Dictionary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_cohortinfo/dnam_info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BiB DNA methylation control sample IDs</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/dnam_info/dnam_controls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/dnam_info/dnam_controls/</guid>
+      <description>Table ID: BiB_CohortInfo.dnam_controls
+github | csv
+   Entity type Variables Entities Updated     lab_id 1 25 2022-09-29    BiB DNA methylation control sample IDs
+   variable label value_type summary     ParticipantType BiB Participant Type vs Control decimal 1 : Child
+2 : Mother
+3 : Control
+Complete: 25 (100.00%)
+    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_36m_b36qi9,BiB_1000.bib1000_36m_b36qi9.has_bib1000_36m_b36qi9,Has bib 1000 36m physical activity clubs (child),decimal,,,
+bib36i9mins,BiB_1000.bib1000_36m_b36qi9.bib36i9mins,Minutes spent doing physical activity,decimal,,,
+bib36i9programme,BiB_1000.bib1000_36m_b36qi9.bib36i9programme,Physical activity programme,text,,,
+has_b36tab,BiB_1000.bib1000_36m_b36qi9.has_b36tab,Has: BiB 1000 Questionnaire: bib36_maintable,decimal,,1,has

@@ -1,0 +1,7 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_Metabolomics.metms_pairm_h.BiBPregNumber,"",decimal,,,
+has_metms_pairm_h,BiB_Metabolomics.metms_pairm_h.has_metms_pairm_h,Has ms metabolomics paired mother samples header,decimal,,,
+metmsmsamplename,BiB_Metabolomics.metms_pairm_h.metmsmsamplename,"",text,,,
+metmsmsubjid,BiB_Metabolomics.metms_pairm_h.metmsmsubjid,"",text,,,
+metmsmboxidnumber,BiB_Metabolomics.metms_pairm_h.metmsmboxidnumber,"",text,,,
+metmsmboxwellposition,BiB_Metabolomics.metms_pairm_h.metmsmboxwellposition,"",text,,,

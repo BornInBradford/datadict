@@ -1,0 +1,269 @@
+variable,full_name,label,value_type,description,categories,categories_label
+Cohort,COVID19_Survey.adult_bibbs_phase2.Cohort,Cohort,decimal,,1|2,BiB|Better Start
+Date,COVID19_Survey.adult_bibbs_phase2.Date,Date of completion,date,,,
+Gender,COVID19_Survey.adult_bibbs_phase2.Gender,Gender,decimal,,1|2,Female|Male
+age_in_years,COVID19_Survey.adult_bibbs_phase2.age_in_years,Age in years,decimal,,,
+ethnicity_mother_bibbs,COVID19_Survey.adult_bibbs_phase2.ethnicity_mother_bibbs,Ethnic group (mother) BiBBS coding,decimal,,1|2|3|4,White British|Pakistani heritage|Central/Eastern European|Other
+lsoacode,COVID19_Survey.adult_bibbs_phase2.lsoacode,Lower Super Output Area Code (from questionnaire),text,,,
+ward,COVID19_Survey.adult_bibbs_phase2.ward,Ward (from questionnaire),text,,,
+imdrank,COVID19_Survey.adult_bibbs_phase2.imdrank,Index of Multiple Deprivation 2019 Rank(from questionnaire),decimal,,,
+imdquintile,COVID19_Survey.adult_bibbs_phase2.imdquintile,Index of Multiple Deprivation 2019 Decile(from questionnaire),decimal,,1|2|3|4|5,Most deprived national IMD 2019 quintile|Second most deprived national IMD 2019 quintile|Third most deprived national IMD 2019 quintile|Fourth most deprived national IMD 2019 quintile|Fith most deprived national IMD 2019 quintile
+c19b2_yn_satf,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_satf,1) How satisfied or dissatisfied are you with the area you live in?,decimal,,1|2|3|4|5,1 = Very dissatisfied|2|3|4|5 = Very satisfied
+c19b2_yn_grnspce_satf,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_grnspce_satf,2) How satisfied or dissatisfied are you with the parks and green spaces in your,decimal,,1|2|3|4|5,1 = Very dissatisfied|2|3|4|5 = Very satisfied
+c19b2_yn_outdr_wint,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_outdr_wint,During the winter months (September-March),decimal,,0|1|2|3|4,5 times a week or more|2 to 4 times a week|Once a week|1 to 3 times a month|Less than once a month
+c19b2_yn_outdr_spr_sum,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_outdr_spr_sum,During the spring and summer months (April-August),decimal,,0|1|2|3|4,5 times a week or more|2 to 4 times a week|Once a week|1 to 3 times a month|Less than once a month
+c19b2_yn_othrs_area,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_othrs_area,"4) Thinking about your neighbourhood, to what extent do you agree with this stat",decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
+c19b2_yn_outdr_ch,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_outdr_ch,5) Do children in your area have an outdoor space or facilities nearby where the,decimal,,-2|0|1,Dont know|No|Yes
+c19b2_yn_neighbrhd_ch,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_neighbrhd_ch,6) How would you rate your neighbourhood as a place to bring up children?,decimal,,1|2|3|4|5,Excellent|Very good|Good|Fair|Poor
+c19b2_yn_sfe_day,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_sfe_day,During the day,decimal,,1|2|3|4|5,Very safe|Fairly safe|Neither safe or unsafe|Fairly unsafe|Very unsafe
+c19b2_yn_sfe_ngt,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_sfe_ngt,After dark,decimal,,1|2|3|4|5,Very safe|Fairly safe|Neither safe or unsafe|Fairly unsafe|Very unsafe
+c19b2_yn_ppl_trst,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_ppl_trst,"8) Generally speaking, would you say that most people can be trusted or you cant",decimal,,-2|1|2,Dont know|Can be trusted|Cant be too careful
+c19b2_ymb_disc_rr,COVID19_Survey.adult_bibbs_phase2.c19b2_ymb_disc_rr,9) How often do you personally feel discriminated against because of your race o,decimal,,-2|1|2|3|4|5,Dont know|Never|Rarely|Sometimes|Often|Do not wish to answer
+c19b2_ymb_disc_cv,COVID19_Survey.adult_bibbs_phase2.c19b2_ymb_disc_cv,10) Since the Covid-19 pandemic do you feel discriminated against...,decimal,,1|2|3,More often|Less often|About the same
+ywb_pplcount_c19b2,COVID19_Survey.adult_bibbs_phase2.ywb_pplcount_c19b2,11) How many people can you count on in times of need?,decimal,,0|1|10|2|3|4|5|6|7|8|9,0|1|10 or more|2|3|4|5|6|7|8|9
+ywb_pplcount_lcl_c19b2,COVID19_Survey.adult_bibbs_phase2.ywb_pplcount_lcl_c19b2,"12) How many of these people live in your local area? That is, within about a mi",decimal,,0|1|10|2|3|4|5|6|7|8|9,0|1|10 or more|2|3|4|5|6|7|8|9
+ywb_help_c19b2,COVID19_Survey.adult_bibbs_phase2.ywb_help_c19b2,13) How easy is it to get practical help from friends/family/neighbours if you s,decimal,,1|2|3|4|5,Very difficult|Difficult|Possible|Easy|Very Easy
+ywb_lonely_c19b2,COVID19_Survey.adult_bibbs_phase2.ywb_lonely_c19b2,14) How often have you felt lonely during the past week?,decimal,,-1|-2|0|1|2|3,"Do not wish to answer|Dont know|None, or almost none of the time|Some of the time|Most of the time|All, or almost all of the time"
+ywb_relshipq_c19b2,COVID19_Survey.adult_bibbs_phase2.ywb_relshipq_c19b2,15) How would you describe the quality of your relationship with your current pa,decimal,,-1|1|2|3|4|5,Do not wish to answer|Excellent|Good|Average|Poor|Very poor
+c19b2_yn_wemwbs_1,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_wemwbs_1,Ive been feeling optimistic about the future,decimal,,0|1|2|3|4,None of the time|Rarely|Some of the time|Often|All of the time
+c19b2_yn_wemwbs_2,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_wemwbs_2,Ive been feeling useful,decimal,,0|1|2|3|4,None of the time|Rarely|Some of the time|Often|All of the time
+c19b2_yn_wemwbs_3,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_wemwbs_3,Ive been feeling relaxed,decimal,,0|1|2|3|4,None of the time|Rarely|Some of the time|Often|All of the time
+c19b2_yn_wemwbs_4,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_wemwbs_4,Ive been feeling interested in other people,decimal,,0|1|2|3|4,None of the time|Rarely|Some of the time|Often|All of the time
+c19b2_yn_wemwbs_5,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_wemwbs_5,Ive had energy to spare,decimal,,0|1|2|3|4,None of the time|Rarely|Some of the time|Often|All of the time
+c19b2_yn_wemwbs_6,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_wemwbs_6,Ive been dealing with problems well,decimal,,0|1|2|3|4,None of the time|Rarely|Some of the time|Often|All of the time
+c19b2_yn_wemwbs_7,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_wemwbs_7,Ive been thinking clearly,decimal,,0|1|2|3|4,None of the time|Rarely|Some of the time|Often|All of the time
+c19b2_yn_wemwbs_8,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_wemwbs_8,Ive been feeling good about myself,decimal,,0|1|2|3|4,None of the time|Rarely|Some of the time|Often|All of the time
+c19b2_yn_wemwbs_9,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_wemwbs_9,Ive been feeling close to other people,decimal,,0|1|2|3|4,None of the time|Rarely|Some of the time|Often|All of the time
+c19b2_yn_wemwbs_10,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_wemwbs_10,Ive been feeling confident,decimal,,0|1|2|3|4,None of the time|Rarely|Some of the time|Often|All of the time
+c19b2_yn_wemwbs_11,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_wemwbs_11,Ive been able to make up my own mind about things,decimal,,0|1|2|3|4,None of the time|Rarely|Some of the time|Often|All of the time
+c19b2_yn_wemwbs_12,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_wemwbs_12,Ive been feeling loved,decimal,,0|1|2|3|4,None of the time|Rarely|Some of the time|Often|All of the time
+c19b2_yn_wemwbs_13,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_wemwbs_13,Ive been interested in new things,decimal,,0|1|2|3|4,None of the time|Rarely|Some of the time|Often|All of the time
+c19b2_yn_wemwbs_14,COVID19_Survey.adult_bibbs_phase2.c19b2_yn_wemwbs_14,Ive been feeling cheerful,decimal,,0|1|2|3|4,None of the time|Rarely|Some of the time|Often|All of the time
+c19b2_jsbc_covid___1,COVID19_Survey.adult_bibbs_phase2.c19b2_jsbc_covid___1,17) Has anyone in your household lost their job since the pandemic started (e.g.,decimal,,0|1,Unchecked|Checked
+c19b2_jsbc_covid___2,COVID19_Survey.adult_bibbs_phase2.c19b2_jsbc_covid___2,17) Has anyone in your household lost their job since the pandemic started (e.g.,decimal,,0|1,Unchecked|Checked
+c19b2_jsbc_covid___3,COVID19_Survey.adult_bibbs_phase2.c19b2_jsbc_covid___3,17) Has anyone in your household lost their job since the pandemic started (e.g.,decimal,,0|1,Unchecked|Checked
+jbsc_main_c19b2,COVID19_Survey.adult_bibbs_phase2.jbsc_main_c19b2,18) Who is the main earner in the household?,decimal,,1|2|3|4,Me|My partner|Other household member|Me and my partner earn the same amount
+jbsc_main_crntly_c19b2_rev1,COVID19_Survey.adult_bibbs_phase2.jbsc_main_crntly_c19b2_rev1,19) Is the main earner in your household currently...,decimal,,-2|1|2|3|4|5|6,Dont know|Employed|Employed but not working (on furlough)|Employed on the wage subsidy scheme (e.g. working less hours with wage topped up by the Government)|Self employed and working|Self employed and not working|Unemployed
+jbsc_main_hmwfh_c19b2_rev1,COVID19_Survey.adult_bibbs_phase2.jbsc_main_hmwfh_c19b2_rev1,"20) If the main earner is currently working, are they mainly working from home o",decimal,,1|2,Working from home|Going out to work
+c19b2_jsbc_main_fur,COVID19_Survey.adult_bibbs_phase2.c19b2_jsbc_main_fur,"21) If the main earner is employed but on furlough, what do they expect to happe",decimal,,-2|1|2|3|4|5|6|7,"Dont know|Return to work on normal hours|Return to work on reduced hours with a loss of pay|Continue to be furloughed|Move onto the wage subsidy scheme (e.g., working less hours with wage topped up by the Government)|Lose their job|Has not been told what will happen to their job|Other"
+jbsc_main_wry_1_c19b2,COVID19_Survey.adult_bibbs_phase2.jbsc_main_wry_1_c19b2,I worry about the job security of the main earner,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
+jbsc_main_wry_2_c19b2,COVID19_Survey.adult_bibbs_phase2.jbsc_main_wry_2_c19b2,"23) In the next 12 months, do you expect the income of the main earner is likely",decimal,,-2|0|1,Dont know|No|Yes
+jbsc_main_wry_3_c19b2,COVID19_Survey.adult_bibbs_phase2.jbsc_main_wry_3_c19b2,"24) In 12 months time, do you expect the main earner to still have their job?",decimal,,-2|0|1,Dont know|No|Yes
+hhe_ddntlast_c19b2,COVID19_Survey.adult_bibbs_phase2.hhe_ddntlast_c19b2,"The food that (I/we) bought just didnt last, and (I/we) didnt have money to get",decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
+hhe_balancd_c19b2,COVID19_Survey.adult_bibbs_phase2.hhe_balancd_c19b2,(I/we) couldnt afford to eat balanced meals.,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Never true|Sometimes true|Often true
+hhe_skip_c19b2,COVID19_Survey.adult_bibbs_phase2.hhe_skip_c19b2,26) Did you or other adults in your household ever cut the size of your meals or,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
+c19b2_hhe_skipoftn_rev1,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_skipoftn_rev1,How often did you or other adults cut the size of meals or skip meals?,decimal,,-1|-2|1|2|3,Do not wish to answer|Dont know|Less than once a month but a few times|Not every week but at least once a month|Every week
+hhe_eatless_c19b2,COVID19_Survey.adult_bibbs_phase2.hhe_eatless_c19b2,27) Did you or other adults ever eat less than you felt you should because there,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
+hhe_food_dsc_c19b2,COVID19_Survey.adult_bibbs_phase2.hhe_food_dsc_c19b2,28) Were you ever hungry but didnt eat because there wasnt enough money for food,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
+c19b2_hhe_fd_bnk___0,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_bnk___0,Food banks (choice=Before the pandemic (Jan-Mar 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_bnk___1,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_bnk___1,Food banks (choice=During lockdown (Mar-Jun 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_bnk___2,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_bnk___2,Food banks (choice=In the last three months (Jul-Sept 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_sch___0,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_sch___0,Free food provided by schools (choice=Before the pandemic (Jan-Mar 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_sch___1,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_sch___1,Free food provided by schools (choice=During lockdown (Mar-Jun 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_sch___2,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_sch___2,Free food provided by schools (choice=In the last three months (Jul-Sept 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_comm___0,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_comm___0,Food provided by community organisations/allotment schemes (choice=Before the pa,decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_comm___1,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_comm___1,Food provided by community organisations/allotment schemes (choice=During lockdo,decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_comm___2,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_comm___2,Food provided by community organisations/allotment schemes (choice=In the last t,decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_bfd___0,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_bfd___0,Bradford Street Food (choice=Before the pandemic (Jan-Mar 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_bfd___1,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_bfd___1,Bradford Street Food (choice=During lockdown (Mar-Jun 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_bfd___2,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_bfd___2,Bradford Street Food (choice=In the last three months (Jul-Sept 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_mow___0,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_mow___0,Meals on wheels (choice=Before the pandemic (Jan-Mar 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_mow___1,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_mow___1,Meals on wheels (choice=During lockdown (Mar-Jun 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_mow___2,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_mow___2,Meals on wheels (choice=In the last three months (Jul-Sept 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_fai___0,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_fai___0,Food from faith based organisations (choice=Before the pandemic (Jan-Mar 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_fai___1,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_fai___1,Food from faith based organisations (choice=During lockdown (Mar-Jun 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_fai___2,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_fai___2,Food from faith based organisations (choice=In the last three months (Jul-Sept 2,decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_fri___0,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_fri___0,Food from friends/neighbour (choice=Before the pandemic (Jan-Mar 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_fri___1,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_fri___1,Food from friends/neighbour (choice=During lockdown (Mar-Jun 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_fri___2,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_fri___2,Food from friends/neighbour (choice=In the last three months (Jul-Sept 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_fam___0,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_fam___0,Food from family (not living in your home) (choice=Before the pandemic (Jan-Mar,decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_fam___1,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_fam___1,Food from family (not living in your home) (choice=During lockdown (Mar-Jun 2020,decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_fam___2,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_fam___2,Food from family (not living in your home) (choice=In the last three months (Jul,decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_oth___0,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_oth___0,Other  (choice=Before the pandemic (Jan-Mar 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_oth___1,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_oth___1,Other  (choice=During lockdown (Mar-Jun 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_oth___2,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_oth___2,Other  (choice=In the last three months (Jul-Sept 2020)),decimal,,0|1,Unchecked|Checked
+c19b2_hhe_fd_othexp,COVID19_Survey.adult_bibbs_phase2.c19b2_hhe_fd_othexp,"If you answered other, could you please describe",text,,,
+hhe_finannow_c19b2,COVID19_Survey.adult_bibbs_phase2.hhe_finannow_c19b2,30) How well would you say you are managing financially right now?,decimal,,-1|-2|1|2|3|4|5,Do not wish to answer|Dont know|Living comfortably|Doing alright|Just about getting by|Finding it quite difficult|Finding it very difficult
+hhe_bills_c19b2,COVID19_Survey.adult_bibbs_phase2.hhe_bills_c19b2,31) Sometimes people are not able to pay every bill when it is due. Are you curr,decimal,,-1|-2|0|1,Do not wish to answer|Dont know|No|Yes
+hhe_wrypay_c19b2,COVID19_Survey.adult_bibbs_phase2.hhe_wrypay_c19b2,I worry about paying the rent / mortgage,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
+hhe_wryevic_c19b2,COVID19_Survey.adult_bibbs_phase2.hhe_wryevic_c19b2,I worry about getting evicted / having my home repossessed,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
+fh_genhealth_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_genhealth_c19b2,33) How would you describe your health generally?,decimal,,-1|-2|1|2|3|4|5,Do not wish to answer|Dont know|Excellent|Very good|Good|Fair|Poor
+fl_physact_c19b2,COVID19_Survey.adult_bibbs_phase2.fl_physact_c19b2,34) How often do you currently do any kind of physical activity?,decimal,,1|2|3|4,Never|1 or 2 days a week|Most days|Every day
+fl_physact_outdr_c19b2,COVID19_Survey.adult_bibbs_phase2.fl_physact_outdr_c19b2,35) How often do you do any kind of physical activity outside?,decimal,,1|2|3|4,Never|1 or 2 days a week|Most days|Every day
+fl_sleephrs_c19b2,COVID19_Survey.adult_bibbs_phase2.fl_sleephrs_c19b2,36) What was the average number of hours you slept per night in the last 7 days?,decimal,,,
+c19b2_fh_eq5d_mob,COVID19_Survey.adult_bibbs_phase2.c19b2_fh_eq5d_mob,Mobility,decimal,,1|2|3|4|5,I am unable to walk about|I have severe problems in walking about|I have moderate problems in walking about|I have slight problems in walking about|I have no problems in walking about
+c19b2_fh_eq5d_selfcare,COVID19_Survey.adult_bibbs_phase2.c19b2_fh_eq5d_selfcare,Self-care,decimal,,1|2|3|4|5,I am unable to wash or dress myself|I have severe problems washing or dressing myself|I have moderate problems washing or dressing myself|I have slight problems washing or dressing myself|I have no problems washing or dressing myself
+c19b2_fh_eq5d_act,COVID19_Survey.adult_bibbs_phase2.c19b2_fh_eq5d_act,Usual activites,decimal,,1|2|3|4|5,I am unable to do my usual activites|I have severe problems doing my usual activities|I have moderate problems doing my usual activities|I have slight problems doing my usual activities|I have no problems doing my usual activites
+c19b2_fh_eq5d_pain_disc,COVID19_Survey.adult_bibbs_phase2.c19b2_fh_eq5d_pain_disc,Pain/discomfort,decimal,,1|2|3|4|5,I have extreme pain or discomfort|I have severe pain or discomfort|I have moderate pain or discomfort|I have slight pain or discomfort|I have no pain or discomfort
+c19b2_fh_eq5d_anx_dep,COVID19_Survey.adult_bibbs_phase2.c19b2_fh_eq5d_anx_dep,Anxiety/depression,decimal,,1|2|3|4|5,I am extremely anxious or depressed|I am severely anxious or depressed|I am moderately anxious or depressed|I am slightly anxious or depressed|I am not anxious or depressed
+c19b2_hw_cv_act_lvehome,COVID19_Survey.adult_bibbs_phase2.c19b2_hw_cv_act_lvehome,Leaving my home,decimal,,0|1|2|3,Not at all worried|Somewhat worried|Very worried|Extremely worried
+c19b2_hw_cv_shop,COVID19_Survey.adult_bibbs_phase2.c19b2_hw_cv_shop,Visiting shops,decimal,,0|1|2|3,Not at all worried|Somewhat worried|Very worried|Extremely worried
+c19b2_hw_cv_act_prk_grn,COVID19_Survey.adult_bibbs_phase2.c19b2_hw_cv_act_prk_grn,Visiting parks or green spaces,decimal,,0|1|2|3,Not at all worried|Somewhat worried|Very worried|Extremely worried
+c19b2_hw_cv_act_rstrnt,COVID19_Survey.adult_bibbs_phase2.c19b2_hw_cv_act_rstrnt,Going to resturants or cafes,decimal,,0|1|2|3,Not at all worried|Somewhat worried|Very worried|Extremely worried
+c19b2_hw_cv_act_meet,COVID19_Survey.adult_bibbs_phase2.c19b2_hw_cv_act_meet,Meeting up with friends or family,decimal,,0|1|2|3,Not at all worried|Somewhat worried|Very worried|Extremely worried
+c19b2_hw_cv_act_wrk,COVID19_Survey.adult_bibbs_phase2.c19b2_hw_cv_act_wrk,Going to work,decimal,,0|1|2|3,Not at all worried|Somewhat worried|Very worried|Extremely worried
+c19b2_hw_cv_act_chsch,COVID19_Survey.adult_bibbs_phase2.c19b2_hw_cv_act_chsch,Your child(ren) going to school,decimal,,0|1|2|3,Not at all worried|Somewhat worried|Very worried|Extremely worried
+c19b2_fh_feeling,COVID19_Survey.adult_bibbs_phase2.c19b2_fh_feeling,39) Which of the following best describes how youve been feeling over the past w,decimal,,0|1|2|3,I do not worry about my health|I occasionally worry about my health|I spend much of my time worrying about my health|I spend most of my time worrying about health
+c19b2_cv_wt_flu,COVID19_Survey.adult_bibbs_phase2.c19b2_cv_wt_flu,40) Have you had the flu vaccine in the last year?,decimal,,-2|0|1,Dont know|No|Yes
+c19b2_hw_cv_vac,COVID19_Survey.adult_bibbs_phase2.c19b2_hw_cv_vac,41) Which of the following best describes your thoughts about getting vaccinated,decimal,,1|2|3|4,Ive not yet thought about getting vaccinated against Covid-19|Im not yet sure about getting vaccinated against Covid-19|Ive decided I DONT want to get vaccinated against Covid-19|Ive decided I DO want to get vaccinated against Covid-19
+c19b2_hw_cv_vac_rsn,COVID19_Survey.adult_bibbs_phase2.c19b2_hw_cv_vac_rsn,What is your main reason for this?,text,,,
+c19b2_hw_cv_vac_ch,COVID19_Survey.adult_bibbs_phase2.c19b2_hw_cv_vac_ch,42) Which of the following best describes your thoughts about getting your child,decimal,,1|2|3|4,Ive not yet thought about getting my child(ren) vaccinated against Covid-19|Im not yet sure about getting my child(ren) vaccinated against Covid-19|Ive decided I DONT want to get my child(ren) vaccinated against Covid-19|Ive decided I DO want to get my child(ren) vaccinated against Covid-19
+c19b2_hw_cv_vac_ch_rsn,COVID19_Survey.adult_bibbs_phase2.c19b2_hw_cv_vac_ch_rsn,What is your main reason for this?,text,,,
+fh_gad_1_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_gad_1_c19b2,"Feeling nervous, anxious or on an edge?",decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_gad_2_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_gad_2_c19b2,Not being able to stop or control worrying?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_gad_3_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_gad_3_c19b2,Worrying too much about different things?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_gad_4_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_gad_4_c19b2,Trouble relaxing?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_gad_5_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_gad_5_c19b2,Being so restless that it is hard to sit still?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_gad_6_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_gad_6_c19b2,Becoming easily annoyed or irritable?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_gad_7_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_gad_7_c19b2,Feeling afraid as if something awful might happen?,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_phq_1_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_phq_1_c19b2,Little interest or pleasure in doing things,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_phq_2_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_phq_2_c19b2,"Feeling down, depressed, or hopeless",decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_phq_3_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_phq_3_c19b2,"Trouble falling or staying asleep, or sleeping too much",decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_phq_4_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_phq_4_c19b2,Feeling tired or having little energy,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_phq_5_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_phq_5_c19b2,Poor appetite or overeating,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_phq_6_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_phq_6_c19b2,Feeling bad about yourself - or that you are a failure or have let yourself or y,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_phq_7_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_phq_7_c19b2,"Trouble concentrating on things, such as reading the newspaper or watching telev",decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_phq_8_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_phq_8_c19b2,Moving or speaking so slowly that other people could have noticed? Or the opposi,decimal,,0|1|2|3,Not at all|Several days|More than half the days|Nearly every day
+fh_phq_hwdiff_c19b2,COVID19_Survey.adult_bibbs_phase2.fh_phq_hwdiff_c19b2,"45) If you checked off any problems, how difficult have these problems made it f",decimal,,0|1|2|3,Not at all|Somewhat difficult|Very difficult|Extremely difficult
+c19b2_fh_ons_lifeworth,COVID19_Survey.adult_bibbs_phase2.c19b2_fh_ons_lifeworth,"46) Overall, to what extent do you feel that the things you do in your life are",decimal,,0|1|10|2|3|4|5|6|7|8|9,0 = Not at all worthwhile|1|10 = Completely worthwhile|2|3|4|5|6|7|8|9
+wc_wrynow_1_c19b2,COVID19_Survey.adult_bibbs_phase2.wc_wrynow_1_c19b2,Worry 1:,text,,,
+wc_wrynow_2_c19b2,COVID19_Survey.adult_bibbs_phase2.wc_wrynow_2_c19b2,Worry 2:,text,,,
+wc_wrynow_3_c19b2,COVID19_Survey.adult_bibbs_phase2.wc_wrynow_3_c19b2,Worry 3:,text,,,
+wc_chllnge_c19b2,COVID19_Survey.adult_bibbs_phase2.wc_chllnge_c19b2,48) Can you tell us about a challenge you have faced in the last two weeks?,text,,,
+wc_easier_c19b2_rev1,COVID19_Survey.adult_bibbs_phase2.wc_easier_c19b2_rev1,49) Can you tell us whether there are any parts of your life that have continued,text,,,
+fl_skillsprnt_c19b2,COVID19_Survey.adult_bibbs_phase2.fl_skillsprnt_c19b2,50) I honestly believe I have all the skills necessary to be a good parent to my,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
+c19b2_yc_0_24_dsc,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_dsc,Do you have a child under 24 months? If you have more than one child aged 0 to 2,decimal,,0|1,No|Yes
+c19b2_yc_0_24_prtnr,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_prtnr,Partner,decimal,,0|1,No|Yes
+c19b2_yc_0_24_gprnt,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_gprnt,Babys grandparents,decimal,,0|1,No|Yes
+c19b2_yc_0_24_rltve,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_rltve,Other relative,decimal,,0|1,No|Yes
+c19b2_yc_0_24_frnd,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_frnd,Friend / Neighbour,decimal,,0|1,No|Yes
+c19b2_yc_0_24_out,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_out,Paid person outside baby/childs home (e.g. child minder),decimal,,0|1,No|Yes
+c19b2_yc_0_24_in,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_in,"Paid person inside baby/childs home (e.g. nanny, baby sitter)",decimal,,0|1,No|Yes
+c19b2_yc_0_24_nrsry,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_nrsry,Day nursery (creche),decimal,,0|1,No|Yes
+c19b2_yc_0_24_oth,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_oth,Other,decimal,,0|1,No|Yes
+c19b2_yc_0_24_othtxt,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_othtxt,"If you answered other, could you please describe....",text,,,
+c19b2_yc_0_24_prtnr_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_prtnr_hrs,Partner,decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_0_24_gprnt_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_gprnt_hrs,Babys grandparents,decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_0_24_rltve_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_rltve_hrs,Other relative,decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_0_24_frnd_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_frnd_hrs,Friend / Neighbour,decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_0_24_out_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_out_hrs,Paid person outside baby/childs home (e.g. child minder),decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_0_24_in_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_in_hrs,"Paid person inside baby/childs home (e.g. nanny, baby sitter)",decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_0_24_nrsry_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_nrsry_hrs,Day nursery (creche),decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_0_24_oth_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_oth_hrs,Other,decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_0_24_prtnr_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_prtnr_age,Partner,decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|48 + months
+c19b2_yc_0_24_gprnt_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_gprnt_age,Babys grandparents,decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|48 + months
+c19b2_yc_0_24_rltve_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_rltve_age,Other relative,decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|48 + months
+c19b2_yc_0_24_frnd_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_frnd_age,Friend / Neighbour,decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|48 + months
+c19b2_yc_0_24_out_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_out_age,Paid person outside baby/childs home (e.g. child minder),decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|48 + months
+c19b2_yc_0_24_in_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_in_age,"Paid person inside baby/childs home (e.g. nanny, baby sitter)",decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|48 + months
+c19b2_yc_0_24_nrsry_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_nrsry_age,Day nursery (creche),decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|48 + months
+c19b2_yc_0_24_oth_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_oth_age,Other,decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|48 + months
+c19b2_yc_0_24_satis,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_0_24_satis,55) How satisfied are you with these arrangements?,decimal,,1|2|3,Very satisfied|Fairly satisfied|Not at all happy
+c19b2_yc_read_bby,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_read_bby,56) Does anyone at home ever read to your baby/child?,decimal,,0|1,No|Yes
+c19b2_yc_read_bbyfrq,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_read_bbyfrq,How often does someone at home read to your baby/child?,decimal,,1|2|3|4|5,Occasionaly|Once a week|Several times a week|Once a day|More than once a day
+c19b2_yc_sing_bby,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_sing_bby,57) Does anyone at home ever sing to your baby/child?,decimal,,0|1,No|Yes
+c19b2_yc_sing_bbyfrq,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_sing_bbyfrq,How often does someone sing to your baby/child?,decimal,,1|2|3|4|5,Occasionaly|Once a week|Several times a week|Once a day|More than once a day
+c19b2_yc_play_bby,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_play_bby,58) Does anyone at home ever play with toys with your baby/child?,decimal,,0|1,No|Yes
+c19b2_yc_play_bbyfrq,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_play_bbyfrq,How often does someone play with toys with your baby/child?,decimal,,1|2|3|4|5,Occasionaly|Once a week|Several times a week|Once a day|More than once a day
+hyb_enjoylkingaftr_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_enjoylkingaftr_c19b2,I enjoy looking after my baby,decimal,,1|2|3|4,Never|Sometimes|Often|Always
+hyb_irritated_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_irritated_c19b2,I feel irritated with my baby when we are together,decimal,,1|2|3|4,Never|Sometimes|Often|Always
+hyb_affectionate_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_affectionate_c19b2,I feel affectionate towards my baby,decimal,,1|2|3|4,Never|Sometimes|Often|Always
+hyb_difficult_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_difficult_c19b2,I feel that my baby is being difficult or trying to upset me on purpose,decimal,,1|2|3|4,Never|Sometimes|Often|Always
+hyb_wrkoutneeds_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_wrkoutneeds_c19b2,I can work out what my baby needs from me,decimal,,1|2|3|4,Never|Sometimes|Often|Always
+hyb_cntdothngs_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_cntdothngs_c19b2,I feel like I cant do things I enjoy because of my baby,decimal,,1|2|3|4,Never|Sometimes|Often|Always
+hyb_chngswrthit_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_chngswrthit_c19b2,I feel the changes in my life are worth it to look after my baby,decimal,,1|2|3|4,Never|Sometimes|Often|Always
+hyb_missbby_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_missbby_c19b2,I miss my baby when we are not together,decimal,,1|2|3|4,Never|Sometimes|Often|Always
+hyb_someoneels_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_someoneels_c19b2,I feel like Im looking after my baby for someone else,decimal,,1|2|3|4,Never|Sometimes|Often|Always
+hyb_lkforward_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_lkforward_c19b2,When weve been apart I look forward to seeing my baby again,decimal,,1|2|3|4,Never|Sometimes|Often|Always
+hyb_enjoyplying_c19b2,COVID19_Survey.adult_bibbs_phase2.hyb_enjoyplying_c19b2,I enjoy playing with my baby,decimal,,1|2|3|4,Never|Sometimes|Often|Always
+c19b2_yc_2_4yr_dsc,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_dsc,Do you have children aged between 2 and 4 years old? If you have more than one c,decimal,,0|1,No|Yes
+c19b2_yc_2_4yr_prtnr,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_prtnr,Partner,decimal,,0|1,No|Yes
+c19b2_yc_2_4yr_gprnt,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_gprnt,Childs grandparents,decimal,,0|1,No|Yes
+c19b2_yc_2_4yr_rltve,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_rltve,Other relative,decimal,,0|1,No|Yes
+c19b2_yc_2_4yr_frnd,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_frnd,Friend / Neighbour,decimal,,0|1,No|Yes
+c19b2_yc_2_4yr_out,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_out,Paid person outside childs home (e.g. child minder),decimal,,0|1,No|Yes
+c19b2_yc_2_4yr_in,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_in,"Paid person inside childs home (e.g. nanny, baby sitter)",decimal,,0|1,No|Yes
+c19b2_yc_2_4yr_nrsry,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_nrsry,Day nursery (creche),decimal,,0|1,No|Yes
+c19b2_yc_2_4yr_oth,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_oth,Other,decimal,,0|1,No|Yes
+c19b2_yc_2_4yr_othtxt,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_othtxt,"If you answered other, could you please describe....",text,,,
+c19b2_yc_2_4yr_prtnr_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_prtnr_hrs,Partner,decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_2_4yr_gprnt_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_gprnt_hrs,Childs grandparents,decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_2_4yr_rltve_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_rltve_hrs,Other relative,decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_2_4yr_frnd_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_frnd_hrs,Friend / Neighbour,decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_2_4yr_out_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_out_hrs,Paid person outside childs home (e.g. child minder),decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_2_4yr_in_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_in_hrs,"Paid person inside childs home (e.g. nanny, baby sitter)",decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_2_4yr_nrsry_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_nrsry_hrs,Day nursery (creche),decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_2_4yr_oth_hrs,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_oth_hrs,Other,decimal,,1|2|3|4|5,0-10 hours|11 - 20 hours|21 - 30 hours|31 - 40 hours|41 + hours
+c19b2_yc_2_4yr_prtnr_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_prtnr_age,Partner,decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|49 + months
+c19b2_yc_2_4yr_gprnt_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_gprnt_age,Childs grandparents,decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|49 + months
+c19b2_yc_2_4yr_rltve_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_rltve_age,Other relative,decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|49 + months
+c19b2_yc_2_4yr_frnd_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_frnd_age,Friend / Neighbour,decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|49 + months
+c19b2_yc_2_4yr_out_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_out_age,Paid person outside childs home (e.g. child minder),decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|49 + months
+c19b2_yc_2_4yr_in_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_in_age,"Paid person inside childs home (e.g. nanny, baby sitter)",decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|49 + months
+c19b2_yc_2_4yr_nrsry_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_nrsry_age,Day nursery (creche),decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|49 + months
+c19b2_yc_2_4yr_oth_age,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_oth_age,Other,decimal,,1|2|3|4|5,0-12 months|13-24 months|25 - 36 months|37 - 48 months|49 + months
+c19b2_yc_2_4yr_satis,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_2_4yr_satis,64) How satisfied are you with these arrangements?,decimal,,1|2|3,Very satisfied|Fairly satisfied|Not at all happy
+fl_physact_ch_c19b2_rev1,COVID19_Survey.adult_bibbs_phase2.fl_physact_ch_c19b2_rev1,65) How often does your child do any kind of physical activity?,decimal,,1|2|3|4,Never|1 or 2 days a week|Most days|Every day
+fl_physact_ch_out_c19b2,COVID19_Survey.adult_bibbs_phase2.fl_physact_ch_out_c19b2,66) How often does your child do any kind of physical activity outside?,decimal,,1|2|3|4,Never|1 or 2 days a week|Most days|Every day
+c19b2_fh_ch_brsh_flu,COVID19_Survey.adult_bibbs_phase2.c19b2_fh_ch_brsh_flu,67) How often does your child usually brush their teeth (or have them brushed fo,decimal,,1|2|3|4|5,Never|Less than once a day|Once a day|Twice a day|Three or more times a day
+c19b2_fh_ch_brsh_oft,COVID19_Survey.adult_bibbs_phase2.c19b2_fh_ch_brsh_oft,"Compared to before the pandemic, is this...",decimal,,1|2|3,Less|About the same|More
+c19b2_fh_ch_sug_fd,COVID19_Survey.adult_bibbs_phase2.c19b2_fh_ch_sug_fd,"Sugary foods (this includes chocolates, biscuits, cakes, cereals, sweet pies, pa",decimal,,1|2|3|4|5,Never|Less than once a day|Once a day|Twice a day|Three or more times a day
+c19b2_fh_ch_sug_dri,COVID19_Survey.adult_bibbs_phase2.c19b2_fh_ch_sug_dri,"Sugar sweetened drinks (this includes fizzy soft drinks, fruit juice, fruit squa",decimal,,1|2|3|4|5,Never|Less than once a day|Once a day|Twice a day|Three or more times a day
+c19b2_fh_ch_eat_oft,COVID19_Survey.adult_bibbs_phase2.c19b2_fh_ch_eat_oft,"Compared to before the pandemic, is this...",decimal,,1|2|3,Less|About the same|More
+c19b2_bd_sdq_hdache,COVID19_Survey.adult_bibbs_phase2.c19b2_bd_sdq_hdache,"Often complains of headaches, stomach-aches or sickness",decimal,,1|2|3,Not true|Somewhat true|Certainly true
+c19b2_bd_sdq_wrry,COVID19_Survey.adult_bibbs_phase2.c19b2_bd_sdq_wrry,"Many worries, often seems worried",decimal,,1|2|3,Not true|Somewhat true|Certainly true
+c19b2_bd_sdq_unhppy,COVID19_Survey.adult_bibbs_phase2.c19b2_bd_sdq_unhppy,"Often unhappy, down-hearted or tearful",decimal,,1|2|3,Not true|Somewhat true|Certainly true
+c19b2_bd_sdq_nrvs,COVID19_Survey.adult_bibbs_phase2.c19b2_bd_sdq_nrvs,"Nervous or clingy in new situations, easily loses confidence",decimal,,1|2|3,Not true|Somewhat true|Certainly true
+c19b2_bd_sdq_fears,COVID19_Survey.adult_bibbs_phase2.c19b2_bd_sdq_fears,"Many fears, easily scared",decimal,,1|2|3,Not true|Somewhat true|Certainly true
+c19b2_bd_sdq_ovral,COVID19_Survey.adult_bibbs_phase2.c19b2_bd_sdq_ovral,"70) Overall, do you think that your child has difficulties in one or more of the",decimal,,0|1|2|3,No|Yes - minor difficulties|Yes - definite difficulties|Yes - severe difficulties
+c19b2_bd_sdq_ovrall_durtin,COVID19_Survey.adult_bibbs_phase2.c19b2_bd_sdq_ovrall_durtin,71) How long have these difficulties been present?,decimal,,1|2|3|4,Less than a month|1-5 months|6-12 months|Over a year
+c19b2_bd_sdq_upset,COVID19_Survey.adult_bibbs_phase2.c19b2_bd_sdq_upset,72) Do the difficulties upset or distress your child?,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+c19b2_bd_sdq_intfere_hme,COVID19_Survey.adult_bibbs_phase2.c19b2_bd_sdq_intfere_hme,Home life,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+c19b2_bd_sdq_intfere_frnd,COVID19_Survey.adult_bibbs_phase2.c19b2_bd_sdq_intfere_frnd,Friendships,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+c19b2_bd_sdq_intfere_lrn,COVID19_Survey.adult_bibbs_phase2.c19b2_bd_sdq_intfere_lrn,Learning,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+c19b2_bd_sdq_intfere_act,COVID19_Survey.adult_bibbs_phase2.c19b2_bd_sdq_intfere_act,Leisure activities,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+c19b2_bd_sdq_burdn_fmly,COVID19_Survey.adult_bibbs_phase2.c19b2_bd_sdq_burdn_fmly,Do the difficulties put a burden on you or the family as a whole?,decimal,,0|1|2|3,Not at all|Only a little|Quite a lot|A great deal
+fl_suprtlearn_c19b2,COVID19_Survey.adult_bibbs_phase2.fl_suprtlearn_c19b2,I feel confident in my ability to support my childrens learning at home,decimal,,1|2|3|4|5,Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
+c19b2_yc_book_count,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_book_count,75) How many books for children do you have in your home?,decimal,,1|2|3,0-10|11-50|More than 50
+c19b2_yc_read_ch,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_read_ch,76) Does anyone at home ever read to your child?,decimal,,0|1,No|Yes
+c19b2_yc_read_chfrq,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_read_chfrq,How often does someone at home read to your child?,decimal,,1|2|3|4|5,Occasionally|Once a week|Several times a week|Once a day|More than once a day
+c19b2_yc_sprt_ch,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_sprt_ch,"77) Does anyone at home ever teach your child a sport, dance or physical activit",decimal,,0|1,No|Yes
+c19b2_yc_sprt_chfrq,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_sprt_chfrq,"How often does someone at home teach your child a sport, dance or physical activ",decimal,,1|2|3|4|5|6|7,Occasionally or less than once a week|1 or 2 days a week|3 times a week|4 times a week|5 times a week|6 times a week|7 times a week/constantly
+c19b2_yc_ply_ltrs_ch,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_ply_ltrs_ch,78) Does your child ever play with letters at home?,decimal,,0|1,No|Yes
+c19b2_yc_ply_ltrs_chfrq,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_ply_ltrs_chfrq,How often does your child play with letters at home?,decimal,,1|2|3|4|5|6|7,Occasionally or less than once a week|1 or 2 days a week|3 times a week|4 times a week|5 times a week|6 times a week|7 times a week/constantly
+c19b2_yc_abc_ch,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_abc_ch,79) Does anyone at home ever help your child to learn the ABC or alphabet?,decimal,,0|1,No|Yes
+c19b2_yc_abc_chfrq,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_abc_chfrq,How often does someone at home ever help your child learn the ABC or alphabet?,decimal,,1|2|3|4|5|6|7,Occasionally or less than once a week|1 or 2 days a week|3 times a week|4 times a week|5 times a week|6 times a week|7 times a week/constantly
+c19b2_yc_count_ch,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_count_ch,80) Does anyone at home ever help your child with numbers or counting?,decimal,,0|1,No|Yes
+c19b2_yc_count_chfrq,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_count_chfrq,How often does anyone at home ever help your child with numbers or counting?,decimal,,1|2|3|4|5|6|7,Occasionally or less than once a week|1 or 2 days a week|3 times a week|4 times a week|5 times a week|6 times a week|7 times a week/constantly
+c19b2_yc_sing_ch,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_sing_ch,"81) Does anyone at home ever teach your child any songs, poems or nursery rhymes",decimal,,0|1,No|Yes
+c19b2_yc_sing_chfrq,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_sing_chfrq,"How often does someone teach your child songs, poems or nursery rhymes?",decimal,,1|2|3|4|5|6|7,Occasionally or less than once a week|1 or 2 days a week|3 times a week|4 times a week|5 times a week|6 times a week|7 times a week/constantly
+c19b2_yc_draw_ch,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_draw_ch,82) Does your child ever paint or draw at home?,decimal,,0|1,No|Yes
+c19b2_yc_draw_chfrq,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_draw_chfrq,How often does your child paint or draw at home?,decimal,,1|2|3|4|5|6|7,Occasionally or less than once a week|1 or 2 days a week|3 times a week|4 times a week|5 times a week|6 times a week|7 times a week/constantly
+c19b2_yc_hm_lang,COVID19_Survey.adult_bibbs_phase2.c19b2_yc_hm_lang,83) Does your child use their home language more than they did before lockdown?,decimal,,0|1,No|Yes
+c19b2_cc_relshipq,COVID19_Survey.adult_bibbs_phase2.c19b2_cc_relshipq,Your relationship with your partner,decimal,,0|1,No|Yes
+c19b2_cc_living,COVID19_Survey.adult_bibbs_phase2.c19b2_cc_living,The people that you live with,decimal,,0|1,No|Yes
+c19a2_cc_house,COVID19_Survey.adult_bibbs_phase2.c19a2_cc_house,You have moved house,decimal,,0|1,No|Yes
+hh_relship_c19b2,COVID19_Survey.adult_bibbs_phase2.hh_relship_c19b2,85) What is your current relationship status?,decimal,,-1|1|2|3,Do not wish to answer|Single|Married|Not married but in a relationship
+hh_living_c19b2,COVID19_Survey.adult_bibbs_phase2.hh_living_c19b2,86) Are you currently living with your partner?,decimal,,0|1,No|Yes
+hh_childlw_c19b2,COVID19_Survey.adult_bibbs_phase2.hh_childlw_c19b2,87) Does your child (or children) live with you all the time?,decimal,,0|1,No - shared parenting|Yes
+hh_nchild_c19b2,COVID19_Survey.adult_bibbs_phase2.hh_nchild_c19b2,88) Do any children aged 16 and under live in your home?,decimal,,0|1,No|Yes
+hh_nchild_04_c19b2,COVID19_Survey.adult_bibbs_phase2.hh_nchild_04_c19b2,89) How many children aged between 0 and 4 years live in your home?,decimal,,,
+hh_nchild_510_c19b2,COVID19_Survey.adult_bibbs_phase2.hh_nchild_510_c19b2,90) How many children aged between 5 and 10 years live in your home?,decimal,,,
+hh_nchild_1116_c19b2,COVID19_Survey.adult_bibbs_phase2.hh_nchild_1116_c19b2,91) How many children aged between 11 and 16 years live in your home?,decimal,,,
+hh_nadult_c19b2,COVID19_Survey.adult_bibbs_phase2.hh_nadult_c19b2,92) How many adults (people aged over 16 years) live in your home?,decimal,,,
+hh_nadult_70_c19b2,COVID19_Survey.adult_bibbs_phase2.hh_nadult_70_c19b2,93) How many of these adults are over the age of 70?,decimal,,,
+c19b2_yh_dsc_hme,COVID19_Survey.adult_bibbs_phase2.c19b2_yh_dsc_hme,94) If you have moved home please can you tell us why?,decimal,,1|2|3|4|5,"You had already planned to move before the pandemic|Couldnt afford the rent / mortgage payments|Evicted / lost home|Moved in with others (e.g., as social bubble, to share costs)|Other"
+c19b2_yh_dsc_hme_oth,COVID19_Survey.adult_bibbs_phase2.c19b2_yh_dsc_hme_oth,"If you checked other, please describe",text,,,
+yh_own_c19b2,COVID19_Survey.adult_bibbs_phase2.yh_own_c19b2,95) Do you (or your household) own or rent the home you live in?,decimal,,1|2|3|4|5|6,Own it outright|Buying it with the help of a mortgage/loan|Part own and part rent (shared ownership)|Rent it (includes all those who are on Housing Benefit or Local Housing Allowance)|Live here rent-free (including rent-free in relatives/friends property but excluding squatters)|Squatting
+yh_own_rent_c19b2,COVID19_Survey.adult_bibbs_phase2.yh_own_rent_c19b2,96) If you rent who is your landlord?,decimal,,-2|1|2|3|4|5|6|7,"Dont know|Private landlord or letting agency|Housing association, housing co-operative, charitable trust|Local authority, local council|Relative or friend (before you lived here) of a household member|Employer (individual) of a household member|Employer (company) of a household member|Another organisation"
+yh_bdroom_c19b2,COVID19_Survey.adult_bibbs_phase2.yh_bdroom_c19b2,97) How many bedrooms are there in your home?,decimal,,,
+yh_net_c19b2,COVID19_Survey.adult_bibbs_phase2.yh_net_c19b2,98) Can you access the internet from your home (e.g. broadband / data on phone)?,decimal,,0|1,No|Yes
+yh_rpair_c19b2,COVID19_Survey.adult_bibbs_phase2.yh_rpair_c19b2,99) Does your home need any major repairs doing to it right now?,decimal,,0|1,No|Yes
+yh_appl_c19b2,COVID19_Survey.adult_bibbs_phase2.yh_appl_c19b2,"100) Are all of your large electrical appliances (e.g. washing machine, fridge)",decimal,,0|1,No|Yes
+yh_damp_c19b2,COVID19_Survey.adult_bibbs_phase2.yh_damp_c19b2,101) Do you have any damp or mould in your home?,decimal,,0|1,No|Yes
+yh_vrmin_c19b2,COVID19_Survey.adult_bibbs_phase2.yh_vrmin_c19b2,"102) Do you have trouble with any vermin (mice or other rodents, cockroaches, et",decimal,,0|1,No|Yes
+yh_outdr_c19b2,COVID19_Survey.adult_bibbs_phase2.yh_outdr_c19b2,103) Does your home have an outdoor space which you and your family can use?,decimal,,0|1,No|Yes
+yh_outdr_prvsh_c19b2,COVID19_Survey.adult_bibbs_phase2.yh_outdr_prvsh_c19b2,104) Is your outdoor space private or shared?,decimal,,1|2,Private|Shared
+yh_outdr_type_c19b2,COVID19_Survey.adult_bibbs_phase2.yh_outdr_type_c19b2,105) Is your outdoor space a ...,decimal,,1|2|3|4|5,Yard|Small garden|Medium garden|Large garden|Other
+yh_outdr_safe_c19b2,COVID19_Survey.adult_bibbs_phase2.yh_outdr_safe_c19b2,106) Is your outdoor space safe for your children to play in?,decimal,,-2|0|1,Dont know|No|Yes
+imddecile,COVID19_Survey.adult_bibbs_phase2.imddecile,IMDdecile,decimal,,,

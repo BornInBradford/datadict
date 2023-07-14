@@ -1,0 +1,4 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_allin24_fa,BiB_ALL_IN.allin24_fa.has_allin24_fa,Has all in 24m food allergy,decimal,,,
+all24c3desc,BiB_ALL_IN.allin24_fa.all24c3desc,"",text,,,
+has_all2qs,BiB_ALL_IN.allin24_fa.has_all2qs,Has ALL IN 24m questionnaire,decimal,,1,has

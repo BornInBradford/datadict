@@ -1,0 +1,4 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_allin24_dd,BiB_ALL_IN.allin24_dd.has_allin24_dd,Has all in 24m doctor diagnoses,decimal,,,
+all24b4diag,BiB_ALL_IN.allin24_dd.all24b4diag,"",text,,,
+has_all2qs,BiB_ALL_IN.allin24_dd.has_all2qs,Has ALL IN 24m questionnaire,decimal,,1,has

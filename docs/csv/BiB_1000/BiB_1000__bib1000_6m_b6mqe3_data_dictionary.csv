@@ -1,0 +1,5 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_6m_b6mqe3,BiB_1000.bib1000_6m_b6mqe3.has_bib1000_6m_b6mqe3,Has bib 1000 6m people living in household,decimal,,,
+bib6e3age,BiB_1000.bib1000_6m_b6mqe3.bib6e3age,Age of relation,decimal,,,
+bib6e3relationship,BiB_1000.bib1000_6m_b6mqe3.bib6e3relationship,Relationship to mother,decimal,,1|10|11|12|13|14|15|16|17|18|19|2|20|21|3|4|5|6|7|8|9,Your husband/partner|Partner's brother|Partner's sister|Your grandmother|Your grandfather|Partner's grandmother|Partner's grandfather|Other adult male relative (aged 16+)|Other adult female relative (aged 16+)|Adult male non-relative|Adult female non-relative|Your male children|Other male children|Other female children|Your female children|Your mother|Your father|Partner's mother|Partner's father|Your brother|Your sister
+has_b6mtab,BiB_1000.bib1000_6m_b6mqe3.has_b6mtab,Has BiB1000 6m questionnaire,decimal,,1,has

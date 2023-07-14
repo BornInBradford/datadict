@@ -1,0 +1,11 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_matrecs_prebib_inf,BiB_Pregnancy.matrecs_prebib_inf.has_matrecs_prebib_inf,Has ,decimal,,,
+has_prnpbi,BiB_Pregnancy.matrecs_prebib_inf.has_prnpbi,Has: Maternal records abstraction: Pre-BiB infant info,decimal,,1,has
+prnprebinfbirthyr,BiB_Pregnancy.matrecs_prebib_inf.prnprebinfbirthyr,Pre BiB infant birth year,decimal,,,
+prnprebinfboutcome,BiB_Pregnancy.matrecs_prebib_inf.prnprebinfboutcome,Pre BiB infant birth outcome,decimal,,1|2|3|4|5|6,Live Birth|Miscarriage|Still birth|TOP|Ectopic pregnancy|Not documented
+prnprebinfbroute,BiB_Pregnancy.matrecs_prebib_inf.prnprebinfbroute,Pre BiB infant birth route,decimal,,1|2|3|4|5|6|7,Normal|Forceps|Ventous|Elective caesarian section|Semi-elective caesarean section|Emergency caesarean section|Not documented
+prnprebinfbweight,BiB_Pregnancy.matrecs_prebib_inf.prnprebinfbweight,Pre BiB infant birth weight (grams),decimal,,,
+prnprebinfbweightnd,BiB_Pregnancy.matrecs_prebib_inf.prnprebinfbweightnd,Pre BiB infant birth weight not documented,decimal,,1|2,No|Yes
+prnprebinfdeath,BiB_Pregnancy.matrecs_prebib_inf.prnprebinfdeath,Pre BiB infant death,decimal,,1|2|3,No|Yes|Not documented
+prnprebinfmisdobnd,BiB_Pregnancy.matrecs_prebib_inf.prnprebinfmisdobnd,Pre BiB infant dob/miscarriage not documented,decimal,,1|2,Documented|Not documented
+prnprebinfpregid,BiB_Pregnancy.matrecs_prebib_inf.prnprebinfpregid,Pre BiB pregnancy ID,decimal,,,

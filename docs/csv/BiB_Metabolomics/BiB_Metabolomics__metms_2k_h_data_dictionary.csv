@@ -1,0 +1,7 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_Metabolomics.metms_2k_h.BiBPregNumber,"",decimal,,,
+has_metms_2k_h,BiB_Metabolomics.metms_2k_h.has_metms_2k_h,Has ms metabolomics 2000 mothers header,decimal,,,
+metm2msamplename,BiB_Metabolomics.metms_2k_h.metm2msamplename,"",text,,,
+metm2mboxid,BiB_Metabolomics.metms_2k_h.metm2mboxid,"",text,,,
+metm2mboxwell,BiB_Metabolomics.metms_2k_h.metm2mboxwell,"",text,,,
+metm2mrunday,BiB_Metabolomics.metms_2k_h.metm2mrunday,"",text,,,

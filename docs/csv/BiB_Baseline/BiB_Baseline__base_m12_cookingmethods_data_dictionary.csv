@@ -1,0 +1,22 @@
+variable,full_name,label,value_type,description,categories,categories_label
+PregnancyID,BiB_Baseline.base_m12_cookingmethods.PregnancyID,Pregnancy identifier,text,,,
+BiBPregNumber,BiB_Baseline.base_m12_cookingmethods.BiBPregNumber,Pregnancy number within BiB,decimal,,,
+version,BiB_Baseline.base_m12_cookingmethods.version,Baseline questionnaire version,decimal,,,
+ckmbefstk,BiB_Baseline.base_m12_cookingmethods.ckmbefstk,"Method of cooking beef -steaks, roasts, joints or chops not in sauce",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+ckmbefwel,BiB_Baseline.base_m12_cookingmethods.ckmbefwel,Was beef cooked well done?,decimal,,1|2,Yes|No
+ckmbeburg,BiB_Baseline.base_m12_cookingmethods.ckmbeburg,"Method of cooking beef burgers, either home cooked or takeaway",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+ckmbebwel,BiB_Baseline.base_m12_cookingmethods.ckmbebwel,Were beef burgers cooked well done?,decimal,,1|2,Yes|No
+ckmprkstk,BiB_Baseline.base_m12_cookingmethods.ckmprkstk,"Method of cooking pork- steaks, roasts, joints, or chops (not in sauce)",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+ckmprkwel,BiB_Baseline.base_m12_cookingmethods.ckmprkwel,Was pork cooked well done,decimal,,1|2,Yes|No
+ckmlambst,BiB_Baseline.base_m12_cookingmethods.ckmlambst,"Method of cooking lamb, mutton or goat-steaks, roast, joints or chops not in sau",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+ckmlamwel,BiB_Baseline.base_m12_cookingmethods.ckmlamwel,Was lamb/mutton/goat cooked well done?,decimal,,1|2,Yes|No
+ckmchknst,BiB_Baseline.base_m12_cookingmethods.ckmchknst,"Method of cooking chicken or turkey steaks, roasts, joints or portions (not in b",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+ckmchkwel,BiB_Baseline.base_m12_cookingmethods.ckmchkwel,Was chicken cooked well done?,decimal,,1|2,Yes|No
+ckmmtsaus,BiB_Baseline.base_m12_cookingmethods.ckmmtsaus,Method of cooking meat sausages e.g. walls or chipolatas,decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+ckmsaswel,BiB_Baseline.base_m12_cookingmethods.ckmsaswel,Were sausages cooked well done?,decimal,,1|2,Yes|No
+ckmbaconr,BiB_Baseline.base_m12_cookingmethods.ckmbaconr,"Method of cooking bacon rashers, chops or bacon ribs",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+ckmbacwel,BiB_Baseline.base_m12_cookingmethods.ckmbacwel,Was bacon cooked well done?,decimal,,1|2,Yes|No
+ckmwhtfsh,BiB_Baseline.base_m12_cookingmethods.ckmwhtfsh,Method of cooking white fish fillets or steaks,decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+ckmfshwel,BiB_Baseline.base_m12_cookingmethods.ckmfshwel,Was white fish cooked well done?,decimal,,1|2,Yes|No
+ckmfshoil,BiB_Baseline.base_m12_cookingmethods.ckmfshoil,"Method of cooking oily fish fillets or steaks e.g. salmon, mackeral or trout",decimal,,1|2|3|4|5|6,Did not eat|Don't know or take-away|Grill|Fry|Roast|BBQ
+ckmfshowd,BiB_Baseline.base_m12_cookingmethods.ckmfshowd,Was oily fish cooked well done?,decimal,,1|2,Yes|No

@@ -1,0 +1,7 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_36m_b3j19a,BiB_1000.bib1000_36m_b3j19a.has_bib1000_36m_b3j19a,Has bib 1000 36m vitamins or multivitamins,decimal,,,
+bib36j19aadministration,BiB_1000.bib1000_36m_b3j19a.bib36j19aadministration,Method of administration,decimal,,1|2|3,Tablets|Teaspoons|Drops
+bib36j19aamount,BiB_1000.bib1000_36m_b3j19a.bib36j19aamount,Amount usually taken per week,decimal,,,
+bib36j19abrand,BiB_1000.bib1000_36m_b3j19a.bib36j19abrand,Brand of vitamin,decimal,,1|2|3,Health start vitamin drops|ABIDEC|Other
+bib36j19aother,BiB_1000.bib1000_36m_b3j19a.bib36j19aother,Brand of vitamin if other,text,,,
+has_b36tab,BiB_1000.bib1000_36m_b3j19a.has_b36tab,Has: BiB 1000 Questionnaire: bib36_maintable,decimal,,1,has

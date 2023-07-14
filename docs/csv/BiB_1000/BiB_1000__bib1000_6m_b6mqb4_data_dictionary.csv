@@ -1,0 +1,4 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_6m_b6mqb4,BiB_1000.bib1000_6m_b6mqb4.has_bib1000_6m_b6mqb4,Has bib 1000 6m parent-reported child diagnoses,decimal,,,
+bib6b4diagnosis,BiB_1000.bib1000_6m_b6mqb4.bib6b4diagnosis,Diagnosis given,text,,,
+has_b6mtab,BiB_1000.bib1000_6m_b6mqb4.has_b6mtab,Has BiB1000 6m questionnaire,decimal,,1,has

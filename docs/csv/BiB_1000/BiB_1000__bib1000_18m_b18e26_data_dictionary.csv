@@ -1,0 +1,7 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_18m_b18e26,BiB_1000.bib1000_18m_b18e26.has_bib1000_18m_b18e26,Has bib 1000 18m types of cereals used,decimal,,,
+bib18e26brand,BiB_1000.bib1000_18m_b18e26.bib18e26brand,Brand of cereal,decimal,,1|2|3|4|5|6|7|8|9,Kellogg's|Nestle|Morrisons|ASDA|Tesco|Sainsbury's|Other|Weetabix|Quaker
+bib18e26otherbrand,BiB_1000.bib1000_18m_b18e26.bib18e26otherbrand,Other brand of cereal,text,,,
+bib18e26quantity,BiB_1000.bib1000_18m_b18e26.bib18e26quantity,Average number of dessert spoons per serving,decimal,,,
+bib18e26typeofcereal,BiB_1000.bib1000_18m_b18e26.bib18e26typeofcereal,Type of cereal,text,,,
+has_b18tab,BiB_1000.bib1000_18m_b18e26.has_b18tab,Has: BiB 1000 Questionnaire: bib18_maintable,decimal,,1,has

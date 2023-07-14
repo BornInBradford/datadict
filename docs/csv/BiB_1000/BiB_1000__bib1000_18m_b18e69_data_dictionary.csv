@@ -1,0 +1,4 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_18m_b18e69,BiB_1000.bib1000_18m_b18e69.has_bib1000_18m_b18e69,Has bib 1000 18m other types of yoghurt,decimal,,,
+bib18e69type,BiB_1000.bib1000_18m_b18e69.bib18e69type,Specify other type of yoghurt/fromage frais,text,,,
+has_b18tab,BiB_1000.bib1000_18m_b18e69.has_b18tab,Has: BiB 1000 Questionnaire: bib18_maintable,decimal,,1,has

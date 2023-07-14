@@ -1,0 +1,22 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPregNumber,BiB_Baseline.base_m1_survey.BiBPregNumber,Cohort recruited pregnancy number,decimal,,,
+has_base_m1_survey,BiB_Baseline.base_m1_survey.has_base_m1_survey,Has mother baseline survey (phases 1),decimal,,,
+fam1famacc,BiB_Baseline.base_m1_survey.fam1famacc,There are people I know who accept me as I am,decimal,,1|2|3,Not true|Partly true|Certainly true
+fam1famhap,BiB_Baseline.base_m1_survey.fam1famhap,There are people I know who do things to make me happy,decimal,,1|2|3,Not true|Partly true|Certainly true
+fam1famimp,BiB_Baseline.base_m1_survey.fam1famimp,There are people I know who make me feel important,decimal,,1|2|3,Not true|Partly true|Certainly true
+fam1famlov,BiB_Baseline.base_m1_survey.fam1famlov,There are people I know who make me feel loved,decimal,,1|2|3,Not true|Partly true|Certainly true
+fam1famrel,BiB_Baseline.base_m1_survey.fam1famrel,There are people I know who can be relied on no matter what,decimal,,1|2|3,Not true|Partly true|Certainly true
+fam1famsup,BiB_Baseline.base_m1_survey.fam1famsup,There are people who give me support and encouragement,decimal,,1|2|3,Not true|Partly true|Certainly true
+fam1famtak,BiB_Baseline.base_m1_survey.fam1famtak,There are people I know who see that I am taken care of,decimal,,1|2|3,Not true|Partly true|Certainly true
+fam1helpfl,BiB_Baseline.base_m1_survey.fam1helpfl,Would you say most of the time people try to be helpful,decimal,,1|2|3,Try to be helpful|Look out for themselves|Don't  Know
+fam1leisur,BiB_Baseline.base_m1_survey.fam1leisur,This area has good leisure facilities,decimal,,1|2|3|4,Strongly agree|Agree|Disagree|Strongly disagree
+fam1livenj,BiB_Baseline.base_m1_survey.fam1livenj,This is a place I enjoy living in,decimal,,1|2|3|4,Strongly agree|Agree|Disagree|Strongly disagree
+fam1loctrn,BiB_Baseline.base_m1_survey.fam1loctrn,This area has good local transport,decimal,,1|2|3|4,Strongly agree|Agree|Disagree|Strongly disagree
+fam1neighbo,BiB_Baseline.base_m1_survey.fam1neighbo,This is an area where neighbours look after each other,decimal,,1|2|3|4,Strongly agree|Agree|Disagree|Strongly disagree
+fam1pefair,BiB_Baseline.base_m1_survey.fam1pefair,Would most people take advantage of you if they got the chance,decimal,,1|2|3,Take advantage|Try to be fair|Don't know
+fam1postrn,BiB_Baseline.base_m1_survey.fam1postrn,How easy to get to a post office,decimal,,1|2|3|4,Very Easy|Fairly Easy|Fairly difficult|Very difficult
+fam1prbvan,BiB_Baseline.base_m1_survey.fam1prbvan,How much of a problem is vandalism in your local area,decimal,,1|2|3|4,Very big problem|Fairly big problem|Not a very big problem|Not a problem at all
+fam1suptrn,BiB_Baseline.base_m1_survey.fam1suptrn,How easy to get to a supermarket,decimal,,1|2|3|4,Very Easy|Fairly Easy|Fairly difficult|Very difficult
+fam1tenstr,BiB_Baseline.base_m1_survey.fam1tenstr,How much of a problem are teenagers hanging around,decimal,,1|2|3|4,Very big problem|Fairly big problem|Not a very big problem|Not a problem at all
+fam1truste,BiB_Baseline.base_m1_survey.fam1truste,Can people be trusted?,decimal,,1|2|3,Can be trusted|Can't be too careful|Don't know
+has_mbqph1,BiB_Baseline.base_m1_survey.has_mbqph1,Has: Maternal Baseline Questionnaire (Phase 1),decimal,,1,has

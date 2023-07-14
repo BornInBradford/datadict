@@ -1,0 +1,8 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_bib1000_12m_b12f12,BiB_1000.bib1000_12m_b12f12.has_bib1000_12m_b12f12,Has bib 1000 12m dried desserts,decimal,,,
+bib12f12brand,BiB_1000.bib1000_12m_b12f12.bib12f12brand,Brand,decimal,,1|2|3|4|5|6|7|8|9,Bebivita|Cow and Gate|Farleys|Heinz|HiPP Organics|Mumtaz (Halal)|Organix|Plum Baby Organic|Other Supermarket own
+bib12f12frequency,BiB_1000.bib1000_12m_b12f12.bib12f12frequency,Frequency,decimal,,1|2|3|4|5|6|7|8|9,Never|1-3 per month|One day a week|Two days a week|Three days a week|Four days a week|Five days a week|Six days a week|Seven days a week
+bib12f12otherbrand,BiB_1000.bib1000_12m_b12f12.bib12f12otherbrand,OtherBrand,text,,,
+bib12f12quantity,BiB_1000.bib1000_12m_b12f12.bib12f12quantity,Quantity,decimal,,,
+bib12f12timesperday,BiB_1000.bib1000_12m_b12f12.bib12f12timesperday,TimesPerDay,decimal,,,
+has_b12tab,BiB_1000.bib1000_12m_b12f12.has_b12tab,Has BiB1000 12m questionnaire,decimal,,1,has

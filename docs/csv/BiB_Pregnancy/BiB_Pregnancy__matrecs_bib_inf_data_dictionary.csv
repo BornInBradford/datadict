@@ -1,0 +1,14 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_matrecs_bib_inf,BiB_Pregnancy.matrecs_bib_inf.has_matrecs_bib_inf,Has maternity records bib infant,decimal,,,
+has_prninf,BiB_Pregnancy.matrecs_bib_inf.has_prninf,Has: Maternal records abstraction: BiB infant info,decimal,,1,has
+prnbibirthoutc,BiB_Pregnancy.matrecs_bib_inf.prnbibirthoutc,Birth outcome,decimal,,1|2|3,Live birth|Miscarriage|Still birth
+prnbibreech,BiB_Pregnancy.matrecs_bib_inf.prnbibreech,Breech presentation,decimal,,1|2|3,No|Yes|Don't know
+prnbicordsamp,BiB_Pregnancy.matrecs_bib_inf.prnbicordsamp,Cord blood samples taken after birth,decimal,,1|2|3,No|Yes|Don't know
+prnbicordsampalph,BiB_Pregnancy.matrecs_bib_inf.prnbicordsampalph,Cord lowest arterial pH,decimal,,,
+prnbicordsampvlph,BiB_Pregnancy.matrecs_bib_inf.prnbicordsampvlph,Cord lowest venous pH,decimal,,,
+prnbifetalsamp,BiB_Pregnancy.matrecs_bib_inf.prnbifetalsamp,Fetal blood sample taken before birth,decimal,,1|2|3,No|Yes|Don't know
+prnbifetalsamplph,BiB_Pregnancy.matrecs_bib_inf.prnbifetalsamplph,Fetal lowest arterial pH,decimal,,,
+prnbirouteofbrt,BiB_Pregnancy.matrecs_bib_inf.prnbirouteofbrt,Route of birth,decimal,,1|2|3|4|5|6|7,Normal|Forceps|Ventous|Elective caesarean section|Semi-elective caesarean section|Emergency caesarean section|Not documented
+prnbispecialcare,BiB_Pregnancy.matrecs_bib_inf.prnbispecialcare,Admitted to special care,decimal,,1|2|3,No|Yes|Don't know
+prntimetosampa,BiB_Pregnancy.matrecs_bib_inf.prntimetosampa,Time from birth to arterial sample (minutes),decimal,,,
+prntimetosampv,BiB_Pregnancy.matrecs_bib_inf.prntimetosampv,Time from birth to venous sample (minutes),decimal,,,

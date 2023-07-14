@@ -1,0 +1,264 @@
+variable,full_name,label,value_type,description,categories,categories_label
+Date,BiB_GrowingUp.child_survey_child_comp.Date,Date survey completed,date,,,
+AgeMonths,BiB_GrowingUp.child_survey_child_comp.AgeMonths,Age in months at survey completion,decimal,,,
+AgeYears,BiB_GrowingUp.child_survey_child_comp.AgeYears,Age in years at survey completion,decimal,,,
+SurveyYear,BiB_GrowingUp.child_survey_child_comp.SurveyYear,Calendar year at survey completion,decimal,,,
+SurveyMonth,BiB_GrowingUp.child_survey_child_comp.SurveyMonth,Calendar month at survey completion,decimal,,,
+lsid,BiB_GrowingUp.child_survey_child_comp.lsid,Survey version identifier,decimal,,,
+survey_version,BiB_GrowingUp.child_survey_child_comp.survey_version,Survey version,decimal,,1|2|3|4|5,community version 1|community version 2|community version 3|school version 1|school version 2
+survey_mode,BiB_GrowingUp.child_survey_child_comp.survey_mode,Survey completion mode,decimal,,1|2,screen|paper
+guchdQinTermTime,BiB_GrowingUp.child_survey_child_comp.guchdQinTermTime,Is the questionnaire completed during school term time?,decimal,,1|2,No|Yes
+guchdDayWeekQ,BiB_GrowingUp.child_survey_child_comp.guchdDayWeekQ,What day was the questionnaire completed?,decimal,,1|2|3|4|5|6|7,Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday
+guchdWhereQComp,BiB_GrowingUp.child_survey_child_comp.guchdWhereQComp,Where was this questionnaire completed?,decimal,,1|2|3,Participant's home|Bus|Other
+guchdWhereQComp_other,BiB_GrowingUp.child_survey_child_comp.guchdWhereQComp_other,Where was this questionnaire completed?: Other,text,,,
+guchdOnSchlDays2_1,BiB_GrowingUp.child_survey_child_comp.guchdOnSchlDays2_1,Go to a sports clubs/lessons after school â€“ if yes what is the club or lesson?,decimal,,1|2|3,Never/rarely|Some days (1-3 days a week)|Most/all days
+guchdSportsClubsYes,BiB_GrowingUp.child_survey_child_comp.guchdSportsClubsYes,What is the club or lesson you go to?,text,,,
+guchdOnSchlDays2_2,BiB_GrowingUp.child_survey_child_comp.guchdOnSchlDays2_2,"Play out in the garden, yard, or streets around your home",decimal,,1|2|3,Never/rarely|Some days (1-3 days a week)|Most/all days
+guchdOnSchlDays2_3,BiB_GrowingUp.child_survey_child_comp.guchdOnSchlDays2_3,Go to the park,decimal,,1|2|3,Never/rarely|Some days (1-3 days a week)|Most/all days
+guchdOnSchlDays2_5,BiB_GrowingUp.child_survey_child_comp.guchdOnSchlDays2_5,Walk or run outdoors for exercise (including walking the dog),decimal,,1|2|3,Never/rarely|Some days (1-3 days a week)|Most/all days
+guchdOnSchlDays2_6,BiB_GrowingUp.child_survey_child_comp.guchdOnSchlDays2_6,Watch TV/films,decimal,,1|2|3,Never/rarely|Some days (1-3 days a week)|Most/all days
+guchdOnSchlDays2_7,BiB_GrowingUp.child_survey_child_comp.guchdOnSchlDays2_7,"Use a computer (including laptop/tablet) for games, the internet and homework, s",decimal,,1|2|3,Never/rarely|Some days (1-3 days a week)|Most/all days
+guchdOnSchlDays2_8,BiB_GrowingUp.child_survey_child_comp.guchdOnSchlDays2_8,"Use a mobile phone for messaging, internet, social media, games, you tube",decimal,,1|2|3,Never/rarely|Some days (1-3 days a week)|Most/all days
+guchdOnSchlDays2_4,BiB_GrowingUp.child_survey_child_comp.guchdOnSchlDays2_4,Go to indoor play areas,decimal,,1|2|3,Never/rarely|Some days (1-3 days a week)|Most/all days
+guchdOnSchlHowLong2_1,BiB_GrowingUp.child_survey_child_comp.guchdOnSchlHowLong2_1,Watch TV/films,decimal,,1|2|3|4,Less than an hour|1 - 2 hours|2 - 3 hours|3 or more hours
+guchdOnSchlHowLong2_2,BiB_GrowingUp.child_survey_child_comp.guchdOnSchlHowLong2_2,"Use a computer (including laptop/tablet) for games, the internet and homework, s",decimal,,1|2|3|4,Less than an hour|1 - 2 hours|2 - 3 hours|3 or more hours
+guchdOnSchlHowLong2_3,BiB_GrowingUp.child_survey_child_comp.guchdOnSchlHowLong2_3,"Use a mobile phone for messaging, internet, social media, games, youtube",decimal,,1|2|3|4,Less than an hour|1 - 2 hours|2 - 3 hours|3 or more hours
+guchdWkendHowOften2_1,BiB_GrowingUp.child_survey_child_comp.guchdWkendHowOften2_1,Go to sports clubs/lessons,decimal,,1|2|3,Never/rarely|Some weekends|Most or all weekends
+guchdWhatClubWkend,BiB_GrowingUp.child_survey_child_comp.guchdWhatClubWkend,What is the club or lesson you go to?,text,,,
+guchdWkendHowOften2_2,BiB_GrowingUp.child_survey_child_comp.guchdWkendHowOften2_2,"Play out in the garden, yard, or streets around your home",decimal,,1|2|3,Never/rarely|Some weekends|Most or all weekends
+guchdWkendHowOften2_3,BiB_GrowingUp.child_survey_child_comp.guchdWkendHowOften2_3,Go to the park,decimal,,1|2|3,Never/rarely|Some weekends|Most or all weekends
+guchdWkendHowOften2_4,BiB_GrowingUp.child_survey_child_comp.guchdWkendHowOften2_4,Go to indoor play areas,decimal,,1|2|3,Never/rarely|Some weekends|Most or all weekends
+guchdWkendHowOften2_5,BiB_GrowingUp.child_survey_child_comp.guchdWkendHowOften2_5,Walk or run outdoors for exercise (including walking the dog),decimal,,1|2|3,Never/rarely|Some weekends|Most or all weekends
+guchdWkendHowOften2_6,BiB_GrowingUp.child_survey_child_comp.guchdWkendHowOften2_6,Watch TV/films,decimal,,1|2|3,Never/rarely|Some weekends|Most or all weekends
+guchdWkendHowOften2_7,BiB_GrowingUp.child_survey_child_comp.guchdWkendHowOften2_7,"Use a computer (including laptop/tablet) for games, the internet and homework, s",decimal,,1|2|3,Never/rarely|Some weekends|Most or all weekends
+guchdWkendHowOften2_8,BiB_GrowingUp.child_survey_child_comp.guchdWkendHowOften2_8,"Use a mobile phone for messaging, internet, social media, games, you tube",decimal,,1|2|3,Never/rarely|Some weekends|Most or all weekends
+guchdWkendHowLong2_1,BiB_GrowingUp.child_survey_child_comp.guchdWkendHowLong2_1,Watch TV/films,decimal,,1|2|3|4,Less than an hour|1 - 2 hours|2 - 3 hours|More than 3 hours
+guchdWkendHowLong2_2,BiB_GrowingUp.child_survey_child_comp.guchdWkendHowLong2_2,"Use a computer (including laptop/tablet) for games (not active games), the inter",decimal,,1|2|3|4,Less than an hour|1 - 2 hours|2 - 3 hours|More than 3 hours
+guchdWkendHowLong2_3,BiB_GrowingUp.child_survey_child_comp.guchdWkendHowLong2_3,"Use a mobile phone for messaging, internet, social media, games, youtube",decimal,,1|2|3|4,Less than an hour|1 - 2 hours|2 - 3 hours|More than 3 hours
+guchdPhycialactive2_1,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_1,Skipping,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_2,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_2,Rowing/Canoeing,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_3,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_3,Walking for exercise,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_4,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_4,Cycling,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_5,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_5,Jogging or running,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_6,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_6,Aerobics,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_7,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_7,Swimming,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_9,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_9,Baseball/softball,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_22,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_22,Rounders,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_10,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_10,Dance,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_23,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_23,Rugby,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_11,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_11,Badminton,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_12,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_12,Skateboarding,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_8,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_8,Football,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_14,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_14,Hockey,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_13,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_13,Volleyball,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_24,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_24,Tennis,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_15,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_15,Basketball,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_21,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_21,Netball,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_16,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_16,Ice skating,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_17,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_17,Ice hockey,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_18,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_18,Trampolining,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_19,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_19,Boxing,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_20,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_20,Gym activities,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_25,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_25,Cricket,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive2_26,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_26,Other,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhysicalActOth1_1,BiB_GrowingUp.child_survey_child_comp.guchdPhysicalActOth1_1,Other(1),text,,,
+guchdPhycialactive2_27,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive2_27,Other (2),decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhysicalActOth1_2,BiB_GrowingUp.child_survey_child_comp.guchdPhysicalActOth1_2,Other(2),text,,,
+guchdPhycialactive_SQ010,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive_SQ010,Rounders / baseball,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive_SQ003,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive_SQ003,Roller skating/ bladeing,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdPhycialactive_SQ004,BiB_GrowingUp.child_survey_child_comp.guchdPhycialactive_SQ004,Tig,decimal,,1|2|3|4|5,No|1-2|3-4|5-6|7 or more
+guchdActBeforeSch,BiB_GrowingUp.child_survey_child_comp.guchdActBeforeSch,"In the last 7 days, on how many days before school, did you do sports, dance, or",decimal,,1|2|3|4|5,None|1 time last week|2 or 3 times last week|4 times last week|5 times last week
+guchdMrnActiveTravel,BiB_GrowingUp.child_survey_child_comp.guchdMrnActiveTravel,"In the last 7 days, on how many mornings did you actively travel (for example, w",decimal,,1|2|3|4|5,None|1 time last week|2 or 3 times last week|4 times last week|5 times last week
+guchdPEActive2,BiB_GrowingUp.child_survey_child_comp.guchdPEActive2,"In the last 7 days, during your physical education (PE) classes, how often were",decimal,,1|2|3|4|5,Hardly ever|Sometimes|Quite often|Always|I donâ€™t do PE
+guchd7DayBreak2,BiB_GrowingUp.child_survey_child_comp.guchd7DayBreak2,"In the last 7 days, what did you do most of the timeat break time ? (Tick one on",decimal,,1|2|3|4|5,"Sat down (talking, reading, doing schoolwork)|Stood around or walked around|Ran or played a little bit|Ran around and played quite a bit|Ran and played hard most of the time"
+guchd7Lunch2,BiB_GrowingUp.child_survey_child_comp.guchd7Lunch2,"In the last 7 days, what did you normally doat lunch(besides eating)? (Tick one",decimal,,1|2|3|4|5,"Sat down (talking, reading, doing schoolwork)|Stood around or walked around|Ran or played a little bit|Ran around and played quite a bit|Ran and played hard most of the time"
+guchdAftActiveTravel,BiB_GrowingUp.child_survey_child_comp.guchdAftActiveTravel,"In the last 7 days, on how many afternoons did you actively travel (for example,",decimal,,1|2|3|4|5,None|1 time last week|2 or 3 times last week|4 times last week|5 times last week
+guchd7RightAftSchl2,BiB_GrowingUp.child_survey_child_comp.guchd7RightAftSchl2,"In the last 7 days, on how many daysright after school , did you do sports, danc",decimal,,1|2|3|4|5,None|1 time last week|2 or 3 times last week|4 times last week|5 times last week
+guchd7DayEven2,BiB_GrowingUp.child_survey_child_comp.guchd7DayEven2,"In the last 7 days, on how manyeveningsdid you do sports, dance, or play games i",decimal,,1|2|3|4|5,None|1 time last week|2 or 3 times last week|4 times last week|5 times last week
+guchdHowMnySprts2,BiB_GrowingUp.child_survey_child_comp.guchdHowMnySprts2,"On the last weekend , how many times did you do sports, dance, or play games in",decimal,,1|2|3|4|5,None|1 time|2 - 3 times|4 - 5 times|6 times or more
+guchdDescribeBest,BiB_GrowingUp.child_survey_child_comp.guchdDescribeBest,Whichoneof the following describes you best for the last 7 days? Listen toall fi,decimal,,1|2|3|4|5,"All or most of my free time was spent doing things that involve little physical effort|I sometimes (1 - 2 times last week) did physical things in my free time (e.g. played sports, went running, swimming, bike riding, did aerobics)|I often (3 â€” 4 times last week) did physical things in my free time|I quite often (5 - 6 times last week) did physical things in my free time|I very often (7 or more times last week) did physical things in my free time"
+guchdHowoftenSport_1,BiB_GrowingUp.child_survey_child_comp.guchdHowoftenSport_1,Monday,decimal,,1|2|3|4|5,None|Little bit|Medium|Often|Very often
+guchdHowoftenSport_2,BiB_GrowingUp.child_survey_child_comp.guchdHowoftenSport_2,Wednesday,decimal,,1|2|3|4|5,None|Little bit|Medium|Often|Very often
+guchdHowoftenSport_3,BiB_GrowingUp.child_survey_child_comp.guchdHowoftenSport_3,Thursday,decimal,,1|2|3|4|5,None|Little bit|Medium|Often|Very often
+guchdHowoftenSport_4,BiB_GrowingUp.child_survey_child_comp.guchdHowoftenSport_4,Friday,decimal,,1|2|3|4|5,None|Little bit|Medium|Often|Very often
+guchdHowoftenSport_5,BiB_GrowingUp.child_survey_child_comp.guchdHowoftenSport_5,Saturday,decimal,,1|2|3|4|5,None|Little bit|Medium|Often|Very often
+guchdHowoftenSport_6,BiB_GrowingUp.child_survey_child_comp.guchdHowoftenSport_6,Sunday,decimal,,1|2|3|4|5,None|Little bit|Medium|Often|Very often
+guchdHowoftenSport_7,BiB_GrowingUp.child_survey_child_comp.guchdHowoftenSport_7,Tuesday,decimal,,1|2|3|4|5,None|Little bit|Medium|Often|Very often
+guchdSickStopPA,BiB_GrowingUp.child_survey_child_comp.guchdSickStopPA,"Were you sick last week, or did anything stop you from doing your normal physica",decimal,,1|2,No|Yes
+guchdStopped,BiB_GrowingUp.child_survey_child_comp.guchdStopped,"If yes, what stopped you?",text,,,
+guchdHowOftFriends_SQ001,BiB_GrowingUp.child_survey_child_comp.guchdHowOftFriends_SQ001,Encouraged you to do physical activities or sports?,decimal,,1|2|3|4|5,Never|Once|Sometimes|Almost everyday|Everyday
+guchdHowOftFriends_SQ002,BiB_GrowingUp.child_survey_child_comp.guchdHowOftFriends_SQ002,Done physical activities or sports with you?,decimal,,1|2|3|4|5,Never|Once|Sometimes|Almost everyday|Everyday
+guchdHowOftFriends_SQ003,BiB_GrowingUp.child_survey_child_comp.guchdHowOftFriends_SQ003,Told you that you are doing well at physical activities or sports?,decimal,,1|2|3|4|5,Never|Once|Sometimes|Almost everyday|Everyday
+guchdFamilysports_1,BiB_GrowingUp.child_survey_child_comp.guchdFamilysports_1,Done a physical activity or sport with you?,decimal,,1|2|3|4|5,Never|Once|Sometimes|Almost everyday|Everyday
+guchdFamilysports_2,BiB_GrowingUp.child_survey_child_comp.guchdFamilysports_2,Provided transport to a place where you can do physical activities or sports?,decimal,,1|2|3|4|5,Never|Once|Sometimes|Almost everyday|Everyday
+guchdFamilysports_3,BiB_GrowingUp.child_survey_child_comp.guchdFamilysports_3,Watched you do physical activities or sports?,decimal,,1|2|3|4|5,Never|Once|Sometimes|Almost everyday|Everyday
+guchdFamilysports_4,BiB_GrowingUp.child_survey_child_comp.guchdFamilysports_4,Told you that you are doing well in physical activities or sports?,decimal,,1|2|3|4|5,Never|Once|Sometimes|Almost everyday|Everyday
+guchdTeachersports_1,BiB_GrowingUp.child_survey_child_comp.guchdTeachersports_1,Done a physical activity or played sports with you?,decimal,,1|2|3|4|5,Never|Once|Sometimes|Almost everyday|Everyday
+guchdTeachersports_2,BiB_GrowingUp.child_survey_child_comp.guchdTeachersports_2,Provided transport to a place where you can do physical activities or play sport,decimal,,1|2|3|4|5,Never|Once|Sometimes|Almost everyday|Everyday
+guchdTeachersports_3,BiB_GrowingUp.child_survey_child_comp.guchdTeachersports_3,Encouraged you to do physical activities or play sports?,decimal,,1|2|3|4|5,Never|Once|Sometimes|Almost everyday|Everyday
+guchdTeachersports_4,BiB_GrowingUp.child_survey_child_comp.guchdTeachersports_4,Told you that you are doing well in physical activities?,decimal,,1|2|3|4|5,Never|Once|Sometimes|Almost everyday|Everyday
+guchdHowGoodActivity_1,BiB_GrowingUp.child_survey_child_comp.guchdHowGoodActivity_1,Catching,decimal,,1|2|3|4|5,I can't do it|I am no good|I am okay|I am good at it|I am excellent at it
+guchdHowGoodActivity_2,BiB_GrowingUp.child_survey_child_comp.guchdHowGoodActivity_2,Throwing,decimal,,1|2|3|4|5,I can't do it|I am no good|I am okay|I am good at it|I am excellent at it
+guchdHowGoodActivity_3,BiB_GrowingUp.child_survey_child_comp.guchdHowGoodActivity_3,Kicking,decimal,,1|2|3|4|5,I can't do it|I am no good|I am okay|I am good at it|I am excellent at it
+guchdHowGoodActivity_4,BiB_GrowingUp.child_survey_child_comp.guchdHowGoodActivity_4,Running,decimal,,1|2|3|4|5,I can't do it|I am no good|I am okay|I am good at it|I am excellent at it
+guchdHowGoodActivity_5,BiB_GrowingUp.child_survey_child_comp.guchdHowGoodActivity_5,Jumping,decimal,,1|2|3|4|5,I can't do it|I am no good|I am okay|I am good at it|I am excellent at it
+guchdHowGoodActivity_6,BiB_GrowingUp.child_survey_child_comp.guchdHowGoodActivity_6,Riding a bike,decimal,,1|2|3|4|5,I can't do it|I am no good|I am okay|I am good at it|I am excellent at it
+guchdHowGoodActivity_7,BiB_GrowingUp.child_survey_child_comp.guchdHowGoodActivity_7,Swimming,decimal,,1|2|3|4|5,I can't do it|I am no good|I am okay|I am good at it|I am excellent at it
+guchdHowGoodActivity_8,BiB_GrowingUp.child_survey_child_comp.guchdHowGoodActivity_8,Balancing on one leg,decimal,,1|2|3|4|5,I can't do it|I am no good|I am okay|I am good at it|I am excellent at it
+guchdHowGoodActivity_9,BiB_GrowingUp.child_survey_child_comp.guchdHowGoodActivity_9,Striking a ball with a racket/bat,decimal,,1|2|3|4|5,I can't do it|I am no good|I am okay|I am good at it|I am excellent at it
+guchdLikeActivity_1,BiB_GrowingUp.child_survey_child_comp.guchdLikeActivity_1,"Team sports (football, netball, cricket)",decimal,,1|2|3|4|5,I hate it|I dislike it|I don't like or dislike it|I like it|I love it
+guchdLikeActivity_10,BiB_GrowingUp.child_survey_child_comp.guchdLikeActivity_10,Playing at the park,decimal,,1|2|3|4|5,I hate it|I dislike it|I don't like or dislike it|I like it|I love it
+guchdLikeActivity_11,BiB_GrowingUp.child_survey_child_comp.guchdLikeActivity_11,Walking,decimal,,1|2|3|4|5,I hate it|I dislike it|I don't like or dislike it|I like it|I love it
+guchdLikeActivity_2,BiB_GrowingUp.child_survey_child_comp.guchdLikeActivity_2,"Racket sports (tennis, badminton)",decimal,,1|2|3|4|5,I hate it|I dislike it|I don't like or dislike it|I like it|I love it
+guchdLikeActivity_3,BiB_GrowingUp.child_survey_child_comp.guchdLikeActivity_3,"Individual sports (running, cycling swimming)",decimal,,1|2|3|4|5,I hate it|I dislike it|I don't like or dislike it|I like it|I love it
+guchdLikeActivity_4,BiB_GrowingUp.child_survey_child_comp.guchdLikeActivity_4,Dance/gymnastics,decimal,,1|2|3|4|5,I hate it|I dislike it|I don't like or dislike it|I like it|I love it
+guchdLikeActivity_5,BiB_GrowingUp.child_survey_child_comp.guchdLikeActivity_5,Martial Arts/self defence,decimal,,1|2|3|4|5,I hate it|I dislike it|I don't like or dislike it|I like it|I love it
+guchdLikeActivity_6,BiB_GrowingUp.child_survey_child_comp.guchdLikeActivity_6,Playing active games during school break-times,decimal,,1|2|3|4|5,I hate it|I dislike it|I don't like or dislike it|I like it|I love it
+guchdLikeActivity_7,BiB_GrowingUp.child_survey_child_comp.guchdLikeActivity_7,PE lessons at school,decimal,,1|2|3|4|5,I hate it|I dislike it|I don't like or dislike it|I like it|I love it
+guchdLikeActivity_8,BiB_GrowingUp.child_survey_child_comp.guchdLikeActivity_8,Playing active computer games (like Wii-Fit),decimal,,1|2|3|4|5,I hate it|I dislike it|I don't like or dislike it|I like it|I love it
+guchdLikeActivity_9,BiB_GrowingUp.child_survey_child_comp.guchdLikeActivity_9,Playing active games at home,decimal,,1|2|3|4|5,I hate it|I dislike it|I don't like or dislike it|I like it|I love it
+guchdAmountPAHealthy_1,BiB_GrowingUp.child_survey_child_comp.guchdAmountPAHealthy_1,Hours,text,,,
+guchdAmountPAHealthy_2,BiB_GrowingUp.child_survey_child_comp.guchdAmountPAHealthy_2,Minutes,text,,,
+guchdHowHardPA,BiB_GrowingUp.child_survey_child_comp.guchdHowHardPA,How hard should your body be working when you are doing this physical activity?,decimal,,1|2|3,Not at all|A little bit|Quite hard or very hard
+guchdGetToSchool_SQ001,BiB_GrowingUp.child_survey_child_comp.guchdGetToSchool_SQ001,Walk to School,decimal,,1|2|3|4|5,Never|Once a week|2-3 times a week|4 times a week|Everyday
+guchdGetToSchool_SQ002,BiB_GrowingUp.child_survey_child_comp.guchdGetToSchool_SQ002,Walk From School,decimal,,1|2|3|4|5,Never|Once a week|2-3 times a week|4 times a week|Everyday
+guchdGetToSchool_SQ003,BiB_GrowingUp.child_survey_child_comp.guchdGetToSchool_SQ003,Cycle or scooter to school,decimal,,1|2|3|4|5,Never|Once a week|2-3 times a week|4 times a week|Everyday
+guchdGetToSchool_SQ004,BiB_GrowingUp.child_survey_child_comp.guchdGetToSchool_SQ004,Cycle or scooter from school,decimal,,1|2|3|4|5,Never|Once a week|2-3 times a week|4 times a week|Everyday
+guchdBeginningText,BiB_GrowingUp.child_survey_child_comp.guchdBeginningText,These next questions are about what you ate and drank yesterday.,text,,,
+guchdBrFastEat,BiB_GrowingUp.child_survey_child_comp.guchdBrFastEat,Yesterday morning did you have something to eat for breakfast?,decimal,,1|2|3,No|Yes|Can't remember
+guchdbfasteat,BiB_GrowingUp.child_survey_child_comp.guchdbfasteat,"If yes, what did you eat? Â ",text,,,
+guchdBrfastDrink,BiB_GrowingUp.child_survey_child_comp.guchdBrfastDrink,Yesterday morning did you have something to drink for breakfast?,decimal,,1|2|3,No|Yes|Can't Remember
+guchdbfastdrink,BiB_GrowingUp.child_survey_child_comp.guchdbfastdrink,"If yes, what did you drink?",text,,,
+guchdWayToSchool,BiB_GrowingUp.child_survey_child_comp.guchdWayToSchool,Did you eatÂ anything on the way to school?Â ,decimal,,1|2|3,No|Yes|Can't remember
+guchdTravellingToEat,BiB_GrowingUp.child_survey_child_comp.guchdTravellingToEat,What did you eat?,text,,,
+guchdDrinkWayToSchl,BiB_GrowingUp.child_survey_child_comp.guchdDrinkWayToSchl,Did you drink anything on the way to school?,decimal,,1|2|3,No|Yes|Can't Remember
+guchdTravelToDrink,BiB_GrowingUp.child_survey_child_comp.guchdTravelToDrink,What did you drink?,text,,,
+guchdSchoolMrningEat,BiB_GrowingUp.child_survey_child_comp.guchdSchoolMrningEat,"Yesterday at school, did you have anything to eat at morning break?Â ",decimal,,1|2|3,No|Yes|Can't remember
+guchdMorningEat,BiB_GrowingUp.child_survey_child_comp.guchdMorningEat,What did you eat?,text,,,
+guchdSchlMornDrink,BiB_GrowingUp.child_survey_child_comp.guchdSchlMornDrink,"Yesterday at school,Â Did you have anything to drink at morning break?",decimal,,1|2|3,No|Yes|Can't remember
+guchdMorningDrink,BiB_GrowingUp.child_survey_child_comp.guchdMorningDrink,What did you drink?,text,,,
+guchdLunchEat,BiB_GrowingUp.child_survey_child_comp.guchdLunchEat,Did you have anything to eatÂ for lunch yesterday?Â  Â ,decimal,,1|2|3,No|Yes|Can't remember
+guchdLunchEatYes1,BiB_GrowingUp.child_survey_child_comp.guchdLunchEatYes1,What did you eat?,text,,,
+guchdDrinkLunch,BiB_GrowingUp.child_survey_child_comp.guchdDrinkLunch,Did you have anything to drink for lunch yesterdayÂ ,decimal,,1|2|3,No|Yes|Can't Remember
+guchdLunchDrink,BiB_GrowingUp.child_survey_child_comp.guchdLunchDrink,What did you drink?,text,,,
+guchdAfternoonEatSch,BiB_GrowingUp.child_survey_child_comp.guchdAfternoonEatSch,Did you eat anything when you were travelling home from school?,decimal,,1|2|3,No|Yes|Can't remember
+guchdEatafterschool,BiB_GrowingUp.child_survey_child_comp.guchdEatafterschool,What did you eat?,text,,,
+guchdDrinkTravHom,BiB_GrowingUp.child_survey_child_comp.guchdDrinkTravHom,Did you drink anything when you were travelling home from school?,decimal,,1|2|3,No|Yes|Can't Remember
+guchdDrinkAfternoon,BiB_GrowingUp.child_survey_child_comp.guchdDrinkAfternoon,What did you drink?,text,,,
+guchdBeforeEvening,BiB_GrowingUp.child_survey_child_comp.guchdBeforeEvening,Did you have anything to eat between the end of school (apart from the journey h,decimal,,1|2|3,No|Yes|Can't remember
+guchdEatBeforeEvenin,BiB_GrowingUp.child_survey_child_comp.guchdEatBeforeEvenin,"If yes, What did you eat?",text,,,
+guchdLateAftdrink,BiB_GrowingUp.child_survey_child_comp.guchdLateAftdrink,Did you have anything to drink between the end of school/afternoonÂ (apart from o,decimal,,1|2|3,No|Yes|Can't Remember
+guchdLateAftdrYs,BiB_GrowingUp.child_survey_child_comp.guchdLateAftdrYs,"If yes, What did you drink?",text,,,
+guchdEveningMeal,BiB_GrowingUp.child_survey_child_comp.guchdEveningMeal,Did you have anything to eat for your evening meal yesterday?,decimal,,1|2|3,No|Yes|Can't remember
+guchdEveningMealEat,BiB_GrowingUp.child_survey_child_comp.guchdEveningMealEat,What did you eat?,text,,,
+guchddrinkevnmeal,BiB_GrowingUp.child_survey_child_comp.guchddrinkevnmeal,Did you have anything to drink for your evening meal yesterday?,decimal,,1|2|3,No|Yes|Can't remember
+guchdEveningMealDrin,BiB_GrowingUp.child_survey_child_comp.guchdEveningMealDrin,What did you drink?,text,,,
+guchdAfterEvening,BiB_GrowingUp.child_survey_child_comp.guchdAfterEvening,Did you have anything else to eat between your evening meal and before you went,decimal,,1|2|3,No|Yes|Can't remember
+guchdAfterEveYes1,BiB_GrowingUp.child_survey_child_comp.guchdAfterEveYes1,What did you eat?,text,,,
+guchdDrinkBed,BiB_GrowingUp.child_survey_child_comp.guchdDrinkBed,Did you have anything else to drink between your evening meal and before you wen,decimal,,1|2|3,No|Yes|Can't remember
+guchdAfterEveYes2,BiB_GrowingUp.child_survey_child_comp.guchdAfterEveYes2,What did you drink?,text,,,
+guchdBeginningText2,BiB_GrowingUp.child_survey_child_comp.guchdBeginningText2,These next questions are about what you ate and drank yesterday.,text,,,
+guchdBrFastEat2,BiB_GrowingUp.child_survey_child_comp.guchdBrFastEat2,3ag. Yesterday morning did you have something to eat for breakfast?,decimal,,1|2|3,No|Yes|Can't remember
+guchdbfasteat2,BiB_GrowingUp.child_survey_child_comp.guchdbfasteat2,3ah. What did you eat? Â ,text,,,
+guchdBrfastDrink2,BiB_GrowingUp.child_survey_child_comp.guchdBrfastDrink2,3ai. Yesterday morning did you have something to drink for breakfast?,decimal,,1|2|3,No|Yes|Can't Remember
+guchdbfastdrink2,BiB_GrowingUp.child_survey_child_comp.guchdbfastdrink2,3aj. What did you drink?,text,,,
+guchdTripYesterday,BiB_GrowingUp.child_survey_child_comp.guchdTripYesterday,Did you go anywhere yesterday morning?,decimal,,1|2|3,No|Yes|Can't remember
+guchdYrdayTripEat,BiB_GrowingUp.child_survey_child_comp.guchdYrdayTripEat,Did you eat anything when you were travelling there/back?,decimal,,1|2|3,No|Yes|Can't remember
+guchdTravelToSchEat2,BiB_GrowingUp.child_survey_child_comp.guchdTravelToSchEat2,3am. What did you eat?,text,,,
+guchdTraveldrink1,BiB_GrowingUp.child_survey_child_comp.guchdTraveldrink1,Did you drink anything when you were travelling there/back?,decimal,,1|2|3,No|Yes|Can't remember
+guchdTravelToSchDri2,BiB_GrowingUp.child_survey_child_comp.guchdTravelToSchDri2,3ao. What did you drink?,text,,,
+guchdMorningNotTerm,BiB_GrowingUp.child_survey_child_comp.guchdMorningNotTerm,Did you have anything else to eat in the morning before lunch?,decimal,,1|2|3,No|Yes|Can't remember
+guchdMorningEat2,BiB_GrowingUp.child_survey_child_comp.guchdMorningEat2,3aq. What did you eat?,text,,,
+guchdmornDrink1,BiB_GrowingUp.child_survey_child_comp.guchdmornDrink1,Did you have anything to drink in the morning before lunch?,decimal,,1|2|3,No|Yes|Can't Remember
+guchdmornDri,BiB_GrowingUp.child_survey_child_comp.guchdmornDri,3as. What did you drink?,text,,,
+guchdLunchEat2,BiB_GrowingUp.child_survey_child_comp.guchdLunchEat2,3at. Did you have anything to eatÂ for lunch yesterday?Â  Â ,decimal,,1|2|3,No|Yes|Can't remember
+guchdLunchEatYes12,BiB_GrowingUp.child_survey_child_comp.guchdLunchEatYes12,3au. What did you eat?,text,,,
+guchdDrinkLunch2,BiB_GrowingUp.child_survey_child_comp.guchdDrinkLunch2,3av. Did you have anything to drink for lunch yesterdayÂ ,decimal,,1|2|3,No|Yes|Can't Remember
+guchdLunchDrink2,BiB_GrowingUp.child_survey_child_comp.guchdLunchDrink2,3aw. What did you drink?,text,,,
+guchdAfternoonTrip,BiB_GrowingUp.child_survey_child_comp.guchdAfternoonTrip,Did you go anywhere yesterday afternoon?,decimal,,1|2|3,No|Yes|Can't remember
+guchdAftrnTripFoodD,BiB_GrowingUp.child_survey_child_comp.guchdAftrnTripFoodD,Did you eat anything when you were travelling there/back?,decimal,,1|2|3,No|Yes|Can't remember
+guchdEatafterschool2,BiB_GrowingUp.child_survey_child_comp.guchdEatafterschool2,3az. What did you eat?,text,,,
+guchdTraveldrink,BiB_GrowingUp.child_survey_child_comp.guchdTraveldrink,Did you drink anything when you were travelling there/back?,decimal,,1|2|3,No|Yes|Can't Remember
+guchdDrinkAfternoon2,BiB_GrowingUp.child_survey_child_comp.guchdDrinkAfternoon2,3bb. What did you drink?,text,,,
+guchdnotschoolafter,BiB_GrowingUp.child_survey_child_comp.guchdnotschoolafter,"Did you have anything to eat in the afternoon (apart from on a journey), before",decimal,,1|2|3,No|Yes|Cant Remember
+guchdEatBeforeEveni2,BiB_GrowingUp.child_survey_child_comp.guchdEatBeforeEveni2,3bd. What did you eat?,text,,,
+guchdnotschooldrink,BiB_GrowingUp.child_survey_child_comp.guchdnotschooldrink,Did you have anything to drink in the afternoon (apart from on a journey) before,decimal,,1|2|3,No|Yes|Cant Remember
+guchdLateAftdrYs2,BiB_GrowingUp.child_survey_child_comp.guchdLateAftdrYs2,3bf. What did you drink?,text,,,
+guchdEveningMeal2,BiB_GrowingUp.child_survey_child_comp.guchdEveningMeal2,3bg. Did you have anything to eat for your evening meal yesterday?,decimal,,1|2|3,No|Yes|Can't remember
+guchdEveningMealEat2,BiB_GrowingUp.child_survey_child_comp.guchdEveningMealEat2,3bh. What did you eat?,text,,,
+guchddrinkevnmeal2,BiB_GrowingUp.child_survey_child_comp.guchddrinkevnmeal2,3bi. Did you have anything to drink for your evening meal yesterday?,decimal,,1|2|3,No|Yes|Can't remember
+guchdEveningMealDri2,BiB_GrowingUp.child_survey_child_comp.guchdEveningMealDri2,3bj. What did you drink?,text,,,
+guchdAfterEvening2,BiB_GrowingUp.child_survey_child_comp.guchdAfterEvening2,3bk. Did you have anything else to eat between your evening meal and before you,decimal,,1|2|3,No|Yes|Can't remember
+guchdAfterEveYes12,BiB_GrowingUp.child_survey_child_comp.guchdAfterEveYes12,3bl. What did you eat?,text,,,
+guchdDrinkBed2,BiB_GrowingUp.child_survey_child_comp.guchdDrinkBed2,3bm. Did you have anything else to drink between your evening meal and before yo,decimal,,1|2|3,No|Yes|Can't remember
+guchdAfterEveYes22,BiB_GrowingUp.child_survey_child_comp.guchdAfterEveYes22,3bn. What did you drink?,text,,,
+guchdUsualSchlLunch,BiB_GrowingUp.child_survey_child_comp.guchdUsualSchlLunch,At lunchtime at school what do youusuallyhave:,decimal,,1|2|3|4,School meal|Packed lunch|Sometimes a school meal and sometimes a packed lunch|Can't remember
+guchdTakeaway,BiB_GrowingUp.child_survey_child_comp.guchdTakeaway,How often do you have a meal from a takeaway?,decimal,,1|2|3|4|5,Never|Occasionally|Less than once a week|Once a week|More than once a week
+guchdLanguagesAtHome_1,BiB_GrowingUp.child_survey_child_comp.guchdLanguagesAtHome_1,English,decimal,,1|2,No|Yes
+guchdLanguagesAtHome_2,BiB_GrowingUp.child_survey_child_comp.guchdLanguagesAtHome_2,Urdu,decimal,,1|2,No|Yes
+guchdLanguagesAtHome_3,BiB_GrowingUp.child_survey_child_comp.guchdLanguagesAtHome_3,Punjabi,decimal,,1|2,No|Yes
+guchdLanguagesAtHome_4,BiB_GrowingUp.child_survey_child_comp.guchdLanguagesAtHome_4,Mirpuri,decimal,,1|2,No|Yes
+guchdLanguagesAtHome_5,BiB_GrowingUp.child_survey_child_comp.guchdLanguagesAtHome_5,Gujarati,decimal,,1|2,No|Yes
+guchdLanguagesAtHome_6,BiB_GrowingUp.child_survey_child_comp.guchdLanguagesAtHome_6,Bengali,decimal,,1|2,No|Yes
+guchdLanguagesAtHome_7,BiB_GrowingUp.child_survey_child_comp.guchdLanguagesAtHome_7,Hinko,decimal,,1|2,No|Yes
+guchdLanguagesAtHome_8,BiB_GrowingUp.child_survey_child_comp.guchdLanguagesAtHome_8,Polish,decimal,,1|2,No|Yes
+guchdLanguagesAtHome_9,BiB_GrowingUp.child_survey_child_comp.guchdLanguagesAtHome_9,Pusto,decimal,,1|2,No|Yes
+guchdLanguagesAtHome_10,BiB_GrowingUp.child_survey_child_comp.guchdLanguagesAtHome_10,Other,decimal,,1|2,No|Yes
+guchdLanguagesAtHome_other,BiB_GrowingUp.child_survey_child_comp.guchdLanguagesAtHome_other,What languages do you speak at home?: Other,text,,,
+guchdLangHomeOther,BiB_GrowingUp.child_survey_child_comp.guchdLangHomeOther,Other (please write in),text,,,
+guchdLanguageFriends_1,BiB_GrowingUp.child_survey_child_comp.guchdLanguageFriends_1,English,decimal,,1|2,No|Yes
+guchdLanguageFriends_2,BiB_GrowingUp.child_survey_child_comp.guchdLanguageFriends_2,Urdu,decimal,,1|2,No|Yes
+guchdLanguageFriends_3,BiB_GrowingUp.child_survey_child_comp.guchdLanguageFriends_3,Punjabi,decimal,,1|2,No|Yes
+guchdLanguageFriends_4,BiB_GrowingUp.child_survey_child_comp.guchdLanguageFriends_4,Mirpuri,decimal,,1|2,No|Yes
+guchdLanguageFriends_5,BiB_GrowingUp.child_survey_child_comp.guchdLanguageFriends_5,Gujarati,decimal,,1|2,No|Yes
+guchdLanguageFriends_6,BiB_GrowingUp.child_survey_child_comp.guchdLanguageFriends_6,Bengali,decimal,,1|2,No|Yes
+guchdLanguageFriends_7,BiB_GrowingUp.child_survey_child_comp.guchdLanguageFriends_7,Hinko,decimal,,1|2,No|Yes
+guchdLanguageFriends_8,BiB_GrowingUp.child_survey_child_comp.guchdLanguageFriends_8,Polish,decimal,,1|2,No|Yes
+guchdLanguageFriends_9,BiB_GrowingUp.child_survey_child_comp.guchdLanguageFriends_9,Pushto,decimal,,1|2,No|Yes
+guchdLanguageFriends_10,BiB_GrowingUp.child_survey_child_comp.guchdLanguageFriends_10,Other,decimal,,1|2,No|Yes
+guchdLangFriendsOthe,BiB_GrowingUp.child_survey_child_comp.guchdLangFriendsOthe,Other (please write in),text,,,
+guchdlanguageread_1,BiB_GrowingUp.child_survey_child_comp.guchdlanguageread_1,English,decimal,,1|2,No|Yes
+guchdlanguageread_10,BiB_GrowingUp.child_survey_child_comp.guchdlanguageread_10,Pushto,decimal,,1|2,No|Yes
+guchdlanguageread_2,BiB_GrowingUp.child_survey_child_comp.guchdlanguageread_2,Arabic,decimal,,1|2,No|Yes
+guchdlanguageread_3,BiB_GrowingUp.child_survey_child_comp.guchdlanguageread_3,Urdu,decimal,,1|2,No|Yes
+guchdlanguageread_4,BiB_GrowingUp.child_survey_child_comp.guchdlanguageread_4,Punjabi,decimal,,1|2,No|Yes
+guchdlanguageread_5,BiB_GrowingUp.child_survey_child_comp.guchdlanguageread_5,Gujarati,decimal,,1|2,No|Yes
+guchdlanguageread_6,BiB_GrowingUp.child_survey_child_comp.guchdlanguageread_6,Bengali,decimal,,1|2,No|Yes
+guchdlanguageread_7,BiB_GrowingUp.child_survey_child_comp.guchdlanguageread_7,Hinko,decimal,,1|2,No|Yes
+guchdlanguageread_8,BiB_GrowingUp.child_survey_child_comp.guchdlanguageread_8,Other,decimal,,1|2,No|Yes
+guchdLangReadOther,BiB_GrowingUp.child_survey_child_comp.guchdLangReadOther,Other (please write in),text,,,
+guchdlikethesethings_1,BiB_GrowingUp.child_survey_child_comp.guchdlikethesethings_1,Speaking in English,decimal,,1|2|3|4|5|6|7,I hate it|I dislike it|I don't like it or dislike it|I like it|I love it|I don't ever do this|Don't know
+guchdlikethesethings_2,BiB_GrowingUp.child_survey_child_comp.guchdlikethesethings_2,Speaking in (language stated above) Urdu/Punjabi/Mirpuri/Gujarati/Bengali/Hinko/,decimal,,1|2|3|4|5|6|7,I hate it|I dislike it|I don't like it or dislike it|I like it|I love it|I don't ever do this|Don't know
+guchdlikethesethings_3,BiB_GrowingUp.child_survey_child_comp.guchdlikethesethings_3,Listening to Asian/Indian/Bollywood music,decimal,,1|2|3|4|5|6|7,I hate it|I dislike it|I don't like it or dislike it|I like it|I love it|I don't ever do this|Don't know
+guchdlikethesethings_4,BiB_GrowingUp.child_survey_child_comp.guchdlikethesethings_4,Listening to religious songs/music,decimal,,1|2|3|4|5|6|7,I hate it|I dislike it|I don't like it or dislike it|I like it|I love it|I don't ever do this|Don't know
+guchdlikethesethings_5,BiB_GrowingUp.child_survey_child_comp.guchdlikethesethings_5,Listening to music in English,decimal,,1|2|3|4|5|6|7,I hate it|I dislike it|I don't like it or dislike it|I like it|I love it|I don't ever do this|Don't know
+guchdlikethesethings_6,BiB_GrowingUp.child_survey_child_comp.guchdlikethesethings_6,Watching Asian/Indian television programmes,decimal,,1|2|3|4|5|6|7,I hate it|I dislike it|I don't like it or dislike it|I like it|I love it|I don't ever do this|Don't know
+guchdlikethesethings_7,BiB_GrowingUp.child_survey_child_comp.guchdlikethesethings_7,Watching religious television programmes,decimal,,1|2|3|4|5|6|7,I hate it|I dislike it|I don't like it or dislike it|I like it|I love it|I don't ever do this|Don't know
+guchdlikethesethings_8,BiB_GrowingUp.child_survey_child_comp.guchdlikethesethings_8,Watching television programmes in English,decimal,,1|2|3|4|5|6|7,I hate it|I dislike it|I don't like it or dislike it|I like it|I love it|I don't ever do this|Don't know
+guchdlikethesethings_SQ009,BiB_GrowingUp.child_survey_child_comp.guchdlikethesethings_SQ009,Watching Asian/Indian/Bollywood films,decimal,,1|2|3|4|5|6|7,I hate it|I dislike it|I don't like it or dislike it|I like it|I love it|I don't ever do this|Don't know
+guchdlikethesethings_SQ010,BiB_GrowingUp.child_survey_child_comp.guchdlikethesethings_SQ010,Watchingfilms in English,decimal,,1|2|3|4|5|6|7,I hate it|I dislike it|I don't like it or dislike it|I like it|I love it|I don't ever do this|Don't know
+guchdlikethesethings_9,BiB_GrowingUp.child_survey_child_comp.guchdlikethesethings_9,Reading in Arabic/Urdu/Punjabi/Gujarati/Bengali/Hinko/Polish,decimal,,1|2|3|4|5|6|7,I hate it|I dislike it|I don't like it or dislike it|I like it|I love it|I don't ever do this|Don't know
+guchdlikethesethings_10,BiB_GrowingUp.child_survey_child_comp.guchdlikethesethings_10,Reading in English,decimal,,1|2|3|4|5|6|7,I hate it|I dislike it|I don't like it or dislike it|I like it|I love it|I don't ever do this|Don't know
+guchdlikethesethings_11,BiB_GrowingUp.child_survey_child_comp.guchdlikethesethings_11,Wearing traditional Asian clothes ( e.g. Salawar kameez/kurta),decimal,,1|2|3|4|5|6|7,I hate it|I dislike it|I don't like it or dislike it|I like it|I love it|I don't ever do this|Don't know
+guchdlikethesethings_12,BiB_GrowingUp.child_survey_child_comp.guchdlikethesethings_12,"Wearing Western clothes (e.g Trousers. T-Shirts, Jeans and Jumpers)",decimal,,1|2|3|4|5|6|7,I hate it|I dislike it|I don't like it or dislike it|I like it|I love it|I don't ever do this|Don't know
+guchddoesyourfamily_1,BiB_GrowingUp.child_survey_child_comp.guchddoesyourfamily_1,"Eat traditional Asian food(e.g. desi foods such as chappatis, curry, haandi/roti",decimal,,1|2,No|Yes
+guchddoesyourfamily_2,BiB_GrowingUp.child_survey_child_comp.guchddoesyourfamily_2,"Eat traditional Westernfood(e.g. Fish and chips, pies and pasta)",decimal,,1|2,No|Yes
+guchddoesyourfamily_3,BiB_GrowingUp.child_survey_child_comp.guchddoesyourfamily_3,Celebrate Eid,decimal,,1|2,No|Yes
+guchddoesyourfamily_4,BiB_GrowingUp.child_survey_child_comp.guchddoesyourfamily_4,Celebrate Christmas,decimal,,1|2,No|Yes
+guchddoesyourfamily_SQ005,BiB_GrowingUp.child_survey_child_comp.guchddoesyourfamily_SQ005,Celebrate Diwali,decimal,,1|2,No|Yes
+guchdcelebrate_1,BiB_GrowingUp.child_survey_child_comp.guchdcelebrate_1,How many of your friends celebrate Eid with their families?,decimal,,1|2|3|4,None of my friends|A few of my friends|Most of my friends|All of my friends
+guchdcelebrate_2,BiB_GrowingUp.child_survey_child_comp.guchdcelebrate_2,How many of your friends celebrate Christmas with their families?,decimal,,1|2|3|4,None of my friends|A few of my friends|Most of my friends|All of my friends
+guchdcelebrate_3,BiB_GrowingUp.child_survey_child_comp.guchdcelebrate_3,How many of your friends celebrate Dewali with their families?,decimal,,1|2|3|4,None of my friends|A few of my friends|Most of my friends|All of my friends
+guchdQReliability_1,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_1,Issues with interpretation of questions:,text,,,
+guchdQReliability_1comment,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_1comment,"",text,,,
+guchdQReliability_2,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_2,Reasons for unanswered questions:,text,,,
+guchdQReliability_2comment,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_2comment,"",text,,,
+guchdQReliability_3,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_3,Issues with other people present:,text,,,
+guchdQReliability_3comment,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_3comment,"",text,,,
+guchdQReliability_4,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_4,Issues with translation of questions:,text,,,
+guchdQReliability_4comment,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_4comment,"",text,,,
+guchdQReliability_5,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_5,Other issues,text,,,
+guchdQReliability_5comment,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_5comment,"",text,,,
+guchdBackfillBy,BiB_GrowingUp.child_survey_child_comp.guchdBackfillBy,"",text,,,
+guchdQReliability_other,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_other,"",text,,,
+guchdQReliability_othercomment,BiB_GrowingUp.child_survey_child_comp.guchdQReliability_othercomment,"",text,,,

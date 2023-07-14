@@ -1,0 +1,8 @@
+variable,full_name,label,value_type,description,categories,categories_label
+has_child_info,BiB_CohortInfo.child_info.has_child_info,Has person information child,decimal,,,
+admincbirthorder,BiB_CohortInfo.child_info.admincbirthorder,Child birth order,decimal,,,
+admincdobagefm,BiB_CohortInfo.child_info.admincdobagefm,Father age at child date of birth (months),decimal,,,
+admincdobagefy,BiB_CohortInfo.child_info.admincdobagefy,Father age at child date of birth (years),decimal,,,
+admincdobagemm,BiB_CohortInfo.child_info.admincdobagemm,Mother age at child date of birth (months),decimal,,,
+admincdobagemy,BiB_CohortInfo.child_info.admincdobagemy,Mother age at child date of birth (years),decimal,,,
+admincgender,BiB_CohortInfo.child_info.admincgender,Child gender,decimal,,1|2,Male|Female
