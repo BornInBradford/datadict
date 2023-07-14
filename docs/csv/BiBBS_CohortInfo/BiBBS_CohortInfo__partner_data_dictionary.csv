@@ -1,8 +1,0 @@
-variable,full_name,label,value_type,description,categories,categories_label
-p_birth_year,BiBBS_CohortInfo.partner.p_birth_year,Partner year of birth,decimal,,,
-p_birth_month,BiBBS_CohortInfo.partner.p_birth_month,Partner month of birth,decimal,,,
-gender,BiBBS_CohortInfo.partner.gender,Partner gender,decimal,,1|2,Male|Female
-p_recruitment_year,BiBBS_CohortInfo.partner.p_recruitment_year,Partner year of index pregnancy recruitment,decimal,,,
-p_recruitment_month,BiBBS_CohortInfo.partner.p_recruitment_month,Partner month of index pregnancy recruitment,decimal,,,
-p_age_at_recruitment,BiBBS_CohortInfo.partner.p_age_at_recruitment,Partner age at index pregnancy recruitment,decimal,,,
-n_pregnancies,BiBBS_CohortInfo.partner.n_pregnancies,Number of pregnancies in this cohort,decimal,,,

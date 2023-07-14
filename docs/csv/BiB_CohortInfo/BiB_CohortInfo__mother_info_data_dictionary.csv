@@ -1,9 +1,0 @@
-variable,full_name,label,value_type,description,categories,categories_label
-has_mother_info,BiB_CohortInfo.mother_info.has_mother_info,Has person information mother,decimal,,,
-adminmagerecm,BiB_CohortInfo.mother_info.adminmagerecm,Mother age at recruitment (months),decimal,,,
-adminmagerecy,BiB_CohortInfo.mother_info.adminmagerecy,Mother age at recruitment (years),decimal,,,
-adminmgender,BiB_CohortInfo.mother_info.adminmgender,Mother gender,decimal,,1|2,Male|Female
-adminmnbibch,BiB_CohortInfo.mother_info.adminmnbibch,Number of BiB children,decimal,,,
-adminmnbibpr,BiB_CohortInfo.mother_info.adminmnbibpr,Number of BiB pregnancies,decimal,,,
-adminmnmbqall,BiB_CohortInfo.mother_info.adminmnmbqall,Number of baseline questionnaires,decimal,,,
-adminmrecdate,BiB_CohortInfo.mother_info.adminmrecdate,Mother date of recruitment,date,,,

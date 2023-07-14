@@ -1,8 +1,0 @@
-variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_12m_b12f11,BiB_1000.bib1000_12m_b12f11.has_bib1000_12m_b12f11,"Has bib 1000 12m dried veg, pasta, rice-based meals",decimal,,,
-bib12f11brand,BiB_1000.bib1000_12m_b12f11.bib12f11brand,Brand,decimal,,1|2|3|4|5|6|7|8|9,Bebivita|Cow and Gate|Farleys|Heinz|HiPP Organics|Mumtaz (Halal)|Organix|Plum Baby Organic|Other Supermarket own
-bib12f11frequency,BiB_1000.bib1000_12m_b12f11.bib12f11frequency,Frequency,decimal,,1|2|3|4|5|6|7|8|9,Never|1-3 per month|One day a week|Two days a week|Three days a week|Four days a week|Five days a week|Six days a week|Seven days a week
-bib12f11otherbrand,BiB_1000.bib1000_12m_b12f11.bib12f11otherbrand,OtherBrand,text,,,
-bib12f11quantity,BiB_1000.bib1000_12m_b12f11.bib12f11quantity,Quantity,decimal,,,
-bib12f11timesperday,BiB_1000.bib1000_12m_b12f11.bib12f11timesperday,TimesPerDay,decimal,,,
-has_b12tab,BiB_1000.bib1000_12m_b12f11.has_b12tab,Has BiB1000 12m questionnaire,decimal,,1,has

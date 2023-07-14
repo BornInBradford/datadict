@@ -1,7 +1,0 @@
-variable,full_name,label,value_type,description,categories,categories_label
-has_allin12_ct,BiB_ALL_IN.allin12_ct.has_allin12_ct,Has all in 12m child travel,decimal,,,
-all12k1agemths,BiB_ALL_IN.allin12_ct.all12k1agemths,Age when travelled in months,decimal,,,
-all12k1agena,BiB_ALL_IN.allin12_ct.all12k1agena,Age when travelled in months NA,decimal,,,
-all12k1country,BiB_ALL_IN.allin12_ct.all12k1country,Country visited,text,,,
-all12k1visitlength,BiB_ALL_IN.allin12_ct.all12k1visitlength,Length of visit weeks,decimal,,,
-has_all1qs,BiB_ALL_IN.allin12_ct.has_all1qs,Has ALL IN 12m questionnaire,decimal,,1,has

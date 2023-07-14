@@ -1,5 +1,0 @@
-variable,full_name,label,value_type,description,categories,categories_label
-ParticipantType,BiB_CohortInfo.ethnicity.ParticipantType,BiB participant type,decimal,,1|2|3,Mother|Father|Child
-ethsource,BiB_CohortInfo.ethnicity.ethsource,Source of ethnicity data,decimal,,1|2|3|4|5,Growing Up|Baseline|Primary care|Education records|Mother's ethnicity
-ethnicity16,BiB_CohortInfo.ethnicity.ethnicity16,Ethnicity - 16 categories,decimal,,1|10|11|12|13|14|15|16|2|3|4|5|6|7|8|9,"English, Welsh, Scottish, Northern Irish or British|Bangladeshi|Chinese|Any other Asian background|African|Caribbean|Other Black, African or Caribbean background|Any other ethnic group|Irish|Any other White background|White and Black Caribbean|White and Black African|White and Asian|Any other Mixed background|Indian|Pakistani"
-ethnicity5,BiB_CohortInfo.ethnicity.ethnicity5,Ethnicity - 5 categories,decimal,,1|2|3|4|5,White|Mixed|Asian|Black|Other

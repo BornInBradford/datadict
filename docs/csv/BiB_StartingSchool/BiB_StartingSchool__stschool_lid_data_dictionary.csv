@@ -1,8 +1,0 @@
-variable,full_name,label,value_type,description,categories,categories_label
-BiBPersonID,BiB_StartingSchool.stschool_lid.BiBPersonID,,text,,,
-has_stschool_lid,BiB_StartingSchool.stschool_lid.has_stschool_lid,Has starting school: letter identification,decimal,,,
-has_ssclid,BiB_StartingSchool.stschool_lid.has_ssclid,Has Starting School Letter ID,decimal,,1,has
-sslidceilingset,BiB_StartingSchool.stschool_lid.sslidceilingset,Letter ID Ceiling Set,decimal,,,
-sslidchronage,BiB_StartingSchool.stschool_lid.sslidchronage,Letter ID Chronological Age,decimal,,,
-sslidrawscore,BiB_StartingSchool.stschool_lid.sslidrawscore,Letter ID Raw Score,decimal,,,
-sslidstandardised,BiB_StartingSchool.stschool_lid.sslidstandardised,Letter ID Standardised Score,decimal,,,

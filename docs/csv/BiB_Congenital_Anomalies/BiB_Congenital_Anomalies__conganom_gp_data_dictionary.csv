@@ -1,9 +1,0 @@
-variable,full_name,label,value_type,description,categories,categories_label
-has_conganom_gp,BiB_Congenital_Anomalies.conganom_gp.has_conganom_gp,Has congenital anomalies gp record linkage to 5yo,decimal,,,
-agecm_cagpch,BiB_Congenital_Anomalies.conganom_gp.agecm_cagpch,Child age (months): Congenital Anomalies: GP record linkage to 5yo,decimal,,,
-agecy_cagpch,BiB_Congenital_Anomalies.conganom_gp.agecy_cagpch,Child age (years): Congenital Anomalies: GP record linkage to 5yo,decimal,,,
-cagpchctv3clinterm,BiB_Congenital_Anomalies.conganom_gp.cagpchctv3clinterm,CA from GP records: CTV3 Clinical Term,text,,,
-cagpchctv3id,BiB_Congenital_Anomalies.conganom_gp.cagpchctv3id,CA from GP records: CTV3 code,text,,,
-cagpchctv3order,BiB_Congenital_Anomalies.conganom_gp.cagpchctv3order,CA from GP records: CTV3 order,decimal,,,
-cagpchicd10,BiB_Congenital_Anomalies.conganom_gp.cagpchicd10,CA from GP records: ICD10 code,text,,,
-has_cagpch,BiB_Congenital_Anomalies.conganom_gp.has_cagpch,Has: Congenital Anomalies: GP record linkage to 5yo,decimal,,1,has

@@ -1,5 +1,0 @@
-variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_18m_b18qh2,BiB_1000.bib1000_18m_b18qh2.has_bib1000_18m_b18qh2,Has bib 1000 18m other snacks consumed by parent,decimal,,,
-bib18h2description,BiB_1000.bib1000_18m_b18qh2.bib18h2description,Description of other snacks,text,,,
-bib18h2frequency,BiB_1000.bib1000_18m_b18qh2.bib18h2frequency,Frequency consume other snacks,decimal,,1|2|3|4|5|6|7|8|9,Never|1-3 per month|One day a week|Two days a week|Three days a week|Four days a week|Five days a week|Six days a week|Seven days a week
-has_b18tab,BiB_1000.bib1000_18m_b18qh2.has_b18tab,Has: BiB 1000 Questionnaire: bib18_maintable,decimal,,1,has
