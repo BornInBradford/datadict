@@ -4,6 +4,8 @@
   <url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_dental/dsurvey_5yo/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_ageofwonder/recruitment_dr23/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_biobank/current_samples/</loc>
@@ -38,9 +40,9 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_cohortinfo/recruitment/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/child_info/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_info/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/stschool_info/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_startingschool/stschool_info/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_sdqs/bib1000_sdq/</loc>
   </url><url>
@@ -72,7 +74,7 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/pregnancy_bloods/pregnancy_bloods_vitd/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/child_info/child_info_bib/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_info/child_info_bib/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_sdqs/medall_sdq/</loc>
   </url><url>
@@ -93,6 +95,8 @@
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m23_exercise/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_baseline/base_m1_foodfrequency/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_ageofwonder/survey_mod01_dr23/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/cord_bloods/</loc>
   </url><url>
@@ -132,7 +136,7 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/child_info/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/sdq_data/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/sdq_data/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_cohortinfo/pregnancy/</loc>
   </url><url>
@@ -140,7 +144,7 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_bibbs_phase2/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/stschool_bpvs/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_startingschool/stschool_bpvs/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/adult_survey_medall_sample/</loc>
   </url><url>
@@ -148,9 +152,11 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_biobank/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/sdq_data/sdq_data_bib/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/sdq_data/sdq_data_bib/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_mum/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_ageofwonder/survey_mod02_dr23/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/child_survey_adult_comp/</loc>
   </url><url>
@@ -174,11 +180,13 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/father_info/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/child_quiz/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_dental/plat_person/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_quiz/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_cohortinfo/mother/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/stschool_lid/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_startingschool/stschool_lid/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/crosscohort/covid19_survey/adult_bibbs_phase3/</loc>
   </url><url>
@@ -186,7 +194,9 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_congenital_anomalies/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/child_quiz/child_quiz_bib/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_quiz/child_quiz_bib/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_ageofwonder/survey_mod03_dr23/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_childgrowth/</loc>
   </url><url>
@@ -208,13 +218,19 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/person_info/mother_info/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/stschool_ckat/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_dental/plat_teeth/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_startingschool/stschool_ckat/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_education_record/edrecs_y1_phonics/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_biosamples/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_glycomics/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_ageofwonder/survey_mod04_dr23/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_1000/</loc>
   </url><url>
@@ -236,9 +252,11 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_cohortinfo/partner/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_dental/plat_ortho/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_cohortinfo/preg_info/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/stschool_sdq/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_startingschool/stschool_sdq/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_admiss/</loc>
   </url><url>
@@ -251,6 +269,8 @@
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_meds/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_preg/matrecs_bib_oedema/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_ageofwonder/heightweight_dr23/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_all_in/</loc>
   </url><url>
@@ -268,6 +288,10 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_r/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_dental/plat_survey/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_ageofwonder/bioimpedance_dr23/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/dxa_scan_f/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_medall/</loc>
@@ -279,6 +303,10 @@
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/matrecs_bib_inf/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_pairc_s/metms_pairc_h/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_startingschool/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_ageofwonder/skinfold_dr23/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_dental/</loc>
   </url><url>
@@ -292,6 +320,8 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/pregnancy_ultrasound/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_ageofwonder/bloodpressure_dr23/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_geographic/bib_geog_sc_walkability_lu/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibbs/bibbs_geographic/bibbs_geog_sc_walkability_lu/</loc>
@@ -299,6 +329,8 @@
     <loc>https://borninbradford.github.io/datadict/bib/bib_pregnancy/fetal_renal/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_2k_s/</loc>
+  </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_glycomics/glycomics/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_all_in/allin12_qs/</loc>
   </url><url>
@@ -314,13 +346,13 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_2k_s/metms_2k_r/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ef_task_bdr/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ef_task_bdr/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_6m_main/bib1000_6m_b6mqb4/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_6m_main/bib1000_6m_b6mqe3/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ef_task_bdr/ef_task_bdr_bib/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ef_task_bdr/ef_task_bdr_bib/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_all_in/allin12_qs/allin12_cc/</loc>
   </url><url>
@@ -336,9 +368,9 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metms_2k_s/metms_2k_c/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ef_task_fdr/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ef_task_fdr/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ef_task_fdr/ef_task_fdr_bib/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ef_task_fdr/ef_task_fdr_bib/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_all_in/allin12_qs/allin12_dd/</loc>
   </url><url>
@@ -348,21 +380,21 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_all_in/allin12_qs/allin12_ei/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ef_task_corsi/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ef_task_corsi/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ef_task_corsi/ef_task_corsi_bib/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ef_task_corsi/ef_task_corsi_bib/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_all_in/allin12_qs/allin12_hh/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_all_in/allin12_qs/allin12_pc/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ef_task_inhibition/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ef_task_inhibition/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ef_task_inhibition/ef_task_inhibition_bib/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ef_task_inhibition/ef_task_inhibition_bib/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ef_task_ps/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ef_task_ps/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ef_task_ps/ef_task_ps_bib/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ef_task_ps/ef_task_ps_bib/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_all_in/allin24_qs/</loc>
   </url><url>
@@ -372,7 +404,7 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metnmr_mother_d/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ckat_data/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ckat_data/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12qb4/</loc>
   </url><url>
@@ -400,7 +432,7 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_metabolomics/metnmr_mother_d/metnmr_mother_a/</loc>
   </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/ckat_data/ckat_data_bib/</loc>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ckat_data/ckat_data_bib/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_12m_main/bib1000_12m_b12f19/</loc>
   </url><url>
@@ -482,6 +514,8 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_24m_main/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_1000/bib1000_36m_main/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_growingup/</loc>
@@ -498,13 +532,9 @@
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_breathes/</loc>
   </url><url>
+    <loc>https://borninbradford.github.io/datadict/bib/bib_ageofwonder/</loc>
+  </url><url>
     <loc>https://borninbradford.github.io/datadict/bib/bib_sdqs/</loc>
-  </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/</loc>
-  </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_startingschool/</loc>
-  </url><url>
-    <loc>https://borninbradford.github.io/datadict/bibplus/bib_primaryschoolyears/</loc>
   </url><url>
     <loc>https://borninbradford.github.io/datadict/bibbs/</loc>
   </url><url>

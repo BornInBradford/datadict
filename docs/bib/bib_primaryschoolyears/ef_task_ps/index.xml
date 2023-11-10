@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primary School Years EF PS task data on Born in Bradford Data Dictionary</title>
+    <link>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ef_task_ps/</link>
+    <description>Recent content in Primary School Years EF PS task data on Born in Bradford Data Dictionary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ef_task_ps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primary School Years EF PS task data BiB only</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ef_task_ps/ef_task_ps_bib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/ef_task_ps/ef_task_ps_bib/</guid>
+      <description>Table ID: BiB_PrimarySchoolYears.ef_task_ps_bib
+github | csv
+   Entity type Variables Entities Updated     Participant 19 5985 2022-10-01    Copy of ef_task_ps, only containing BiB records
+   variable label value_type summary     BiBPersonID  text 5985 unique values
+5985 non-missing values
+8 characters
+   PSYSchoolID Primary School Years: School pseudonym decimal mean (sd)
+139.94 (23.94)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+  </channel>
+</rss>

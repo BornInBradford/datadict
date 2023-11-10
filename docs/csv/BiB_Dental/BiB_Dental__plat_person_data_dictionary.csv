@@ -1,0 +1,18 @@
+variable,full_name,label,value_type,description,categories,categories_label
+Gender,BiB_Dental.plat_person.Gender,Child gender at registration,text,,,
+year_of_birth,BiB_Dental.plat_person.year_of_birth,Child year of birth,text,,,
+month_of_birth,BiB_Dental.plat_person.month_of_birth,Child month of birth,text,,,
+school_linkage,BiB_Dental.plat_person.school_linkage,Child has linked school records so could be recruited,decimal,,0|1,No|Yes
+plat_eligible,BiB_Dental.plat_person.plat_eligible,Child was eligible for PLATOON,decimal,,0|1,No|Yes
+plat_case,BiB_Dental.plat_person.plat_case,Child identified as case in dental record linkage,decimal,,0|1,No|Yes
+school_id,BiB_Dental.plat_person.school_id,Pseudonynous school id,text,,,
+academic_year,BiB_Dental.plat_person.academic_year,School academic year child recruited from,decimal,,1|2|3|4,Y3|Y4|Y5|Y6
+consent_year,BiB_Dental.plat_person.consent_year,Year of assessment,decimal,,,
+consent_month,BiB_Dental.plat_person.consent_month,Month of assessment,decimal,,,
+age_consent_y,BiB_Dental.plat_person.age_consent_y,Child age in years at assessment,decimal,,,
+age_consent_m,BiB_Dental.plat_person.age_consent_m,Child age in months at assessment,decimal,,,
+ConExtracted,BiB_Dental.plat_person.ConExtracted,Q on consent form: has child had teeth extracted?,decimal,,0|1,No|Yes
+plat_recruited,BiB_Dental.plat_person.plat_recruited,Child recruited to PLATOON study,decimal,,0|1,No|Yes
+has_ortho,BiB_Dental.plat_person.has_ortho,Child has orthodontic assessment data,decimal,,0|1,No|Yes
+has_survey,BiB_Dental.plat_person.has_survey,Child has PLATOON survey data,decimal,,0|1,No|Yes
+has_teeth_data,BiB_Dental.plat_person.has_teeth_data,Child has teeth assessment data,decimal,,0|1,No|Yes

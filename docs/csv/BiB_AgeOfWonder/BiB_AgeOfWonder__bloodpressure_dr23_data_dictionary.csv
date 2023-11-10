@@ -1,0 +1,22 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPersonID,BiB_AgeOfWonder.bloodpressure_dr23.BiBPersonID,BiB cohort person ID,text,,,
+is_bib,BiB_AgeOfWonder.bloodpressure_dr23.is_bib,Participant is in original BiB cohort,decimal,,,
+aow_recruitment_id,BiB_AgeOfWonder.bloodpressure_dr23.aow_recruitment_id,Age of Wonder recruitment ID,text,,,
+recruitment_era,BiB_AgeOfWonder.bloodpressure_dr23.recruitment_era,Recruitment era (academic year),text,,,
+age_recruitment_y,BiB_AgeOfWonder.bloodpressure_dr23.age_recruitment_y,Age at recruitment in years,decimal,,,
+age_recruitment_m,BiB_AgeOfWonder.bloodpressure_dr23.age_recruitment_m,Age at recruitment in months,decimal,,,
+sex,BiB_AgeOfWonder.bloodpressure_dr23.sex,Gender reported by school,decimal,,1|2,Female|Male
+ethnicity_1,BiB_AgeOfWonder.bloodpressure_dr23.ethnicity_1,Ethnicity reported by school - higher level category,decimal,,1|2|3|4|5|97|98|99,"Asian or Asian British|Black, Black British, Caribbean or African|Mixed or multiple ethnic groups|White|Other ethnic group|Data provided but ethnicity not stated|Data provided but unmapped|Data not provided"
+ethnicity_2,BiB_AgeOfWonder.bloodpressure_dr23.ethnicity_2,Ethnicity reported by school - lower level category,decimal,,11|12|13|14|15|21|22|23|31|32|33|34|41|42|43|44|45|51|52|97|98|99,"Indian|Pakistani|Bangladeshi|Chinese|Any other Asian background|Caribbean|African|Any other Black, Black British, or Caribbean background|White and Black Caribbean|White and Black African|White and Asian|Any other Mixed or multiple ethnic background|English, Welsh, Scottish, Northern Irish or British|Irish|Gypsy or Irish Traveller|Roma|Any other White background|Arab|Any other ethnic group|Data provided but ethnicity not stated|Data provided but unmapped|Data not provided"
+birth_year,BiB_AgeOfWonder.bloodpressure_dr23.birth_year,Year of birth,decimal,,,
+birth_month,BiB_AgeOfWonder.bloodpressure_dr23.birth_month,Month of birth,decimal,,,
+school_id,BiB_AgeOfWonder.bloodpressure_dr23.school_id,Pseudo school ID,text,,,
+year_group,BiB_AgeOfWonder.bloodpressure_dr23.year_group,Year group at recruitment,text,,,
+form_tutor_id,BiB_AgeOfWonder.bloodpressure_dr23.form_tutor_id,Pseudo recruitment form tutor ID,text,,,
+date_measurement,BiB_AgeOfWonder.bloodpressure_dr23.date_measurement,Date of measurement,date,,,
+age_m,BiB_AgeOfWonder.bloodpressure_dr23.age_m,Age (months) at measurement,decimal,,,
+age_y,BiB_AgeOfWonder.bloodpressure_dr23.age_y,Age (years) at measurement,decimal,,,
+bp_sys_1,BiB_AgeOfWonder.bloodpressure_dr23.bp_sys_1,Systolic reading 1 (mm Hg),decimal,,,
+bp_dia_1,BiB_AgeOfWonder.bloodpressure_dr23.bp_dia_1,Diastolic reading 1 (mm Hg),decimal,,,
+bp_sys_2,BiB_AgeOfWonder.bloodpressure_dr23.bp_sys_2,Systolic reading 2 (mm Hg),decimal,,,
+bp_dia_2,BiB_AgeOfWonder.bloodpressure_dr23.bp_dia_2,Diastolic reading 2 (mm Hg),decimal,,,

@@ -1,0 +1,25 @@
+variable,full_name,label,value_type,description,categories,categories_label
+survey_year,BiB_Dental.plat_survey.survey_year,Year of survey completion,decimal,,,
+survey_month,BiB_Dental.plat_survey.survey_month,Month of survey completion,decimal,,,
+age_survey_y,BiB_Dental.plat_survey.age_survey_y,Child age in years at survey completion,decimal,,,
+age_survey_m,BiB_Dental.plat_survey.age_survey_m,Child age in months at survey completion,decimal,,,
+plat_pain,BiB_Dental.plat_survey.plat_pain,Had pain in your teeth/toothache.,decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_crooked,BiB_Dental.plat_survey.plat_crooked,Had crooked teeth or spaces between your teeth.,decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_discoloured,BiB_Dental.plat_survey.plat_discoloured,Had discolored teeth or spots on your teeth.,decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_breath,BiB_Dental.plat_survey.plat_breath,Had bad breath.,decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_gums,BiB_Dental.plat_survey.plat_gums,Had bleeding gums.,decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_unhappy,BiB_Dental.plat_survey.plat_unhappy,"Been unhappy or sad because of your teeth, mouth, or face.",decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_school,BiB_Dental.plat_survey.plat_school,"Missed school for any reason because of your teeth, mouth, or face.",decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_confident,BiB_Dental.plat_survey.plat_confident,"Been confident because of your teeth, mouth, or face.",decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_difficulty,BiB_Dental.plat_survey.plat_difficulty,"Had difficulty eating foods you would like to because of your teeth, mouth, or f",decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_anxious,BiB_Dental.plat_survey.plat_anxious,"Felt worried or anxious because of your teeth, mouth, or face.",decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_speak,BiB_Dental.plat_survey.plat_speak,Not wanted to speak/read out loud in class.,decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_smile,BiB_Dental.plat_survey.plat_smile,"Avoided smiling or laughing with other children because of your teeth, mouth or ",decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_sleeping,BiB_Dental.plat_survey.plat_sleeping,"Had trouble sleeping because of your teeth, mouth, or face.",decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_teased,BiB_Dental.plat_survey.plat_teased,"Been teased, bullied or called names by other children because of your teeth, mo",decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_attractive,BiB_Dental.plat_survey.plat_attractive,"Felt that you were attractive (good looking) because of your teeth, mouth, or fa",decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_different,BiB_Dental.plat_survey.plat_different,"Felt that you look different because of your mouth, teeth, or face.",decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_words,BiB_Dental.plat_survey.plat_words,Had difficulty saying certain words.,decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_clean,BiB_Dental.plat_survey.plat_clean,Had difficulty keeping your teeth clean.,decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_people,BiB_Dental.plat_survey.plat_people,"Been worried about what other people think about your teeth, mouth or face.",decimal,,1|2|3|4|5,Never|Almost never|Sometimes|Fairly often|Almost all the time
+plat_overall,BiB_Dental.plat_survey.plat_overall,"Overall, please rate your oral health.",decimal,,1|2|3|4|5,Poor|Fair|Average|Good|Excellent

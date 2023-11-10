@@ -1,0 +1,269 @@
+variable,full_name,label,value_type,description,categories,categories_label
+BiBPersonID,BiB_AgeOfWonder.survey_mod01_dr23.BiBPersonID,BiB cohort person ID,text,,,
+is_bib,BiB_AgeOfWonder.survey_mod01_dr23.is_bib,Participant is in original BiB cohort,decimal,,,
+aow_recruitment_id,BiB_AgeOfWonder.survey_mod01_dr23.aow_recruitment_id,Age of Wonder recruitment ID,text,,,
+recruitment_era,BiB_AgeOfWonder.survey_mod01_dr23.recruitment_era,Recruitment era (academic year),text,,,
+age_recruitment_y,BiB_AgeOfWonder.survey_mod01_dr23.age_recruitment_y,Age at recruitment in years,decimal,,,
+age_recruitment_m,BiB_AgeOfWonder.survey_mod01_dr23.age_recruitment_m,Age at recruitment in months,decimal,,,
+gender,BiB_AgeOfWonder.survey_mod01_dr23.gender,Gender reported by school,decimal,,1|2,Female|Male
+ethnicity_1,BiB_AgeOfWonder.survey_mod01_dr23.ethnicity_1,Ethnicity reported by school - higher level category,decimal,,1|2|3|4|5|97|98|99,"Asian or Asian British|Black, Black British, Caribbean or African|Mixed or multiple ethnic groups|White|Other ethnic group|Data provided but ethnicity not stated|Data provided but unmapped|Data not provided"
+ethnicity_2,BiB_AgeOfWonder.survey_mod01_dr23.ethnicity_2,Ethnicity reported by school - lower level category,decimal,,11|12|13|14|15|21|22|23|31|32|33|34|41|42|43|44|45|51|52|97|98|99,"Indian|Pakistani|Bangladeshi|Chinese|Any other Asian background|Caribbean|African|Any other Black, Black British, or Caribbean background|White and Black Caribbean|White and Black African|White and Asian|Any other Mixed or multiple ethnic background|English, Welsh, Scottish, Northern Irish or British|Irish|Gypsy or Irish Traveller|Roma|Any other White background|Arab|Any other ethnic group|Data provided but ethnicity not stated|Data provided but unmapped|Data not provided"
+birth_year,BiB_AgeOfWonder.survey_mod01_dr23.birth_year,Year of birth,decimal,,,
+birth_month,BiB_AgeOfWonder.survey_mod01_dr23.birth_month,Month of birth,decimal,,,
+school_id,BiB_AgeOfWonder.survey_mod01_dr23.school_id,Pseudo school ID,text,,,
+year_group,BiB_AgeOfWonder.survey_mod01_dr23.year_group,Year group at recruitment,text,,,
+form_tutor_id,BiB_AgeOfWonder.survey_mod01_dr23.form_tutor_id,Pseudo recruitment form tutor ID,text,,,
+age_survey_y,BiB_AgeOfWonder.survey_mod01_dr23.age_survey_y,Age (years) at survey date,decimal,,,
+age_survey_m,BiB_AgeOfWonder.survey_mod01_dr23.age_survey_m,Age (months) at survey date,decimal,,,
+survey_date,BiB_AgeOfWonder.survey_mod01_dr23.survey_date,Date survey taken,date,,,
+survey_version,BiB_AgeOfWonder.survey_mod01_dr23.survey_version,Survey version,decimal,,,
+survey_mode,BiB_AgeOfWonder.survey_mod01_dr23.survey_mode,Survey taken online or offline?,decimal,,1|2,Online|Offline
+awb1_2_country_brth,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_country_brth,What is your country of birth?,decimal,,1|10|100|101|102|103|104|105|106|107|108|109|11|110|111|112|113|114|115|116|117|118|119|12|120|121|122|123|124|125|126|127|128|129|13|130|131|132|133|134|135|136|137|138|139|14|140|141|142|143|144|145|146|147|148|149|15|150|151|152|153|154|155|156|157|158|159|16|160|161|162|163|164|165|166|167|168|169|17|170|171|172|173|174|175|176|177|178|179|18|180|181|182|183|184|185|186|187|188|189|19|190|191|192|193|194|195|196|197|198|199|2|20|200|202|21|22|23|24|25|26|27|28|29|3|30|31|32|33|34|35|36|37|38|39|4|40|41|42|43|44|45|46|47|48|49|5|50|51|52|53|54|55|56|57|58|59|6|60|61|62|63|64|65|66|67|68|69|7|70|71|72|73|74|75|76|77|78|79|8|80|81|82|83|84|85|86|87|88|89|9|90|91|92|93|94|95|96|97|98|99,England|Romania|Kosovo|Kuwait|Kyrgyzstan|Laos|Latvia|Lebanon|Lesotho|Liberia|Libya|Liechtenstein|Myanmar (Burma)|Lithuania|Luxembourg|Macedonia|Madagascar|Malawi|Malaysia|Maldives|Mali|Malta|Marshall Islands|Afghanistan|Mauritania|Mauritius|Mexico|Micronesia|Moldova|Monaco|Mongolia|Montenegro|Morocco|Mozambique|Albania|Namibia|Nauru|Nepal|Netherlands|New Zealand|Nicaragua|Niger|Nigeria|Norway|Oman|Algeria|Palau|Panama|Papua New Guinea|Paraguay|Peru|Philippines|Portugal|Qatar|Russian Federation|Rwanda|Andorra|St Kitts & Nevis|St Lucia|Saint Vincent & the Grenadines|Samoa|San Marino|Sao Tome & Principe|Saudi Arabia|Senegal|Serbia|Seychelles|Angola|Sierra Leone|Singapore|Slovakia|Slovenia|Solomon Islands|Somalia|South Africa|South Sudan|Spain|Sri Lanka|Antigua & Deps|Sudan|Suriname|Swaziland|Sweden|Switzerland|Syria|Taiwan|Tajikistan|Tanzania|Thailand|Argentina|Togo|Tonga|Trinidad & Tobago|Tunisia|Turkey|Turkmenistan|Tuvalu|Uganda|Ukraine|United Arab Emirates|Armenia|United Kingdom|United States|Uruguay|Uzbekistan|Vanuatu|Vatican City|Venezuela|Vietnam|Yemen|Zambia|Wales|Australia|Zimbabwe|----------------|Austria|Azerbaijan|Bahamas|Bahrain|Barbados|Belarus|Belgium|Belize|Benin|Scotland|Bhutan|Bolivia|Bosnia Herzegovina|Botswana|Brazil|Brunei|Bulgaria|Burkina|Burundi|Cambodia|Northern Ireland|Cameroon|Canada|Cape Verde|Central African Rep|Chad|Chile|China|Colombia|Comoros|Congo|Republic of Ireland|Congo (Democratic Rep)|Costa Rica|Croatia|Cuba|Cyprus|Czech Republic|Denmark|Djibouti|Dominica|Dominican Republic|Bangladesh|East Timor|Ecuador|Egypt|El Salvador|Equatorial Guinea|Eritrea|Estonia|Ethiopia|Fiji|Finland|India|France|Gabon|Gambia|Georgia|Germany|Ghana|Greece|Grenada|Guatemala|Guinea|Pakistan|Guinea-Bissau|Guyana|Haiti|Honduras|Hungary|Iceland|Indonesia|Iran|Iraq|Israel|Poland|Italy|Ivory Coast|Jamaica|Japan|Jordan|Kazakhstan|Kenya|Kiribati|Korea North|Korea South
+aw1_2_years_lvd_a4,BiB_AgeOfWonder.survey_mod01_dr23.aw1_2_years_lvd_a4,How many years have you lived in the UK?,decimal,,-1|1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,Added in version 4|1|10|11|12|13|14|15|2|3|4|5|6|7|8|9
+awb1_2_ethnicity_r4,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_ethnicity_r4,What is your ethnicity?,decimal,,-2|1|2|3|4|5|6,"Revised in version 4|White|Mixed or Multiple ethnic groups|Asian or Asian British|Black, Black British, Caribbean or African|Arab|Other ethnic groups"
+awb1_2_ethnicity_whte,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_ethnicity_whte,White,decimal,,1|2|3|4|5|6|7|8|9,"English, Welsh, Scottish, Northern Irish or British|Irish|Gypsy or Irish Traveller|Roma|Any other White background (please specify)|Polish|Slovakian|Romanian|Czech"
+awb1_2_ethnicity_whte_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_ethnicity_whte_othr,Any other White background,text,,,
+awb1_2_ethnicity_mix,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_ethnicity_mix,Mixed or Multiple ethnic groups,decimal,,1|2|3|4,White and Black Caribbean|White and Black African|White and Asian|Any other Mixed or Multiple ethnic background (please specify)
+awb1_2_ethnicity_mix_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_ethnicity_mix_othr,Any other mixed/multiple ethnic background,text,,,
+awb1_2_ethnicity_asn,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_ethnicity_asn,Asian or Asian British,decimal,,1|2|3|4|5,Indian|Pakistani|Bangladeshi|Chinese|Any other Asian background (please specify)
+awb1_2_ethnicity_asn_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_ethnicity_asn_othr,Any other Asian background,text,,,
+awb1_2_ethnicity_blck,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_ethnicity_blck,"Black, Black British, Caribbean or African",decimal,,1|2|3,"Caribbean|African background (please specify)|Any other Black, Black British or Caribbean background (please specify)"
+awb1_2_ethnicity_blck_afrcn,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_ethnicity_blck_afrcn,Any other African background,text,,,
+awb1_2_ethnicity_whte_crrbn,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_ethnicity_whte_crrbn,Any other White Caribbean background,text,,,
+awb1_2_ethnicity_arb_a4,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_ethnicity_arb_a4,Arab,decimal,,-1|1|2,Added in version 4|African Arab|Middle-eastern Arab
+awb1_2_ethnicity_othr_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_ethnicity_othr_othr,Any other ethnic group,text,,,
+awb1_2_language_hme___1,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_language_hme___1,Which of these languages is usually spoken at home? (choice=English),decimal,,0|1,Unchecked|Checked: English
+awb1_2_language_hme___2,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_language_hme___2,Which of these languages is usually spoken at home? (choice=Urdu),decimal,,0|1,Unchecked|Checked: Urdu
+awb1_2_language_hme___3,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_language_hme___3,Which of these languages is usually spoken at home? (choice=Punjabi),decimal,,0|1,Unchecked|Checked: Punjabi
+awb1_2_language_hme___4,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_language_hme___4,Which of these languages is usually spoken at home? (choice=Gujarati),decimal,,0|1,Unchecked|Checked: Gujarati
+awb1_2_language_hme___5,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_language_hme___5,Which of these languages is usually spoken at home? (choice=Bengali),decimal,,0|1,Unchecked|Checked: Bengali
+awb1_2_language_hme___6,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_language_hme___6,Which of these languages is usually spoken at home? (choice=Hindko),decimal,,0|1,Unchecked|Checked: Hindko
+awb1_2_language_hme___7,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_language_hme___7,Which of these languages is usually spoken at home? (choice=Polish),decimal,,0|1,Unchecked|Checked: Polish
+awb1_2_language_hme___8,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_language_hme___8,Which of these languages is usually spoken at home? (choice=Pashto),decimal,,0|1,Unchecked|Checked: Pashto
+awb1_2_language_hme___9,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_language_hme___9,Which language is spoken at home? Choice = Other,decimal,,0|1,Unchecked|Checked: Other (please specify)
+awb1_2_language_hme_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_language_hme_othr,Any other languages spoken at home,text,,,
+awb1_2_religion,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_religion,Do you consider yourself to have a religion?,decimal,,1|2,Yes|No
+awb1_2y_religion_r4,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2y_religion_r4,What is your religion?,decimal,,-2|1|2|3|4|5|6|7,"Revised in version 4|Christianity (including Church of England, Catholic, Protestant and all other Christian denominations)|Buddhism|Hinduism|Judaism|Islam|Sikhism|Any other religion (please specify)"
+awb1_2y_religion_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2y_religion_othr,Any other religion,text,,,
+awb1_2_sex,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_sex,What is your sex?(The biological sex on your birth certificate) A question about,decimal,,1|2|3|4,Female|Male|Do not wish to answer|Wish to enter own response
+awb1_2_sex_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_sex_othr,Self describe your sex,text,,,
+awb1_2_gender_r4,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_gender_r4,What is your gender?(How you would describe yourself),decimal,,-2|1|2|3|4|5,Revised in version 4|Female|Male|Non-binary|Wish to enter own response|Do not wish to answer
+awb1_2_gender_othr_r4,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_gender_othr_r4,Self describe your gender,text,,,
+awb1_2_disability,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_disability,Do you have any physical/mental health conditions/illnesses?,decimal,,1|2,Yes|No
+awb1_2_disability_tme_a4,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_disability_tme_a4,Has your disability lasted/expected to last >=1 year?,decimal,,-1|1|2,Added in version 4|Yes|No
+awb1_2_disability_impct_a4,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_disability_impct_a4,Do your disabilities reduce your ability to carry out activities?,decimal,,-1|1|2|3,Added in version 4|Yes a lot|Yes a little|Not at all
+awb3_1_assets_1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1_assets_1,3 meals every day,decimal,,0|1,No|Yes
+awb3_1_assets_2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1_assets_2,A warm winter coat,decimal,,0|1,No|Yes
+awb3_1_assets_3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1_assets_3,Clothes that you think your friends like,decimal,,0|1,No|Yes
+awb3_1_assets_4,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1_assets_4,Your own mobile phone,decimal,,0|1,No|Yes
+awb3_1_assets_5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1_assets_5,"A computer, laptop or tablet with internet at home",decimal,,0|1,No|Yes
+awb3_1_assets_6,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1_assets_6,At least one family holiday away from home in a typical year,decimal,,0|1,No|Yes
+awb3_1_assets_7,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1_assets_7,"A family car, van, or truck",decimal,,0|1,No|Yes
+awb3_1_assets_8,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1_assets_8,A bedroom for yourself,decimal,,0|1,No|Yes
+awb3_1_assets_9,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1_assets_9,A dishwasher at home,decimal,,0|1,No|Yes
+awb3_1_compare_frnds,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1_compare_frnds,Would you say your family is richer compared to your friends?,decimal,,1|2|3|4,Richer|About the same|Poorer|Dont know
+awb3_1_money_wrry,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1_money_wrry,How often do you worry about how much money your family has?,decimal,,1|2|3,Never|Some of the time|All of the time
+awb3_1_warm_engh_a5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1_warm_engh_a5,Are you warm enough at home during winter?,decimal,,-1|1|2|3|4,Added in version 5|Yes - always|Yes - sometimes|No - rarely|No - never
+awb3_1_save_mny_a5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1_save_mny_a5,Parents have talked about cutting back to save money,decimal,,-1|0|1,Added in version 5|No|Yes
+awb3_1y_save_mny_a5___1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1y_save_mny_a5___1,Which of the following have your parents/guardians discussed cutting back on? (t,decimal,,0|1,Unchecked|Checked: Using too much energy (e.g. gas or electric)
+awb3_1y_save_mny_a5___2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1y_save_mny_a5___2,Which of the following have your parents/guardians discussed cutting back on? (t,decimal,,0|1,"Unchecked|Checked: Luxuries (e.g. takeaways, eating out, new cars, new clothes etc.)"
+awb3_1y_save_mny_a5___3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1y_save_mny_a5___3,Which of the following have your parents/guardians discussed cutting back on? (t,decimal,,0|1,"Unchecked|Checked: Holidays and leisure activities (e.g. hobbies outside of school, trips etc.)"
+awb3_1y_save_mny_a5___4,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1y_save_mny_a5___4,Which of the following have your parents/guardians discussed cutting back on? (t,decimal,,0|1,Unchecked|Checked: Food shopping
+awb3_1y_save_mny_a5___5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1y_save_mny_a5___5,Which of the following have your parents/guardians discussed cutting back on? (t,decimal,,0|1,Unchecked|Checked: Car journeys to save fuel
+awb3_1y_save_mny_a5___6,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1y_save_mny_a5___6,Which of the following have your parents/guardians discussed cutting back on? (t,decimal,,0|1,Unchecked|Checked: Other (please specify)
+awb3_1y_save_mny_othr_a5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1y_save_mny_othr_a5,Have your parents discussed cutting back on anything else?,text,,,
+awb3_2_hm_live,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_hm_live,How many homes do you live in?,decimal,,1|2|3,1|2|More than 2
+awb3_2_homes_1_ppl___1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___1,Who lives in your first home? Select all that apply (choice=Mother),decimal,,0|1,Unchecked|Checked: Mother
+awb3_2_homes_1_ppl___2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___2,Who lives in your first home? Select all that apply (choice=Father),decimal,,0|1,Unchecked|Checked: Father
+awb3_2_homes_1_ppl___3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___3,Who lives in your first home? Select all that apply (choice=Guardian),decimal,,0|1,Unchecked|Checked: Guardian
+awb3_2_homes_1_ppl___4,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___4,Who lives in your first home? Select all that apply (choice=Foster carer),decimal,,0|1,Unchecked|Checked: Foster carer
+awb3_2_homes_1_ppl___5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___5,Who lives in your first home? Select all that apply (choice=Step mother),decimal,,0|1,Unchecked|Checked: Step mother
+awb3_2_homes_1_ppl___6,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___6,Who lives in your first home? Select all that apply (choice=Step father),decimal,,0|1,Unchecked|Checked: Step father
+awb3_2_homes_1_ppl___7,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___7,Who lives in your first home? Select all that apply (choice=Mothers partner),decimal,,0|1,Unchecked|Checked: Mother's partner
+awb3_2_homes_1_ppl___8,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___8,Who lives in your first home? Select all that apply (choice=Fathers partner),decimal,,0|1,Unchecked|Checked: Father's partner
+awb3_2_homes_1_ppl___9,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___9,Who lives in your first home? Select all that apply (choice=Siblings),decimal,,0|1,Unchecked|Checked: Siblings
+awb3_2_homes_1_ppl___10,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___10,Who lives in your first home? Select all that apply (choice=Auntie),decimal,,0|1,Unchecked|Checked: Auntie
+awb3_2_homes_1_ppl___11,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___11,Who lives in your first home? Select all that apply (choice=Uncle),decimal,,0|1,Unchecked|Checked: Uncle
+awb3_2_homes_1_ppl___12,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___12,Who lives in your first home? Select all that apply (choice=Grandmother),decimal,,0|1,Unchecked|Checked: Grandmother
+awb3_2_homes_1_ppl___13,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___13,Who lives in your first home? Select all that apply (choice=Grandfather),decimal,,0|1,Unchecked|Checked: Grandfather
+awb3_2_homes_1_ppl___14,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___14,Who lives in your first home? Select all that apply (choice=Cousins),decimal,,0|1,Unchecked|Checked: Cousins
+awb3_2_homes_1_ppl___15,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl___15,Who lives in your first home? Select all that apply (choice=Other),decimal,,0|1,Unchecked|Checked: Other
+awb3_2_homes_1_ppl_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ppl_othr,Who lives in your second home? (choice = other),text,,,
+awb3_2_homes_1_mthr_1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_mthr_1,How many of your mothers live in this home?,decimal,,,
+awb3_2_homes_1_fthr_2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_fthr_2,How many of your fathers live in this home?,decimal,,,
+awb3_2_homes_1_grd_3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_grd_3,How many of your guardians live in this home?,decimal,,,
+awb3_2_homes_1_fstcr_4,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_fstcr_4,How many of your foster carers live in this home?,decimal,,,
+awb3_2_homes_1_stpm_5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_stpm_5,How many of your step mothers live in this home?,decimal,,,
+awb3_2_homes_1_stpf_6,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_stpf_6,How manay of your step fathers live in this home?,decimal,,,
+awb3_2_homes_1_mthpt_7,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_mthpt_7,How many of your mothers partners live in this home?,decimal,,,
+awb3_2_homes_1_fthpt_8,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_fthpt_8,How many of your fathers partners live in this home?,decimal,,,
+awb3_2_homes_1_sib_9,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_sib_9,How many of your siblings live in this home?,decimal,,,
+awb3_2_homes_1_ant_10,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_ant_10,How many of your aunties live in this home?,decimal,,,
+awb3_2_homes_1_unc_11,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_unc_11,How many of your uncles live in this home?,decimal,,,
+awb3_2_homes_1_gmthr_12,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_gmthr_12,How many of your grandmothers live in this home?,decimal,,,
+awb3_2_homes_1_gfthr_13,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_gfthr_13,How many of your grandfathers live in this home?,decimal,,,
+awb3_2_homes_1_cus_14,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_1_cus_14,How many of your cousins live in this home?,decimal,,,
+awb3_2_homes_2_ppl___1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___1,Who lives in your second home?Select all that apply (choice=Mother),decimal,,0|1,Unchecked|Checked: Mother
+awb3_2_homes_2_ppl___2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___2,Who lives in your second home?Select all that apply (choice=Father),decimal,,0|1,Unchecked|Checked: Father
+awb3_2_homes_2_ppl___3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___3,Who lives in your second home?Select all that apply (choice=Guardian),decimal,,0|1,Unchecked|Checked: Guardian
+awb3_2_homes_2_ppl___4,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___4,Who lives in your second home?Select all that apply (choice=Foster carer),decimal,,0|1,Unchecked|Checked: Foster carer
+awb3_2_homes_2_ppl___5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___5,Who lives in your second home?Select all that apply (choice=Step mother),decimal,,0|1,Unchecked|Checked: Step mother
+awb3_2_homes_2_ppl___6,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___6,Who lives in your second home?Select all that apply (choice=Step father),decimal,,0|1,Unchecked|Checked: Step father
+awb3_2_homes_2_ppl___7,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___7,Who lives in your second home?Select all that apply (choice=Mothers partner),decimal,,0|1,Unchecked|Checked: Mother's partner
+awb3_2_homes_2_ppl___8,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___8,Who lives in your second home?Select all that apply (choice=Fathers partner),decimal,,0|1,Unchecked|Checked: Father's partner
+awb3_2_homes_2_ppl___9,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___9,Who lives in your second home?Select all that apply (choice=Siblings),decimal,,0|1,Unchecked|Checked: Siblings
+awb3_2_homes_2_ppl___10,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___10,Who lives in your second home?Select all that apply (choice=Auntie),decimal,,0|1,Unchecked|Checked: Auntie
+awb3_2_homes_2_ppl___11,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___11,Who lives in your second home?Select all that apply (choice=Uncle),decimal,,0|1,Unchecked|Checked: Uncle
+awb3_2_homes_2_ppl___12,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___12,Who lives in your second home?Select all that apply (choice=Grandmother),decimal,,0|1,Unchecked|Checked: Grandmother
+awb3_2_homes_2_ppl___13,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___13,Who lives in your second home?Select all that apply (choice=Grandfather),decimal,,0|1,Unchecked|Checked: Grandfather
+awb3_2_homes_2_ppl___14,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___14,Who lives in your second home?Select all that apply (choice=Cousins),decimal,,0|1,Unchecked|Checked: Cousins
+awb3_2_homes_2_ppl___15,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl___15,Who lives in your second home?Select all that apply (choice=Other),decimal,,0|1,Unchecked|Checked: Other
+awb3_2_homes_2_ppl_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl_othr,Who lives in your first home? (choice = other),text,,,
+awb3_2_homes_2_mthr_1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_mthr_1,How many of your mothers live in this home?,decimal,,,
+awb3_2_homes_2_fthr_2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_fthr_2,How many of your fathers live in this home?,decimal,,,
+awb3_2_homes_2_grd_3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_grd_3,How many of your guardians live in this home?,decimal,,,
+awb3_2_homes_2_fstcr_4,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_fstcr_4,How many of your foster carers live in this home?,decimal,,,
+awb3_2_homes_2_stpm_5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_stpm_5,How many of your step mothers live in this home?,decimal,,,
+awb3_2_homes_2_stpf_6,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_stpf_6,How many of your step fathers live in this home?,decimal,,,
+awb3_2_homes_2_mthpt_7,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_mthpt_7,How many of your mothers partners live in this home?,decimal,,,
+awb3_2_homes_2_fthpt_8,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_fthpt_8,How many of your fathers partners live in this home?,decimal,,,
+awb3_2_homes_2_ppl_sib_9,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl_sib_9,How many of your siblings live in this home?,decimal,,,
+awb3_2_homes_2_ant_10,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ant_10,How many of your aunties live in this home?,decimal,,,
+awb3_2_homes_2_ppl_unc_11,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_ppl_unc_11,How many of your uncles live in this home?,decimal,,,
+awb3_2_homes_2_gmthr_12,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_gmthr_12,How many of your grandmothers live in this home?,decimal,,,
+awb3_2_homes_2_gfthr_13,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_gfthr_13,How many of your grandfathers live in this home?,decimal,,,
+awb3_2_homes_2_cus_14,BiB_AgeOfWonder.survey_mod01_dr23.awb3_2_homes_2_cus_14,How many of your cousins live in this home?,decimal,,,
+awb_2_6_family_brth_n_a5,BiB_AgeOfWonder.survey_mod01_dr23.awb_2_6_family_brth_n_a5,Select your birth order. I am...,decimal,,-1|1|10|2|3|4|5|6|7|8|9,Added in version 5|1st born|10th born|2nd born|3rd born|4th born|5th born|6th born|7th born|8th born|9th born
+awb2_6_family_rltnshp_1_a5,BiB_AgeOfWonder.survey_mod01_dr23.awb2_6_family_rltnshp_1_a5,How often does your family get along together?,decimal,,-1|1|2|3,Added in version 5|Never|Some of the time|Always
+awb2_6_family_rltnshp_2_a5,BiB_AgeOfWonder.survey_mod01_dr23.awb2_6_family_rltnshp_2_a5,"How often do you get along with your brothers, sisters and other young people yo",decimal,,-1|1|2|3|4,Added in version 5|Never|Some of the time|Always|I dont live with any siblings
+awb3_3_home_1_jb,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb,Do any of the adults looking after you in your first home have a job?,decimal,,1|2|3,Yes|No|Dont know
+awb3_3_home_1_jb_relatn_1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_relatn_1,What is their relation to you?,decimal,,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,Mother|Auntie|Uncle|Grandmother|Grandfather|Cousins|Other|Father|Guardian|Foster carer|Step mother|Step father|Mothers partner|Fathers partner|Siblings
+awb3_3_home_1_jb_othr_1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_othr_1,What is their relation to you? (Choice = Other),text,,,
+awb3_3_home_1_jb_work_1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_work_1,What is Adult 1 place of work?,text,,,
+awb3_3_home_1_jb_job_1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_job_1,What job does Adult 1 do?,text,,,
+awb3_3_home_1_jb_relatn_2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_relatn_2,What is their relation to you?,decimal,,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,Mother|Auntie|Uncle|Grandmother|Grandfather|Cousins|Other|Father|Guardian|Foster carer|Step mother|Step father|Mothers partner|Fathers partner|Siblings
+awb3_3_home_1_jb_othr_2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_othr_2,What is their relation to you? (Choice = Other),text,,,
+awb3_3_home_1_jb_work_2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_work_2,What is their place of work?,text,,,
+awb3_3_home_1_jb_job_2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_job_2,What job do they do?,text,,,
+awb3_3_home_1_jb_relatn_3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_relatn_3,What is their relation to you?,decimal,,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,Mother|Auntie|Uncle|Grandmother|Grandfather|Cousins|Other|Father|Guardian|Foster carer|Step mother|Step father|Mothers partner|Fathers partner|Siblings
+awb3_3_home_1_jb_othr_3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_othr_3,What is their relation to you? (Choice = Other),text,,,
+awb3_3_home_1_jb_work_3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_work_3,What is their place of work?,text,,,
+awb3_3_home_1_jb_job_3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_job_3,What job do they do?,text,,,
+awb3_3_home_1_jb_no___1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_no___1,Why do the adults in your first home not have a job? Please tick all that apply.,decimal,,0|1,"Unchecked|Checked: They are sick, retired or a student"
+awb3_3_home_1_jb_no___2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_no___2,Why do the adults in your first home not have a job? Please tick all that apply.,decimal,,0|1,Unchecked|Checked: They are looking for a job
+awb3_3_home_1_jb_no___3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_no___3,Why do the adults in your first home not have a job? Please tick all that apply.,decimal,,0|1,"Unchecked|Checked: They take care of others, or are full-time at home"
+awb3_3_home_1_jb_no___4,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_1_jb_no___4,Why do the adults in your first home not have a job? Please tick all that apply.,decimal,,0|1,Unchecked|Checked: I don't know
+awb3_3_home_2_jb,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb,Do any of the adults looking after you in your second home have a job?,decimal,,1|2|3,Yes|No|Dont know
+awb3_3_home_2_jb_relatn_1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_relatn_1,What is their relation to you?,decimal,,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,Mother|Auntie|Uncle|Grandmother|Grandfather|Cousins|Other|Father|Guardian|Foster carer|Step mother|Step father|Mothers partner|Fathers partner|Siblings
+awb3_3_home_2_jb_othr_1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_othr_1,What other relation is Adult 1 to you?,text,,,
+awb3_3_home_2_jb_work_1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_work_1,What is Adult 1 place of work?,text,,,
+awb3_3_home_2_jb_job_1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_job_1,What job does Adult 1 do?,text,,,
+awb3_3_home_2_jb_relatn_2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_relatn_2,What is their relation to you?,decimal,,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,Mother|Auntie|Uncle|Grandmother|Grandfather|Cousins|Other|Father|Guardian|Foster carer|Step mother|Step father|Mothers partner|Fathers partner|Siblings
+awb3_3_home_2_jb_othr_2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_othr_2,What other relation is Adult 2 to you?,text,,,
+awb3_3_home_2_jb_work_2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_work_2,What is Adult 2 place of work?,text,,,
+awb3_3_home_2_jb_job_2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_job_2,What job does Adult 2 do?,text,,,
+awb3_3_home_2_jb_relatn_3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_relatn_3,What is their relation to you?,decimal,,1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,Mother|Auntie|Uncle|Grandmother|Grandfather|Cousins|Other|Father|Guardian|Foster carer|Step mother|Step father|Mothers partner|Fathers partner|Siblings
+awb3_3_home_2_jb_othr_3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_othr_3,What other relation is Adult 3 to you?,text,,,
+awb3_3_home_2_jb_work_3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_work_3,What is Adult 3 place of work?,text,,,
+awb3_3_home_2_jb_job_3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_job_3,What job does Adult 3 do?,text,,,
+awb3_3_home_2_jb_no___1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_no___1,Why do the adults in your second home not have a job?   Please tick all that app,decimal,,0|1,"Unchecked|Checked: They are sick, retired or a student"
+awb3_3_home_2_jb_no___2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_no___2,Why do the adults in your second home not have a job?   Please tick all that app,decimal,,0|1,Unchecked|Checked: They are looking for a job
+awb3_3_home_2_jb_no___3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_no___3,Why do the adults in your second home not have a job?   Please tick all that app,decimal,,0|1,"Unchecked|Checked: They take care of others, or are full-time at home"
+awb3_3_home_2_jb_no___4,BiB_AgeOfWonder.survey_mod01_dr23.awb3_3_home_2_jb_no___4,Why do the adults in your second home not have a job?   Please tick all that app,decimal,,0|1,Unchecked|Checked: I don't know
+awb3_4_personal_assts_1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_personal_assts_1,Regular pocket money or allowance,decimal,,0|1,No|Yes
+awb3_4_personal_assts_2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_personal_assts_2,Money from doing chores or babysitting for family or relatives,decimal,,0|1,No|Yes
+awb3_4_personal_assts_3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_personal_assts_3,Money from working in the family business,decimal,,0|1,No|Yes
+awb3_4_personal_assts_4,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_personal_assts_4,Money from a paid job,decimal,,0|1,No|Yes
+awb3_4_personal_assts_5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_personal_assts_5,Given money by parents when I need it,decimal,,0|1,No|Yes
+awb3_4_personal_assts_6,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_personal_assts_6,I never get any money to spend on myself,decimal,,0|1,No|Yes
+awb3_4_personal_assts_7,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_personal_assts_7,Other source,decimal,,0|1,No|Yes
+awb3_4_prsnl_assts_7_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_prsnl_assts_7_othr,Do you get money to spend on yourself? (Choice = Other source),text,,,
+aw3_5_food_1,BiB_AgeOfWonder.survey_mod01_dr23.aw3_5_food_1,We cant get the food we want because there is not enough money,decimal,,0|1,No|Yes
+aw3_5_food_2,BiB_AgeOfWonder.survey_mod01_dr23.aw3_5_food_2,I worry about not having enough to eat,decimal,,0|1,No|Yes
+aw3_5_food_3,BiB_AgeOfWonder.survey_mod01_dr23.aw3_5_food_3,I worry about how hard it is for my parents to get enough food for us,decimal,,0|1,No|Yes
+aw3_5_food_4,BiB_AgeOfWonder.survey_mod01_dr23.aw3_5_food_4,I feel hungry because there is not enough food to eat,decimal,,0|1,No|Yes
+aw3_5_food_5,BiB_AgeOfWonder.survey_mod01_dr23.aw3_5_food_5,I try not to eat a lot so that our food will last,decimal,,0|1,No|Yes
+aw3_6_comparison_1,BiB_AgeOfWonder.survey_mod01_dr23.aw3_6_comparison_1,If I don't strive to achieve I'll be seen as inferior to others,decimal,,1|2|3|4|5,Never|Rarely|Sometimes|Mostly|Always
+aw3_6_comparison_2,BiB_AgeOfWonder.survey_mod01_dr23.aw3_6_comparison_2,People compare me to others to see if I match up,decimal,,1|2|3|4|5,Never|Rarely|Sometimes|Mostly|Always
+aw3_6_comparison_3,BiB_AgeOfWonder.survey_mod01_dr23.aw3_6_comparison_3,Others will accept me even if I fail,decimal,,1|2|3|4|5,Never|Rarely|Sometimes|Mostly|Always
+awb3_7_prsnl_sfty_1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_7_prsnl_sfty_1,Your safety when going out after dark,decimal,,1|2|3|4|5,Very poor|Poor|Ok|Good|Very good
+awb3_7_prsnl_sfty_2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_7_prsnl_sfty_2,Your safety when going out during the day,decimal,,1|2|3|4|5,Very poor|Poor|Ok|Good|Very good
+awb3_7_prsnl_sfty_3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_7_prsnl_sfty_3,Your safety at school,decimal,,1|2|3|4|5,Very poor|Poor|Ok|Good|Very good
+awb3_7_prsnl_sfty_4,BiB_AgeOfWonder.survey_mod01_dr23.awb3_7_prsnl_sfty_4,Your safety when going to and from school,decimal,,1|2|3|4|5,Very poor|Poor|Ok|Good|Very good
+awb3_7_violence,BiB_AgeOfWonder.survey_mod01_dr23.awb3_7_violence,Have you been victim of violence in past 1yr?,decimal,,1|2|3,No|Not sure|Yes
+aw3_7_decisions,BiB_AgeOfWonder.survey_mod01_dr23.aw3_7_decisions,I can influence decisions affecting my local area,decimal,,1|2|3|4|5|6|7,Strongly Agree|Agree|Neither agree nor disagree|Disagree|Strongly disagree|Dont have an opinion|Dont know
+awb3_activities_1_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_1_r5,"Go to a party, dance, house party or nightclub",decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_2_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_2_r5,Go to watch live sport (for example at a stadium),decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_3_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_3_r5,"Sing, play an instrument, or make music (either on your own or as part of a choi",decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_4_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_4_r5,Go to a live music concert or gig,decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_5_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_5_r5,"Go to some other type of live performance, such as a play, pantomime, opera, dan",decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_6_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_6_r5,Read for enjoyment,decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_7_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_7_r5,Go to youth clubs,decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_8_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_8_r5,Go to explorer scouts/ senior guides.,decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_9_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_9_r5,Go to a library,decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_10_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_10_r5,"Go to museums or galleries, visit a historic place or stately home",decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_11_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_11_r5,"Do voluntary, charity or community work",decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_12_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_12_r5,"Go to a political meeting, march, rally or demonstration",decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_13_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_13_r5,Attend a religious service or event,decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_14_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_14_r5,Participate in a poetry/spoken word session,decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_15_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_15_r5,Do creative writing (outside of school or work),decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_16_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_16_r5,"Take part in theatre, dance, circus, or other performance activities",decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_17_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_17_r5,"Make your own drawing, painting, sculpture, or other artwork (things that are ma",decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_activities_18_r5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_activities_18_r5,"Make your own graphic designs, photographs, or films/videos (things that are mad",decimal,,-2|0|1,Revised in version 5|No|Yes
+awb3_4_activities_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_activities_othr,Do you do any cultural activities you'd like to tell us about?,text,,,
+awb3_4_motivation___1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_motivation___1,What motivates you to participate in artistic or cultural activities? You can ch,decimal,,0|1,Unchecked|Checked: I enjoy the activity
+awb3_4_motivation___2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_motivation___2,What motivates you to participate in artistic or cultural activities? You can ch,decimal,,0|1,Unchecked|Checked: It's an opportunity to socialise with my friends
+awb3_4_motivation___3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_motivation___3,What motivates you to participate in artistic or cultural activities? You can ch,decimal,,0|1,Unchecked|Checked: To improve my skills/ develop some talent
+awb3_4_motivation___4,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_motivation___4,What motivates you to participate in artistic or cultural activities? You can ch,decimal,,0|1,Unchecked|Checked: To feel better emotionally
+awb3_4_motivation___5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_motivation___5,What motivates you to participate in artistic or cultural activities? You can ch,decimal,,0|1,Unchecked|Checked: To express emotions and opinions through art
+awb3_4_motivation___6,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_motivation___6,What motivates you to participate in artistic or cultural activities? You can ch,decimal,,0|1,Unchecked|Checked: Other (specify)
+awb3_4y_motivation,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4y_motivation,What motivates you to participate in activities? (Choice = Other),text,,,
+awb3_4_restriction___1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_restriction___1,Not enough time to do activities,decimal,,0|1,Unchecked|Checked: I do not have enough time
+awb3_4_restriction___2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_restriction___2,It's too expensive to do activities,decimal,,0|1,Unchecked|Checked: It is too expensive
+awb3_4_restriction___3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_restriction___3,Health problems prevent me from doing activities,decimal,,0|1,Unchecked|Checked: I have health problems that prevent me from participating
+awb3_4_restriction___4,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_restriction___4,No facilities for artistic activities in local area,decimal,,0|1,Unchecked|Checked: There are no facilities to do artistic activities in my local area
+awb3_4_restriction___5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_restriction___5,Can't find information about activities on offer,decimal,,0|1,Unchecked|Checked: I can't find any information about the activities on offer
+awb3_4_restriction___6,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_restriction___6,The closest facilities for activities are far away,decimal,,0|1,Unchecked|Checked: The closest facility/ arts academy is too far away
+awb3_4_restriction___7,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_restriction___7,I'm not interested in the art activities,decimal,,0|1,Unchecked|Checked: I'm not interested in the arts
+awb3_4_restriction___8,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_restriction___8,Other reason for not doing activities,decimal,,0|1,Unchecked|Checked: Other (specify)
+awb3_4y_restriction,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4y_restriction,Why don't you participate in activities that you want to? (Choice = Other),text,,,
+awb3_4_act_1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_1,First artistic activity done in past month,decimal,,1|10|11|12|13|14|15|16|17|18|2|3|4|5|6|7|8|9,"Attend party, dance, house party, or night club|Visit museums, galleries, or place of historical significance|Voluntary, charity, or community work|Political meeting, march, or rally|Attend religious service|Participate in poetry/spoken word session|Creative writing (outside school)|Perform theatre, dance, circus|Make drawing, painting, sculpture|Make graphic designs, photographs, films/videos|Watch live sport|Sing, play an instrument, or make music|Watch live music concert or gig|Watch play, pantomime, opera, dance, or circus|Read for enjoyment|Attend youth club|Attend explorer scouts/ senior guides|Visit library"
+awb3_4_act_1_who,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_1_who,Who are you doing this activity with?,decimal,,1|2|3,Alone|With friends|Other (please specify)
+awb3_4_act_1_who_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_1_who_othr,Who are you doing this activity with? (choice = other),text,,,
+awb3_4_act_1_where,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_1_where,Where do you go to do this activity?,decimal,,1|2|3|4|5|6|7,School/College or higher education|Work|Arts academy or club|Local community center|Church|At home/virtual|Other (please specify)
+awb3_4_act_1_where_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_1_where_othr,Where do you do this activity? (Choice = other),text,,,
+awb3_4_act_2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_2,Second artistic activity done in past month,decimal,,1|10|11|12|13|14|15|16|17|18|2|3|4|5|6|7|8|9,"Attend party, dance, house party, or night club|Visit museums, galleries, or place of historical significance|Voluntary, charity, or community work|Political meeting, march, or rally|Attend religious service|Participate in poetry/spoken word session|Creative writing (outside school)|Perform theatre, dance, circus|Make drawing, painting, sculpture|Make graphic designs, photographs, films/videos|Watch live sport|Sing, play an instrument, or make music|Watch live music concert or gig|Watch play, pantomime, opera, dance, or circus|Read for enjoyment|Attend youth club|Attend explorer scouts/ senior guides|Visit library"
+awb3_4_act_2_who,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_2_who,Who are you doing this activity with?,decimal,,1|2|3,Alone|With friends|Other (please specify)
+awb3_4_act_2_who_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_2_who_othr,Who are you doing this activity with? (choice = other),text,,,
+awb3_4_act_2_where,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_2_where,Where do you go to do this activity?,decimal,,1|2|3|4|5|6|7,School/College or higher education|Work|Arts academy or club|Local community center|Church|At home/virtual|Other (please specify)
+awb3_4_act_2_where_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_2_where_othr,Where do you do this activity? (Choice = other),text,,,
+awb3_4_act_3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_3,Third artistic activity done in past month,decimal,,1|10|11|12|13|14|15|16|17|18|2|3|4|5|6|7|8|9,"Attend party, dance, house party, or night club|Visit museums, galleries, or place of historical significance|Voluntary, charity, or community work|Political meeting, march, or rally|Attend religious service|Participate in poetry/spoken word session|Creative writing (outside school)|Perform theatre, dance, circus|Make drawing, painting, sculpture|Make graphic designs, photographs, films/videos|Watch live sport|Sing, play an instrument, or make music|Watch live music concert or gig|Watch play, pantomime, opera, dance, or circus|Read for enjoyment|Attend youth club|Attend explorer scouts/ senior guides|Visit library"
+awb3_4_act_3_who,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_3_who,Who are you doing this activity with?,decimal,,1|2|3,Alone|With friends|Other (please specify)
+awb3_4_act_3_who_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_3_who_othr,Who are you doing this activity with? (choice = other),text,,,
+awb3_4_act_3_where,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_3_where,Where do you go to do this activity?,decimal,,1|2|3|4|5|6|7,School/College or higher education|Work|Arts academy or club|Local community center|Church|At home/virtual|Other (please specify)
+awb3_4_act_3_where_othr,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_act_3_where_othr,Where do you do this activity? (Choice = other),text,,,
+awb3_4_talent_in_arts___1,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_talent_in_arts___1,Strongly disagree I have great talent in artistic activities,decimal,,0|1,Unchecked|Checked: Strongly disagree
+awb3_4_talent_in_arts___2,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_talent_in_arts___2,Disagree I have great talent in artistic activities,decimal,,0|1,Unchecked|Checked: Disagree
+awb3_4_talent_in_arts___3,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_talent_in_arts___3,Neither agree/disagree I have great talent in artistic activities,decimal,,0|1,Unchecked|Checked: Neither agree nor disagree
+awb3_4_talent_in_arts___4,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_talent_in_arts___4,Agree I have great talent in artistic activities,decimal,,0|1,Unchecked|Checked: Agree
+awb3_4_talent_in_arts___5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_talent_in_arts___5,Strongly agree I have great talent in artistic activities,decimal,,0|1,Unchecked|Checked: Strongly agree
+awb3_4_talent_in_arts_r8,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_talent_in_arts_r8,How much do you agree with the following statement?   I have great talent in art,decimal,,-2|1|2|3|4|5,Revised in version 8|Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
+aw1_2_years_lvd_r4,BiB_AgeOfWonder.survey_mod01_dr23.aw1_2_years_lvd_r4,How many years have you lived in the UK?,decimal,,-2|1|10|11|12|13|14|15|2|3|4|5|6|7|8|9,Revised in version 4|1|10|11|12|13|14|15|2|3|4|5|6|7|8|9
+awb1_2_ethnicity_arb_r4,BiB_AgeOfWonder.survey_mod01_dr23.awb1_2_ethnicity_arb_r4,Arab,decimal,,-2|1|2,Revised in version 4|African Arab|Middle-eastern Arab
+awb2_6_family_brth_n_a5,BiB_AgeOfWonder.survey_mod01_dr23.awb2_6_family_brth_n_a5,Select your birth order. I am...,decimal,,-1|1|10|2|3|4|5|6|7|8|9,Added in version 5|1st born|10th born|2nd born|3rd born|4th born|5th born|6th born|7th born|8th born|9th born
+awb3_4_talent_in_arts,BiB_AgeOfWonder.survey_mod01_dr23.awb3_4_talent_in_arts,How much do you agree with the following statement? I have a great talent in art,decimal,,-3|1|2|3|4|5,Removed in version 8|Strongly disagree|Disagree|Neither agree nor disagree|Agree|Strongly agree
+awb3_1y_save_mny_a5,BiB_AgeOfWonder.survey_mod01_dr23.awb3_1y_save_mny_a5,"",decimal,,-1,Added in version 5
+fas_total,BiB_AgeOfWonder.survey_mod01_dr23.fas_total,Family Affluence Scale (FAS) (higher = more affluent),decimal,,,
+fas_nas,BiB_AgeOfWonder.survey_mod01_dr23.fas_nas,Family Affluence Scale (FAS) NAs,decimal,,,
+fas_missing,BiB_AgeOfWonder.survey_mod01_dr23.fas_missing,Family Affluence Scale (FAS) missing,decimal,,,
+fas_cat,BiB_AgeOfWonder.survey_mod01_dr23.fas_cat,Family Affluence Scale (FAS) categorical,decimal,,1|2|3,Low|Medium|High
+own_fin_total,BiB_AgeOfWonder.survey_mod01_dr23.own_fin_total,Own Financial Resources (higher = more sources),decimal,,,
+own_fin_nas,BiB_AgeOfWonder.survey_mod01_dr23.own_fin_nas,Own Financial Resources NAs,decimal,,,
+own_fin_missing,BiB_AgeOfWonder.survey_mod01_dr23.own_fin_missing,Own Financial Resources missing,decimal,,,
+food_avail_total,BiB_AgeOfWonder.survey_mod01_dr23.food_avail_total,Food Availability (higher = more food insecurity),decimal,,,
+food_avail_nas,BiB_AgeOfWonder.survey_mod01_dr23.food_avail_nas,Food Availability NAs,decimal,,,
+food_avail_missing,BiB_AgeOfWonder.survey_mod01_dr23.food_avail_missing,Food Availability missing,decimal,,,
+sais_total,BiB_AgeOfWonder.survey_mod01_dr23.sais_total,Striving to Avoid Inferiority Scale (higher = greater inferiority avoidance),decimal,,,
+sais_nas,BiB_AgeOfWonder.survey_mod01_dr23.sais_nas,Striving to Avoid Inferiority Scale (SAIS) NAs,decimal,,,
+sais_missing,BiB_AgeOfWonder.survey_mod01_dr23.sais_missing,Striving to Avoid Inferiority Scale (SAIS) missing,decimal,,,
+sais_mean,BiB_AgeOfWonder.survey_mod01_dr23.sais_mean,Striving to Avoid Inferiority Scale (SAIS) mean,decimal,,,

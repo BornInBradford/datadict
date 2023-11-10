@@ -8,6 +8,8 @@ TestMonth,BiB_SDQs.PrimarySchoolYears_sdq.TestMonth,Calendar month of SDQ comple
 PSYTestDay,BiB_SDQs.PrimarySchoolYears_sdq.PSYTestDay,Days elapsed since study start + 50000,decimal,,,
 AgeYears,BiB_SDQs.PrimarySchoolYears_sdq.AgeYears,Child age in years at SDQ completion,decimal,,,
 AgeMonths,BiB_SDQs.PrimarySchoolYears_sdq.AgeMonths,Child age in months at SDQ completion,decimal,,,
+n_sdq,BiB_SDQs.PrimarySchoolYears_sdq.n_sdq,Number of SDQ records for child at this wave,decimal,,,
+order_sdq,BiB_SDQs.PrimarySchoolYears_sdq.order_sdq,Date order of SDQ records for child at this wave,decimal,,,
 dc_mode,BiB_SDQs.PrimarySchoolYears_sdq.dc_mode,Data capture mode: on screen or paper,decimal,,1|2|3,On paper (pilot)|On screen|On paper
 respondent_id,BiB_SDQs.PrimarySchoolYears_sdq.respondent_id,SDQ respondent identifier,decimal,,,
 resp_role,BiB_SDQs.PrimarySchoolYears_sdq.resp_role,SDQ respondent professional role,decimal,,1|2|3|4,Class Teacher|Head of Year|Other|Teaching Assistant
@@ -15,3 +17,43 @@ resp_gender,BiB_SDQs.PrimarySchoolYears_sdq.resp_gender,SDQ respondent gender,de
 resp_age,BiB_SDQs.PrimarySchoolYears_sdq.resp_age,SDQ respondent age,decimal,,,
 resp_qualy,BiB_SDQs.PrimarySchoolYears_sdq.resp_qualy,SDQ respondent years since qualified,decimal,,,
 resp_eth,BiB_SDQs.PrimarySchoolYears_sdq.resp_eth,SDQ respondent ethnicity,decimal,,1|2|3|4|5|6|7,Black|Indian|Mixed White and Black|Other|Pakistani|White British|White Other
+psysdqASDQ1_01,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_01,Considerate of other people's feelings,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_02,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_02,"Restless, overactive, cannot stay still for long",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_03,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_03,"Often complains of headaches, stomach-aches or sickness",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_04,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_04,"Shares readily with other children (treats, toys, pencils etc.)",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_05,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_05,Often has temper tantrums or hot tempers,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_06,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_06,"Rather solitary, tends to play alone",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_07,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_07,"Generally obedient, usually does what adults request",decimal,,0|1|2,Certainly true|Somewhat true|Not true
+psysdqASDQ1_08,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_08,"Many worries, often seems worried",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_09,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_09,"Helpful if someone is hurt, upset or feeling ill",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_10,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_10,Constantly fidgeting or squirming,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_11,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_11,Has at least one good friend,decimal,,0|1|2,Certainly true|Somewhat true|Not true
+psysdqASDQ1_12,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_12,Often fights with other children or bullies them,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_13,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_13,"Often unhappy, down-hearted or tearful",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_14,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_14,Generally liked by other children,decimal,,0|1|2,Certainly true|Somewhat true|Not true
+psysdqASDQ1_15,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_15,"Easily distracted, concentration wanders",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_16,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_16,"Nervous or clingy in new situations, easily loses confidence",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_17,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_17,Kind to younger children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_18,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_18,Often lies or cheats,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_19,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_19,Picked on or bullied by other children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_20,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_20,"Often volunteers to help others (parents, teachers, other children)",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_21,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_21,Thinks things out before acting,decimal,,0|1|2,Certainly true|Somewhat true|Not true
+psysdqASDQ1_22,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_22,"Steals from home, school or elsewhere",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_23,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_23,Gets on better with adults than with other children,decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_24,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_24,"Many fears, easily scared",decimal,,0|1|2,Not true|Somewhat true|Certainly true
+psysdqASDQ1_25,BiB_SDQs.PrimarySchoolYears_sdq.psysdqASDQ1_25,"Sees tasks through to the end, good attention span",decimal,,0|1|2,Certainly true|Somewhat true|Not true
+psysdqBOverallDiffic,BiB_SDQs.PrimarySchoolYears_sdq.psysdqBOverallDiffic,"Overall, do you think that this child has difficulties in one or more of the foll",decimal,,1|2|3|4,No|Yes - minor difficulties|Yes - definite difficulties|Yes - severe difficulties
+psysdqBDifficultLng,BiB_SDQs.PrimarySchoolYears_sdq.psysdqBDifficultLng,How long have these difficulties been present?,decimal,,1|2|3|4,Less than a month|1-5 months|6-12 months|Over a year
+psysdqBDfficultDistr,BiB_SDQs.PrimarySchoolYears_sdq.psysdqBDfficultDistr,Do the difficulties upset or distress the child?,decimal,,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
+psysdqBDfficultInter_1,BiB_SDQs.PrimarySchoolYears_sdq.psysdqBDfficultInter_1,PEER RELATIONSHIPS,decimal,,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
+psysdqBDfficultInter_2,BiB_SDQs.PrimarySchoolYears_sdq.psysdqBDfficultInter_2,CLASSROOM LEARNING,decimal,,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
+psysdqBDfficltBurden,BiB_SDQs.PrimarySchoolYears_sdq.psysdqBDfficltBurden,Do the difficulties put a burden on you or the class as a whole?,decimal,,1|2|3|4,Not at all|Only a little|Quite a lot|A great deal
+psysdqsc_empr,BiB_SDQs.PrimarySchoolYears_sdq.psysdqsc_empr,SDQ emotional problems scale,decimal,,,
+psysdqsc_cond,BiB_SDQs.PrimarySchoolYears_sdq.psysdqsc_cond,SDQ conduct problems scale,decimal,,,
+psysdqsc_hypr,BiB_SDQs.PrimarySchoolYears_sdq.psysdqsc_hypr,SDQ hyperactivity scale,decimal,,,
+psysdqsc_peer,BiB_SDQs.PrimarySchoolYears_sdq.psysdqsc_peer,SDQ peer problems scale,decimal,,,
+psysdqsc_pros,BiB_SDQs.PrimarySchoolYears_sdq.psysdqsc_pros,SDQ prosocial scale,decimal,,,
+psysdqsc_ext,BiB_SDQs.PrimarySchoolYears_sdq.psysdqsc_ext,SDQ externalising scale,decimal,,,
+psysdqsc_int,BiB_SDQs.PrimarySchoolYears_sdq.psysdqsc_int,SDQ internalising scale,decimal,,,
+psysdqsc_total,BiB_SDQs.PrimarySchoolYears_sdq.psysdqsc_total,SDQ total difficulties score,decimal,,,
+psysdqsc_impact,BiB_SDQs.PrimarySchoolYears_sdq.psysdqsc_impact,SDQ teacher reported impact score,decimal,,,

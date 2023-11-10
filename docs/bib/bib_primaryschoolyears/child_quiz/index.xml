@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primary School Years child quiz on Born in Bradford Data Dictionary</title>
+    <link>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_quiz/</link>
+    <description>Recent content in Primary School Years child quiz on Born in Bradford Data Dictionary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_quiz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primary School Years child quiz BiB only</title>
+      <link>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_quiz/child_quiz_bib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borninbradford.github.io/datadict/bib/bib_primaryschoolyears/child_quiz/child_quiz_bib/</guid>
+      <description>Table ID: BiB_PrimarySchoolYears.child_quiz_bib
+github | csv
+   Entity type Variables Entities Updated     Participant 91 6147 2022-10-01    Copy of child_quiz only containing BiB records
+   variable label value_type summary     BiBPersonID  text 6147 unique values
+6147 non-missing values
+8 characters
+   PSYSchoolID Primary School Years: School pseudonym decimal mean (sd)
+139.63 (23.91)
+min &amp;lt; median &amp;lt; max</description>
+    </item>
+    
+  </channel>
+</rss>
