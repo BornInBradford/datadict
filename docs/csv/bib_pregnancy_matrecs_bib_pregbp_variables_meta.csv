@@ -1,0 +1,10 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Pregnancy.matrecs_bib_pregbp.BiBPersonID,BiB_Pregnancy.matrecs_bib_pregbp,BiB_Pregnancy,matrecs_bib_pregbp,BiBPersonID,,text,,,117578,10005
+BiB_Pregnancy.matrecs_bib_pregbp.BiBPregNumber,BiB_Pregnancy.matrecs_bib_pregbp,BiB_Pregnancy,matrecs_bib_pregbp,BiBPregNumber,Cohort recruited pregnancy number,integer,,administration,117578,10005
+BiB_Pregnancy.matrecs_bib_pregbp.has_matrecs_bib_pregbp,BiB_Pregnancy.matrecs_bib_pregbp,BiB_Pregnancy,matrecs_bib_pregbp,has_matrecs_bib_pregbp,Has maternity records pregnancy blood pressure,integer,,administration,117578,10005
+BiB_Pregnancy.matrecs_bib_pregbp.has_prnbpp,BiB_Pregnancy.matrecs_bib_pregbp,BiB_Pregnancy,matrecs_bib_pregbp,has_prnbpp,Has: Maternal records: Pregnancy blood pressure,categorical,[1 has],administration,117578,10005
+BiB_Pregnancy.matrecs_bib_pregbp.prnpregbpdiastolic,BiB_Pregnancy.matrecs_bib_pregbp,BiB_Pregnancy,matrecs_bib_pregbp,prnpregbpdiastolic,Pregnancy diastolic blood pressure,integer,,cardiovascular_system,117578,10005
+BiB_Pregnancy.matrecs_bib_pregbp.prnpregbpgestaged,BiB_Pregnancy.matrecs_bib_pregbp,BiB_Pregnancy,matrecs_bib_pregbp,prnpregbpgestaged,Gestational age in days at pregnancy BP measurement,integer,,age,117578,10005
+BiB_Pregnancy.matrecs_bib_pregbp.prnpregbpgestagew,BiB_Pregnancy.matrecs_bib_pregbp,BiB_Pregnancy,matrecs_bib_pregbp,prnpregbpgestagew,Gestational age in weeks at pregnancy BP measurement,integer,,age,117578,10005
+BiB_Pregnancy.matrecs_bib_pregbp.prnpregbpsystolic,BiB_Pregnancy.matrecs_bib_pregbp,BiB_Pregnancy,matrecs_bib_pregbp,prnpregbpsystolic,Pregnancy systolic blood pressure,integer,,cardiovascular_system,117578,10005
+BiB_Pregnancy.matrecs_bib_pregbp.prnpregbptime,BiB_Pregnancy.matrecs_bib_pregbp,BiB_Pregnancy,matrecs_bib_pregbp,prnpregbptime,Time pregnancy blood pressure was taken,text,,administration,117578,10005

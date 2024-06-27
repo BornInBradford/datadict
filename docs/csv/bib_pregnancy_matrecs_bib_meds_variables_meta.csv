@@ -1,0 +1,8 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Pregnancy.matrecs_bib_meds.BiBPersonID,BiB_Pregnancy.matrecs_bib_meds,BiB_Pregnancy,matrecs_bib_meds,BiBPersonID,,text,,,4937,3664
+BiB_Pregnancy.matrecs_bib_meds.BiBPregNumber,BiB_Pregnancy.matrecs_bib_meds,BiB_Pregnancy,matrecs_bib_meds,BiBPregNumber,Cohort recruited pregnancy number,integer,,administration,4937,3664
+BiB_Pregnancy.matrecs_bib_meds.has_matrecs_bib_meds,BiB_Pregnancy.matrecs_bib_meds,BiB_Pregnancy,matrecs_bib_meds,has_matrecs_bib_meds,Has,integer,,administration,4937,3664
+BiB_Pregnancy.matrecs_bib_meds.has_prnmed,BiB_Pregnancy.matrecs_bib_meds,BiB_Pregnancy,matrecs_bib_meds,has_prnmed,Has: Maternal records: meds during BiB pregnancy,categorical,[1 has],administration,4937,3664
+BiB_Pregnancy.matrecs_bib_meds.prnbpothmedhasstd,BiB_Pregnancy.matrecs_bib_meds,BiB_Pregnancy,matrecs_bib_meds,prnbpothmedhasstd,Other meds: raw value has standardised value,integer,,medications,4187,3169
+BiB_Pregnancy.matrecs_bib_meds.prnbpothmedraw,BiB_Pregnancy.matrecs_bib_meds,BiB_Pregnancy,matrecs_bib_meds,prnbpothmedraw,Other meds in last 6 mo (raw),text,,medications,4937,3664
+BiB_Pregnancy.matrecs_bib_meds.prnbpothmedstd,BiB_Pregnancy.matrecs_bib_meds,BiB_Pregnancy,matrecs_bib_meds,prnbpothmedstd,Other meds in last 6 mo (standardised),text,,medications,4937,3664

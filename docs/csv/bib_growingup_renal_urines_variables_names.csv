@@ -1,0 +1,13 @@
+project,table,variable
+BiB_GrowingUp,renal_urines,BiBPersonID
+BiB_GrowingUp,renal_urines,age_in_months
+BiB_GrowingUp,renal_urines,age_in_years
+BiB_GrowingUp,renal_urines,urine_rbp
+BiB_GrowingUp,renal_urines,urine_creat
+BiB_GrowingUp,renal_urines,urine_creat_low
+BiB_GrowingUp,renal_urines,urine_album
+BiB_GrowingUp,renal_urines,urine_album_low
+BiB_GrowingUp,renal_urines,urine_prot
+BiB_GrowingUp,renal_urines,urine_prot_low
+BiB_GrowingUp,renal_urines,alb_creat_rat
+BiB_GrowingUp,renal_urines,prot_creat_rat

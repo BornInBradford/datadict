@@ -1,0 +1,15 @@
+project,table,variable
+BiB_PrimarySchoolYears,ef_task_bdr,PSYChildID
+BiB_PrimarySchoolYears,ef_task_bdr,PSYSchoolID
+BiB_PrimarySchoolYears,ef_task_bdr,PSYClassID
+BiB_PrimarySchoolYears,ef_task_bdr,TestYearGroup
+BiB_PrimarySchoolYears,ef_task_bdr,TestAcadTerm
+BiB_PrimarySchoolYears,ef_task_bdr,TestYear
+BiB_PrimarySchoolYears,ef_task_bdr,TestMonth
+BiB_PrimarySchoolYears,ef_task_bdr,PSYTestDay
+BiB_PrimarySchoolYears,ef_task_bdr,AgeYears
+BiB_PrimarySchoolYears,ef_task_bdr,AgeMonths
+BiB_PrimarySchoolYears,ef_task_bdr,PSYTabletID
+BiB_PrimarySchoolYears,ef_task_bdr,EFSessionID
+BiB_PrimarySchoolYears,ef_task_bdr,bdr_summary
+BiB_PrimarySchoolYears,ef_task_bdr,bdr_rowcount

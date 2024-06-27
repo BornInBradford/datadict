@@ -1,0 +1,21 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_AgeOfWonder.skinfold_dr23.aow_person_id,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,aow_person_id,Age of Wonder person ID,text,,,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.BiBPersonID,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,BiBPersonID,BiB cohort person ID,text,,administration,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.is_bib,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,is_bib,Participant is in original BiB cohort,integer,,administration,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.aow_recruitment_id,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,aow_recruitment_id,Age of Wonder recruitment ID,text,,administration,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.recruitment_era,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,recruitment_era,Recruitment era (academic year),text,,administration,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.age_recruitment_y,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,age_recruitment_y,Age at recruitment in years,integer,,age,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.age_recruitment_m,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,age_recruitment_m,Age at recruitment in months,integer,,age,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.sex,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,sex,Gender reported by school,categorical,[1 Female] [2 Male],gender,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.ethnicity_1,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,ethnicity_1,Ethnicity reported by school - higher level category,categorical,"[1 Asian or Asian British] [2 Black, Black British, Caribbean or African] [3 Mixed or multiple ethnic groups] [4 White] [5 Other ethnic group] [97 Data provided but ethnicity not stated] [98 Data provided but unmapped] [99 Data not provided]",ethnic_group,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.ethnicity_2,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,ethnicity_2,Ethnicity reported by school - lower level category,categorical,"[11 Indian] [12 Pakistani] [13 Bangladeshi] [14 Chinese] [15 Any other Asian background] [21 Caribbean] [22 African] [23 Any other Black, Black British, or Caribbean background] [31 White and Black Caribbean] [32 White and Black African] [33 White and Asian] [34 Any other Mixed or multiple ethnic background] [41 English, Welsh, Scottish, Northern Irish or British] [42 Irish] [43 Gypsy or Irish Traveller] [44 Roma] [45 Any other White background] [51 Arab] [52 Any other ethnic group] [97 Data provided but ethnicity not stated] [98 Data provided but unmapped] [99 Data not provided]",ethnic_group,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.birth_year,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,birth_year,Year of birth,integer,,age,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.birth_month,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,birth_month,Month of birth,integer,,age,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.school_id,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,school_id,Pseudo school ID,text,,administration,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.year_group,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,year_group,Year group at recruitment,text,,education,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.form_tutor_id,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,form_tutor_id,Pseudo recruitment form tutor ID,text,,administration,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.date_measurement,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,date_measurement,Date of measurement,date,,administration,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.age_m,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,age_m,Age (months) at measurement,integer,,age,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.age_y,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,age_y,Age (years) at measurement,integer,,age,1600,1519
+BiB_AgeOfWonder.skinfold_dr23.sk_tricep,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,sk_tricep,Triceps fold (mm),float,,anthropometry,1558,1478
+BiB_AgeOfWonder.skinfold_dr23.sk_subscap,BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,sk_subscap,Subscapular fold (mm),float,,anthropometry,1218,1159

@@ -1,0 +1,14 @@
+project,table,variable
+BiB_Biosamples,maternal_iodine,BiBPregNumber
+BiB_Biosamples,maternal_iodine,BiBMotherID
+BiB_Biosamples,maternal_iodine,AliquotID
+BiB_Biosamples,maternal_iodine,ShippingDate
+BiB_Biosamples,maternal_iodine,ArrivalDate
+BiB_Biosamples,maternal_iodine,BatchNumber
+BiB_Biosamples,maternal_iodine,BoxNumber
+BiB_Biosamples,maternal_iodine,IodineAnalysisDate
+BiB_Biosamples,maternal_iodine,IodineConcentration
+BiB_Biosamples,maternal_iodine,CreatinineAnalysisDate
+BiB_Biosamples,maternal_iodine,CreRunNumber
+BiB_Biosamples,maternal_iodine,CreatinineConcentration
+BiB_Biosamples,maternal_iodine,ICrRatio

@@ -1,0 +1,18 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Biosamples.blood_tests.BiBPersonID,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,BiBPersonID,,text,,,6161,6124
+BiB_Biosamples.blood_tests.TestDate,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,TestDate,Date sample was taken,date,,administration,6161,6124
+BiB_Biosamples.blood_tests.TotalTests,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,TotalTests,Total blood test occasions within GU,integer,,administration,6161,6124
+BiB_Biosamples.blood_tests.TestDateOrder,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,TestDateOrder,Date order of test occasions within GU,integer,,administration,6161,6124
+BiB_Biosamples.blood_tests.AgeInYears,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,AgeInYears,"Age at GU blood test, years",integer,,age,6161,6124
+BiB_Biosamples.blood_tests.AgeInMonths,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,AgeInMonths,"Age at GU blood test, months",integer,,age,6161,6124
+BiB_Biosamples.blood_tests.hb,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,hb,Haemoglobin (g/L),integer,,hemic_and_immune_systems,6059,6027
+BiB_Biosamples.blood_tests.wbc,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,wbc,White Blood Cell Count(g/L),float,,hemic_and_immune_systems,6059,6027
+BiB_Biosamples.blood_tests.platelets,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,platelets,Platelets (10^9/L),integer,,hemic_and_immune_systems,6058,6026
+BiB_Biosamples.blood_tests.mcv,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,mcv,Mean Cell Volume (f/L),integer,,hemic_and_immune_systems,6059,6027
+BiB_Biosamples.blood_tests.hba1c,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,hba1c,HBA1C (IFCC),integer,,endocrine_system,6010,5979
+BiB_Biosamples.blood_tests.triglycerides,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,triglycerides,Triglycerides  (mmol/L),float,,physical_health,6109,6079
+BiB_Biosamples.blood_tests.cholesterol,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,cholesterol,Cholesterol (mmol/L),float,,cardiovascular_system,6104,6074
+BiB_Biosamples.blood_tests.hdl,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,hdl,HDL (mmol/L),float,,cardiovascular_system,6099,6069
+BiB_Biosamples.blood_tests.ldl,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,ldl,LDL (mmol/L),float,,cardiovascular_system,6019,5990
+BiB_Biosamples.blood_tests.cholhdl_ratio,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,cholhdl_ratio,Cholesterol/HDL Ratio,float,,cardiovascular_system,6099,6069
+BiB_Biosamples.blood_tests.nonhdlchol,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,nonhdlchol,Non HDL Cholesterol,float,,cardiovascular_system,6099,6069

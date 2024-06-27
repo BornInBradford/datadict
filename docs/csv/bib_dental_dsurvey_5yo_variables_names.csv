@@ -1,0 +1,9 @@
+project,table,variable
+BiB_Dental,dsurvey_5yo,BiBPersonID
+BiB_Dental,dsurvey_5yo,has_dsurvey_5yo
+BiB_Dental,dsurvey_5yo,AgeMths
+BiB_Dental,dsurvey_5yo,ddsdt
+BiB_Dental,dsurvey_5yo,ddsmt
+BiB_Dental,dsurvey_5yo,ddsft
+BiB_Dental,dsurvey_5yo,ddsdmft
+BiB_Dental,dsurvey_5yo,ddscareindex

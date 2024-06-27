@@ -1,0 +1,15 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_PrimarySchoolYears.ef_task_bdr.PSYChildID,BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,PSYChildID,,text,,,15179,15179
+BiB_PrimarySchoolYears.ef_task_bdr.PSYSchoolID,BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,PSYSchoolID,Primary School Years: School pseudonym,integer,,administration,15179,15179
+BiB_PrimarySchoolYears.ef_task_bdr.PSYClassID,BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,PSYClassID,Primary School Years: Class pseudonym,integer,,administration,15179,15179
+BiB_PrimarySchoolYears.ef_task_bdr.TestYearGroup,BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,TestYearGroup,Year group of BDR completion,integer,,administration,15179,15179
+BiB_PrimarySchoolYears.ef_task_bdr.TestAcadTerm,BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,TestAcadTerm,Academic term of BDR completion,categorical,[1 Autumn] [2 Spring] [3 Summer],administration,15179,15179
+BiB_PrimarySchoolYears.ef_task_bdr.TestYear,BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,TestYear,Calendar year of BDR completion,integer,,administration,15179,15179
+BiB_PrimarySchoolYears.ef_task_bdr.TestMonth,BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,TestMonth,Calendar month of BDR completion,integer,,administration,15179,15179
+BiB_PrimarySchoolYears.ef_task_bdr.PSYTestDay,BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,PSYTestDay,Days elapsed since study start + 50000,integer,,administration,15179,15179
+BiB_PrimarySchoolYears.ef_task_bdr.AgeYears,BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,AgeYears,Child age in years at BDR completion,integer,,age,15179,15179
+BiB_PrimarySchoolYears.ef_task_bdr.AgeMonths,BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,AgeMonths,Child age in months at BDR completion,integer,,age,15179,15179
+BiB_PrimarySchoolYears.ef_task_bdr.PSYTabletID,BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,PSYTabletID,Tablet computer used for testing,integer,,administration,15179,15179
+BiB_PrimarySchoolYears.ef_task_bdr.EFSessionID,BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,EFSessionID,Testing software session ID,integer,,administration,15179,15179
+BiB_PrimarySchoolYears.ef_task_bdr.bdr_summary,BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,bdr_summary,Summary test score for BDR,float,,cognitive_skills,15149,15149
+BiB_PrimarySchoolYears.ef_task_bdr.bdr_rowcount,BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,bdr_rowcount,Number of rows in BDR trials raw data file for the session,integer,,cognitive_skills,15179,15179

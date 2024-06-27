@@ -1,0 +1,4 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Biosamples.covid_antibody_blood_tests.BiBPersonID,BiB_Biosamples.covid_antibody_blood_tests,BiB_Biosamples,covid_antibody_blood_tests,BiBPersonID,,text,,,286,152
+BiB_Biosamples.covid_antibody_blood_tests.covidtestdate,BiB_Biosamples.covid_antibody_blood_tests,BiB_Biosamples,covid_antibody_blood_tests,covidtestdate,Date of covid test,date,,administration,286,152
+BiB_Biosamples.covid_antibody_blood_tests.ABresult,BiB_Biosamples.covid_antibody_blood_tests,BiB_Biosamples,covid_antibody_blood_tests,ABresult,Covid anitbody test result,categorical,[1 Detected] [2 Equivocal] [3 Not Detected],hemic_and_immune_systems,286,152

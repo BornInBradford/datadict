@@ -1,0 +1,8 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_ALL_IN.allin12_ct.BiBPersonID,BiB_ALL_IN.allin12_ct,BiB_ALL_IN,allin12_ct,BiBPersonID,,text,,,2581,2553
+BiB_ALL_IN.allin12_ct.has_allin12_ct,BiB_ALL_IN.allin12_ct,BiB_ALL_IN,allin12_ct,has_allin12_ct,Has all in 12m child travel,integer,,administration,2581,2553
+BiB_ALL_IN.allin12_ct.all12k1agemths,BiB_ALL_IN.allin12_ct,BiB_ALL_IN,allin12_ct,all12k1agemths,Age when travelled in months,integer,,travel_and_transport,274,252
+BiB_ALL_IN.allin12_ct.all12k1agena,BiB_ALL_IN.allin12_ct,BiB_ALL_IN,allin12_ct,all12k1agena,Age when travelled in months NA,integer,,travel_and_transport,197,186
+BiB_ALL_IN.allin12_ct.all12k1country,BiB_ALL_IN.allin12_ct,BiB_ALL_IN,allin12_ct,all12k1country,Country visited,text,,travel_and_transport,2581,2553
+BiB_ALL_IN.allin12_ct.all12k1visitlength,BiB_ALL_IN.allin12_ct,BiB_ALL_IN,allin12_ct,all12k1visitlength,Length of visit weeks,integer,,travel_and_transport,364,336
+BiB_ALL_IN.allin12_ct.has_all1qs,BiB_ALL_IN.allin12_ct,BiB_ALL_IN,allin12_ct,has_all1qs,Has ALL IN 12m questionnaire,categorical,[1 has],administration,2581,2553

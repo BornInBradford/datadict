@@ -1,0 +1,14 @@
+project,table,variable
+BiB_ChildGrowth,anthropometry,BiBChildID
+BiB_ChildGrowth,anthropometry,cgrowthsource
+BiB_ChildGrowth,anthropometry,date
+BiB_ChildGrowth,anthropometry,agecd_cgrowth
+BiB_ChildGrowth,anthropometry,agecm_cgrowth
+BiB_ChildGrowth,anthropometry,agecy_cgrowth
+BiB_ChildGrowth,anthropometry,cabdo
+BiB_ChildGrowth,anthropometry,chead
+BiB_ChildGrowth,anthropometry,flag_head
+BiB_ChildGrowth,anthropometry,csubscap
+BiB_ChildGrowth,anthropometry,ctriceps
+BiB_ChildGrowth,anthropometry,cmidarm
+BiB_ChildGrowth,anthropometry,cthigh

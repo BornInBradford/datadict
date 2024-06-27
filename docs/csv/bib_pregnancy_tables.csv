@@ -1,0 +1,17 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_Pregnancy.eclipse_preg,BiB_Pregnancy,eclipse_preg,Eclipse pregnancy record,bib,participant,,,35,13361,12075,2024-05-14 09:13:56
+BiB_Pregnancy.eclipse_baby,BiB_Pregnancy,eclipse_baby,Eclipse neonatal record,bib,participant,,,29,13525,13525,2024-05-14 09:13:55
+BiB_Pregnancy.matrecs_bib_mum,BiB_Pregnancy,matrecs_bib_mum,Maternity records mother info,bib,participant,,,4,10142,10142,2024-05-14 09:13:58
+BiB_Pregnancy.matrecs_prebib_preg,BiB_Pregnancy,matrecs_prebib_preg,Maternity records pre-BiB pregnancy,bib,participant,,,13,10642,5611,2024-05-14 09:14:05
+BiB_Pregnancy.matrecs_prebib_inf,BiB_Pregnancy,matrecs_prebib_inf,Maternity records pre-BiB infant,bib,participant,,,10,10660,5602,2024-05-14 09:14:05
+BiB_Pregnancy.matrecs_bib_preg,BiB_Pregnancy,matrecs_bib_preg,Maternity records BiB pregnancy,bib,participant,,,143,10939,10041,2024-05-14 09:14:00
+BiB_Pregnancy.matrecs_bib_admiss,BiB_Pregnancy,matrecs_bib_admiss,Maternity records admissions,bib,participant,,,17,858,813,2024-05-14 09:13:57
+BiB_Pregnancy.matrecs_bib_pregbp,BiB_Pregnancy,matrecs_bib_pregbp,Maternity records pregnancy blood pressure,bib,participant,,,8,117578,10005,2024-05-14 09:14:04
+BiB_Pregnancy.matrecs_bib_labbp,BiB_Pregnancy,matrecs_bib_labbp,Maternity records labour blood pressure,bib,participant,,,8,8643,7995,2024-05-14 09:13:58
+BiB_Pregnancy.matrecs_bib_postbp,BiB_Pregnancy,matrecs_bib_postbp,Maternity records post-partum blood pressure,bib,participant,,,7,36379,9292,2024-05-14 09:13:59
+BiB_Pregnancy.matrecs_bib_meds,BiB_Pregnancy,matrecs_bib_meds,Maternity records medications,bib,participant,,,6,4937,3664,2024-05-14 09:13:58
+BiB_Pregnancy.matrecs_bib_oedema,BiB_Pregnancy,matrecs_bib_oedema,Maternity records oedema,bib,participant,,,12,6658,3151,2024-05-14 09:13:58
+BiB_Pregnancy.matrecs_bib_proteinuria,BiB_Pregnancy,matrecs_bib_proteinuria,Maternity records proteinuria,bib,participant,,,7,17300,6918,2024-05-14 09:14:05
+BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,Maternity records BiB infant,bib,participant,,,13,11010,11010,2024-05-14 09:13:58
+BiB_Pregnancy.pregnancy_ultrasound,BiB_Pregnancy,pregnancy_ultrasound,Pregnancy ultrasound scan,bib,participant,,,59,45835,11979,2024-05-14 09:14:09
+BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,Fetal renal ultrasound,bib,participant,,,59,1803,1781,2024-05-14 09:13:57

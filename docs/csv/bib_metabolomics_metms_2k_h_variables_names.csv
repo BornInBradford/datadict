@@ -1,0 +1,8 @@
+project,table,variable
+BiB_Metabolomics,metms_2k_h,BiBPersonID
+BiB_Metabolomics,metms_2k_h,BiBPregNumber
+BiB_Metabolomics,metms_2k_h,has_metms_2k_h
+BiB_Metabolomics,metms_2k_h,metm2msamplename
+BiB_Metabolomics,metms_2k_h,metm2mboxid
+BiB_Metabolomics,metms_2k_h,metm2mboxwell
+BiB_Metabolomics,metms_2k_h,metm2mrunday

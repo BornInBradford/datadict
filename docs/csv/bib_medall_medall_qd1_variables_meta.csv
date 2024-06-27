@@ -1,0 +1,18 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_MeDALL.medall_qd1.BiBPersonID,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,BiBPersonID,,text,,,2604,2594
+BiB_MeDALL.medall_qd1.has_medall_qd1,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,has_medall_qd1,Has medall questionnaire: reactions to food,integer,,administration,2604,2594
+BiB_MeDALL.medall_qd1.has_medqst,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,has_medqst,Has MeDALL questionnaire,categorical,[1 has],administration,2604,2594
+BiB_MeDALL.medall_qd1.medd1hbrt,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,medd1hbrt,Reaction was feeling of breathlessness,categorical,[1 Yes],allergies,9,8
+BiB_MeDALL.medall_qd1.medd1hfac,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,medd1hfac,Reaction was face swelling,categorical,[1 Yes],allergies,33,30
+BiB_MeDALL.medall_qd1.medd1hfds,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,medd1hfds,Description of other food causing reaction,text,,allergies,2604,2594
+BiB_MeDALL.medall_qd1.medd1hfnt,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,medd1hfnt,Reaction was faintness,categorical,[1 Yes],allergies,2,1
+BiB_MeDALL.medall_qd1.medd1hlcn,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,medd1hlcn,Reaction was loss of consciousness,categorical,[1 Yes],allergies,0,0
+BiB_MeDALL.medall_qd1.medd1hlip,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,medd1hlip,Reaction was lips swelling,categorical,[1 Yes],allergies,29,27
+BiB_MeDALL.medall_qd1.medd1hmn,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,medd1hmn,Age when other food reaction started months,integer,,allergies,128,118
+BiB_MeDALL.medall_qd1.medd1hoth,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,medd1hoth,Reaction was other,categorical,[1 Yes],allergies,19,19
+BiB_MeDALL.medall_qd1.medd1hqun,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,medd1hqun,Reaction was quincke’s oedema,categorical,[1 Yes],allergies,1,1
+BiB_MeDALL.medall_qd1.medd1hras,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,medd1hras,Reaction was generalised rash,categorical,[1 Yes],allergies,73,69
+BiB_MeDALL.medall_qd1.medd1hrds,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,medd1hrds,Other reaction description,text,,allergies,2604,2594
+BiB_MeDALL.medall_qd1.medd1hsr,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,medd1hsr,Child still having reactions when other food,categorical,[1 Yes] [2 No] [3 Don't know],allergies,127,118
+BiB_MeDALL.medall_qd1.medd1hvom,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,medd1hvom,Reaction was vomiting or diarrhea,categorical,[1 Yes],allergies,19,17
+BiB_MeDALL.medall_qd1.medd1hyr,BiB_MeDALL.medall_qd1,BiB_MeDALL,medall_qd1,medd1hyr,Age when other food reaction started years,integer,,allergies,130,120

@@ -1,0 +1,10 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_StartingSchool.stschool_bpvs.SSChildID,BiB_StartingSchool.stschool_bpvs,BiB_StartingSchool,stschool_bpvs,SSChildID,Starting School Child ID,text,,,6657,6657
+BiB_StartingSchool.stschool_bpvs.BiBPersonID,BiB_StartingSchool.stschool_bpvs,BiB_StartingSchool,stschool_bpvs,BiBPersonID,,text,,administration,6657,6657
+BiB_StartingSchool.stschool_bpvs.has_stschool_bpvs,BiB_StartingSchool.stschool_bpvs,BiB_StartingSchool,stschool_bpvs,has_stschool_bpvs,Has starting school: bpvs,integer,,administration,6657,6657
+BiB_StartingSchool.stschool_bpvs.has_ssbpvs,BiB_StartingSchool.stschool_bpvs,BiB_StartingSchool,stschool_bpvs,has_ssbpvs,Has Starting School BPVS,categorical,[1 has],administration,6657,6657
+BiB_StartingSchool.stschool_bpvs.ssbpvsBasalSet,BiB_StartingSchool.stschool_bpvs,BiB_StartingSchool,stschool_bpvs,ssbpvsBasalSet,BPVS Basal Set,integer,,cognitive_skills,6657,6657
+BiB_StartingSchool.stschool_bpvs.ssbpvsCeilingSet,BiB_StartingSchool.stschool_bpvs,BiB_StartingSchool,stschool_bpvs,ssbpvsCeilingSet,BPVS Ceiling Set,integer,,cognitive_skills,6657,6657
+BiB_StartingSchool.stschool_bpvs.ssbpvschronage,BiB_StartingSchool.stschool_bpvs,BiB_StartingSchool,stschool_bpvs,ssbpvschronage,BPVS Chronological Age,float,,cognitive_skills,6635,6635
+BiB_StartingSchool.stschool_bpvs.ssbpvsrawscore,BiB_StartingSchool.stschool_bpvs,BiB_StartingSchool,stschool_bpvs,ssbpvsrawscore,BPVS Raw Score,integer,,cognitive_skills,6635,6635
+BiB_StartingSchool.stschool_bpvs.ssbpvsstandardised,BiB_StartingSchool.stschool_bpvs,BiB_StartingSchool,stschool_bpvs,ssbpvsstandardised,BPVS Standardised Score,integer,,cognitive_skills,6635,6635

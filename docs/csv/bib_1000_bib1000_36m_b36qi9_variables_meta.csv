@@ -1,0 +1,6 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_1000.bib1000_36m_b36qi9.BiBPersonID,BiB_1000.bib1000_36m_b36qi9,BiB_1000,bib1000_36m_b36qi9,BiBPersonID,,text,,,1238,1232
+BiB_1000.bib1000_36m_b36qi9.has_bib1000_36m_b36qi9,BiB_1000.bib1000_36m_b36qi9,BiB_1000,bib1000_36m_b36qi9,has_bib1000_36m_b36qi9,Has bib 1000 36m physical activity clubs (child),integer,,administration,1238,1232
+BiB_1000.bib1000_36m_b36qi9.bib36i9mins,BiB_1000.bib1000_36m_b36qi9,BiB_1000,bib1000_36m_b36qi9,bib36i9mins,Minutes spent doing physical activity,integer,,physical_activity,86,80
+BiB_1000.bib1000_36m_b36qi9.bib36i9programme,BiB_1000.bib1000_36m_b36qi9,BiB_1000,bib1000_36m_b36qi9,bib36i9programme,Physical activity programme,text,,physical_activity,1238,1232
+BiB_1000.bib1000_36m_b36qi9.has_b36tab,BiB_1000.bib1000_36m_b36qi9,BiB_1000,bib1000_36m_b36qi9,has_b36tab,Has: BiB 1000 Questionnaire: bib36_maintable,categorical,[1 has],administration,1238,1232

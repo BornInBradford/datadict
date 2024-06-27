@@ -1,0 +1,46 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Glycomics.glycomics.BiBPersonID,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,BiBPersonID,BiB Person Identifier,text,,,976,976
+BiB_Glycomics.glycomics.ParticipantType,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,ParticipantType,Participant type,text,,,976,976
+BiB_Glycomics.glycomics.Barcode,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,Barcode,Sample barcode,text,,,976,976
+BiB_Glycomics.glycomics.Plate,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,Plate,Sample plate number,integer,,,976,976
+BiB_Glycomics.glycomics.Row,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,Row,Sample row number,text,,,976,976
+BiB_Glycomics.glycomics.Column,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,Column,Sample column number,integer,,,976,976
+BiB_Glycomics.glycomics.GP1,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP1,Peak # GP1,float,,,976,976
+BiB_Glycomics.glycomics.GP2,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP2,Peak # GP2,float,,,976,976
+BiB_Glycomics.glycomics.GP3,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP3,Peak # GP3,float,,,976,976
+BiB_Glycomics.glycomics.GP4,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP4,Peak # GP4,float,,,976,976
+BiB_Glycomics.glycomics.GP5,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP5,Peak # GP5,float,,,976,976
+BiB_Glycomics.glycomics.GP6,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP6,Peak # GP6,float,,,976,976
+BiB_Glycomics.glycomics.GP7,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP7,Peak # GP7,float,,,976,976
+BiB_Glycomics.glycomics.GP8,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP8,Peak # GP8,float,,,976,976
+BiB_Glycomics.glycomics.GP9,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP9,Peak # GP9,float,,,976,976
+BiB_Glycomics.glycomics.GP10,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP10,Peak # GP10,float,,,976,976
+BiB_Glycomics.glycomics.GP11,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP11,Peak # GP11,float,,,976,976
+BiB_Glycomics.glycomics.GP12,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP12,Peak # GP12,float,,,976,976
+BiB_Glycomics.glycomics.GP13,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP13,Peak # GP13,float,,,976,976
+BiB_Glycomics.glycomics.GP14,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP14,Peak # GP14,float,,,976,976
+BiB_Glycomics.glycomics.GP15,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP15,Peak # GP15,float,,,976,976
+BiB_Glycomics.glycomics.GP16,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP16,Peak # GP16,float,,,976,976
+BiB_Glycomics.glycomics.GP17,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP17,Peak # GP17,float,,,976,976
+BiB_Glycomics.glycomics.GP18,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP18,Peak # GP18,float,,,976,976
+BiB_Glycomics.glycomics.GP19,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP19,Peak # GP19,float,,,976,976
+BiB_Glycomics.glycomics.GP20,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP20,Peak # GP20,float,,,976,976
+BiB_Glycomics.glycomics.GP21,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP21,Peak # GP21,float,,,976,976
+BiB_Glycomics.glycomics.GP22,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP22,Peak # GP22,float,,,976,976
+BiB_Glycomics.glycomics.GP23,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP23,Peak # GP23,float,,,976,976
+BiB_Glycomics.glycomics.GP24,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP24,Peak # GP24,float,,,976,976
+BiB_Glycomics.glycomics.GP25,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP25,Peak # GP25,float,,,976,976
+BiB_Glycomics.glycomics.GP26,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP26,Peak # GP26,float,,,976,976
+BiB_Glycomics.glycomics.GP27,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP27,Peak # GP27,float,,,976,976
+BiB_Glycomics.glycomics.GP28,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP28,Peak # GP28,float,,,976,976
+BiB_Glycomics.glycomics.GP29,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP29,Peak # GP29,float,,,976,976
+BiB_Glycomics.glycomics.GP30,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP30,Peak # GP30,float,,,976,976
+BiB_Glycomics.glycomics.GP31,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP31,Peak # GP31,float,,,976,976
+BiB_Glycomics.glycomics.GP32,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP32,Peak # GP32,float,,,976,976
+BiB_Glycomics.glycomics.GP33,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP33,Peak # GP33,float,,,976,976
+BiB_Glycomics.glycomics.GP34,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP34,Peak # GP34,float,,,976,976
+BiB_Glycomics.glycomics.GP35,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP35,Peak # GP35,float,,,976,976
+BiB_Glycomics.glycomics.GP36,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP36,Peak # GP36,float,,,976,976
+BiB_Glycomics.glycomics.GP37,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP37,Peak # GP37,float,,,976,976
+BiB_Glycomics.glycomics.GP38,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP38,Peak # GP38,float,,,976,976
+BiB_Glycomics.glycomics.GP39,BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,GP39,Peak # GP39,float,,,976,976

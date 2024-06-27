@@ -1,0 +1,9 @@
+project,table,variable
+BiB_Pregnancy,matrecs_bib_postbp,BiBPersonID
+BiB_Pregnancy,matrecs_bib_postbp,BiBPregNumber
+BiB_Pregnancy,matrecs_bib_postbp,has_matrecs_bib_postbp
+BiB_Pregnancy,matrecs_bib_postbp,has_prnbpo
+BiB_Pregnancy,matrecs_bib_postbp,prnpostbpdays
+BiB_Pregnancy,matrecs_bib_postbp,prnpostbpdiastolic
+BiB_Pregnancy,matrecs_bib_postbp,prnpostbpsystolic
+BiB_Pregnancy,matrecs_bib_postbp,prnpostbptime

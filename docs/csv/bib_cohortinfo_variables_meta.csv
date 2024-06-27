@@ -1,0 +1,96 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_CohortInfo.person_info.BiBPersonID,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,BiBPersonID,BiB person identifier,text,,,29664,29664
+BiB_CohortInfo.person_info.PersonID,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,PersonID,Legacy BiB person identifier,integer,,administration,29664,29664
+BiB_CohortInfo.person_info.ParticipantType,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,ParticipantType,Participant type - position in cohort family,text,,administration,29664,29664
+BiB_CohortInfo.person_info.ParticipantType_cat,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,ParticipantType_cat,Participant type (categorical),categorical,[1 Mother] [2 Child] [3 Father],administration,29664,29664
+BiB_CohortInfo.person_info.Gender,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,Gender,Participant gender,text,,gender,29664,29664
+BiB_CohortInfo.person_info.Gender_cat,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,Gender_cat,Participant gender (categorical),categorical,[1 Female] [2 Male] [3 Indeterminate],gender,29664,29664
+BiB_CohortInfo.person_info.DateOfBirth,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,DateOfBirth,Participant date of birth,date,,age,29664,29664
+BiB_CohortInfo.person_info.YearOfBirth,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,YearOfBirth,Participant year of birth,integer,,age,29664,29664
+BiB_CohortInfo.person_info.MonthOfBirth,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,MonthOfBirth,Participant month of birth,integer,,age,29664,29664
+BiB_CohortInfo.person_info.BiBFatherID,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,BiBFatherID,BiB person identifier of child's father,text,,administration,29664,29664
+BiB_CohortInfo.person_info.BiBMotherID,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,BiBMotherID,BiB person identifier of child's mother,text,,administration,29664,29664
+BiB_CohortInfo.person_info.BiBPregNumber,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,BiBPregNumber,BiB cohort pregnancy number,text,,administration,29664,29664
+BiB_CohortInfo.person_info.PregnancyID,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,PregnancyID,Legacy BiB pregnancy ID,text,,administration,29664,29664
+BiB_CohortInfo.ethnicity.BiBPersonID,BiB_CohortInfo.ethnicity,BiB_CohortInfo,ethnicity,BiBPersonID,BiB cohort person ID,text,,,29668,29664
+BiB_CohortInfo.ethnicity.ethnicity16,BiB_CohortInfo.ethnicity,BiB_CohortInfo,ethnicity,ethnicity16,Ethnic group - 16 categories,categorical,"[1 English, Welsh, Scottish, Northern Irish or British] [2 Irish] [3 Other White background] [4 White and Black Caribbean] [5 White and Black African] [6 White and Asian] [7 Other Mixed background] [8 Indian] [9 Pakistani] [10 Bangladeshi] [11 Chinese] [12 Other Asian background] [13 African] [14 Caribbean] [15 Other Black, African or Caribbean background] [16 Other ethnic group]",ethnic_group,28867,28864
+BiB_CohortInfo.ethnicity.ethnicity5,BiB_CohortInfo.ethnicity,BiB_CohortInfo,ethnicity,ethnicity5,Ethnic group - 5 categories,categorical,"[1 White] [2 Mixed or multiple ethnic groups] [3 Asian or Asian British] [4 Black, Black British, Caribbean or African] [5 Other]",ethnic_group,29411,29407
+BiB_CohortInfo.ethnicity.ethsource,BiB_CohortInfo.ethnicity,BiB_CohortInfo,ethnicity,ethsource,Source of ethnicity information,categorical,[1 Baseline] [2 Growing Up] [3 AoW Survey] [4 Education records] [5 Primary care] [6 Mothers ethnicity],ethnic_group,29411,29407
+BiB_CohortInfo.ethnicity.participant_type,BiB_CohortInfo.ethnicity,BiB_CohortInfo,ethnicity,participant_type,Participant type,categorical,[1 Mother] [2 Father] [3 Child],administration,29668,29664
+BiB_CohortInfo.related_pairs.id,BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,id,,text,,,41602,29579
+BiB_CohortInfo.related_pairs.id_relation,BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,id_relation,ID of relation,text,,,41602,29579
+BiB_CohortInfo.related_pairs.relationship,BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,relationship,Type of relationship,text,,,41602,29579
+BiB_CohortInfo.related_pairs.ParticipantType,BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,ParticipantType,Cohort participant type of subject,text,,,41602,29579
+BiB_CohortInfo.related_pairs.ParticipantType_relation,BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,ParticipantType_relation,Cohort participant type of relation,text,,,41602,29579
+BiB_CohortInfo.related_pairs.PregnancyID,BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,PregnancyID,,text,,,41602,29579
+BiB_CohortInfo.related_pairs.BiBPregNumber,BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,BiBPregNumber,,text,,,41602,29579
+BiB_CohortInfo.child_info.BiBPersonID,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,BiBPersonID,,text,,,13858,13858
+BiB_CohortInfo.child_info.has_child_info,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,has_child_info,Has person information child,integer,,administration,13858,13858
+BiB_CohortInfo.child_info.admincbirthorder,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,admincbirthorder,Child birth order,integer,,childbirth,13858,13858
+BiB_CohortInfo.child_info.admincdobagefm,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,admincdobagefm,Father age at child date of birth (months),integer,,age,3488,3488
+BiB_CohortInfo.child_info.admincdobagefy,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,admincdobagefy,Father age at child date of birth (years),integer,,age,3488,3488
+BiB_CohortInfo.child_info.admincdobagemm,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,admincdobagemm,Mother age at child date of birth (months),integer,,age,13858,13858
+BiB_CohortInfo.child_info.admincdobagemy,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,admincdobagemy,Mother age at child date of birth (years),integer,,age,13858,13858
+BiB_CohortInfo.child_info.admincgender,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,admincgender,Child gender,categorical,[1 Male] [2 Female],gender,13857,13857
+BiB_CohortInfo.father_info.BiBPersonID,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,BiBPersonID,,text,,,3353,3353
+BiB_CohortInfo.father_info.has_father_info,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,has_father_info,Has person information father,integer,,administration,3353,3353
+BiB_CohortInfo.father_info.adminfagerecm,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,adminfagerecm,Father age at recruitment (months),integer,,age,3353,3353
+BiB_CohortInfo.father_info.adminfagerecy,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,adminfagerecy,Father age at recruitment (years),integer,,age,3353,3353
+BiB_CohortInfo.father_info.adminfgender,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,adminfgender,Father gender,categorical,[1 Male] [2 Female],gender,3353,3353
+BiB_CohortInfo.father_info.adminfnbibch,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,adminfnbibch,Number of BiB children (father),integer,,administration,3353,3353
+BiB_CohortInfo.father_info.adminfnbibpr,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,adminfnbibpr,Number of BiB pregnancies (father),integer,,administration,3353,3353
+BiB_CohortInfo.father_info.adminfnfbqall,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,adminfnfbqall,Number of baseline questionnaires (father),integer,,administration,3353,3353
+BiB_CohortInfo.father_info.adminfrecdate,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,adminfrecdate,Father date of recruitment,date,,administration,3353,3353
+BiB_CohortInfo.mother_info.BiBPersonID,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,BiBPersonID,,text,,,12453,12453
+BiB_CohortInfo.mother_info.has_mother_info,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,has_mother_info,Has person information mother,integer,,administration,12453,12453
+BiB_CohortInfo.mother_info.adminmagerecm,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,adminmagerecm,Mother age at recruitment (months),integer,,age,12453,12453
+BiB_CohortInfo.mother_info.adminmagerecy,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,adminmagerecy,Mother age at recruitment (years),integer,,age,12453,12453
+BiB_CohortInfo.mother_info.adminmgender,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,adminmgender,Mother gender,categorical,[1 Male] [2 Female],gender,12453,12453
+BiB_CohortInfo.mother_info.adminmnbibch,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,adminmnbibch,Number of BiB children,integer,,administration,12453,12453
+BiB_CohortInfo.mother_info.adminmnbibpr,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,adminmnbibpr,Number of BiB pregnancies,integer,,administration,12453,12453
+BiB_CohortInfo.mother_info.adminmnmbqall,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,adminmnmbqall,Number of baseline questionnaires,integer,,administration,12453,12453
+BiB_CohortInfo.mother_info.adminmrecdate,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,adminmrecdate,Mother date of recruitment,date,,administration,12453,12453
+BiB_CohortInfo.id_linkage.PregnancyID,BiB_CohortInfo.id_linkage,BiB_CohortInfo,id_linkage,PregnancyID,Pregnancy identifier,text,,,13959,13776
+BiB_CohortInfo.id_linkage.BiBPregNumber,BiB_CohortInfo.id_linkage,BiB_CohortInfo,id_linkage,BiBPregNumber,Pregnancy number within BiB,integer,,administration,13959,13776
+BiB_CohortInfo.id_linkage.BiBMotherID,BiB_CohortInfo.id_linkage,BiB_CohortInfo,id_linkage,BiBMotherID,Mother identifier,text,,administration,13959,13776
+BiB_CohortInfo.id_linkage.BiBFatherID,BiB_CohortInfo.id_linkage,BiB_CohortInfo,id_linkage,BiBFatherID,Father identifier,text,,administration,13959,13776
+BiB_CohortInfo.id_linkage.BiBChildID,BiB_CohortInfo.id_linkage,BiB_CohortInfo,id_linkage,BiBChildID,Child identifier,text,,administration,13959,13776
+BiB_CohortInfo.preg_info.BiBPersonID,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,BiBPersonID,,text,,,13776,12453
+BiB_CohortInfo.preg_info.BiBPregNumber,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,BiBPregNumber,,integer,,administration,13776,12453
+BiB_CohortInfo.preg_info.has_preg_info,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,has_preg_info,Has pregnancy information,integer,,pregnancy,13776,12453
+BiB_CohortInfo.preg_info.PregnancyID,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,PregnancyID,Legacy BiB Pregnancy ID,text,,administration,13776,12453
+BiB_CohortInfo.preg_info.adminpagebookmm,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,adminpagebookmm,Mother age in months at pregnancy booking date,integer,,age,13176,11926
+BiB_CohortInfo.preg_info.adminpagebookmy,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,adminpagebookmy,Mother age in years at pregnancy booking date,integer,,age,13176,11926
+BiB_CohortInfo.preg_info.adminpagerecfm,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,adminpagerecfm,Father age at this pregnancy recruitment (months),integer,,age,3455,3356
+BiB_CohortInfo.preg_info.adminpagerecfy,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,adminpagerecfy,Father age at this pregnancy recruitment (years),integer,,age,3455,3356
+BiB_CohortInfo.preg_info.adminpagerecmm,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,adminpagerecmm,Mother age at this pregnancy recruitment (months),integer,,age,13776,12453
+BiB_CohortInfo.preg_info.adminpagerecmy,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,adminpagerecmy,Mother age at this pregnancy recruitment (years),integer,,age,13776,12453
+BiB_CohortInfo.preg_info.adminpnbirths,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,adminpnbirths,Number of registerable births,integer,,childbirth,13580,12265
+BiB_CohortInfo.genotyping_info.id,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,id,,text,,,21256,20710
+BiB_CohortInfo.genotyping_info.ParticipantType,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,ParticipantType,BiB participant type,categorical,[1 Child] [2 Father] [3 Mother],administration,21256,20710
+BiB_CohortInfo.genotyping_info.Gender,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,Gender,Participant Gender,categorical,[1 Female] [2 Male],gender,21256,20710
+BiB_CohortInfo.genotyping_info.lab_id,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,lab_id,,text,,administration,21256,20710
+BiB_CohortInfo.genotyping_info.gt_chip,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,gt_chip,Genotyping chip type,categorical,[1 Core Exome] [2 GSA],administration,21256,20710
+BiB_CohortInfo.genotyping_info.ethnicity,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,ethnicity,Ethnic group determined by genotype PCA,categorical,[1 Not in PCA] [2 Other] [3 Pakistani] [4 White European],ethnic_group,21256,20710
+BiB_CohortInfo.genotyping_info.passed_qc,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,passed_qc,Sample included in curated dataset,categorical,[0 No] [1 Yes],administration,21256,20710
+BiB_CohortInfo.genotyping_info.copies,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,copies,Copies e.g. samples from other pregnancies,integer,,administration,21256,20710
+BiB_CohortInfo.genotyping_info.has_BiB12v1_0,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,has_BiB12v1_0,Has BiB12 Version 1.0 HumanCoreExome Chip,integer,,administration,21256,20710
+BiB_CohortInfo.genotyping_info.has_BiB12v1_1,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,has_BiB12v1_1,Has BiB12 Version 1.1 HumanCoreExome Chip,integer,,administration,21256,20710
+BiB_CohortInfo.genotyping_info.has_BiB24v1_0,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,has_BiB24v1_0,Has BiB24 Version 1.0 HumanCoreExome Chip,integer,,administration,21256,20710
+BiB_CohortInfo.exomeseq_info.BiBPersonID,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,BiBPersonID,,text,,,3265,3092
+BiB_CohortInfo.exomeseq_info.lab_id1,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,lab_id1,,text,,administration,3265,3092
+BiB_CohortInfo.exomeseq_info.ParticipantType,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,ParticipantType,,integer,,administration,3265,3092
+BiB_CohortInfo.exomeseq_info.Gender,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,Gender,,integer,,gender,3265,3092
+BiB_CohortInfo.exomeseq_info.lab_id2,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,lab_id2,,text,,administration,3265,3092
+BiB_CohortInfo.exomeseq_info.exseq_phase,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,exseq_phase,,integer,,administration,3265,3092
+BiB_CohortInfo.exomeseq_info.copies,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,copies,,integer,,administration,3265,3092
+BiB_CohortInfo.exomeseq_info.passed_qc,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,passed_qc,Exome sequence data in post-QC variant call files,categorical,[1 Yes],administration,2804,2791
+BiB_CohortInfo.dnam_info.BiBPersonID,BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,BiBPersonID,BiB person identifier,text,,,1885,1883
+BiB_CohortInfo.dnam_info.ParticipantType,BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,ParticipantType,BiB Participant Type vs Control,categorical,[1 Child] [2 Mother] [3 Control],administration,1885,1883
+BiB_CohortInfo.dnam_info.BiBMotherID,BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,BiBMotherID,BiB person identifier of child's mother,text,,administration,1885,1883
+BiB_CohortInfo.dnam_info.BiBPregNumber,BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,BiBPregNumber,Cohort recruited pregnancy number,integer,,administration,952,950
+BiB_CohortInfo.dnam_info.Gender,BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,Gender,Participant Gender,categorical,[1 Female] [2 Male],gender,1885,1883
+BiB_CohortInfo.dnam_info.lab_id,BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,lab_id,Lab-assigned sample ID,text,,administration,1885,1883
+BiB_CohortInfo.dnam_info.replicate,BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,replicate,Replicate analysis of same sample,integer,,administration,1885,1883
+BiB_CohortInfo.dnam_controls.ParticipantType,BiB_CohortInfo.dnam_controls,BiB_CohortInfo,dnam_controls,ParticipantType,BiB Participant Type vs Control,categorical,[1 Child] [2 Mother] [3 Control],administration,25,1
+BiB_CohortInfo.dnam_controls.lab_id,BiB_CohortInfo.dnam_controls,BiB_CohortInfo,dnam_controls,lab_id,Lab-assigned sample ID,text,,,25,1

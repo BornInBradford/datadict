@@ -1,0 +1,15 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Proteomics.ngs_control.SampleID,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,SampleID,,text,,,34686,26
+BiB_Proteomics.ngs_control.Index,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Index,,integer,,,34686,26
+BiB_Proteomics.ngs_control.OlinkID,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,OlinkID,,text,,,34686,26
+BiB_Proteomics.ngs_control.UniProt,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,UniProt,,text,,,34686,26
+BiB_Proteomics.ngs_control.Assay,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Assay,,text,,,34686,26
+BiB_Proteomics.ngs_control.MissingFreq,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,MissingFreq,,float,,,34686,26
+BiB_Proteomics.ngs_control.Panel,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Panel,,text,,,34686,26
+BiB_Proteomics.ngs_control.Panel_Lot_Nr,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Panel_Lot_Nr,,text,,,34686,26
+BiB_Proteomics.ngs_control.PlateID,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,PlateID,,text,,,34686,26
+BiB_Proteomics.ngs_control.QC_Warning,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,QC_Warning,,text,,,34686,26
+BiB_Proteomics.ngs_control.LOD,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,LOD,,float,,,34686,26
+BiB_Proteomics.ngs_control.NPX,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,NPX,,float,,,34686,26
+BiB_Proteomics.ngs_control.Normalization,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Normalization,,text,,,34686,26
+BiB_Proteomics.ngs_control.Assay_Warning,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Assay_Warning,,text,,,34686,26

@@ -1,0 +1,17 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Biosamples.cord_bloods.BiBPersonID,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,BiBPersonID,,text,,,7910,7910
+BiB_Biosamples.cord_bloods.has_cord_bloods,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,has_cord_bloods,Has baby cord blood biomarkers,integer,,administration,7910,7910
+BiB_Biosamples.cord_bloods.cbldadiponectin,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldadiponectin,Cord blood adiponectin,float,,physical_health,2176,2176
+BiB_Biosamples.cord_bloods.cbldbatch,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldbatch,Cord blood batch,categorical,[1 Cord bloods batch 1: 2012] [2 Cord bloods batch 2: 2017],administration,7910,7910
+BiB_Biosamples.cord_bloods.cbldchol,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldchol,Cord blood Cholesterol,float,,cardiovascular_system,2176,2176
+BiB_Biosamples.cord_bloods.cbldcrp,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldcrp,Cord blood CRP,float,,endocrine_system,260,260
+BiB_Biosamples.cord_bloods.cbldcrp_miss,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldcrp_miss,Cord blood CRP missing reason,categorical,[1 CRP: value <0.20 mg/L] [2 CRP: value <0.24 mg/L] [3 CRP: insufficient sample],endocrine_system,1917,1917
+BiB_Biosamples.cord_bloods.cbldhdl,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldhdl,Cord blood HDL,float,,cardiovascular_system,2176,2176
+BiB_Biosamples.cord_bloods.cbldinsulin,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldinsulin,Insulin,float,,endocrine_system,7828,7828
+BiB_Biosamples.cord_bloods.cbldinsulin_miss,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldinsulin_miss,Cord blood insulin missing reason,categorical,[1 Insulin: value <0.1 mU/L] [2 Insulin: value >25 mU/L] [3 Insulin: insufficient sample],endocrine_system,82,82
+BiB_Biosamples.cord_bloods.cbldldl,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldldl,Cord blood LDL,float,,cardiovascular_system,2176,2176
+BiB_Biosamples.cord_bloods.cbldleptin,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldleptin,Cord blood leptin,float,,endocrine_system,7889,7889
+BiB_Biosamples.cord_bloods.cbldleptin_miss,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldleptin_miss,Cord blood leptin missing reason,categorical,[1 Sample haemolysed],endocrine_system,20,20
+BiB_Biosamples.cord_bloods.cbldtrig,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldtrig,Triglyceride,float,,physical_health,2176,2176
+BiB_Biosamples.cord_bloods.cbldvldl,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldvldl,Cord blood VLDL,float,,cardiovascular_system,2176,2176
+BiB_Biosamples.cord_bloods.has_crdbld,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,has_crdbld,Has baby cord bloods data,categorical,[1 has],administration,7910,7910

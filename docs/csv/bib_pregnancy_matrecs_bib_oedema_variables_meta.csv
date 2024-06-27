@@ -1,0 +1,14 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Pregnancy.matrecs_bib_oedema.BiBPersonID,BiB_Pregnancy.matrecs_bib_oedema,BiB_Pregnancy,matrecs_bib_oedema,BiBPersonID,,text,,,6658,3151
+BiB_Pregnancy.matrecs_bib_oedema.BiBPregNumber,BiB_Pregnancy.matrecs_bib_oedema,BiB_Pregnancy,matrecs_bib_oedema,BiBPregNumber,Cohort recruited pregnancy number,integer,,administration,6658,3151
+BiB_Pregnancy.matrecs_bib_oedema.has_matrecs_bib_oedema,BiB_Pregnancy.matrecs_bib_oedema,BiB_Pregnancy,matrecs_bib_oedema,has_matrecs_bib_oedema,Has,integer,,administration,6658,3151
+BiB_Pregnancy.matrecs_bib_oedema.has_prnoed,BiB_Pregnancy.matrecs_bib_oedema,BiB_Pregnancy,matrecs_bib_oedema,has_prnoed,Has: Maternal records abstraction: Oedema,categorical,[1 has],administration,6658,3151
+BiB_Pregnancy.matrecs_bib_oedema.prnoedemaankle,BiB_Pregnancy.matrecs_bib_oedema,BiB_Pregnancy,matrecs_bib_oedema,prnoedemaankle,Oedema in ankle,categorical,[1 Yes],physical_health,1205,826
+BiB_Pregnancy.matrecs_bib_oedema.prnoedemaeventtype,BiB_Pregnancy.matrecs_bib_oedema,BiB_Pregnancy,matrecs_bib_oedema,prnoedemaeventtype,Oedema observation event type,categorical,[1 Pregnancy] [2 Labour],physical_health,6658,3151
+BiB_Pregnancy.matrecs_bib_oedema.prnoedemaface,BiB_Pregnancy.matrecs_bib_oedema,BiB_Pregnancy,matrecs_bib_oedema,prnoedemaface,Oedema in face,categorical,[1 Yes],physical_health,95,84
+BiB_Pregnancy.matrecs_bib_oedema.prnoedemafeet,BiB_Pregnancy.matrecs_bib_oedema,BiB_Pregnancy,matrecs_bib_oedema,prnoedemafeet,Oedema in feet,categorical,[1 Yes],physical_health,4193,2241
+BiB_Pregnancy.matrecs_bib_oedema.prnoedemageneral,BiB_Pregnancy.matrecs_bib_oedema,BiB_Pregnancy,matrecs_bib_oedema,prnoedemageneral,Generalised oedema,categorical,[1 Yes],physical_health,950,684
+BiB_Pregnancy.matrecs_bib_oedema.prnoedemagestaged,BiB_Pregnancy.matrecs_bib_oedema,BiB_Pregnancy,matrecs_bib_oedema,prnoedemagestaged,Gestational age in days at oedema observation,integer,,age,6656,3150
+BiB_Pregnancy.matrecs_bib_oedema.prnoedemagestagew,BiB_Pregnancy.matrecs_bib_oedema,BiB_Pregnancy,matrecs_bib_oedema,prnoedemagestagew,Gestational age in weeks at oedema observation,integer,,age,6656,3150
+BiB_Pregnancy.matrecs_bib_oedema.prnoedemahands,BiB_Pregnancy.matrecs_bib_oedema,BiB_Pregnancy,matrecs_bib_oedema,prnoedemahands,Oedema in hands,categorical,[1 Yes],physical_health,1858,1121
+BiB_Pregnancy.matrecs_bib_oedema.prnoedemanotdoc,BiB_Pregnancy.matrecs_bib_oedema,BiB_Pregnancy,matrecs_bib_oedema,prnoedemanotdoc,Oedema type not documented,categorical,[1 Not documented],administration,4,4

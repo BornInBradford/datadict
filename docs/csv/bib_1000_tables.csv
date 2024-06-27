@@ -1,0 +1,47 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_1000.bib1000_6m_main,BiB_1000,bib1000_6m_main,BiB 1000 6m Questionnaire main table,bib,participant,,,389,1763,1763,2024-05-14 09:11:50
+BiB_1000.bib1000_6m_b6mqb4,BiB_1000,bib1000_6m_b6mqb4,BiB 1000 6m Parent-reported child diagnoses,bib,participant,,,3,1361,1336,2024-05-14 09:11:50
+BiB_1000.bib1000_6m_b6mqe3,BiB_1000,bib1000_6m_b6mqe3,BiB 1000 6m People living in household,bib,participant,,,4,4892,1336,2024-05-14 09:11:50
+BiB_1000.bib1000_12m_main,BiB_1000,bib1000_12m_main,BiB 1000 12m Questionnaire main table,bib,participant,,,456,1763,1763,2024-05-14 09:11:46
+BiB_1000.bib1000_12m_b12qb4,BiB_1000,bib1000_12m_b12qb4,BiB 1000 12m People living in household,bib,participant,,,4,1659,1313,2024-05-14 09:11:45
+BiB_1000.bib1000_12m_b12qf9,BiB_1000,bib1000_12m_b12qf9,BiB 1000 12m Dried baby cereals,bib,participant,,,7,1317,1313,2024-05-14 09:11:45
+BiB_1000.bib1000_12m_b12f10,BiB_1000,bib1000_12m_b12f10,BiB 1000 12m Dried meat or fish-based meals,bib,participant,,,7,1313,1313,2024-05-14 09:11:44
+BiB_1000.bib1000_12m_b12f11,BiB_1000,bib1000_12m_b12f11,"BiB 1000 12m Dried veg, pasta, rice-based meals",bib,participant,,,7,1315,1313,2024-05-14 09:11:44
+BiB_1000.bib1000_12m_b12f12,BiB_1000,bib1000_12m_b12f12,BiB 1000 12m Dried desserts,bib,participant,,,7,1315,1313,2024-05-14 09:11:44
+BiB_1000.bib1000_12m_b12f14,BiB_1000,bib1000_12m_b12f14,BiB 1000 12m Breakfast meals,bib,participant,,,7,1316,1313,2024-05-14 09:11:44
+BiB_1000.bib1000_12m_b12f15,BiB_1000,bib1000_12m_b12f15,BiB 1000 12m Meat or fish-based meals,bib,participant,,,7,1330,1313,2024-05-14 09:11:45
+BiB_1000.bib1000_12m_b12f16,BiB_1000,bib1000_12m_b12f16,"BiB 1000 12m Veg, pasta, rice-based savoury meals",bib,participant,,,7,1333,1313,2024-05-14 09:11:45
+BiB_1000.bib1000_12m_b12f17,BiB_1000,bib1000_12m_b12f17,BiB 1000 12m Milk or cereal-based desserts,bib,participant,,,7,1329,1313,2024-05-14 09:11:45
+BiB_1000.bib1000_12m_b12f18,BiB_1000,bib1000_12m_b12f18,BiB 1000 12m Fruit-based desserts,bib,participant,,,7,1327,1313,2024-05-14 09:11:45
+BiB_1000.bib1000_12m_b12f19,BiB_1000,bib1000_12m_b12f19,BiB 1000 12m Pure fruit puree,bib,participant,,,7,1319,1313,2024-05-14 09:11:45
+BiB_1000.bib1000_12m_b12f26,BiB_1000,bib1000_12m_b12f26,BiB 1000 12m Types of cereals used,bib,participant,,,5,1760,1313,2024-05-14 09:11:45
+BiB_1000.bib1000_12m_b12f69,BiB_1000,bib1000_12m_b12f69,BiB 1000 12m Other types of yoghurt,bib,participant,,,3,1317,1313,2024-05-14 09:11:45
+BiB_1000.bib1000_12m_b12f92,BiB_1000,bib1000_12m_b12f92,BiB 1000 12m Other types of blackcurrant squash,bib,participant,,,3,1313,1313,2024-05-14 09:11:45
+BiB_1000.bib1000_12m_btf104,BiB_1000,bib1000_12m_btf104,BiB 1000 12m f104,bib,participant,,,8,1377,1313,2024-05-14 09:11:46
+BiB_1000.bib1000_12m_bib12n,BiB_1000,bib1000_12m_bib12n,BiB 1000 12 month child nutrients intake,bib,participant,,,55,1262,1262,2024-05-14 09:11:45
+BiB_1000.bib1000_18m_main,BiB_1000,bib1000_18m_main,BiB 1000 18m Questionnaire main table,bib,participant,,,474,1763,1763,2024-05-14 09:11:48
+BiB_1000.bib1000_18m_b18qb2,BiB_1000,bib1000_18m_b18qb2,BiB 1000 18m Child care arrangements,bib,participant,,,6,1309,1293,2024-05-14 09:11:47
+BiB_1000.bib1000_18m_b18qc4,BiB_1000,bib1000_18m_b18qc4,BiB 1000 18m Parent-reported child diagnoses,bib,participant,,,3,1307,1293,2024-05-14 09:11:47
+BiB_1000.bib1000_18m_b18qe9,BiB_1000,bib1000_18m_b18qe9,BiB 1000 18m Dried baby cereals,bib,participant,,,7,1294,1293,2024-05-14 09:11:47
+BiB_1000.bib1000_18m_b18e11,BiB_1000,bib1000_18m_b18e11,"BiB 1000 18m Dried veg, pasta, rice-based meals",bib,participant,,,7,1294,1293,2024-05-14 09:11:46
+BiB_1000.bib1000_18m_b18e12,BiB_1000,bib1000_18m_b18e12,BiB 1000 18m Dried desserts,bib,participant,,,7,1293,1293,2024-05-14 09:11:46
+BiB_1000.bib1000_18m_b18e14,BiB_1000,bib1000_18m_b18e14,BiB 1000 18m Breakfast meals,bib,participant,,,8,1294,1293,2024-05-14 09:11:46
+BiB_1000.bib1000_18m_b18e15,BiB_1000,bib1000_18m_b18e15,BiB 1000 18m Meat or fish-based meals,bib,participant,,,8,1294,1293,2024-05-14 09:11:46
+BiB_1000.bib1000_18m_b18e16,BiB_1000,bib1000_18m_b18e16,"BiB 1000 18m Veg, pasta, rice-based savoury meals",bib,participant,,,8,1297,1293,2024-05-14 09:11:46
+BiB_1000.bib1000_18m_b18e17,BiB_1000,bib1000_18m_b18e17,BiB 1000 18m Milk or cereal-based desserts,bib,participant,,,8,1295,1293,2024-05-14 09:11:46
+BiB_1000.bib1000_18m_b18e18,BiB_1000,bib1000_18m_b18e18,BiB 1000 18m Fruit-based desserts,bib,participant,,,8,1297,1293,2024-05-14 09:11:46
+BiB_1000.bib1000_18m_b18e19,BiB_1000,bib1000_18m_b18e19,BiB 1000 18m Pure fruit puree,bib,participant,,,8,1297,1293,2024-05-14 09:11:47
+BiB_1000.bib1000_18m_b18e26,BiB_1000,bib1000_18m_b18e26,BiB 1000 18m Types of cereals used,bib,participant,,,6,1900,1293,2024-05-14 09:11:47
+BiB_1000.bib1000_18m_b18e69,BiB_1000,bib1000_18m_b18e69,BiB 1000 18m Other types of yoghurt,bib,participant,,,3,1298,1293,2024-05-14 09:11:47
+BiB_1000.bib1000_18m_b18e92,BiB_1000,bib1000_18m_b18e92,BiB 1000 18m Other types of blackcurrant squash,bib,participant,,,3,1293,1293,2024-05-14 09:11:47
+BiB_1000.bib1000_18m_bee104,BiB_1000,bib1000_18m_bee104,BiB 1000 18m Other foods and drinks,bib,participant,,,7,1318,1293,2024-05-14 09:11:47
+BiB_1000.bib1000_18m_b18qh2,BiB_1000,bib1000_18m_b18qh2,BiB 1000 18m Other snacks consumed by parent,bib,participant,,,4,1293,1293,2024-05-14 09:11:47
+BiB_1000.bib1000_18m_b18qh4,BiB_1000,bib1000_18m_b18qh4,BiB 1000 18m Other ready/take-away meals (parent),bib,participant,,,4,1293,1293,2024-05-14 09:11:47
+BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,BiB 1000 18 month child nutrients intake,bib,participant,,,58,1257,1257,2024-05-14 09:11:47
+BiB_1000.bib1000_24m_main,BiB_1000,bib1000_24m_main,BiB 1000 24m Questionnaire main table,bib,participant,,,566,1763,1763,2024-05-14 09:11:48
+BiB_1000.bib1000_36m_main,BiB_1000,bib1000_36m_main,BiB 1000 36m Questionnaire main table,bib,participant,,,446,1763,1763,2024-05-14 09:11:49
+BiB_1000.bib1000_36m_b36j17,BiB_1000,bib1000_36m_b36j17,BiB 1000 36m Other foods consumed by child,bib,participant,,,5,1232,1232,2024-05-14 09:11:49
+BiB_1000.bib1000_36m_b3j19a,BiB_1000,bib1000_36m_b3j19a,BiB 1000 36m Vitamins or multivitamins,bib,participant,,,6,1232,1232,2024-05-14 09:11:49
+BiB_1000.bib1000_36m_b3j19b,BiB_1000,bib1000_36m_b3j19b,BiB 1000 36m Cod liver oil or other oil,bib,participant,,,6,1232,1232,2024-05-14 09:11:49
+BiB_1000.bib1000_36m_b3j19c,BiB_1000,bib1000_36m_b3j19c,BiB 1000 36m Other supplements,bib,participant,,,5,1232,1232,2024-05-14 09:11:49
+BiB_1000.bib1000_36m_b36qi9,BiB_1000,bib1000_36m_b36qi9,BiB 1000 36m Physical activity clubs (child),bib,participant,,,4,1238,1232,2024-05-14 09:11:49

@@ -1,0 +1,7 @@
+project,table,variable
+BiB_1000,bib1000_12m_b12f26,BiBPersonID
+BiB_1000,bib1000_12m_b12f26,has_bib1000_12m_b12f26
+BiB_1000,bib1000_12m_b12f26,bib12f26brand
+BiB_1000,bib1000_12m_b12f26,bib12f26otherbrand
+BiB_1000,bib1000_12m_b12f26,bib12f26typeofcereal
+BiB_1000,bib1000_12m_b12f26,has_b12tab

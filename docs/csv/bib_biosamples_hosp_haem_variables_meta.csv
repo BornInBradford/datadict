@@ -1,0 +1,20 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Biosamples.hosp_haem.BiBMotherID,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,BiBMotherID,Mother identifier,text,,,14553,7307
+BiB_Biosamples.hosp_haem.BiBPregNumber,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,BiBPregNumber,Pregnancy number within BiB,integer,,administration,14553,7307
+BiB_Biosamples.hosp_haem.MotherAgeSample_Mths,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,MotherAgeSample_Mths,Mother's age at sample (months)',float,,age,14553,7307
+BiB_Biosamples.hosp_haem.MotherAgeSample_Yrs,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,MotherAgeSample_Yrs,Mother's age at sample (years)',float,,age,14553,7307
+BiB_Biosamples.hosp_haem.GestAgeSample_Days,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,GestAgeSample_Days,Gestational age at blood sample (days),integer,,age,14366,7227
+BiB_Biosamples.hosp_haem.DateBloodTest,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,DateBloodTest,,date,,,14553,7307
+BiB_Biosamples.hosp_haem.Hb,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,Hb,Haemoglobin (g/dL),float,,hemic_and_immune_systems,14553,7307
+BiB_Biosamples.hosp_haem.WBC,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,WBC,White blood cell count (10^9/L),float,,hemic_and_immune_systems,14553,7307
+BiB_Biosamples.hosp_haem.PLTS,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,PLTS,Platelet count (10^9/L),integer,,hemic_and_immune_systems,14552,7307
+BiB_Biosamples.hosp_haem.MCV,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,MCV,Mean corpuscular volume (fL),integer,,hemic_and_immune_systems,14553,7307
+BiB_Biosamples.hosp_haem.PCV,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,PCV,Haematocrit,float,,hemic_and_immune_systems,14553,7307
+BiB_Biosamples.hosp_haem.RBC,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,RBC,Rec blood cell count (10^12/L),float,,hemic_and_immune_systems,14552,7307
+BiB_Biosamples.hosp_haem.MCH,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,MCH,Mean corpuscular haemoglobin (fmol),float,,hemic_and_immune_systems,14553,7307
+BiB_Biosamples.hosp_haem.MCHC,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,MCHC,Mean corpuscular haemoglobin concentration (mmol/L),float,,hemic_and_immune_systems,14553,7307
+BiB_Biosamples.hosp_haem.NEU,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,NEU,Neutrophils (10^9/L),float,,hemic_and_immune_systems,14525,7297
+BiB_Biosamples.hosp_haem.LYM,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,LYM,Lymphocytes (10^9/L),float,,hemic_and_immune_systems,14525,7297
+BiB_Biosamples.hosp_haem.MON,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,MON,Monocytes (10^9/L),float,,hemic_and_immune_systems,14525,7297
+BiB_Biosamples.hosp_haem.EOS,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,EOS,Eosinophils (10^9/L),float,,hemic_and_immune_systems,14525,7297
+BiB_Biosamples.hosp_haem.BAS,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,BAS,Basophiles (10^9/L),float,,hemic_and_immune_systems,14525,7297

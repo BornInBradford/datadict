@@ -1,0 +1,8 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Metabolomics.metms_2k_h.BiBPersonID,BiB_Metabolomics.metms_2k_h,BiB_Metabolomics,metms_2k_h,BiBPersonID,,text,,,2000,2000
+BiB_Metabolomics.metms_2k_h.BiBPregNumber,BiB_Metabolomics.metms_2k_h,BiB_Metabolomics,metms_2k_h,BiBPregNumber,,integer,,administration,2000,2000
+BiB_Metabolomics.metms_2k_h.has_metms_2k_h,BiB_Metabolomics.metms_2k_h,BiB_Metabolomics,metms_2k_h,has_metms_2k_h,Has ms metabolomics 2000 mothers header,integer,,administration,2000,2000
+BiB_Metabolomics.metms_2k_h.metm2msamplename,BiB_Metabolomics.metms_2k_h,BiB_Metabolomics,metms_2k_h,metm2msamplename,,text,,administration,2000,2000
+BiB_Metabolomics.metms_2k_h.metm2mboxid,BiB_Metabolomics.metms_2k_h,BiB_Metabolomics,metms_2k_h,metm2mboxid,,text,,administration,2000,2000
+BiB_Metabolomics.metms_2k_h.metm2mboxwell,BiB_Metabolomics.metms_2k_h,BiB_Metabolomics,metms_2k_h,metm2mboxwell,,text,,administration,2000,2000
+BiB_Metabolomics.metms_2k_h.metm2mrunday,BiB_Metabolomics.metms_2k_h,BiB_Metabolomics,metms_2k_h,metm2mrunday,,text,,administration,2000,2000

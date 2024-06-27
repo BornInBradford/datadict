@@ -1,0 +1,9 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Dental.dsurvey_5yo.BiBPersonID,BiB_Dental.dsurvey_5yo,BiB_Dental,dsurvey_5yo,BiBPersonID,,text,,,354,354
+BiB_Dental.dsurvey_5yo.has_dsurvey_5yo,BiB_Dental.dsurvey_5yo,BiB_Dental,dsurvey_5yo,has_dsurvey_5yo,Has 5yo dental survey,integer,,administration,354,354
+BiB_Dental.dsurvey_5yo.AgeMths,BiB_Dental.dsurvey_5yo,BiB_Dental,dsurvey_5yo,AgeMths,"Age at treatment, months",integer,,age,354,354
+BiB_Dental.dsurvey_5yo.ddsdt,BiB_Dental.dsurvey_5yo,BiB_Dental,dsurvey_5yo,ddsdt,Number of decayed teeth,integer,,oral_dental_health,354,354
+BiB_Dental.dsurvey_5yo.ddsmt,BiB_Dental.dsurvey_5yo,BiB_Dental,dsurvey_5yo,ddsmt,Number of missing teeth,integer,,oral_dental_health,354,354
+BiB_Dental.dsurvey_5yo.ddsft,BiB_Dental.dsurvey_5yo,BiB_Dental,dsurvey_5yo,ddsft,Number of filled teeth,integer,,oral_dental_health,354,354
+BiB_Dental.dsurvey_5yo.ddsdmft,BiB_Dental.dsurvey_5yo,BiB_Dental,dsurvey_5yo,ddsdmft,"Number of decayed, missing and filled teeth",integer,,oral_dental_health,354,354
+BiB_Dental.dsurvey_5yo.ddscareindex,BiB_Dental.dsurvey_5yo,BiB_Dental,dsurvey_5yo,ddscareindex,Number of filled teeth divided by the dmft,float,,oral_dental_health,354,354

@@ -1,0 +1,8 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_CohortInfo.related_pairs.id,BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,id,,text,,,41602,29579
+BiB_CohortInfo.related_pairs.id_relation,BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,id_relation,ID of relation,text,,,41602,29579
+BiB_CohortInfo.related_pairs.relationship,BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,relationship,Type of relationship,text,,,41602,29579
+BiB_CohortInfo.related_pairs.ParticipantType,BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,ParticipantType,Cohort participant type of subject,text,,,41602,29579
+BiB_CohortInfo.related_pairs.ParticipantType_relation,BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,ParticipantType_relation,Cohort participant type of relation,text,,,41602,29579
+BiB_CohortInfo.related_pairs.PregnancyID,BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,PregnancyID,,text,,,41602,29579
+BiB_CohortInfo.related_pairs.BiBPregNumber,BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,BiBPregNumber,,text,,,41602,29579

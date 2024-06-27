@@ -1,0 +1,210 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_ALL_IN.allin24_qs.BiBPersonID,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,BiBPersonID,,text,,,2067,2067
+BiB_ALL_IN.allin24_qs.has_allin24_qs,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,has_allin24_qs,Has all in 24m questionnaire,integer,,administration,2067,2067
+BiB_ALL_IN.allin24_qs.agecm_all2qs,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,agecm_all2qs,Child age (months): ALL IN 24m Questionnaire,integer,,age,2067,2067
+BiB_ALL_IN.allin24_qs.agecy_all2qs,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,agecy_all2qs,Child age (years): ALL IN 24m Questionnaire,integer,,age,2067,2067
+BiB_ALL_IN.allin24_qs.all24a1,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24a1,General health of parent,categorical,[1 Excellent] [2 Very good] [3 Good] [4 Fair] [5 Poor],general_health,2067,2067
+BiB_ALL_IN.allin24_qs.all24a2,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24a2,General health of child,categorical,[1 Excellent] [2 Very good] [3 Good] [4 Fair] [5 Poor],general_health,2067,2067
+BiB_ALL_IN.allin24_qs.all24b1,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b1,Has your child seen a doctor or nurse since 1st birthday,categorical,[1 Yes] [2 No] [3 Don't know] [4 Refused],health_services_utilisation,2067,2067
+BiB_ALL_IN.allin24_qs.all24b2,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b2,How many visits child had,categorical,[1 Once] [2 Twice] [3 3-4] [4 5-10] [5 >=11] [6 Don't know] [7 Refused],health_services_utilisation,1610,1610
+BiB_ALL_IN.allin24_qs.all24b3abpr,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3abpr,Visit for Breathing problems,categorical,[1 Yes],respiratory_system,110,110
+BiB_ALL_IN.allin24_qs.all24b3acgh,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3acgh,Visit for Cough,categorical,[1 Yes],infections,454,454
+BiB_ALL_IN.allin24_qs.all24b3acif,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3acif,Visit for Chest infection,categorical,[1 Yes],respiratory_system,363,363
+BiB_ALL_IN.allin24_qs.all24b3acon,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3acon,Visit for constipation,categorical,[1 Yes],digestive_system,88,88
+BiB_ALL_IN.allin24_qs.all24b3acry,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3acry,Visit for crying,categorical,[1 Yes],general_health,9,9
+BiB_ALL_IN.allin24_qs.all24b3adir,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3adir,Visit for diarrhoea,integer,,digestive_system,2067,2067
+BiB_ALL_IN.allin24_qs.all24b3aepr,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3aepr,Visit for Ear problems,categorical,[1 Yes],hearing_vision_speech,178,178
+BiB_ALL_IN.allin24_qs.all24b3afit,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3afit,Visit for Convulsions/fits,categorical,[1 Yes],nervous_system,18,18
+BiB_ALL_IN.allin24_qs.all24b3agtw,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3agtw,Visit for gaining too much weight,categorical,[1 Yes],anthropometry,1,1
+BiB_ALL_IN.allin24_qs.all24b3ahtp,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3ahtp,Visit for High temperature,categorical,[1 Yes],infections,643,643
+BiB_ALL_IN.allin24_qs.all24b3ana,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3ana,reason not applicable,categorical,[1 Yes],general_health,4,4
+BiB_ALL_IN.allin24_qs.all24b3angw,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3angw,Visit for Not gaining enough weight,categorical,[1 Yes],anthropometry,32,32
+BiB_ALL_IN.allin24_qs.all24b3aods,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3aods,Description of other condition,text,,general_health,2067,2067
+BiB_ALL_IN.allin24_qs.all24b3aoth,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3aoth,Visit for Other condition,categorical,[1 Yes],general_health,404,404
+BiB_ALL_IN.allin24_qs.all24b3asnu,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3asnu,Visit for Snuffles/cold,categorical,[1 Yes],respiratory_system,685,685
+BiB_ALL_IN.allin24_qs.all24b3aspr,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3aspr,Visit for Skin problems,categorical,[1 Yes],skin_diseases_dermatology,286,286
+BiB_ALL_IN.allin24_qs.all24b3atsh,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3atsh,Visit for Thrush,categorical,[1 Yes],urogenital_system,17,17
+BiB_ALL_IN.allin24_qs.all24b3atum,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3atum,Visit for tummy upset,categorical,[1 Yes],digestive_system,32,32
+BiB_ALL_IN.allin24_qs.all24b3auti,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3auti,Visit for Urinary tract infection,categorical,[1 Yes],urogenital_system,17,17
+BiB_ALL_IN.allin24_qs.all24b3avom,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3avom,Visit for vomiting,categorical,[1 Yes],digestive_system,93,93
+BiB_ALL_IN.allin24_qs.all24b3bbpr,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bbpr,Visit for Breathing problems,categorical,[1 Yes],respiratory_system,0,0
+BiB_ALL_IN.allin24_qs.all24b3bcgh,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bcgh,Visit for Cough,categorical,[1 Yes],infections,0,0
+BiB_ALL_IN.allin24_qs.all24b3bcif,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bcif,Visit for Chest infection,categorical,[1 Yes],respiratory_system,0,0
+BiB_ALL_IN.allin24_qs.all24b3bcon,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bcon,Visit for constipation,categorical,[1 Yes],digestive_system,0,0
+BiB_ALL_IN.allin24_qs.all24b3bcry,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bcry,Visit for crying,categorical,[1 Yes],general_health,0,0
+BiB_ALL_IN.allin24_qs.all24b3bdir,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bdir,Visit for diarrhoea,integer,,digestive_system,2067,2067
+BiB_ALL_IN.allin24_qs.all24b3bepr,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bepr,Visit for Ear problems,categorical,[1 Yes],hearing_vision_speech,0,0
+BiB_ALL_IN.allin24_qs.all24b3bfit,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bfit,Visit for Convulsions/fits,categorical,[1 Yes],nervous_system,0,0
+BiB_ALL_IN.allin24_qs.all24b3bgtw,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bgtw,Visit for gaining too much weight,integer,,anthropometry,2067,2067
+BiB_ALL_IN.allin24_qs.all24b3bhtp,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bhtp,Visit for High temperature,categorical,[1 Yes],infections,1,1
+BiB_ALL_IN.allin24_qs.all24b3bna,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bna,reason not applicable,integer,,administration,1602,1602
+BiB_ALL_IN.allin24_qs.all24b3bngw,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bngw,Visit for Not gaining enough weight,integer,,anthropometry,2067,2067
+BiB_ALL_IN.allin24_qs.all24b3bods,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bods,Description of other condition,text,,infections,2067,2067
+BiB_ALL_IN.allin24_qs.all24b3both,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3both,Visit for Other condition,integer,,infections,2067,2067
+BiB_ALL_IN.allin24_qs.all24b3bsnu,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bsnu,Visit for Snuffles/cold,categorical,[1 Yes],respiratory_system,0,0
+BiB_ALL_IN.allin24_qs.all24b3bspr,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bspr,Visit for Skin problems,integer,,skin_diseases_dermatology,2067,2067
+BiB_ALL_IN.allin24_qs.all24b3btsh,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3btsh,Visit for Thrush,categorical,[1 Yes],urogenital_system,0,0
+BiB_ALL_IN.allin24_qs.all24b3btum,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3btum,Visit for tummy upset,categorical,[1 Yes],digestive_system,1,1
+BiB_ALL_IN.allin24_qs.all24b3buti,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3buti,Visit for Urinary tract infection,categorical,[1 Yes],urogenital_system,0,0
+BiB_ALL_IN.allin24_qs.all24b3bvom,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b3bvom,Visit for vomiting,categorical,[1 Yes],digestive_system,1,1
+BiB_ALL_IN.allin24_qs.all24b4,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b4,Has child been given any medical diagnosis,categorical,[1 Yes] [2 No],general_health,2062,2062
+BiB_ALL_IN.allin24_qs.all24b5,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b5,Child admitted to hospital past 24 months,integer,,hospital_admissions,2067,2067
+BiB_ALL_IN.allin24_qs.all24b5a,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b5a,How many times admitted,integer,,hospital_admissions,219,219
+BiB_ALL_IN.allin24_qs.all24b6,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b6,Has child been to outpatient clinic in the past 24 months,integer,,health_services_utilisation,2067,2067
+BiB_ALL_IN.allin24_qs.all24b6a,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b6a,How many times been,integer,,health_services_utilisation,491,491
+BiB_ALL_IN.allin24_qs.all24b7,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b7,Has child been injured in the past 24 months,integer,,accidents_and_injuries,2067,2067
+BiB_ALL_IN.allin24_qs.all24b7a,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24b7a,How many times,integer,,accidents_and_injuries,393,393
+BiB_ALL_IN.allin24_qs.all24bbyac,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24bbyac,Childs abdominal circumference,float,,anthropometry,18,18
+BiB_ALL_IN.allin24_qs.all24bbyln,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24bbyln,Childs length,float,,anthropometry,22,22
+BiB_ALL_IN.allin24_qs.all24bbywt,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24bbywt,Childs weight in kgs,float,,anthropometry,22,22
+BiB_ALL_IN.allin24_qs.all24bir,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24bir,Birds,categorical,[1 Yes] [2 No],environmental_exposure,535,535
+BiB_ALL_IN.allin24_qs.all24byacu,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24byacu,Childs abdominal circumference unable to taken,integer,,anthropometry,1855,1855
+BiB_ALL_IN.allin24_qs.all24bylnu,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24bylnu,Childs length unable to taken,integer,,anthropometry,1851,1851
+BiB_ALL_IN.allin24_qs.all24bywtu,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24bywtu,Childs weight unable to taken,integer,,anthropometry,1851,1851
+BiB_ALL_IN.allin24_qs.all24c1,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24c1,Child currently breastfed,categorical,[1 Yes] [2 No] [3 Don't know] [4 Refused],infant_feeding,2067,2067
+BiB_ALL_IN.allin24_qs.all24c2,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24c2,If not currently breastfed,categorical,[1 Never had breastmilk] [2 Don't know] [3 Stopped having breastmilk],infant_feeding,1933,1933
+BiB_ALL_IN.allin24_qs.all24c2dy,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24c2dy,Breastfeeding duration in days,integer,,infant_feeding,123,123
+BiB_ALL_IN.allin24_qs.all24c2dyna,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24c2dyna,Breastfeeding  duration in days NA,integer,,infant_feeding,1343,1343
+BiB_ALL_IN.allin24_qs.all24c2mn,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24c2mn,Breastfeeding  duration in months,integer,,infant_feeding,664,664
+BiB_ALL_IN.allin24_qs.all24c2mnna,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24c2mnna,Breastfeeding  duration in months NA,integer,,infant_feeding,791,791
+BiB_ALL_IN.allin24_qs.all24c2wk,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24c2wk,Breastfeeding  duration in weeks,integer,,infant_feeding,670,670
+BiB_ALL_IN.allin24_qs.all24c2wkna,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24c2wkna,Breastfeeding  duration in weeks NA,integer,,infant_feeding,800,800
+BiB_ALL_IN.allin24_qs.all24c3,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24c3,Doctor diagnosed food allergy,categorical,[1 Yes] [2 No],allergies,2067,2067
+BiB_ALL_IN.allin24_qs.all24cpl,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24cpl,Who completed questionnaire,categorical,[1 Child’s mother] [2 Child’s father] [3 Other],administration,2063,2063
+BiB_ALL_IN.allin24_qs.all24cploth,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24cploth,Other specified,text,,administration,2067,2067
+BiB_ALL_IN.allin24_qs.all24d1,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24d1,Marital status,categorical,[1 Married (1st marriage)] [2 Re-married] [3 Single (never married)] [4 Separated (still legally married] [5 Divorced] [6 Widowed],marital_status,2067,2067
+BiB_ALL_IN.allin24_qs.all24d2,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24d2,Cohabitation status,categorical,[1 Living with baby's father] [2 Living with another partner] [3 Not living with partner but in relationship] [4 Not living with a partner and not in relationship],household_composition,2067,2067
+BiB_ALL_IN.allin24_qs.all24d3,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24d3,Any changes in the number of people reguarly living in house,categorical,[1 Yes] [2 No],household_composition,2067,2067
+BiB_ALL_IN.allin24_qs.all24d4,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24d4,Total number in household,integer,,household_composition,390,390
+BiB_ALL_IN.allin24_qs.all24e1,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24e1,Any changes to paid work,categorical,[1 Yes] [2 No],occupation_employment,2067,2067
+BiB_ALL_IN.allin24_qs.all24e10,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24e10,How many people work for fths employer,categorical,[1 1-24] [2 25 or more],occupation_employment,139,139
+BiB_ALL_IN.allin24_qs.all24e11,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24e11,Do they supervise other employees,categorical,[1 Yes] [2 No],occupation_employment,131,131
+BiB_ALL_IN.allin24_qs.all24e12,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24e12,Employment category-Partner,categorical,[1 Modern professional occupations] [2 Clerical and intermediate occupations] [3 Senior managers or administrators] [4 Technical and craft occupations] [5 Semi-rountine manual and service occupations] [6 Rountine manual and service occupations] [7 Middle or junior managers] [8 Traditional professional occupations] [9 Does not work] [10 Don't know],occupation_employment,150,150
+BiB_ALL_IN.allin24_qs.all24e2,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24e2,other currently doing,categorical,[1 In a job working for employer] [2 On maternity leave from employer] [3 Self employed] [4 Full time student] [5 Looking after the home and family] [6 Something else],occupation_employment,304,304
+BiB_ALL_IN.allin24_qs.all24e2oth,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24e2oth,Description of other,text,,occupation_employment,2067,2067
+BiB_ALL_IN.allin24_qs.all24e3,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24e3,Returned to work since child was born,categorical,[1 Yes] [2 No],occupation_employment,171,171
+BiB_ALL_IN.allin24_qs.all24e4,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24e4,Mother employment type,categorical,[1 Employee] [2 Self employed with employees] [3 Self employed without employees] [4  Student in training] [5 Other],occupation_employment,157,157
+BiB_ALL_IN.allin24_qs.all24e4oth,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24e4oth,Description of other,text,,occupation_employment,2067,2067
+BiB_ALL_IN.allin24_qs.all24e5,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24e5,How many people work for employer,categorical,[1 1-24] [2 25 or more],occupation_employment,136,136
+BiB_ALL_IN.allin24_qs.all24e6,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24e6,Do you supervise other employees,categorical,[1 Yes] [2 No],occupation_employment,153,153
+BiB_ALL_IN.allin24_qs.all24e7,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24e7,Employment category,categorical,[1 Modern professional occupations] [2 Clerical and intermediate occupations] [3 Senior managers or administrators] [4 Technical and craft occupations] [5 Semi-rountine manual and service occupations] [6 Rountine manual and service occupations] [7 Middle or junior managers] [8 Traditional professional occupations] [9 Does not work] [10 Don't know],occupation_employment,152,152
+BiB_ALL_IN.allin24_qs.all24e8,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24e8,Husband/partner employed,categorical,[1 Yes] [2 Never been in employment] [3 No change since 12m visit],occupation_employment,249,249
+BiB_ALL_IN.allin24_qs.all24e9,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24e9,Fathers employment type,categorical,[1 Employee] [2 Self employed with employees] [3 Self employed without employees] [4  Student in training] [5 Other],occupation_employment,156,156
+BiB_ALL_IN.allin24_qs.all24f1,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24f1,Ever regular childcare,categorical,[1 Yes] [2 No],childcare,2067,2067
+BiB_ALL_IN.allin24_qs.all24f2,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24f2,Have these changed since 1st birthday,categorical,[1 Yes] [2 No],childcare,667,667
+BiB_ALL_IN.allin24_qs.all24f3,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24f3,Has there been any previous childcare arrangements,integer,,childcare,0,0
+BiB_ALL_IN.allin24_qs.all24g1,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24g1,Any changes in childcare since 12 months,categorical,[1 Yes] [2 No],childcare,2067,2067
+BiB_ALL_IN.allin24_qs.all24h1,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24h1,Child activities from 12mo,categorical,[1 Rarely] [2 At least once a month] [3 Usually once a week] [4 More than once a week],physical_activity,2061,2061
+BiB_ALL_IN.allin24_qs.all24i1,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i1,Any pets in home,categorical,[1 Yes] [2 No],environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i10,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i10,Visible mould on walls or ceilings,categorical,[1 Yes] [2 No],environmental_exposure,2066,2066
+BiB_ALL_IN.allin24_qs.all24i11chd,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i11chd,Flooring in childs room,categorical,[1 Fitted carpet] [2 Loose carpets] [3 Hard flooring] [4 Don't know],environmental_exposure,2066,2066
+BiB_ALL_IN.allin24_qs.all24i11kit,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i11kit,Flooring in kitchen,categorical,[1 Fitted carpet] [2 Loose carpets] [3 Hard flooring] [4 Don't know],environmental_exposure,2066,2066
+BiB_ALL_IN.allin24_qs.all24i11liv,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i11liv,Flooring in living room,categorical,[1 Fitted carpet] [2 Loose carpets] [3 Hard flooring] [4 Don't know],environmental_exposure,2063,2063
+BiB_ALL_IN.allin24_qs.all24i11ply,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i11ply,Flooring in play room,categorical,[1 Fitted carpet] [2 Loose carpets] [3 Hard flooring] [4 Don't know],environmental_exposure,2060,2060
+BiB_ALL_IN.allin24_qs.all24i11sit,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i11sit,Flooring in sitting room,categorical,[1 Fitted carpet] [2 Loose carpets] [3 Hard flooring] [4 Don't know],environmental_exposure,2066,2066
+BiB_ALL_IN.allin24_qs.all24i12,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i12,Window types in childs room,categorical,[1 Single glazing] [2 Sealed unit] [3 No windows],environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i13dk,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i13dk,Don't know child pillow,categorical,[1 Yes] [2 No],environmental_exposure,17,17
+BiB_ALL_IN.allin24_qs.all24i13fm,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i13fm,Child uses foam pillows,categorical,[1 Yes] [2 No],environmental_exposure,1773,1773
+BiB_ALL_IN.allin24_qs.all24i13ft,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i13ft,Child uses feather pillow,categorical,[1 Yes] [2 No],environmental_exposure,1773,1773
+BiB_ALL_IN.allin24_qs.all24i13no,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i13no,Child does not use a pillow,categorical,[1 Yes] [2 No],environmental_exposure,2062,2062
+BiB_ALL_IN.allin24_qs.all24i13ot,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i13ot,Child uses other pillow,categorical,[1 Yes] [2 No],environmental_exposure,16,16
+BiB_ALL_IN.allin24_qs.all24i14bl,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i14bl,Child uses blankets,integer,,environmental_exposure,1988,1988
+BiB_ALL_IN.allin24_qs.all24i14dk,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i14dk,Don't know childs bedding,integer,,environmental_exposure,15,15
+BiB_ALL_IN.allin24_qs.all24i14ft,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i14ft,Child uses feather bedding,integer,,environmental_exposure,1988,1988
+BiB_ALL_IN.allin24_qs.all24i14ot,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i14ot,Child uses other bedding material,integer,,environmental_exposure,86,86
+BiB_ALL_IN.allin24_qs.all24i14sy,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i14sy,Child uses synthetic bedding,integer,,environmental_exposure,1988,1988
+BiB_ALL_IN.allin24_qs.all24i15a,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i15a,Changes made due to asthma/allergy,categorical,[1 Yes] [2 No],environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i15b,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i15b,Description of the change made,text,,environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i2a,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i2a,Child shared a bedroom from 12 months,categorical,[1 Yes] [2 No],environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i2b,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i2b,Who child shared with,categorical,[1 Parents only] [2 Parents and siblings] [3 Siblings only] [4 Other],environmental_exposure,1469,1469
+BiB_ALL_IN.allin24_qs.all24i2both,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i2both,other shared with specified,text,,environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i3a,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i3a,From 12 months did child share bed,categorical,[1 Yes] [2 No],environmental_exposure,2066,2066
+BiB_ALL_IN.allin24_qs.all24i3b,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i3b,Who child shared with,categorical,[1 Parents only] [2 Parents and siblings] [3 Siblings only] [4 Other],environmental_exposure,618,618
+BiB_ALL_IN.allin24_qs.all24i3both,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i3both,Who child shared with other specified,text,,environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i4coa,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i4coa,Cooked using coal,integer,,environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i4elc,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i4elc,Cooked using electricity,integer,,environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i4gas,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i4gas,Cooked using gas,integer,,environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i4oth,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i4oth,Cooked using other,integer,,environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i5coa,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i5coa,Heating using coal,categorical,[1 Yes] [2 No],environmental_exposure,2066,2066
+BiB_ALL_IN.allin24_qs.all24i5elc,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i5elc,Heating using electric,categorical,[1 Yes] [2 No],environmental_exposure,2066,2066
+BiB_ALL_IN.allin24_qs.all24i5gas,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i5gas,Heating using gas,categorical,[1 Yes] [2 No],environmental_exposure,2066,2066
+BiB_ALL_IN.allin24_qs.all24i5oil,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i5oil,Heating using oil,categorical,[1 Yes] [2 No],environmental_exposure,2066,2066
+BiB_ALL_IN.allin24_qs.all24i5oth,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i5oth,Heating using other,categorical,[1 Yes] [2 No],environmental_exposure,2066,2066
+BiB_ALL_IN.allin24_qs.all24i5woo,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i5woo,Heating using wood,categorical,[1 Yes] [2 No],environmental_exposure,2066,2066
+BiB_ALL_IN.allin24_qs.all24i6,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i6,Home centrally heated,categorical,[1 Yes] [2 No],environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i6a,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i6a,If not centrally heated describe,text,,environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i7,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i7,Wood or coal fire with chimney,categorical,[1 Yes] [2 No],environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i8,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i8,Gas fire,categorical,[1 Yes] [2 No],environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24i9,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24i9,Damp spots walls or ceilings,categorical,[1 Yes] [2 No],environmental_exposure,2067,2067
+BiB_ALL_IN.allin24_qs.all24icat,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24icat,Cats,categorical,[1 Yes] [2 No],environmental_exposure,535,535
+BiB_ALL_IN.allin24_qs.all24idog,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24idog,Dogs,categorical,[1 Yes] [2 No],environmental_exposure,535,535
+BiB_ALL_IN.allin24_qs.all24ifur,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24ifur,Other furry pets,categorical,[1 Yes] [2 No],environmental_exposure,535,535
+BiB_ALL_IN.allin24_qs.all24j1,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j1,Itchy rash ever,categorical,[1 Yes] [2 No],skin_diseases_dermatology,2067,2067
+BiB_ALL_IN.allin24_qs.all24j2,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j2,Itchy rash affected areas,categorical,[1 Yes] [2 No],skin_diseases_dermatology,355,355
+BiB_ALL_IN.allin24_qs.all24j3,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j3,Ever eczema,categorical,[1 Yes] [2 No] [3 Don't know] [4 Refused],skin_diseases_dermatology,2066,2066
+BiB_ALL_IN.allin24_qs.all24j4,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j4,Ever sneezing when no cold,categorical,[1 Yes] [2 No] [3 Don't know] [4 Refused],respiratory_system,2067,2067
+BiB_ALL_IN.allin24_qs.all24j5,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j5,Nose problem & itchy eyes,categorical,[1 Yes] [2 No] [3 Don't know] [4 Refused],respiratory_system,243,243
+BiB_ALL_IN.allin24_qs.all24j6apr,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j6apr,Nose problem Apr,categorical,[1 Yes],respiratory_system,91,91
+BiB_ALL_IN.allin24_qs.all24j6aug,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j6aug,Nose problem Aug,categorical,[1 Yes],respiratory_system,83,83
+BiB_ALL_IN.allin24_qs.all24j6dec,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j6dec,Nose problem Dec,categorical,[1 Yes],respiratory_system,83,83
+BiB_ALL_IN.allin24_qs.all24j6dk,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j6dk,DK month nose problem,categorical,[1 Yes],respiratory_system,51,51
+BiB_ALL_IN.allin24_qs.all24j6feb,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j6feb,Nose problem Feb,categorical,[1 Yes],respiratory_system,80,80
+BiB_ALL_IN.allin24_qs.all24j6jan,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j6jan,Nose problem Jan,categorical,[1 Yes],respiratory_system,91,91
+BiB_ALL_IN.allin24_qs.all24j6jul,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j6jul,Nose problem July,categorical,[1 Yes],respiratory_system,108,108
+BiB_ALL_IN.allin24_qs.all24j6jun,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j6jun,Nose problem June,categorical,[1 Yes],respiratory_system,117,117
+BiB_ALL_IN.allin24_qs.all24j6mar,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j6mar,Nose problem Mar,categorical,[1 Yes],respiratory_system,84,84
+BiB_ALL_IN.allin24_qs.all24j6may,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j6may,Nose problem May,categorical,[1 Yes],respiratory_system,113,113
+BiB_ALL_IN.allin24_qs.all24j6nov,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j6nov,Nose problem Nov,categorical,[1 Yes],respiratory_system,85,85
+BiB_ALL_IN.allin24_qs.all24j6oct,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j6oct,Nose problem Oct,categorical,[1 Yes],respiratory_system,76,76
+BiB_ALL_IN.allin24_qs.all24j6sep,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j6sep,Nose problem Sep,categorical,[1 Yes],respiratory_system,70,70
+BiB_ALL_IN.allin24_qs.all24j7,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24j7,Ever hayfever,categorical,[1 Yes] [2 No] [3 Don't know] [4 Refused],allergies,2067,2067
+BiB_ALL_IN.allin24_qs.all24k1,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24k1,Ever travelled outside UK since 1st bday,categorical,[1 No] [2 Within Europe] [3 Outside Europe],travel_and_transport,2067,2067
+BiB_ALL_IN.allin24_qs.all24k3,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24k3,Travel Eur before 1st birthday,categorical,[1 Yes] [2 No],travel_and_transport,337,337
+BiB_ALL_IN.allin24_qs.all24k4,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24k4,Received medical treatment abroad,categorical,[1 Yes] [2 No],travel_and_transport,8,8
+BiB_ALL_IN.allin24_qs.all24l1,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24l1,Mother ever regularly smoked,categorical,"[1 Yes, more than 1 year] [2 Yes less than 1 year] [3 No]",smoking,2066,2066
+BiB_ALL_IN.allin24_qs.all24l2,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24l2,Mother smokes nowadays,categorical,[1 Yes] [2 No],smoking,403,403
+BiB_ALL_IN.allin24_qs.all24l2age,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24l2age,Age stopped smoking,integer,,smoking,151,151
+BiB_ALL_IN.allin24_qs.all24l2agedr,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24l2agedr,Age stopped smoking don't remember,integer,,smoking,1,1
+BiB_ALL_IN.allin24_qs.all24l3,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24l3,Amt currently smoking,categorical,[1 None] [2 1-5 a day] [3 6-10 a day] [4 11-20 a day] [5 Over 20 a day] [6 Does not apply],smoking,388,388
+BiB_ALL_IN.allin24_qs.all24l4,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24l4,Exp to smoke at work/home,categorical,[1 Yes] [2 No] [3 Less than 1 hour per day],smoking,2065,2065
+BiB_ALL_IN.allin24_qs.all24l4hrs,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24l4hrs,"If yes, hours exp",integer,,smoking,89,89
+BiB_ALL_IN.allin24_qs.all24l5,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24l5,Child exp to smoke,categorical,[1 Yes] [2 No] [3 Less than 1 hour per day],smoking,2066,2066
+BiB_ALL_IN.allin24_qs.all24l5hrs,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24l5hrs,"If yes, hours exp",integer,,smoking,36,36
+BiB_ALL_IN.allin24_qs.all24loc,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24loc,Where questionnaire completed,categorical,[1 Home] [2 Clinic] [3 Other],administration,2065,2065
+BiB_ALL_IN.allin24_qs.all24locoth,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24locoth,Other location specified,text,,administration,2067,2067
+BiB_ALL_IN.allin24_qs.all24m1imoth,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1imoth,Other imm given,integer,,immunisations,2061,2061
+BiB_ALL_IN.allin24_qs.all24m1men,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1men,Men C Imm given,categorical,[1 Yes] [2 No] [3 Don't know],immunisations,2061,2061
+BiB_ALL_IN.allin24_qs.all24m1mendk,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1mendk,DK Date men c imm give,categorical,[1 Yes] [2 No],immunisations,0,0
+BiB_ALL_IN.allin24_qs.all24m1mendt,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1mendt,Date men c imm given,date,,immunisations,1417,1417
+BiB_ALL_IN.allin24_qs.all24m1menrbk,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1menrbk,man c imm checked red book,categorical,[1 Yes] [2 No],immunisations,2010,2010
+BiB_ALL_IN.allin24_qs.all24m1mm,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1mm,MMR1 imm given,categorical,[1 Yes] [2 No] [3 Don't know],immunisations,2055,2055
+BiB_ALL_IN.allin24_qs.all24m1mm2,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1mm2,MMR2 imm given,categorical,[1 Yes] [2 No] [3 Don't know],immunisations,2062,2062
+BiB_ALL_IN.allin24_qs.all24m1mm2dkdt,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1mm2dkdt,DK Date mmr2 imm given,text,,immunisations,2067,2067
+BiB_ALL_IN.allin24_qs.all24m1mm2dt,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1mm2dt,Date mmr2 imm given,date,,immunisations,6,6
+BiB_ALL_IN.allin24_qs.all24m1mm2rbk,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1mm2rbk,MMR2 imm checked red book,categorical,[1 Yes] [2 No],immunisations,26,26
+BiB_ALL_IN.allin24_qs.all24m1mmdk,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1mmdk,DK Date mmr1 imm give,categorical,[1 Yes] [2 No],immunisations,0,0
+BiB_ALL_IN.allin24_qs.all24m1mmdt,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1mmdt,Date mmr1 imm given,date,,immunisations,1415,1415
+BiB_ALL_IN.allin24_qs.all24m1mrbk,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1mrbk,mmr1 imm checked red book,categorical,[1 Yes] [2 No],immunisations,2012,2012
+BiB_ALL_IN.allin24_qs.all24m1pcv,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1pcv,PCV imm given,categorical,[1 Yes] [2 No] [3 Don't know],immunisations,2056,2056
+BiB_ALL_IN.allin24_qs.all24m1pcvdkdt,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1pcvdkdt,DK Date pcv imm give,text,,immunisations,2067,2067
+BiB_ALL_IN.allin24_qs.all24m1pcvdt,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1pcvdt,Date pcv imm given,date,,immunisations,1406,1406
+BiB_ALL_IN.allin24_qs.all24m1pcvrbk,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m1pcvrbk,PCV imm checked red book,integer,,immunisations,2001,2001
+BiB_ALL_IN.allin24_qs.all24m2a,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m2a,Has your child had chickenpox,categorical,[1 Yes] [2 No] [3 Don't know],infections,2066,2066
+BiB_ALL_IN.allin24_qs.all24m2amonths,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m2amonths,Age had chickenpox in months,integer,,infections,527,527
+BiB_ALL_IN.allin24_qs.all24m2awks,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m2awks,Age had chickenpox in weeks,integer,,infections,527,527
+BiB_ALL_IN.allin24_qs.all24m2c,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24m2c,Was chickenpox diagnosed by a doctor,categorical,[1 Yes] [2 No] [3 Don't know],infections,532,532
+BiB_ALL_IN.allin24_qs.all24mthwt,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24mthwt,Mothers weight in kgs,float,,anthropometry,20,20
+BiB_ALL_IN.allin24_qs.all24mtwtu,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24mtwtu,Mothers weight unable to be taken,integer,,anthropometry,1849,1849
+BiB_ALL_IN.allin24_qs.all24n1,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24n1,Upset,categorical,[1 Never] [2 Almost never] [3 Sometimes] [4 Fairly often] [5 Very often],wellbeing,2059,2059
+BiB_ALL_IN.allin24_qs.all24n10,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24n10,Difficulties,categorical,[1 Never] [2 Almost never] [3 Sometimes] [4 Fairly often] [5 Very often],wellbeing,2055,2055
+BiB_ALL_IN.allin24_qs.all24n2,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24n2,Control,categorical,[1 Never] [2 Almost never] [3 Sometimes] [4 Fairly often] [5 Very often],wellbeing,2057,2057
+BiB_ALL_IN.allin24_qs.all24n3,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24n3,Nervous,categorical,[1 Never] [2 Almost never] [3 Sometimes] [4 Fairly often] [5 Very often],wellbeing,2057,2057
+BiB_ALL_IN.allin24_qs.all24n4,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24n4,Handle,categorical,[1 Never] [2 Almost never] [3 Sometimes] [4 Fairly often] [5 Very often],wellbeing,2056,2056
+BiB_ALL_IN.allin24_qs.all24n5,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24n5,Your way,categorical,[1 Never] [2 Almost never] [3 Sometimes] [4 Fairly often] [5 Very often],wellbeing,2057,2057
+BiB_ALL_IN.allin24_qs.all24n6,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24n6,Not cope,categorical,[1 Never] [2 Almost never] [3 Sometimes] [4 Fairly often] [5 Very often],wellbeing,2057,2057
+BiB_ALL_IN.allin24_qs.all24n7,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24n7,Irritations,categorical,[1 Never] [2 Almost never] [3 Sometimes] [4 Fairly often] [5 Very often],wellbeing,2054,2054
+BiB_ALL_IN.allin24_qs.all24n8,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24n8,On top,categorical,[1 Never] [2 Almost never] [3 Sometimes] [4 Fairly often] [5 Very often],wellbeing,2055,2055
+BiB_ALL_IN.allin24_qs.all24n9,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24n9,Angered,categorical,[1 Never] [2 Almost never] [3 Sometimes] [4 Fairly often] [5 Very often],wellbeing,2054,2054
+BiB_ALL_IN.allin24_qs.all24oth,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24oth,Other,categorical,[1 Yes] [2 No],wellbeing,535,535
+BiB_ALL_IN.allin24_qs.all24sy,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,all24sy,Child uses synthetic pillows,categorical,[1 Yes] [2 No],environmental_exposure,1772,1772
+BiB_ALL_IN.allin24_qs.has_all2qs,BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,has_all2qs,Has ALL IN 24m questionnaire,categorical,[1 has],administration,2067,2067

@@ -1,9 +1,0 @@
-variable,full_name,label,value_type,description,categories,categories_label
-has_bib1000_18m_b18e16,BiB_1000.bib1000_18m_b18e16.has_bib1000_18m_b18e16,"Has bib 1000 18m veg, pasta, rice-based savoury meals",decimal,,,
-bib18e16brand,BiB_1000.bib1000_18m_b18e16.bib18e16brand,Brand of veg/pasta/rice-based meals,decimal,,1|2|3|4|5|6|7|8,Annabel Karmel|Cow and Gate|Ellas Kitchen|Heinz|HiPP Organics|Mumtaz (Halal)|Organix|Other Supermarket own
-bib18e16frequency,BiB_1000.bib1000_18m_b18e16.bib18e16frequency,Number of times per week consumes veg/pasta/rice-based meals,decimal,,1|2|3|4|5|6|7|8|9,Never|1-3 per month|One day a week|Two days a week|Three days a week|Four days a week|Five days a week|Six days a week|Seven days a week
-bib18e16otherbrand,BiB_1000.bib1000_18m_b18e16.bib18e16otherbrand,Other brand of veg/pasta/rice-based meals,text,,,
-bib18e16quantity,BiB_1000.bib1000_18m_b18e16.bib18e16quantity,Average number of jars consumed,decimal,,,
-bib18e16size,BiB_1000.bib1000_18m_b18e16.bib18e16size,Size of jar,decimal,,1|2|3,125g|200g|250g
-bib18e16timesperday,BiB_1000.bib1000_18m_b18e16.bib18e16timesperday,Number of times per day consumes veg/pasta/rice-based meals,decimal,,,
-has_b18tab,BiB_1000.bib1000_18m_b18e16.has_b18tab,Has: BiB 1000 Questionnaire: bib18_maintable,decimal,,1,has

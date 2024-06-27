@@ -1,0 +1,13 @@
+project,table,variable
+BiB_Biosamples,pregnancy_bloods,BiBPersonID
+BiB_Biosamples,pregnancy_bloods,BiBPregNumber
+BiB_Biosamples,pregnancy_bloods,has_pregnancy_bloods
+BiB_Biosamples,pregnancy_bloods,agemm_matbld
+BiB_Biosamples,pregnancy_bloods,agemy_matbld
+BiB_Biosamples,pregnancy_bloods,has_matbld
+BiB_Biosamples,pregnancy_bloods,mbldchdlr1
+BiB_Biosamples,pregnancy_bloods,mbldchol
+BiB_Biosamples,pregnancy_bloods,mbldhdl1
+BiB_Biosamples,pregnancy_bloods,mbldinsulin_str
+BiB_Biosamples,pregnancy_bloods,mbldldl1
+BiB_Biosamples,pregnancy_bloods,mbldtrigs

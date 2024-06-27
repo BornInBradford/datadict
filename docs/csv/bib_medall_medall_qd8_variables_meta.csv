@@ -1,0 +1,15 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_MeDALL.medall_qd8.BiBPersonID,BiB_MeDALL.medall_qd8,BiB_MeDALL,medall_qd8,BiBPersonID,,text,,,2595,2594
+BiB_MeDALL.medall_qd8.has_medall_qd8,BiB_MeDALL.medall_qd8,BiB_MeDALL,medall_qd8,has_medall_qd8,Has medall questionnaire: reactions to vaccines,integer,,administration,2595,2594
+BiB_MeDALL.medall_qd8.has_medqst,BiB_MeDALL.medall_qd8,BiB_MeDALL,medall_qd8,has_medqst,Has MeDALL questionnaire,categorical,[1 has],administration,2595,2594
+BiB_MeDALL.medall_qd8.medd8brt,BiB_MeDALL.medall_qd8,BiB_MeDALL,medall_qd8,medd8brt,Reaction was feeling of breathlessness,categorical,[1 Yes],allergies,0,0
+BiB_MeDALL.medall_qd8.medd8des,BiB_MeDALL.medall_qd8,BiB_MeDALL,medall_qd8,medd8des,Vaccination reacted to,text,,allergies,2595,2594
+BiB_MeDALL.medall_qd8.medd8fac,BiB_MeDALL.medall_qd8,BiB_MeDALL,medall_qd8,medd8fac,Reaction was face swelling,categorical,[1 Yes],allergies,1,1
+BiB_MeDALL.medall_qd8.medd8fnt,BiB_MeDALL.medall_qd8,BiB_MeDALL,medall_qd8,medd8fnt,Reaction was faintness,categorical,[1 Yes],allergies,1,1
+BiB_MeDALL.medall_qd8.medd8lcn,BiB_MeDALL.medall_qd8,BiB_MeDALL,medall_qd8,medd8lcn,Reaction was loss of consciousness,categorical,[1 Yes],allergies,0,0
+BiB_MeDALL.medall_qd8.medd8lip,BiB_MeDALL.medall_qd8,BiB_MeDALL,medall_qd8,medd8lip,Reaction was lips swelling,categorical,[1 Yes],allergies,0,0
+BiB_MeDALL.medall_qd8.medd8oth,BiB_MeDALL.medall_qd8,BiB_MeDALL,medall_qd8,medd8oth,Reaction was other,categorical,[1 Yes],allergies,13,12
+BiB_MeDALL.medall_qd8.medd8qun,BiB_MeDALL.medall_qd8,BiB_MeDALL,medall_qd8,medd8qun,Reaction was quincke’s oedema,categorical,[1 Yes],allergies,0,0
+BiB_MeDALL.medall_qd8.medd8ras,BiB_MeDALL.medall_qd8,BiB_MeDALL,medall_qd8,medd8ras,Reaction was generalised rash,categorical,[1 Yes],allergies,15,15
+BiB_MeDALL.medall_qd8.medd8rds,BiB_MeDALL.medall_qd8,BiB_MeDALL,medall_qd8,medd8rds,Other reaction description,text,,allergies,2595,2594
+BiB_MeDALL.medall_qd8.medd8vom,BiB_MeDALL.medall_qd8,BiB_MeDALL,medall_qd8,medd8vom,Reaction was vomiting or diarrhea,categorical,[1 Yes],allergies,0,0

@@ -1,0 +1,4 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiBBS_Geographic.bibbs_geog_person,BiBBS_Geographic,bibbs_geog_person,BiBBS person level geographic information,bibbs,participant,,,15,83426,9432,2024-05-14 09:15:48
+BiBBS_Geographic.bibbs_geog_property,BiBBS_Geographic,bibbs_geog_property,BiBBS property level geographic information,bibbs,property,,,12,6611,6611,2024-05-14 09:15:49
+BiBBS_Geographic.bibbs_geog_lsoa,BiBBS_Geographic,bibbs_geog_lsoa,BiBBS LSOA level geographic information,bibbs,lsoa,,,10,719,719,2024-05-14 09:15:47

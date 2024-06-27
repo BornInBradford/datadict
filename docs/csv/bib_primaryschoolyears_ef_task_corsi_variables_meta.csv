@@ -1,0 +1,15 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_PrimarySchoolYears.ef_task_corsi.PSYChildID,BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,PSYChildID,,text,,,15388,15388
+BiB_PrimarySchoolYears.ef_task_corsi.PSYSchoolID,BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,PSYSchoolID,Primary School Years: School pseudonym,integer,,administration,15388,15388
+BiB_PrimarySchoolYears.ef_task_corsi.PSYClassID,BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,PSYClassID,Primary School Years: Class pseudonym,integer,,administration,15388,15388
+BiB_PrimarySchoolYears.ef_task_corsi.TestYearGroup,BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,TestYearGroup,Year group of Corsi completion,integer,,administration,15388,15388
+BiB_PrimarySchoolYears.ef_task_corsi.TestAcadTerm,BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,TestAcadTerm,Academic term of Corsi completion,categorical,[1 Autumn] [2 Spring] [3 Summer],administration,15388,15388
+BiB_PrimarySchoolYears.ef_task_corsi.TestYear,BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,TestYear,Calendar year of Corsi completion,integer,,administration,15388,15388
+BiB_PrimarySchoolYears.ef_task_corsi.TestMonth,BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,TestMonth,Calendar month of Corsi completion,integer,,administration,15388,15388
+BiB_PrimarySchoolYears.ef_task_corsi.PSYTestDay,BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,PSYTestDay,Days elapsed since study start + 50000,integer,,administration,15388,15388
+BiB_PrimarySchoolYears.ef_task_corsi.AgeYears,BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,AgeYears,Child age in years at Corsi completion,integer,,age,15388,15388
+BiB_PrimarySchoolYears.ef_task_corsi.AgeMonths,BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,AgeMonths,Child age in months at Corsi completion,integer,,age,15388,15388
+BiB_PrimarySchoolYears.ef_task_corsi.PSYTabletID,BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,PSYTabletID,Tablet computer used for testing,integer,,administration,15388,15388
+BiB_PrimarySchoolYears.ef_task_corsi.EFSessionID,BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,EFSessionID,Testing software session ID,integer,,administration,15388,15388
+BiB_PrimarySchoolYears.ef_task_corsi.corsi_summary,BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,corsi_summary,Summary test score for Corsi,float,,cognitive_skills,15369,15369
+BiB_PrimarySchoolYears.ef_task_corsi.corsi_rowcount,BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,corsi_rowcount,Number of rows in Corsi trials raw data file for the session,integer,,cognitive_skills,15388,15388

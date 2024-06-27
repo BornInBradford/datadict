@@ -1,0 +1,15 @@
+project,table,variable
+BiB_MeDALL,medall_qd8,BiBPersonID
+BiB_MeDALL,medall_qd8,has_medall_qd8
+BiB_MeDALL,medall_qd8,has_medqst
+BiB_MeDALL,medall_qd8,medd8brt
+BiB_MeDALL,medall_qd8,medd8des
+BiB_MeDALL,medall_qd8,medd8fac
+BiB_MeDALL,medall_qd8,medd8fnt
+BiB_MeDALL,medall_qd8,medd8lcn
+BiB_MeDALL,medall_qd8,medd8lip
+BiB_MeDALL,medall_qd8,medd8oth
+BiB_MeDALL,medall_qd8,medd8qun
+BiB_MeDALL,medall_qd8,medd8ras
+BiB_MeDALL,medall_qd8,medd8rds
+BiB_MeDALL,medall_qd8,medd8vom

@@ -1,0 +1,15 @@
+project,table,variable
+BiBBS_CohortInfo,child,BiBBSPersonID
+BiBBS_CohortInfo,child,BiBBSPregNumber
+BiBBS_CohortInfo,child,BiBBSPregnancyID
+BiBBS_CohortInfo,child,birth_order
+BiBBS_CohortInfo,child,date_of_birth
+BiBBS_CohortInfo,child,birth_year
+BiBBS_CohortInfo,child,birth_month
+BiBBS_CohortInfo,child,gender
+BiBBS_CohortInfo,child,BiBBSMotherID
+BiBBS_CohortInfo,child,mother_date_of_birth
+BiBBS_CohortInfo,child,mother_age_at_birth
+BiBBS_CohortInfo,child,BiBBSPartnerID
+BiBBS_CohortInfo,child,partner_date_of_birth
+BiBBS_CohortInfo,child,partner_age_at_birth

@@ -1,0 +1,13 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,Biochemistry hospital bloods taken during pregnancy,bib,participant,,,18,6831,3198,2024-05-14 09:12:08
+BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,Haematology hospital bloods taken during pregnancy,bib,participant,,,18,14553,7307,2024-05-14 09:12:08
+BiB_Biosamples.hosp_hba1c,BiB_Biosamples,hosp_hba1c,HbA1c hospital bloods taken during pregnancy,bib,participant,,,6,2288,1006,2024-05-14 09:12:09
+BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,Pregnancy blood biomarkers,bib,participant,,,11,11625,10685,2024-05-14 09:12:09
+BiB_Biosamples.pregnancy_bloods_vitd,BiB_Biosamples,pregnancy_bloods_vitd,Pregnancy bloods vitamin D,bib,participant,,,10,1498,1498,2024-05-14 09:12:09
+BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,Maternal baseline GTT,bib,participant,,,8,12331,11231,2024-05-14 09:12:09
+BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,BiB Growing Up main blood tests,bib,participant,,,16,6161,6124,2024-05-14 09:12:07
+BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,Baby cord blood biomarkers,bib,participant,,,15,7910,7910,2024-05-14 09:12:08
+BiB_Biosamples.covid_antibody_blood_tests,BiB_Biosamples,covid_antibody_blood_tests,BiB COVID19 child covid antibody blood tests,bib,participant,,,2,286,152,2024-05-14 09:12:08
+BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,BiB maternal iodine,bib,participant,,,12,7060,3,2024-05-14 09:12:09
+BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,BiB Growing Up renal study blood tests,bib,participant,,,9,1720,1712,2024-05-14 09:12:10
+BiB_Biosamples.renal_cystatinc,BiB_Biosamples,renal_cystatinc,BiB Growing Up renal study Cystatin C,bib,participant,,,3,1534,1534,2024-05-14 09:12:10

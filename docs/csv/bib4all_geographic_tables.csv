@@ -1,0 +1,4 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB4All_Geographic.bib4all_geog_person,BiB4All_Geographic,bib4all_geog_person,BiB4All person level geographic information,bib,participant,,,15,101646,15316,2024-05-14 09:15:44
+BiB4All_Geographic.bib4all_geog_property,BiB4All_Geographic,bib4all_geog_property,BiB4All property level geographic information,bib,property,,,12,11471,11471,2024-05-14 09:15:45
+BiB4All_Geographic.bib4all_geog_lsoa,BiB4All_Geographic,bib4all_geog_lsoa,BiB4All LSOA level geographic information,bib,lsoa,,,10,984,984,2024-05-14 09:15:43

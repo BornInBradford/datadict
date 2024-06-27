@@ -1,0 +1,29 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_Metabolomics.metms_pairm_s,BiB_Metabolomics,metms_pairm_s,MS metabolomics paired mother samples scaled,bib,participant,,,1170,1000,999,2024-05-14 09:13:42
+BiB_Metabolomics.metms_pairm_r,BiB_Metabolomics,metms_pairm_r,MS metabolomics paired mother samples raw,bib,participant,,,1170,1000,999,2024-05-14 09:13:39
+BiB_Metabolomics.metms_pairm_h,BiB_Metabolomics,metms_pairm_h,MS metabolomics paired mother samples header,bib,participant,,,6,1000,999,2024-05-14 09:13:37
+BiB_Metabolomics.metms_pairm_c,BiB_Metabolomics,metms_pairm_c,MS metabolomics paired mother samples compound metadata,bib,compound,,,19,1168,1168,2024-05-14 09:13:37
+BiB_Metabolomics.metms_pairc_s,BiB_Metabolomics,metms_pairc_s,MS metabolomics paired child samples scaled,bib,participant,,,1170,1000,1000,2024-05-14 09:13:35
+BiB_Metabolomics.metms_pairc_r,BiB_Metabolomics,metms_pairc_r,MS metabolomics paired child samples raw,bib,participant,,,1170,1000,1000,2024-05-14 09:13:31
+BiB_Metabolomics.metms_pairc_h,BiB_Metabolomics,metms_pairc_h,MS metabolomics paired child samples header,bib,participant,,,6,1000,1000,2024-05-14 09:13:29
+BiB_Metabolomics.metms_pairc_c,BiB_Metabolomics,metms_pairc_c,MS metabolomics paired child samples compound metadata,bib,compound,,,19,1168,1168,2024-05-14 09:13:29
+BiB_Metabolomics.metms_2k_s,BiB_Metabolomics,metms_2k_s,MS metabolomics 2000 mothers scaled,bib,participant,,,1241,2000,2000,2024-05-14 09:13:26
+BiB_Metabolomics.metms_2k_r,BiB_Metabolomics,metms_2k_r,MS metabolomics 2000 mothers raw,bib,participant,,,1241,2000,2000,2024-05-14 09:13:19
+BiB_Metabolomics.metms_2k_h,BiB_Metabolomics,metms_2k_h,MS metabolomics 2000 mothers header,bib,participant,,,6,2000,2000,2024-05-14 09:13:13
+BiB_Metabolomics.metms_2k_c,BiB_Metabolomics,metms_2k_c,MS metabolomics 2000 mothers compound metadata,bib,compound,,,14,1239,1239,2024-05-14 09:13:13
+BiB_Metabolomics.metnmr_mother_d,BiB_Metabolomics,metnmr_mother_d,NMR metabolomics mother data,bib,participant,,,245,11480,10575,2024-05-14 09:13:53
+BiB_Metabolomics.metnmr_mother_a,BiB_Metabolomics,metnmr_mother_a,NMR metabolomics mother annotations,bib,compound,,,3,227,227,2024-05-14 09:13:49
+BiB_Metabolomics.metnmr_baby_d,BiB_Metabolomics,metnmr_baby_d,NMR metabolomics baby data,bib,participant,,,110,7890,7890,2024-05-14 09:13:43
+BiB_Metabolomics.metnmr_baby_a,BiB_Metabolomics,metnmr_baby_a,NMR metabolomics baby annotations,bib,compound,,,5,85,85,2024-05-14 09:13:42
+BiB_Metabolomics.metnmr_infant12_d,BiB_Metabolomics,metnmr_infant12_d,NMR metabolomics infant 12m data,bib,participant,,,257,1690,1690,2024-05-14 09:13:48
+BiB_Metabolomics.metnmr_infant12_a,BiB_Metabolomics,metnmr_infant12_a,NMR metabolomics infant 12m annotations,bib,compound,,,5,228,228,2024-05-14 09:13:47
+BiB_Metabolomics.metnmr_infant24_d,BiB_Metabolomics,metnmr_infant24_d,NMR metabolomics infant 24m data,bib,participant,,,257,1536,1536,2024-05-14 09:13:49
+BiB_Metabolomics.metnmr_infant24_a,BiB_Metabolomics,metnmr_infant24_a,NMR metabolomics infant 24m annotations,bib,compound,,,5,228,228,2024-05-14 09:13:48
+BiB_Metabolomics.metnmr_gu_child_results,BiB_Metabolomics,metnmr_gu_child_results,NMR metabolomics Growing Up child results,bib,participant,,,253,2517,2517,2024-05-14 09:13:45
+BiB_Metabolomics.metnmr_gu_child_qc,BiB_Metabolomics,metnmr_gu_child_qc,NMR metabolomics Growing Up child QC,bib,participant,,,24,2517,2517,2024-05-14 09:13:44
+BiB_Metabolomics.metnmr_gu_mother_results,BiB_Metabolomics,metnmr_gu_mother_results,NMR metabolomics Growing Up mother results,bib,participant,,,253,2896,2896,2024-05-14 09:13:47
+BiB_Metabolomics.metnmr_gu_mother_qc,BiB_Metabolomics,metnmr_gu_mother_qc,NMR metabolomics Growing Up mother QC,bib,participant,,,24,2896,2896,2024-05-14 09:13:45
+BiB_Metabolomics.metnmr_gu_father_results,BiB_Metabolomics,metnmr_gu_father_results,NMR metabolomics Growing Up father results,bib,participant,,,253,200,200,2024-05-14 09:13:45
+BiB_Metabolomics.metnmr_gu_father_qc,BiB_Metabolomics,metnmr_gu_father_qc,NMR metabolomics Growing Up father QC,bib,participant,,,24,200,200,2024-05-14 09:13:45
+BiB_Metabolomics.metnmr_gu_biomarker_annotations,BiB_Metabolomics,metnmr_gu_biomarker_annotations,NMR metabolomics Growing Up biomarker annotations,bib,compound,,,3,250,250,2024-05-14 09:13:43
+BiB_Metabolomics.metnmr_gu_qc_tag,BiB_Metabolomics,metnmr_gu_qc_tag,NMR metabolomics Growing Up compound QC tags,bib,compound,,,2,21,21,2024-05-14 09:13:47

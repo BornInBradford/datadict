@@ -1,0 +1,8 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Metabolomics.metms_pairc_h.BiBPersonID,BiB_Metabolomics.metms_pairc_h,BiB_Metabolomics,metms_pairc_h,BiBPersonID,,text,,,1000,1000
+BiB_Metabolomics.metms_pairc_h.has_metms_pairc_h,BiB_Metabolomics.metms_pairc_h,BiB_Metabolomics,metms_pairc_h,has_metms_pairc_h,Has ms metabolomics paired child samples header,integer,,administration,1000,1000
+BiB_Metabolomics.metms_pairc_h.BiBMotherID,BiB_Metabolomics.metms_pairc_h,BiB_Metabolomics,metms_pairc_h,BiBMotherID,BiB person identifier of child's mother,text,,administration,1000,1000
+BiB_Metabolomics.metms_pairc_h.metmsmsamplename,BiB_Metabolomics.metms_pairc_h,BiB_Metabolomics,metms_pairc_h,metmsmsamplename,,text,,administration,1000,1000
+BiB_Metabolomics.metms_pairc_h.metmsmsubjid,BiB_Metabolomics.metms_pairc_h,BiB_Metabolomics,metms_pairc_h,metmsmsubjid,,text,,administration,1000,1000
+BiB_Metabolomics.metms_pairc_h.metmsmboxidnumber,BiB_Metabolomics.metms_pairc_h,BiB_Metabolomics,metms_pairc_h,metmsmboxidnumber,,text,,administration,1000,1000
+BiB_Metabolomics.metms_pairc_h.metmsmboxwellposition,BiB_Metabolomics.metms_pairc_h,BiB_Metabolomics,metms_pairc_h,metmsmboxwellposition,,text,,administration,1000,1000

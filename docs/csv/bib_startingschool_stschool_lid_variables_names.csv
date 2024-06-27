@@ -1,0 +1,9 @@
+project,table,variable
+BiB_StartingSchool,stschool_lid,SSChildID
+BiB_StartingSchool,stschool_lid,BiBPersonID
+BiB_StartingSchool,stschool_lid,has_stschool_lid
+BiB_StartingSchool,stschool_lid,has_ssclid
+BiB_StartingSchool,stschool_lid,sslidceilingset
+BiB_StartingSchool,stschool_lid,sslidchronage
+BiB_StartingSchool,stschool_lid,sslidrawscore
+BiB_StartingSchool,stschool_lid,sslidstandardised

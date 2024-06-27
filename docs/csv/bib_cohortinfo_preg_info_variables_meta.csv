@@ -1,0 +1,12 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_CohortInfo.preg_info.BiBPersonID,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,BiBPersonID,,text,,,13776,12453
+BiB_CohortInfo.preg_info.BiBPregNumber,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,BiBPregNumber,,integer,,administration,13776,12453
+BiB_CohortInfo.preg_info.has_preg_info,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,has_preg_info,Has pregnancy information,integer,,pregnancy,13776,12453
+BiB_CohortInfo.preg_info.PregnancyID,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,PregnancyID,Legacy BiB Pregnancy ID,text,,administration,13776,12453
+BiB_CohortInfo.preg_info.adminpagebookmm,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,adminpagebookmm,Mother age in months at pregnancy booking date,integer,,age,13176,11926
+BiB_CohortInfo.preg_info.adminpagebookmy,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,adminpagebookmy,Mother age in years at pregnancy booking date,integer,,age,13176,11926
+BiB_CohortInfo.preg_info.adminpagerecfm,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,adminpagerecfm,Father age at this pregnancy recruitment (months),integer,,age,3455,3356
+BiB_CohortInfo.preg_info.adminpagerecfy,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,adminpagerecfy,Father age at this pregnancy recruitment (years),integer,,age,3455,3356
+BiB_CohortInfo.preg_info.adminpagerecmm,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,adminpagerecmm,Mother age at this pregnancy recruitment (months),integer,,age,13776,12453
+BiB_CohortInfo.preg_info.adminpagerecmy,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,adminpagerecmy,Mother age at this pregnancy recruitment (years),integer,,age,13776,12453
+BiB_CohortInfo.preg_info.adminpnbirths,BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,adminpnbirths,Number of registerable births,integer,,childbirth,13580,12265

@@ -1,0 +1,11 @@
+project,table,variable
+BiB_Biosamples,renal_blood_tests,BiBPersonID
+BiB_Biosamples,renal_blood_tests,TestDate
+BiB_Biosamples,renal_blood_tests,TotalTests
+BiB_Biosamples,renal_blood_tests,TestDateOrder
+BiB_Biosamples,renal_blood_tests,AgeInYears
+BiB_Biosamples,renal_blood_tests,AgeInMonths
+BiB_Biosamples,renal_blood_tests,sodium
+BiB_Biosamples,renal_blood_tests,potassium
+BiB_Biosamples,renal_blood_tests,urea
+BiB_Biosamples,renal_blood_tests,creatinine

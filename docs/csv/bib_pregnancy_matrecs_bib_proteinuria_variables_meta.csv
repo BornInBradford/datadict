@@ -1,0 +1,9 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Pregnancy.matrecs_bib_proteinuria.BiBPersonID,BiB_Pregnancy.matrecs_bib_proteinuria,BiB_Pregnancy,matrecs_bib_proteinuria,BiBPersonID,,text,,,17300,6918
+BiB_Pregnancy.matrecs_bib_proteinuria.BiBPregNumber,BiB_Pregnancy.matrecs_bib_proteinuria,BiB_Pregnancy,matrecs_bib_proteinuria,BiBPregNumber,Cohort recruited pregnancy number,integer,,administration,17300,6918
+BiB_Pregnancy.matrecs_bib_proteinuria.has_matrecs_bib_proteinuria,BiB_Pregnancy.matrecs_bib_proteinuria,BiB_Pregnancy,matrecs_bib_proteinuria,has_matrecs_bib_proteinuria,Has,integer,,administration,17300,6918
+BiB_Pregnancy.matrecs_bib_proteinuria.has_prnprt,BiB_Pregnancy.matrecs_bib_proteinuria,BiB_Pregnancy,matrecs_bib_proteinuria,has_prnprt,Has: Maternal records abstraction: Proteinurea,categorical,[1 has],administration,17300,6918
+BiB_Pregnancy.matrecs_bib_proteinuria.prnbpproteinuria,BiB_Pregnancy.matrecs_bib_proteinuria,BiB_Pregnancy,matrecs_bib_proteinuria,prnbpproteinuria,Pregnancy proteinuria observation,categorical,[1 Not documented] [2 Nil] [3 Trace] [4 +] [5 ++] [6 +++] [7 ++++ or more],urogenital_system,17300,6918
+BiB_Pregnancy.matrecs_bib_proteinuria.prnbpprotrectime,BiB_Pregnancy.matrecs_bib_proteinuria,BiB_Pregnancy,matrecs_bib_proteinuria,prnbpprotrectime,Time of pregnancy proteinuria observation,text,,urogenital_system,17300,6918
+BiB_Pregnancy.matrecs_bib_proteinuria.prnprtgestaged,BiB_Pregnancy.matrecs_bib_proteinuria,BiB_Pregnancy,matrecs_bib_proteinuria,prnprtgestaged,Gestational age in days at pregnancy proteinuria observation,integer,,age,17300,6918
+BiB_Pregnancy.matrecs_bib_proteinuria.prnprtgestagew,BiB_Pregnancy.matrecs_bib_proteinuria,BiB_Pregnancy,matrecs_bib_proteinuria,prnprtgestagew,Gestational age in weeks at pregnancy proteinuria observation,integer,,age,17300,6918

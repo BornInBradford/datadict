@@ -1,0 +1,3 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_CohortInfo.dnam_controls.ParticipantType,BiB_CohortInfo.dnam_controls,BiB_CohortInfo,dnam_controls,ParticipantType,BiB Participant Type vs Control,categorical,[1 Child] [2 Mother] [3 Control],administration,25,1
+BiB_CohortInfo.dnam_controls.lab_id,BiB_CohortInfo.dnam_controls,BiB_CohortInfo,dnam_controls,lab_id,Lab-assigned sample ID,text,,,25,1

@@ -1,0 +1,11 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Biosamples.renal_blood_tests.BiBPersonID,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,BiBPersonID,,text,,,1720,1712
+BiB_Biosamples.renal_blood_tests.TestDate,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,TestDate,Date sample was taken,date,,administration,1720,1712
+BiB_Biosamples.renal_blood_tests.TotalTests,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,TotalTests,Total blood test occasions within GU renal study,integer,,administration,1720,1712
+BiB_Biosamples.renal_blood_tests.TestDateOrder,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,TestDateOrder,Date order of test occasions within GU renal study,integer,,administration,1720,1712
+BiB_Biosamples.renal_blood_tests.AgeInYears,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,AgeInYears,"Age at GU renal blood test, years",integer,,age,1720,1712
+BiB_Biosamples.renal_blood_tests.AgeInMonths,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,AgeInMonths,"Age at GU renal blood test, months",integer,,age,1720,1712
+BiB_Biosamples.renal_blood_tests.sodium,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,sodium,Sodium (mmol/L),integer,,urogenital_system,1716,1708
+BiB_Biosamples.renal_blood_tests.potassium,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,potassium,Potassium (mmol/L),float,,urogenital_system,1654,1648
+BiB_Biosamples.renal_blood_tests.urea,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,urea,Urea (mmol/L),float,,urogenital_system,1720,1712
+BiB_Biosamples.renal_blood_tests.creatinine,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,creatinine,Creatinine (umol/L),integer,,urogenital_system,1720,1712

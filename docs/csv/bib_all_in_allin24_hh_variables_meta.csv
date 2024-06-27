@@ -1,0 +1,11 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_ALL_IN.allin24_hh.BiBPersonID,BiB_ALL_IN.allin24_hh,BiB_ALL_IN,allin24_hh,BiBPersonID,,text,,,3693,2067
+BiB_ALL_IN.allin24_hh.has_allin24_hh,BiB_ALL_IN.allin24_hh,BiB_ALL_IN,allin24_hh,has_allin24_hh,Has all in 24m household,integer,,administration,3693,2067
+BiB_ALL_IN.allin24_hh.all24age,BiB_ALL_IN.allin24_hh,BiB_ALL_IN,allin24_hh,all24age,Age,integer,,household_composition,1510,388
+BiB_ALL_IN.allin24_hh.all24mon,BiB_ALL_IN.allin24_hh,BiB_ALL_IN,allin24_hh,all24mon,DateOfBirthMonth,integer,,household_composition,749,300
+BiB_ALL_IN.allin24_hh.all24name,BiB_ALL_IN.allin24_hh,BiB_ALL_IN,allin24_hh,all24name,Name,text,,household_composition,3693,2067
+BiB_ALL_IN.allin24_hh.all24namena,BiB_ALL_IN.allin24_hh,BiB_ALL_IN,allin24_hh,all24namena,,integer,,household_composition,131,127
+BiB_ALL_IN.allin24_hh.all24rship,BiB_ALL_IN.allin24_hh,BiB_ALL_IN,allin24_hh,all24rship,Relationship,integer,,household_composition,1604,389
+BiB_ALL_IN.allin24_hh.all24sex,BiB_ALL_IN.allin24_hh,BiB_ALL_IN,allin24_hh,all24sex,Sex,integer,,household_composition,1601,390
+BiB_ALL_IN.allin24_hh.all24yr,BiB_ALL_IN.allin24_hh,BiB_ALL_IN,allin24_hh,all24yr,DateOfBirthYear,text,,household_composition,3693,2067
+BiB_ALL_IN.allin24_hh.has_all2qs,BiB_ALL_IN.allin24_hh,BiB_ALL_IN,allin24_hh,has_all2qs,Has ALL IN 24m questionnaire,categorical,[1 has],administration,3693,2067

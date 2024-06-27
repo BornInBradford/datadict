@@ -1,0 +1,5 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Biosamples.renal_cystatinc.BiBPersonID,BiB_Biosamples.renal_cystatinc,BiB_Biosamples,renal_cystatinc,BiBPersonID,,text,,,1534,1534
+BiB_Biosamples.renal_cystatinc.age_in_months,BiB_Biosamples.renal_cystatinc,BiB_Biosamples,renal_cystatinc,age_in_months,GU renal: age at serum sample (months),integer,,age,1534,1534
+BiB_Biosamples.renal_cystatinc.age_in_years,BiB_Biosamples.renal_cystatinc,BiB_Biosamples,renal_cystatinc,age_in_years,GU renal: age at serum sample (years),integer,,age,1534,1534
+BiB_Biosamples.renal_cystatinc.cystatinc,BiB_Biosamples.renal_cystatinc,BiB_Biosamples,renal_cystatinc,cystatinc,Cystatic C from serum,float,,urogenital_system,1534,1534

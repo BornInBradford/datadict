@@ -1,0 +1,17 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_ALL_IN.allin12_qs,BiB_ALL_IN,allin12_qs,ALL IN 12m Questionnaire,bib,participant,,,248,2553,2553,2024-05-14 09:11:56
+BiB_ALL_IN.allin12_cc,BiB_ALL_IN,allin12_cc,ALL IN 12m Current Childcare,bib,participant,,,16,2847,2553,2024-05-14 09:11:55
+BiB_ALL_IN.allin12_ct,BiB_ALL_IN,allin12_ct,ALL IN 12m Child Travel,bib,participant,,,6,2581,2553,2024-05-14 09:11:55
+BiB_ALL_IN.allin12_dd,BiB_ALL_IN,allin12_dd,ALL IN 12m Doctor Diagnoses,bib,participant,,,3,2573,2553,2024-05-14 09:11:55
+BiB_ALL_IN.allin12_ei,BiB_ALL_IN,allin12_ei,ALL IN 12m Extra Immunisations,bib,participant,,,5,2574,2553,2024-05-14 09:11:55
+BiB_ALL_IN.allin12_hh,BiB_ALL_IN,allin12_hh,ALL IN 12m Household,bib,participant,,,9,12577,2553,2024-05-14 09:11:55
+BiB_ALL_IN.allin12_pc,BiB_ALL_IN,allin12_pc,ALL IN 12m Previous Childcare,bib,participant,,,20,2562,2553,2024-05-14 09:11:55
+BiB_ALL_IN.allin24_qs,BiB_ALL_IN,allin24_qs,ALL IN 24m Questionnaire,bib,participant,,,208,2067,2067,2024-05-14 09:11:57
+BiB_ALL_IN.allin24_cc,BiB_ALL_IN,allin24_cc,ALL IN 24m Current Childcare,bib,participant,,,16,2148,2067,2024-05-14 09:11:56
+BiB_ALL_IN.allin24_ct,BiB_ALL_IN,allin24_ct,ALL IN 24m Child Travel,bib,participant,,,6,2088,2067,2024-05-14 09:11:56
+BiB_ALL_IN.allin24_dd,BiB_ALL_IN,allin24_dd,ALL IN 24m Doctor Diagnoses,bib,participant,,,3,2067,2067,2024-05-14 09:11:56
+BiB_ALL_IN.allin24_ei,BiB_ALL_IN,allin24_ei,ALL IN 24m Extra Immunisations,bib,participant,,,5,2075,2067,2024-05-14 09:11:56
+BiB_ALL_IN.allin24_fa,BiB_ALL_IN,allin24_fa,ALL IN 24m Food Allergy,bib,participant,,,3,2078,2067,2024-05-14 09:11:56
+BiB_ALL_IN.allin24_hh,BiB_ALL_IN,allin24_hh,ALL IN 24m Household,bib,participant,,,9,3693,2067,2024-05-14 09:11:56
+BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,ALL IN 24m Previous Childcare,bib,participant,,,16,2082,2067,2024-05-14 09:11:56
+BiB_ALL_IN.allin24_ta,BiB_ALL_IN,allin24_ta,ALL IN 24m Treatment Abroad,bib,participant,,,5,2068,2067,2024-05-14 09:11:57

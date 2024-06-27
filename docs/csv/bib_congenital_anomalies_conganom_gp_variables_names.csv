@@ -1,0 +1,10 @@
+project,table,variable
+BiB_Congenital_Anomalies,conganom_gp,BiBPersonID
+BiB_Congenital_Anomalies,conganom_gp,has_conganom_gp
+BiB_Congenital_Anomalies,conganom_gp,agecm_cagpch
+BiB_Congenital_Anomalies,conganom_gp,agecy_cagpch
+BiB_Congenital_Anomalies,conganom_gp,cagpchctv3clinterm
+BiB_Congenital_Anomalies,conganom_gp,cagpchctv3id
+BiB_Congenital_Anomalies,conganom_gp,cagpchctv3order
+BiB_Congenital_Anomalies,conganom_gp,cagpchicd10
+BiB_Congenital_Anomalies,conganom_gp,has_cagpch

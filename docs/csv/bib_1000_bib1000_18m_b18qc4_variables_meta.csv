@@ -1,0 +1,5 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_1000.bib1000_18m_b18qc4.BiBPersonID,BiB_1000.bib1000_18m_b18qc4,BiB_1000,bib1000_18m_b18qc4,BiBPersonID,,text,,,1307,1293
+BiB_1000.bib1000_18m_b18qc4.has_bib1000_18m_b18qc4,BiB_1000.bib1000_18m_b18qc4,BiB_1000,bib1000_18m_b18qc4,has_bib1000_18m_b18qc4,Has bib 1000 18m parent-reported child diagnoses,integer,,administration,1307,1293
+BiB_1000.bib1000_18m_b18qc4.bib18c04diagnosis,BiB_1000.bib1000_18m_b18qc4,BiB_1000,bib1000_18m_b18qc4,bib18c04diagnosis,Diagnosis,text,,general_health,1307,1293
+BiB_1000.bib1000_18m_b18qc4.has_b18tab,BiB_1000.bib1000_18m_b18qc4,BiB_1000,bib1000_18m_b18qc4,has_b18tab,Has: BiB 1000 Questionnaire: bib18_maintable,categorical,[1 has],administration,1307,1293

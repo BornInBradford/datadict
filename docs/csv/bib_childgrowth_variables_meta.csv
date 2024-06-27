@@ -1,0 +1,77 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_ChildGrowth.anthropometry.BiBChildID,BiB_ChildGrowth.anthropometry,BiB_ChildGrowth,anthropometry,BiBChildID,,text,,,72386,13597
+BiB_ChildGrowth.anthropometry.cgrowthsource,BiB_ChildGrowth.anthropometry,BiB_ChildGrowth,anthropometry,cgrowthsource,Source of data,categorical,[1 eClipse] [2 BiB1000 6mths] [3 BiB1000 12mths] [4 BiB1000 18mths] [5 BiB1000 24mths] [6 BiB1000 36mths] [7 AllIn 12mths] [8 AllIn 24mths] [9 MeDALL] [10 Dental study] [11 Growing Up] [12 Age of Wonder] [13 School nurses] [14 NCMP] [15 Primary care],,72386,13597
+BiB_ChildGrowth.anthropometry.date,BiB_ChildGrowth.anthropometry,BiB_ChildGrowth,anthropometry,date,Date of measurement,date,,,72386,13597
+BiB_ChildGrowth.anthropometry.agecd_cgrowth,BiB_ChildGrowth.anthropometry,BiB_ChildGrowth,anthropometry,agecd_cgrowth,Age in days at measurement,integer,,,72386,13597
+BiB_ChildGrowth.anthropometry.agecm_cgrowth,BiB_ChildGrowth.anthropometry,BiB_ChildGrowth,anthropometry,agecm_cgrowth,Age in months at measurement,integer,,,72386,13597
+BiB_ChildGrowth.anthropometry.agecy_cgrowth,BiB_ChildGrowth.anthropometry,BiB_ChildGrowth,anthropometry,agecy_cgrowth,Age in years at measurement,integer,,,72386,13597
+BiB_ChildGrowth.anthropometry.cabdo,BiB_ChildGrowth.anthropometry,BiB_ChildGrowth,anthropometry,cabdo,Abdominal circumference (cm),float,,,42309,12814
+BiB_ChildGrowth.anthropometry.chead,BiB_ChildGrowth.anthropometry,BiB_ChildGrowth,anthropometry,chead,Head circumference (cm),float,,,49287,13529
+BiB_ChildGrowth.anthropometry.flag_head,BiB_ChildGrowth.anthropometry,BiB_ChildGrowth,anthropometry,flag_head,Indicator for mean of two head circumference measurements,integer,,,70,70
+BiB_ChildGrowth.anthropometry.csubscap,BiB_ChildGrowth.anthropometry,BiB_ChildGrowth,anthropometry,csubscap,Subscapular skinfold (mm),float,,,31373,11606
+BiB_ChildGrowth.anthropometry.ctriceps,BiB_ChildGrowth.anthropometry,BiB_ChildGrowth,anthropometry,ctriceps,Triceps skinfold (mm),float,,,32153,11634
+BiB_ChildGrowth.anthropometry.cmidarm,BiB_ChildGrowth.anthropometry,BiB_ChildGrowth,anthropometry,cmidarm,Mid arm circumference (cm),float,,,13999,11954
+BiB_ChildGrowth.anthropometry.cthigh,BiB_ChildGrowth.anthropometry,BiB_ChildGrowth,anthropometry,cthigh,Thigh skinfold (mm),float,,,4385,1556
+BiB_ChildGrowth.growth_NCMP.BiBChildID,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,BiBChildID,,text,,,17470,10762
+BiB_ChildGrowth.growth_NCMP.has_growth,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,has_growth,Has child height/weight data,integer,,,17470,10762
+BiB_ChildGrowth.growth_NCMP.date,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,date,,date,,anthropometry,17470,10762
+BiB_ChildGrowth.growth_NCMP.cgrowthsource,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,cgrowthsource,Source of data,categorical,[1 eClipse] [2 BiB1000 6mths] [3 BiB1000 12mths] [4 BiB1000 18mths] [5 BiB1000 24mths] [6 BiB1000 36mths] [7 AllIn 12mths] [8 AllIn 24mths] [9 MeDALL] [10 Dental study] [11 Growing Up] [12 Age of Wonder] [13 School nurses] [14 NCMP] [15 Primary care],,17470,10762
+BiB_ChildGrowth.growth_NCMP.agecd_cgrowth,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,agecd_cgrowth,Age at measurement (days),integer,,,17470,10762
+BiB_ChildGrowth.growth_NCMP.agecm_cgrowth,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,agecm_cgrowth,Age at measurement (months),integer,,age,17470,10762
+BiB_ChildGrowth.growth_NCMP.agecy_cgrowth,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,agecy_cgrowth,Age at measurement (years),integer,,age,17470,10762
+BiB_ChildGrowth.growth_NCMP.cheight,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,cheight,Height (cm),float,,,17470,10762
+BiB_ChildGrowth.growth_NCMP.czheiuk90,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,czheiuk90,Height SDS (UK90 reference),float,,,17470,10762
+BiB_ChildGrowth.growth_NCMP.flag_height,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,flag_height,Height is average of two measurements taken on same day,integer,,,1,1
+BiB_ChildGrowth.growth_NCMP.cweight,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,cweight,Weight (kg),float,,,17470,10762
+BiB_ChildGrowth.growth_NCMP.czweiuk90,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,czweiuk90,Weight SDS (UK90 reference),float,,,17470,10762
+BiB_ChildGrowth.growth_NCMP.flag_weight,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,flag_weight,Weight is average of two measurements taken on same day,integer,,,3,3
+BiB_ChildGrowth.growth_NCMP.cbmi,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,cbmi,BMI,float,,,17470,10762
+BiB_ChildGrowth.growth_NCMP.czbmiuk90,BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,czbmiuk90,BMI SDS (UK90 reference),float,,,17470,10762
+BiB_ChildGrowth.growth_ResearchData.BiBChildID,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,BiBChildID,,text,,,42555,13658
+BiB_ChildGrowth.growth_ResearchData.has_growth,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,has_growth,Has child height/weight data,integer,,,42555,13658
+BiB_ChildGrowth.growth_ResearchData.date,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,date,,date,,anthropometry,42555,13658
+BiB_ChildGrowth.growth_ResearchData.cgrowthsource,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,cgrowthsource,Source of data,categorical,[1 eClipse] [2 BiB1000 6mths] [3 BiB1000 12mths] [4 BiB1000 18mths] [5 BiB1000 24mths] [6 BiB1000 36mths] [7 AllIn 12mths] [8 AllIn 24mths] [9 MeDALL] [10 Dental study] [11 Growing Up] [12 Age of Wonder] [13 School nurses] [14 NCMP] [15 Primary care],,42555,13658
+BiB_ChildGrowth.growth_ResearchData.agecd_cgrowth,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,agecd_cgrowth,Age at measurement (days),integer,,,42555,13658
+BiB_ChildGrowth.growth_ResearchData.agecm_cgrowth,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,agecm_cgrowth,Age at measurement (months),integer,,age,42555,13658
+BiB_ChildGrowth.growth_ResearchData.agecy_cgrowth,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,agecy_cgrowth,Age at measurement (years),integer,,age,42555,13658
+BiB_ChildGrowth.growth_ResearchData.cweight,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,cweight,Weight (kg),float,,,41062,13654
+BiB_ChildGrowth.growth_ResearchData.czweiuk90,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,czweiuk90,Weight SDS (UK90 reference),float,,,41062,13654
+BiB_ChildGrowth.growth_ResearchData.flag_weight,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,flag_weight,Weight is average of two measurements taken on same day,integer,,,46,46
+BiB_ChildGrowth.growth_ResearchData.cheight,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,cheight,Height (cm),float,,,26746,9710
+BiB_ChildGrowth.growth_ResearchData.czheiuk90,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,czheiuk90,Height SDS (UK90 reference),float,,,26746,9710
+BiB_ChildGrowth.growth_ResearchData.flag_height,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,flag_height,Height is average of two measurements taken on same day,integer,,,684,683
+BiB_ChildGrowth.growth_ResearchData.cbmi,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,cbmi,BMI,float,,,25253,9633
+BiB_ChildGrowth.growth_ResearchData.czbmiuk90,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,czbmiuk90,BMI SDS (UK90 reference),float,,,25253,9633
+BiB_ChildGrowth.growth_PrimaryCare.BiBChildID,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,BiBChildID,,text,,,91086,13419
+BiB_ChildGrowth.growth_PrimaryCare.has_growth,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,has_growth,Has child height/weight data,integer,,,91086,13419
+BiB_ChildGrowth.growth_PrimaryCare.date,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,date,,date,,anthropometry,91086,13419
+BiB_ChildGrowth.growth_PrimaryCare.cgrowthsource,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,cgrowthsource,Source of data,categorical,[1 eClipse] [2 BiB1000 6mths] [3 BiB1000 12mths] [4 BiB1000 18mths] [5 BiB1000 24mths] [6 BiB1000 36mths] [7 AllIn 12mths] [8 AllIn 24mths] [9 MeDALL] [10 Dental study] [11 Growing Up] [12 Age of Wonder] [13 School nurses] [14 NCMP] [15 Primary care],,91086,13419
+BiB_ChildGrowth.growth_PrimaryCare.agecd_cgrowth,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,agecd_cgrowth,Age at measurement (days),integer,,,91086,13419
+BiB_ChildGrowth.growth_PrimaryCare.agecm_cgrowth,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,agecm_cgrowth,Age at measurement (months),integer,,age,91086,13419
+BiB_ChildGrowth.growth_PrimaryCare.agecy_cgrowth,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,agecy_cgrowth,Age at measurement (years),integer,,age,91086,13419
+BiB_ChildGrowth.growth_PrimaryCare.cheight,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,cheight,Height (cm),float,,,58581,13351
+BiB_ChildGrowth.growth_PrimaryCare.czheiuk90,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,czheiuk90,Height SDS (UK90 reference),float,,,58581,13351
+BiB_ChildGrowth.growth_PrimaryCare.flag_height,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,flag_height,Height is average of two measurements taken on same day,integer,,,0,0
+BiB_ChildGrowth.growth_PrimaryCare.cweight,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,cweight,Weight (kg),float,,,89141,13405
+BiB_ChildGrowth.growth_PrimaryCare.czweiuk90,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,czweiuk90,Weight SDS (UK90 reference),float,,,89141,13405
+BiB_ChildGrowth.growth_PrimaryCare.flag_weight,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,flag_weight,Weight is average of two measurements taken on same day,integer,,,19,19
+BiB_ChildGrowth.growth_PrimaryCare.cbmi,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,cbmi,BMI,float,,,56636,13326
+BiB_ChildGrowth.growth_PrimaryCare.czbmiuk90,BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,czbmiuk90,BMI SDS (UK90 reference),float,,,56636,13326
+BiB_ChildGrowth.bioimpedance.BiBChildID,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,BiBChildID,BiB cohort person ID,text,,,6424,5494
+BiB_ChildGrowth.bioimpedance.has_bioimpedance,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,has_bioimpedance,Has child height/weight data,integer,,,6424,5494
+BiB_ChildGrowth.bioimpedance.date,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,date,Date of bioimpedance analysis,date,,anthropometry,6424,5494
+BiB_ChildGrowth.bioimpedance.cgrowthsource,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cgrowthsource,Source of data,categorical,[1 eClipse] [2 BiB1000 6mths] [3 BiB1000 12mths] [4 BiB1000 18mths] [5 BiB1000 24mths] [6 BiB1000 36mths] [7 AllIn 12mths] [8 AllIn 24mths] [9 MeDALL] [10 Dental study] [11 Growing Up] [12 Age of Wonder] [13 School nurses] [14 NCMP] [15 Primary care],,6424,5494
+BiB_ChildGrowth.bioimpedance.agecd_cgrowth,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,agecd_cgrowth,Age at measurement (days),integer,,,6424,5494
+BiB_ChildGrowth.bioimpedance.agecm_cgrowth,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,agecm_cgrowth,Age at measurement (months),integer,,age,6424,5494
+BiB_ChildGrowth.bioimpedance.agecy_cgrowth,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,agecy_cgrowth,Age at measurement (years),integer,,age,6424,5494
+BiB_ChildGrowth.bioimpedance.cheight,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cheight,Height (cm),integer,,anthropometry,6424,5494
+BiB_ChildGrowth.bioimpedance.flag_height,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,flag_height,Height is average of two measurements taken on same day,integer,,,680,680
+BiB_ChildGrowth.bioimpedance.cweight,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cweight,Weight (kg),float,,anthropometry,6424,5494
+BiB_ChildGrowth.bioimpedance.flag_weight,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,flag_weight,Weight is average of two measurements taken on same day,integer,,,3,3
+BiB_ChildGrowth.bioimpedance.cbmi,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cbmi,BMI,float,,anthropometry,5920,5110
+BiB_ChildGrowth.bioimpedance.cfatpercentage,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cfatpercentage,Body fat percentage,float,,anthropometry,6424,5494
+BiB_ChildGrowth.bioimpedance.cfatmass,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cfatmass,Fat mass (kg),float,,anthropometry,6424,5494
+BiB_ChildGrowth.bioimpedance.cmusclemass,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cmusclemass,Predicated muscle mass (kg),float,,anthropometry,6424,5494
+BiB_ChildGrowth.bioimpedance.cfatfreemass,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cfatfreemass,Fat free mass (kg),float,,anthropometry,6424,5494
+BiB_ChildGrowth.bioimpedance.ctotalbodywater,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,ctotalbodywater,Total body water,float,,anthropometry,6420,5492
+BiB_ChildGrowth.bioimpedance.cimpedance,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cimpedance,Impedance,float,,anthropometry,6424,5494

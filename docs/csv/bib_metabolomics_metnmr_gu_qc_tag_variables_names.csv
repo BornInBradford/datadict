@@ -1,0 +1,4 @@
+project,table,variable
+BiB_Metabolomics,metnmr_gu_qc_tag,csv_column_name
+BiB_Metabolomics,metnmr_gu_qc_tag,qc_tag_description
+BiB_Metabolomics,metnmr_gu_qc_tag,Occurrence

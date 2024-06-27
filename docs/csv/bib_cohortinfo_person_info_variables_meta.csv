@@ -1,0 +1,14 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_CohortInfo.person_info.BiBPersonID,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,BiBPersonID,BiB person identifier,text,,,29664,29664
+BiB_CohortInfo.person_info.PersonID,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,PersonID,Legacy BiB person identifier,integer,,administration,29664,29664
+BiB_CohortInfo.person_info.ParticipantType,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,ParticipantType,Participant type - position in cohort family,text,,administration,29664,29664
+BiB_CohortInfo.person_info.ParticipantType_cat,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,ParticipantType_cat,Participant type (categorical),categorical,[1 Mother] [2 Child] [3 Father],administration,29664,29664
+BiB_CohortInfo.person_info.Gender,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,Gender,Participant gender,text,,gender,29664,29664
+BiB_CohortInfo.person_info.Gender_cat,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,Gender_cat,Participant gender (categorical),categorical,[1 Female] [2 Male] [3 Indeterminate],gender,29664,29664
+BiB_CohortInfo.person_info.DateOfBirth,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,DateOfBirth,Participant date of birth,date,,age,29664,29664
+BiB_CohortInfo.person_info.YearOfBirth,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,YearOfBirth,Participant year of birth,integer,,age,29664,29664
+BiB_CohortInfo.person_info.MonthOfBirth,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,MonthOfBirth,Participant month of birth,integer,,age,29664,29664
+BiB_CohortInfo.person_info.BiBFatherID,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,BiBFatherID,BiB person identifier of child's father,text,,administration,29664,29664
+BiB_CohortInfo.person_info.BiBMotherID,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,BiBMotherID,BiB person identifier of child's mother,text,,administration,29664,29664
+BiB_CohortInfo.person_info.BiBPregNumber,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,BiBPregNumber,BiB cohort pregnancy number,text,,administration,29664,29664
+BiB_CohortInfo.person_info.PregnancyID,BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,PregnancyID,Legacy BiB pregnancy ID,text,,administration,29664,29664

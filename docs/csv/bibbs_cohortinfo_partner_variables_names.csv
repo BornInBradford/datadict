@@ -1,0 +1,11 @@
+project,table,variable
+BiBBS_CohortInfo,partner,BiBBSPersonID
+BiBBS_CohortInfo,partner,date_of_birth
+BiBBS_CohortInfo,partner,p_birth_year
+BiBBS_CohortInfo,partner,p_birth_month
+BiBBS_CohortInfo,partner,gender
+BiBBS_CohortInfo,partner,recruitment_date
+BiBBS_CohortInfo,partner,p_recruitment_year
+BiBBS_CohortInfo,partner,p_recruitment_month
+BiBBS_CohortInfo,partner,p_age_at_recruitment
+BiBBS_CohortInfo,partner,n_pregnancies

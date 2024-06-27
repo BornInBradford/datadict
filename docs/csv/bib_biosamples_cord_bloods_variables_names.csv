@@ -1,0 +1,17 @@
+project,table,variable
+BiB_Biosamples,cord_bloods,BiBPersonID
+BiB_Biosamples,cord_bloods,has_cord_bloods
+BiB_Biosamples,cord_bloods,cbldadiponectin
+BiB_Biosamples,cord_bloods,cbldbatch
+BiB_Biosamples,cord_bloods,cbldchol
+BiB_Biosamples,cord_bloods,cbldcrp
+BiB_Biosamples,cord_bloods,cbldcrp_miss
+BiB_Biosamples,cord_bloods,cbldhdl
+BiB_Biosamples,cord_bloods,cbldinsulin
+BiB_Biosamples,cord_bloods,cbldinsulin_miss
+BiB_Biosamples,cord_bloods,cbldldl
+BiB_Biosamples,cord_bloods,cbldleptin
+BiB_Biosamples,cord_bloods,cbldleptin_miss
+BiB_Biosamples,cord_bloods,cbldtrig
+BiB_Biosamples,cord_bloods,cbldvldl
+BiB_Biosamples,cord_bloods,has_crdbld

@@ -1,0 +1,8 @@
+project,table,variable
+BiB_ALL_IN,allin24_ct,BiBPersonID
+BiB_ALL_IN,allin24_ct,has_allin24_ct
+BiB_ALL_IN,allin24_ct,all24k2age
+BiB_ALL_IN,allin24_ct,all24k2agena
+BiB_ALL_IN,allin24_ct,all24k2country
+BiB_ALL_IN,allin24_ct,all24k2visitlength
+BiB_ALL_IN,allin24_ct,has_all2qs

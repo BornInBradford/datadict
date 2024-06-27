@@ -1,0 +1,7 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_1000.bib1000_36m_b3j19c.BiBPersonID,BiB_1000.bib1000_36m_b3j19c,BiB_1000,bib1000_36m_b3j19c,BiBPersonID,,text,,,1232,1232
+BiB_1000.bib1000_36m_b3j19c.has_bib1000_36m_b3j19c,BiB_1000.bib1000_36m_b3j19c,BiB_1000,bib1000_36m_b3j19c,has_bib1000_36m_b3j19c,Has bib 1000 36m other supplements,integer,,administration,1232,1232
+BiB_1000.bib1000_36m_b3j19c.bib36j19cadministration,BiB_1000.bib1000_36m_b3j19c,BiB_1000,bib1000_36m_b3j19c,bib36j19cadministration,Method of administration,categorical,[1 Tablets] [2 Teaspoons] [3 Drops],diet_and_nutrition,1,1
+BiB_1000.bib1000_36m_b3j19c.bib36j19camount,BiB_1000.bib1000_36m_b3j19c,BiB_1000,bib1000_36m_b3j19c,bib36j19camount,Amount usually taken per week,integer,,diet_and_nutrition,2,2
+BiB_1000.bib1000_36m_b3j19c.bib36j19cdescription,BiB_1000.bib1000_36m_b3j19c,BiB_1000,bib1000_36m_b3j19c,bib36j19cdescription,Description of other supplement,text,,diet_and_nutrition,1232,1232
+BiB_1000.bib1000_36m_b3j19c.has_b36tab,BiB_1000.bib1000_36m_b3j19c,BiB_1000,bib1000_36m_b3j19c,has_b36tab,Has: BiB 1000 Questionnaire: bib36_maintable,categorical,[1 has],administration,1232,1232

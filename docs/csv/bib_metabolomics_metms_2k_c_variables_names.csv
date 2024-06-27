@@ -1,0 +1,16 @@
+project,table,variable
+BiB_Metabolomics,metms_2k_c,CompoundID
+BiB_Metabolomics,metms_2k_c,VariableNameRaw
+BiB_Metabolomics,metms_2k_c,VariableNameScaled
+BiB_Metabolomics,metms_2k_c,pathway_sortorder
+BiB_Metabolomics,metms_2k_c,biochemical
+BiB_Metabolomics,metms_2k_c,super_pathway
+BiB_Metabolomics,metms_2k_c,sub_pathway
+BiB_Metabolomics,metms_2k_c,platform
+BiB_Metabolomics,metms_2k_c,chemical_id
+BiB_Metabolomics,metms_2k_c,ri
+BiB_Metabolomics,metms_2k_c,mass
+BiB_Metabolomics,metms_2k_c,pubchem
+BiB_Metabolomics,metms_2k_c,cas
+BiB_Metabolomics,metms_2k_c,kegg
+BiB_Metabolomics,metms_2k_c,hmdb

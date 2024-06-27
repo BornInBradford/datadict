@@ -1,0 +1,6 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Pregnancy.matrecs_bib_mum.BiBPersonID,BiB_Pregnancy.matrecs_bib_mum,BiB_Pregnancy,matrecs_bib_mum,BiBPersonID,,text,,,10142,10142
+BiB_Pregnancy.matrecs_bib_mum.has_matrecs_bib_mum,BiB_Pregnancy.matrecs_bib_mum,BiB_Pregnancy,matrecs_bib_mum,has_matrecs_bib_mum,Has,integer,,administration,10142,10142
+BiB_Pregnancy.matrecs_bib_mum.has_prnmum,BiB_Pregnancy.matrecs_bib_mum,BiB_Pregnancy,matrecs_bib_mum,has_prnmum,Has: Mother data from pregnancy notes extraction,categorical,[1 has],administration,10142,10142
+BiB_Pregnancy.matrecs_bib_mum.prnmum1stchmagem,BiB_Pregnancy.matrecs_bib_mum,BiB_Pregnancy,matrecs_bib_mum,prnmum1stchmagem,Mother age at birth of first child (mths),integer,,reproductive_health,10135,10135
+BiB_Pregnancy.matrecs_bib_mum.prnmum1stchmagey,BiB_Pregnancy.matrecs_bib_mum,BiB_Pregnancy,matrecs_bib_mum,prnmum1stchmagey,Mother age at birth of first child (yrs),integer,,reproductive_health,10135,10135

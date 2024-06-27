@@ -1,0 +1,10 @@
+project,table,variable
+BiB_Biobank,current_samples,BiBPersonID
+BiB_Biobank,current_samples,BiBPregNumber
+BiB_Biobank,current_samples,PregnancyID
+BiB_Biobank,current_samples,ParticipantType
+BiB_Biobank,current_samples,SampleType
+BiB_Biobank,current_samples,study_collection
+BiB_Biobank,current_samples,age_years
+BiB_Biobank,current_samples,age_months
+BiB_Biobank,current_samples,n_aliquots

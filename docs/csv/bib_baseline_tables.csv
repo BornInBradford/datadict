@@ -1,0 +1,11 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_Baseline.base_m_survey,BiB_Baseline,base_m_survey,Mother baseline survey,bib,participant,,,342,11395,10519,2024-05-14 09:12:00
+BiB_Baseline.base_m2_foodfrequency,BiB_Baseline,base_m2_foodfrequency,Mother food frequency and knowledge survey questions phase 2,bib,participant,,,43,4494,4494,2024-05-14 09:12:04
+BiB_Baseline.base_m1_consumptionoffats,BiB_Baseline,base_m1_consumptionoffats,Mother consumption of fats survey questions phase 1,bib,participant,,,21,104,104,2024-05-14 09:12:03
+BiB_Baseline.base_m12_cookingmethods,BiB_Baseline,base_m12_cookingmethods,Mother cooking methods survey questions phase 1 and phase 2,bib,participant,,,21,7056,7055,2024-05-14 09:12:03
+BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,BiB Baseline mother exercise phase 1,bib,participant,,,14,1791,1769,2024-05-14 09:12:03
+BiB_Baseline.base_m1_foodfrequency,BiB_Baseline,base_m1_foodfrequency,BiB Baseline mother food frequency phase 1,bib,participant,,,116,1776,1776,2024-05-14 09:12:03
+BiB_Baseline.base_m23_exercise,BiB_Baseline,base_m23_exercise,BiB Baseline mother exercise phase 2 and phase 3,bib,participant,,,12,9739,9602,2024-05-14 09:12:04
+BiB_Baseline.base_m1_survey,BiB_Baseline,base_m1_survey,Mother baseline phase 1,bib,participant,,,21,1571,1571,2024-05-14 09:12:03
+BiB_Baseline.base_f_survey,BiB_Baseline,base_f_survey,Father baseline survey,bib,participant,,,26,3387,3287,2024-05-14 09:11:57
+BiB_Baseline.base_m23_survey,BiB_Baseline,base_m23_survey,Mother baseline phase 2 and 3,bib,participant,,,13,9619,9096,2024-05-14 09:12:04

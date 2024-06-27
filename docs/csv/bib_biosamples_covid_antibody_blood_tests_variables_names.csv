@@ -1,0 +1,4 @@
+project,table,variable
+BiB_Biosamples,covid_antibody_blood_tests,BiBPersonID
+BiB_Biosamples,covid_antibody_blood_tests,covidtestdate
+BiB_Biosamples,covid_antibody_blood_tests,ABresult

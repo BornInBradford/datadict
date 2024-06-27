@@ -1,0 +1,6 @@
+project,table,variable
+BiB_Pregnancy,matrecs_bib_mum,BiBPersonID
+BiB_Pregnancy,matrecs_bib_mum,has_matrecs_bib_mum
+BiB_Pregnancy,matrecs_bib_mum,has_prnmum
+BiB_Pregnancy,matrecs_bib_mum,prnmum1stchmagem
+BiB_Pregnancy,matrecs_bib_mum,prnmum1stchmagey

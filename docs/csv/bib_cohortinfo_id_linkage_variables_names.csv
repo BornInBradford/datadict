@@ -1,0 +1,6 @@
+project,table,variable
+BiB_CohortInfo,id_linkage,PregnancyID
+BiB_CohortInfo,id_linkage,BiBPregNumber
+BiB_CohortInfo,id_linkage,BiBMotherID
+BiB_CohortInfo,id_linkage,BiBFatherID
+BiB_CohortInfo,id_linkage,BiBChildID

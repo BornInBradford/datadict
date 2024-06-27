@@ -1,0 +1,16 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_MeDALL.medall_skinprick_qc.BiBPersonID,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,BiBPersonID,,text,,,228,228
+BiB_MeDALL.medall_skinprick_qc.has_medall_skinprick_qc,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,has_medall_skinprick_qc,Has medall skin prick qc,integer,,administration,228,228
+BiB_MeDALL.medall_skinprick_qc.has_medspc,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,has_medspc,Has MeDALL skin prick QC,categorical,[1 has],administration,228,228
+BiB_MeDALL.medall_skinprick_qc.medspdblassessor,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,medspdblassessor,MeDALL skin prick double code assessor,categorical,[1 Assessor03],administration,228,228
+BiB_MeDALL.medall_skinprick_qc.medspdblatopy2mm,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,medspdblatopy2mm,MeDALL skin prick double code atopy indicator: at least one weal >=2mm,integer,,allergies,225,225
+BiB_MeDALL.medall_skinprick_qc.medspdblatopy3mm,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,medspdblatopy3mm,MeDALL skin prick double code atopy indicator: at least one weal >=3mm,integer,,allergies,225,225
+BiB_MeDALL.medall_skinprick_qc.medspdblbadnegcont,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,medspdblbadnegcont,MeDALL skin prick double code BAD NEGATIVE CONTROL >=1mm,integer,,administration,228,228
+BiB_MeDALL.medall_skinprick_qc.medspdblbadposcont,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,medspdblbadposcont,MeDALL skin prick double code BAD POSITIVE CONTROL <=0mm,integer,,administration,228,228
+BiB_MeDALL.medall_skinprick_qc.medspdblcat,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,medspdblcat,MeDALL skin prick double code cat weal mean diameter C,float,,allergies,225,225
+BiB_MeDALL.medall_skinprick_qc.medspdbldog,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,medspdbldog,MeDALL skin prick double code dog weal mean diameter D,float,,allergies,225,225
+BiB_MeDALL.medall_skinprick_qc.medspdblgrassmix,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,medspdblgrassmix,MeDALL skin prick double code grass mix weal mean diameter G,float,,allergies,225,225
+BiB_MeDALL.medall_skinprick_qc.medspdblmitedfarim2,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,medspdblmitedfarim2,MeDALL skin prick double code mite d. farinae M2,float,,allergies,225,225
+BiB_MeDALL.medall_skinprick_qc.medspdblmitedpterm1,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,medspdblmitedpterm1,MeDALL skin prick double code mite d. pteronyssinus M1,float,,allergies,224,224
+BiB_MeDALL.medall_skinprick_qc.medspdblnegcont,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,medspdblnegcont,MeDALL skin prick double code negative control mean diameter,float,,administration,228,228
+BiB_MeDALL.medall_skinprick_qc.medspdblposcont,BiB_MeDALL.medall_skinprick_qc,BiB_MeDALL,medall_skinprick_qc,medspdblposcont,MeDALL skin prick double code positive control mean diameter,float,,administration,228,228

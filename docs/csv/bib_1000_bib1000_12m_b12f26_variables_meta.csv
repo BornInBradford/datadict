@@ -1,0 +1,7 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_1000.bib1000_12m_b12f26.BiBPersonID,BiB_1000.bib1000_12m_b12f26,BiB_1000,bib1000_12m_b12f26,BiBPersonID,,text,,,1760,1313
+BiB_1000.bib1000_12m_b12f26.has_bib1000_12m_b12f26,BiB_1000.bib1000_12m_b12f26,BiB_1000,bib1000_12m_b12f26,has_bib1000_12m_b12f26,Has bib 1000 12m types of cereals used,integer,,administration,1760,1313
+BiB_1000.bib1000_12m_b12f26.bib12f26brand,BiB_1000.bib1000_12m_b12f26,BiB_1000,bib1000_12m_b12f26,bib12f26brand,Brand,integer,,diet_and_nutrition,1183,857
+BiB_1000.bib1000_12m_b12f26.bib12f26otherbrand,BiB_1000.bib1000_12m_b12f26,BiB_1000,bib1000_12m_b12f26,bib12f26otherbrand,OtherBrand,text,,diet_and_nutrition,1760,1313
+BiB_1000.bib1000_12m_b12f26.bib12f26typeofcereal,BiB_1000.bib1000_12m_b12f26,BiB_1000,bib1000_12m_b12f26,bib12f26typeofcereal,TypeOfCereal,text,,diet_and_nutrition,1760,1313
+BiB_1000.bib1000_12m_b12f26.has_b12tab,BiB_1000.bib1000_12m_b12f26,BiB_1000,bib1000_12m_b12f26,has_b12tab,Has BiB1000 12m questionnaire,categorical,[1 has],administration,1760,1313

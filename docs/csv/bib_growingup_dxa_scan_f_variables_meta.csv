@@ -1,0 +1,130 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_GrowingUp.dxa_scan_f.BiBPersonID,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,BiBPersonID,,text,,,58,58
+BiB_GrowingUp.dxa_scan_f.Date,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,Date,Date image was acquired,date,,administration,58,58
+BiB_GrowingUp.dxa_scan_f.AgeMonths,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,AgeMonths,Age in months at DXA scan,integer,,age,58,58
+BiB_GrowingUp.dxa_scan_f.AgeYears,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,AgeYears,Age in years at DXA scan,integer,,age,58,58
+BiB_GrowingUp.dxa_scan_f.ScanYear,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ScanYear,Calendar year of DXA scan,integer,,administration,58,58
+BiB_GrowingUp.dxa_scan_f.ScanMonth,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ScanMonth,Calendar month of DXA scan,integer,,administration,58,58
+BiB_GrowingUp.dxa_scan_f.status,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,status,Current state of this exam,categorical,[0 Not reviewed],administration,58,58
+BiB_GrowingUp.dxa_scan_f.height,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,height,Height (cm),float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.weight,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,weight,Weight (kg),float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.scantype,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,scantype,Scan type,categorical,[10 Whole body scan],administration,58,58
+BiB_GrowingUp.dxa_scan_f.scanner_id,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,scanner_id,Serial number of scanner,integer,,administration,58,58
+BiB_GrowingUp.dxa_scan_f.site,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,site,Site of scan,categorical,[0 AP spine] [3 Total body] [13 Paediatric total body],administration,58,58
+BiB_GrowingUp.dxa_scan_f.side,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,side,Side scanned,categorical,[0 NA],administration,58,58
+BiB_GrowingUp.dxa_scan_f.acquisition_version,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,acquisition_version,Version of the aquisition techniques when image was aquired,text,,administration,58,58
+BiB_GrowingUp.dxa_scan_f.analysis_version,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,analysis_version,Version of analysis techniques,text,,administration,58,58
+BiB_GrowingUp.dxa_scan_f.avg_percent_fat,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,avg_percent_fat,Average percent fat for the whole image,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.avg_tissue_thickness,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,avg_tissue_thickness,Average tissue thickness for the whole image,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.scan_length,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,scan_length,Length of acquisition field (mm),float,,administration,58,58
+BiB_GrowingUp.dxa_scan_f.scan_width,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,scan_width,Width of acquisition field (mm),float,,administration,58,58
+BiB_GrowingUp.dxa_scan_f.object_plane,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,object_plane,Y object plan offset (mm),integer,,administration,58,58
+BiB_GrowingUp.dxa_scan_f.measured_item_length,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,measured_item_length,Length of item measured,integer,,administration,58,58
+BiB_GrowingUp.dxa_scan_f.smart_scanned,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,smart_scanned,Scan acquired using smart scanning,categorical,[0 No] [1 Yes],administration,58,58
+BiB_GrowingUp.dxa_scan_f.comp_handle,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,comp_handle,Foreign key to tie this to a Densitometry record,text,,administration,58,58
+BiB_GrowingUp.dxa_scan_f.population,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,population,Reference Population used,categorical,[131 UK],administration,58,58
+BiB_GrowingUp.dxa_scan_f.norm_version,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,norm_version,Version of the reference data used,integer,,administration,58,58
+BiB_GrowingUp.dxa_scan_f.method,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,method,Method of analysis (composition),categorical,[2 Standard],administration,58,58
+BiB_GrowingUp.dxa_scan_f.head_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,head_bmd,Bone mineral density (g/cm2) of head,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.arms_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,arms_bmd,Bone mineral density (g/cm2) of arms,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.legs_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,legs_bmd,Bone mineral density (g/cm2) of legs,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.trnk_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,trnk_bmd,Bone mineral density (g/cm2) of trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.ribs_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ribs_bmd,Bone mineral density (g/cm2) of ribs,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.pelv_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,pelv_bmd,Bone mineral density (g/cm2) of pelvis,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.spin_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,spin_bmd,Bone mineral density (g/cm2) of spine,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.totl_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,totl_bmd,Bone mineral density (g/cm2) - total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.larm_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,larm_bmd,Bone mineral density (g/cm2) of left arm,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.lleg_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,lleg_bmd,Bone mineral density (g/cm2) of left leg,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.ltrnk_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ltrnk_bmd,Bone mineral density (g/cm2) of left trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.ltot_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ltot_bmd,Bone mineral density (g/cm2) of left total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rarm_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rarm_bmd,Bone mineral density (g/cm2) of right arm,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rleg_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rleg_bmd,Bone mineral density (g/cm2) of right leg,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rtrnk_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rtrnk_bmd,Bone mineral density (g/cm2) of right trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rtot_bmd,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rtot_bmd,Bone mineral density (g/cm2) of right total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.head_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,head_bmc,Bone mineral content (g) of head,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.arms_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,arms_bmc,Bone mineral content (g) of arms,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.legs_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,legs_bmc,Bone mineral content (g) of legs,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.trnk_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,trnk_bmc,Bone mineral content (g) of trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.ribs_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ribs_bmc,Bone mineral content (g) of ribs,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.pelv_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,pelv_bmc,Bone mineral content (g) of pelvis,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.spin_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,spin_bmc,Bone mineral content (g) of spine,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.totl_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,totl_bmc,Bone mineral content (g) - total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.and_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,and_bmc,Bone mineral content (g) of android,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.gyn_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,gyn_bmc,Bone mineral content (g) of gynoid,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.anvis_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,anvis_bmc,Bone mineral content (g) of android visceral,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.larm_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,larm_bmc,Bone mineral content (g) of left arm,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.lleg_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,lleg_bmc,Bone mineral content (g) of left leg,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.ltrnk_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ltrnk_bmc,Bone mineral content (g) of left trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.ltot_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ltot_bmc,Bone mineral content (g) of left total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rarm_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rarm_bmc,Bone mineral content (g) of right arm,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rleg_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rleg_bmc,Bone mineral content (g) of right leg,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rtrnk_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rtrnk_bmc,Bone mineral content (g) of right trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rtot_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rtot_bmc,Bone mineral content (g) of right total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.armdiff_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,armdiff_bmc,Bone mass (g) of left vs right arm difference,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.legdiff_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,legdiff_bmc,Bone mineral content (g) of left vs right leg difference,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.trnkdiff_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,trnkdiff_bmc,Bone mineral content (g) of left vs right trunk difference,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.boddiff_bmc,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,boddiff_bmc,Bone mineral content (g) of left vs right body difference,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.head_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,head_area,Bone area (cm2) of head,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.arms_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,arms_area,Bone area (cm2) of arms,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.legs_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,legs_area,Bone area (cm2) of legs,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.trnk_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,trnk_area,Bone area(cm2) (cm2) of trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.ribs_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ribs_area,Bone area (cm2) of ribs,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.pelv_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,pelv_area,Bone area (cm2) of pelvis,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.spin_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,spin_area,Bone area (cm2) of spine,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.totl_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,totl_area,Bone area (cm2) - total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.larm_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,larm_area,Bone area (cm2) of left arm,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.lleg_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,lleg_area,Bone area (cm2) of left leg,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.ltrnk_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ltrnk_area,Bone area (cm2) of left trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.ltot_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ltot_area,Bone area (cm2) of left total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rarm_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rarm_area,Bone area (cm2) of right arm,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rleg_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rleg_area,Bone area (cm2) of right leg,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rtrnk_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rtrnk_area,Bone area (cm2) of right trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rtot_area,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rtot_area,Bone area (cm2) of right total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.arms_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,arms_leanmass,Lean mass (g) of arms,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.legs_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,legs_leanmass,Lean mass (g) of legs,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.trnk_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,trnk_leanmass,Lean mass (g) of trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.tot_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,tot_leanmass,Lean mass (g) of total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.and_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,and_leanmass,Lean mass (g) of android,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.gyn_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,gyn_leanmass,Lean mass (g) of gynoid,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.anvis_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,anvis_leanmass,Lean mass (g) of android visceral,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.larm_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,larm_leanmass,Lean mass (g) of left arm,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.lleg_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,lleg_leanmass,Lean mass (g) of left leg,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.ltrnk_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ltrnk_leanmass,Lean mass (g) of left trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.ltot_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ltot_leanmass,Lean mass (g) of left total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rarm_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rarm_leanmass,Lean mass (g) of right arm,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rleg_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rleg_leanmass,Lean mass (g) of right leg,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rtrnk_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rtrnk_leanmass,Lean mass (g) of right trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rtot_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rtot_leanmass,Lean mass (g) of right total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.armdiff_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,armdiff_leanmass,Lean mass (g) of left vs right arm difference,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.legdiff_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,legdiff_leanmass,Lean mass (g) of left vs right leg difference,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.trnkdiff_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,trnkdiff_leanmass,Lean mass (g) of left vs right trunk difference,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.boddiff_leanmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,boddiff_leanmass,Lean mass (g) of left vs right body difference,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.arms_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,arms_fatmass,Fat mass (g) of arms,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.legs_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,legs_fatmass,Fat mass (g) of legs,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.trnk_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,trnk_fatmass,Fat mass (g) of trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.tot_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,tot_fatmass,Fat mass (g) of total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.and_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,and_fatmass,Fat mass (g) of android,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.gyn_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,gyn_fatmass,Fat mass (g) of gynoid,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.anvis_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,anvis_fatmass,Fat mass (g) of android visceral,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.larm_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,larm_fatmass,Fat mass (g) of left arm,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.lleg_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,lleg_fatmass,Fat mass (g) of left leg,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.ltrnk_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ltrnk_fatmass,Fat mass (g) of left trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.ltot_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,ltot_fatmass,Fat mass (g) of left total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rarm_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rarm_fatmass,Fat mass (g) of right arm,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rleg_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rleg_fatmass,Fat mass (g) of right leg,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rtrnk_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rtrnk_fatmass,Fat mass (g) of right trunk,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.rtot_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,rtot_fatmass,Fat mass (g) of right total,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.lbmht_am_adjust,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,lbmht_am_adjust,Age-matched adjusted to young normal (LBM for height),integer,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.lbmht_percent_ya,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,lbmht_percent_ya,Percent young adult (LBM for height),float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.lbmht_percent_am,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,lbmht_percent_am,Percent age-matched (LBM for height),float,,anthropometry,34,34
+BiB_GrowingUp.dxa_scan_f.lbmht_zsco_ya,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,lbmht_zsco_ya,Young adult t-score (LBM for height),float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.lbmht_zsco_am,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,lbmht_zsco_am,Age-matched z-score (LBM for height),float,,anthropometry,34,34
+BiB_GrowingUp.dxa_scan_f.tot_bmdage_am_adjust,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,tot_bmdage_am_adjust,Total age-matched adjusted to normal BMD for age,integer,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.tot_bmdage_percent_ya,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,tot_bmdage_percent_ya,Total percent BMD young adult t-score,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.tot_bmdage_percent_am,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,tot_bmdage_percent_am,Total percent BMD age-matched,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.tot_bmdage_zsco_ya,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,tot_bmdage_zsco_ya,Total BMD young adult t-score,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.tot_bmdage_zsco_am,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,tot_bmdage_zsco_am,Total BMD age-matched z-score,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.armdiff_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,armdiff_fatmass,Fat mass (g) of left vs right arm difference,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.legdiff_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,legdiff_fatmass,Fat mass (g) of left vs right leg difference,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.trnkdiff_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,trnkdiff_fatmass,Fat mass (g) of left vs right trunk difference,float,,anthropometry,58,58
+BiB_GrowingUp.dxa_scan_f.boddiff_fatmass,BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,boddiff_fatmass,Fat mass (g) of left vs right body difference,float,,anthropometry,58,58

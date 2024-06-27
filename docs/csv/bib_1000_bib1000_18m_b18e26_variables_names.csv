@@ -1,0 +1,8 @@
+project,table,variable
+BiB_1000,bib1000_18m_b18e26,BiBPersonID
+BiB_1000,bib1000_18m_b18e26,has_bib1000_18m_b18e26
+BiB_1000,bib1000_18m_b18e26,bib18e26brand
+BiB_1000,bib1000_18m_b18e26,bib18e26otherbrand
+BiB_1000,bib1000_18m_b18e26,bib18e26quantity
+BiB_1000,bib1000_18m_b18e26,bib18e26typeofcereal
+BiB_1000,bib1000_18m_b18e26,has_b18tab

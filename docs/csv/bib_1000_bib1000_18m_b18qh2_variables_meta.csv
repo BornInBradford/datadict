@@ -1,0 +1,6 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_1000.bib1000_18m_b18qh2.BiBPersonID,BiB_1000.bib1000_18m_b18qh2,BiB_1000,bib1000_18m_b18qh2,BiBPersonID,,text,,,1293,1293
+BiB_1000.bib1000_18m_b18qh2.has_bib1000_18m_b18qh2,BiB_1000.bib1000_18m_b18qh2,BiB_1000,bib1000_18m_b18qh2,has_bib1000_18m_b18qh2,Has bib 1000 18m other snacks consumed by parent,integer,,administration,1293,1293
+BiB_1000.bib1000_18m_b18qh2.bib18h2description,BiB_1000.bib1000_18m_b18qh2,BiB_1000,bib1000_18m_b18qh2,bib18h2description,Description of other snacks,text,,diet_and_nutrition,1293,1293
+BiB_1000.bib1000_18m_b18qh2.bib18h2frequency,BiB_1000.bib1000_18m_b18qh2,BiB_1000,bib1000_18m_b18qh2,bib18h2frequency,Frequency consume other snacks,categorical,[1 Never] [2 1-3 per month] [3 One day a week] [4 Two days a week] [5 Three days a week] [6 Four days a week] [7 Five days a week] [8 Six days a week] [9 Seven days a week],diet_and_nutrition,75,75
+BiB_1000.bib1000_18m_b18qh2.has_b18tab,BiB_1000.bib1000_18m_b18qh2,BiB_1000,bib1000_18m_b18qh2,has_b18tab,Has: BiB 1000 Questionnaire: bib18_maintable,categorical,[1 has],administration,1293,1293

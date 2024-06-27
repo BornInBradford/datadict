@@ -1,0 +1,16 @@
+project,table,variable
+BiB_ChildGrowth,growth_NCMP,BiBChildID
+BiB_ChildGrowth,growth_NCMP,has_growth
+BiB_ChildGrowth,growth_NCMP,date
+BiB_ChildGrowth,growth_NCMP,cgrowthsource
+BiB_ChildGrowth,growth_NCMP,agecd_cgrowth
+BiB_ChildGrowth,growth_NCMP,agecm_cgrowth
+BiB_ChildGrowth,growth_NCMP,agecy_cgrowth
+BiB_ChildGrowth,growth_NCMP,cheight
+BiB_ChildGrowth,growth_NCMP,czheiuk90
+BiB_ChildGrowth,growth_NCMP,flag_height
+BiB_ChildGrowth,growth_NCMP,cweight
+BiB_ChildGrowth,growth_NCMP,czweiuk90
+BiB_ChildGrowth,growth_NCMP,flag_weight
+BiB_ChildGrowth,growth_NCMP,cbmi
+BiB_ChildGrowth,growth_NCMP,czbmiuk90

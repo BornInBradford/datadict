@@ -1,0 +1,15 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiBBS_CohortInfo.child.BiBBSPersonID,BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,BiBBSPersonID,,text,,,2510,2510
+BiBBS_CohortInfo.child.BiBBSPregNumber,BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,BiBBSPregNumber,BiBBS mother within-cohort pregnancy number,integer,,administration,2510,2510
+BiBBS_CohortInfo.child.BiBBSPregnancyID,BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,BiBBSPregnancyID,BiBBS Pregnancy ID,text,,administration,2510,2510
+BiBBS_CohortInfo.child.birth_order,BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,birth_order,Child birth order (multiple births),integer,,childbirth,2510,2510
+BiBBS_CohortInfo.child.date_of_birth,BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,date_of_birth,Child date of birth,date,,,2510,2510
+BiBBS_CohortInfo.child.birth_year,BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,birth_year,Child year of birth,integer,,administration,2510,2510
+BiBBS_CohortInfo.child.birth_month,BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,birth_month,Child month of birth,integer,,administration,2510,2510
+BiBBS_CohortInfo.child.gender,BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,gender,Child gender,categorical,[1 Female] [2 Male],gender,2510,2510
+BiBBS_CohortInfo.child.BiBBSMotherID,BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,BiBBSMotherID,BiBBSPersonID of mother,text,,administration,2510,2510
+BiBBS_CohortInfo.child.mother_date_of_birth,BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,mother_date_of_birth,Mother date of birth,date,,,2510,2510
+BiBBS_CohortInfo.child.mother_age_at_birth,BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,mother_age_at_birth,Age of mother at child's birth,integer,,age,2510,2510
+BiBBS_CohortInfo.child.BiBBSPartnerID,BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,BiBBSPartnerID,BiBBSPersonID of partner,text,,administration,2510,2510
+BiBBS_CohortInfo.child.partner_date_of_birth,BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,partner_date_of_birth,Partner date of birth,date,,,268,268
+BiBBS_CohortInfo.child.partner_age_at_birth,BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,partner_age_at_birth,Age of partner at child's birth,integer,,age,268,268

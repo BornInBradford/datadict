@@ -1,0 +1,5 @@
+project,table,variable
+BiB_Metabolomics,metnmr_mother_a,VariableName
+BiB_Metabolomics,metnmr_mother_a,Description
+BiB_Metabolomics,metnmr_mother_a,Units
+BiB_Metabolomics,metnmr_mother_a,SuccessRate

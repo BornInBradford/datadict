@@ -1,0 +1,9 @@
+project,table,variable
+BiB_CohortInfo,exomeseq_info,BiBPersonID
+BiB_CohortInfo,exomeseq_info,lab_id1
+BiB_CohortInfo,exomeseq_info,ParticipantType
+BiB_CohortInfo,exomeseq_info,Gender
+BiB_CohortInfo,exomeseq_info,lab_id2
+BiB_CohortInfo,exomeseq_info,exseq_phase
+BiB_CohortInfo,exomeseq_info,copies
+BiB_CohortInfo,exomeseq_info,passed_qc

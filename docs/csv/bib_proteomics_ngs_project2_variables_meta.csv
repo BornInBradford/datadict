@@ -1,0 +1,35 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Proteomics.ngs_project2.BiBPersonID,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,BiBPersonID,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.BiBPregNumber,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,BiBPregNumber,,integer,,,543168,1472
+BiB_Proteomics.ngs_project2.ethnicity,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,ethnicity,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.SampleType,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,SampleType,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.BoxID,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,BoxID,,integer,,,1107000,3000
+BiB_Proteomics.ngs_project2.BoxName,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,BoxName,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.Position,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Position,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.bbl_BoxID,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,bbl_BoxID,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.bbl_BoxWell,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,bbl_BoxWell,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.bbl_SRCFilename,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,bbl_SRCFilename,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.AliquotCount,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,AliquotCount,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.gdm,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,gdm,,integer,,,543168,1472
+BiB_Proteomics.ngs_project2.has_gwas,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,has_gwas,,integer,,,543168,1472
+BiB_Proteomics.ngs_project2.Gest_Hypertension,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Gest_Hypertension,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.Pre_Eclampsia,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Pre_Eclampsia,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.Congenital_Anomalies_Reg,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Congenital_Anomalies_Reg,,integer,,,543168,1472
+BiB_Proteomics.ngs_project2.stillbirth,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,stillbirth,,integer,,,543168,1472
+BiB_Proteomics.ngs_project2.Gest_LastCompWk,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Gest_LastCompWk,,integer,,,543168,1472
+BiB_Proteomics.ngs_project2.Pre_Term_Birth,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Pre_Term_Birth,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.Presence_One_Outcome,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Presence_One_Outcome,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.has_outcomes,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,has_outcomes,,integer,,,1107000,3000
+BiB_Proteomics.ngs_project2.Index,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Index,,integer,,,1107000,3000
+BiB_Proteomics.ngs_project2.OlinkID,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,OlinkID,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.UniProt,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,UniProt,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.Assay,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Assay,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.MissingFreq,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,MissingFreq,,float,,,1107000,3000
+BiB_Proteomics.ngs_project2.Panel,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Panel,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.Panel_Lot_Nr,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Panel_Lot_Nr,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.PlateID,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,PlateID,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.QC_Warning,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,QC_Warning,1.000000,categorical,[1 Pass] [2 Warning],,1107000,3000
+BiB_Proteomics.ngs_project2.LOD,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,LOD,,float,,,1107000,3000
+BiB_Proteomics.ngs_project2.NPX,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,NPX,,float,,,1107000,3000
+BiB_Proteomics.ngs_project2.Normalization,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Normalization,,text,,,1107000,3000
+BiB_Proteomics.ngs_project2.Assay_Warning,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Assay_Warning,0.000000,categorical,[0 ] [2 Warning],,1107000,3000

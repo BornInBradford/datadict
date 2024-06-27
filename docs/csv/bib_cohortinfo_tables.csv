@@ -1,0 +1,13 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,BiB person-level information,bib,participant,,,12,29664,29664,2024-05-14 09:12:26
+BiB_CohortInfo.ethnicity,BiB_CohortInfo,ethnicity,Ethnicity information about BiB cohort participants,bib,participant,,,4,29668,29664,2024-05-14 09:12:25
+BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,BiB participant related pairs,bib,participant,,,6,41602,29579,2024-05-14 09:12:27
+BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,Person information Child,bib,participant,,,7,13858,13858,2024-05-14 09:12:24
+BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,Person information Father,bib,participant,,,8,3353,3353,2024-05-14 09:12:25
+BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,Person information Mother,bib,participant,,,8,12453,12453,2024-05-14 09:12:26
+BiB_CohortInfo.id_linkage,BiB_CohortInfo,id_linkage,ID Linkage,bib,participant,,,4,13959,13776,2024-05-14 09:12:25
+BiB_CohortInfo.preg_info,BiB_CohortInfo,preg_info,Pregnancy information,bib,participant,,,10,13776,12453,2024-05-14 09:12:26
+BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,BiB genotyping data linkage,bib,participant,,,10,21256,20710,2024-05-14 09:12:25
+BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,BiB exome sequencing data linkage,bib,participant,,,7,3265,3092,2024-05-14 09:12:25
+BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,BiB DNA methylation data linkage,bib,participant,,,6,1885,1883,2024-05-14 09:12:24
+BiB_CohortInfo.dnam_controls,BiB_CohortInfo,dnam_controls,BiB DNA methylation control sample IDs,bib,lab_id,,,1,25,1,2024-05-14 09:12:24

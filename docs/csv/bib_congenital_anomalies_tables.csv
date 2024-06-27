@@ -1,0 +1,3 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_Congenital_Anomalies.conganom_yhcar,BiB_Congenital_Anomalies,conganom_yhcar,Yorkshire and Humber Congenital Anomalies Register,bib,participant,,,13,1201,510,2024-05-14 09:12:27
+BiB_Congenital_Anomalies.conganom_gp,BiB_Congenital_Anomalies,conganom_gp,Congenital Anomalies GP record linkage to 5yo,bib,participant,,,8,1212,733,2024-05-14 09:12:27

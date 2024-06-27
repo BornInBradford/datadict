@@ -1,0 +1,9 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_CohortInfo.exomeseq_info.BiBPersonID,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,BiBPersonID,,text,,,3265,3092
+BiB_CohortInfo.exomeseq_info.lab_id1,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,lab_id1,,text,,administration,3265,3092
+BiB_CohortInfo.exomeseq_info.ParticipantType,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,ParticipantType,,integer,,administration,3265,3092
+BiB_CohortInfo.exomeseq_info.Gender,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,Gender,,integer,,gender,3265,3092
+BiB_CohortInfo.exomeseq_info.lab_id2,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,lab_id2,,text,,administration,3265,3092
+BiB_CohortInfo.exomeseq_info.exseq_phase,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,exseq_phase,,integer,,administration,3265,3092
+BiB_CohortInfo.exomeseq_info.copies,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,copies,,integer,,administration,3265,3092
+BiB_CohortInfo.exomeseq_info.passed_qc,BiB_CohortInfo.exomeseq_info,BiB_CohortInfo,exomeseq_info,passed_qc,Exome sequence data in post-QC variant call files,categorical,[1 Yes],administration,2804,2791

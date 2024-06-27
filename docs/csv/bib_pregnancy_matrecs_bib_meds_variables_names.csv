@@ -1,0 +1,8 @@
+project,table,variable
+BiB_Pregnancy,matrecs_bib_meds,BiBPersonID
+BiB_Pregnancy,matrecs_bib_meds,BiBPregNumber
+BiB_Pregnancy,matrecs_bib_meds,has_matrecs_bib_meds
+BiB_Pregnancy,matrecs_bib_meds,has_prnmed
+BiB_Pregnancy,matrecs_bib_meds,prnbpothmedhasstd
+BiB_Pregnancy,matrecs_bib_meds,prnbpothmedraw
+BiB_Pregnancy,matrecs_bib_meds,prnbpothmedstd

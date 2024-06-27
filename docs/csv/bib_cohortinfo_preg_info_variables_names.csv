@@ -1,0 +1,12 @@
+project,table,variable
+BiB_CohortInfo,preg_info,BiBPersonID
+BiB_CohortInfo,preg_info,BiBPregNumber
+BiB_CohortInfo,preg_info,has_preg_info
+BiB_CohortInfo,preg_info,PregnancyID
+BiB_CohortInfo,preg_info,adminpagebookmm
+BiB_CohortInfo,preg_info,adminpagebookmy
+BiB_CohortInfo,preg_info,adminpagerecfm
+BiB_CohortInfo,preg_info,adminpagerecfy
+BiB_CohortInfo,preg_info,adminpagerecmm
+BiB_CohortInfo,preg_info,adminpagerecmy
+BiB_CohortInfo,preg_info,adminpnbirths

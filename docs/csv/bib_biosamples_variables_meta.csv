@@ -1,0 +1,141 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Biosamples.hosp_biochem.BiBMotherID,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,BiBMotherID,Mother identifier,text,,,6831,3198
+BiB_Biosamples.hosp_biochem.BiBPregNumber,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,BiBPregNumber,Pregnancy number within BiB,integer,,administration,6831,3198
+BiB_Biosamples.hosp_biochem.MotherAgeSample_Mths,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,MotherAgeSample_Mths,Mother's age at sample (months)',float,,age,6831,3198
+BiB_Biosamples.hosp_biochem.MotherAgeSample_Yrs,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,MotherAgeSample_Yrs,Mother's age at sample (years)',float,,age,6831,3198
+BiB_Biosamples.hosp_biochem.GestAgeSample_Days,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,GestAgeSample_Days,Gestational age at blood sample (days),integer,,age,6739,3147
+BiB_Biosamples.hosp_biochem.DateBloodTest,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,DateBloodTest,DC,date,,,6831,3198
+BiB_Biosamples.hosp_biochem.CRP,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,CRP,C-reactive protein (�mol/l),text,,endocrine_system,6831,3198
+BiB_Biosamples.hosp_biochem.Sodium,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,Sodium,Sodium (mmol/l),integer,,physical_health,6824,3197
+BiB_Biosamples.hosp_biochem.K1,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,K1,Potassium (mmol/l),float,,physical_health,6663,3152
+BiB_Biosamples.hosp_biochem.Urea,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,Urea,Urea (mmol/l),float,,physical_health,6794,3198
+BiB_Biosamples.hosp_biochem.CRE1,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,CRE1,Creatinine (�mol/l),integer,,physical_health,6824,3198
+BiB_Biosamples.hosp_biochem.Amylase,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,Amylase,Amylase (iu/l),integer,,physical_health,135,112
+BiB_Biosamples.hosp_biochem.ALT,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,ALT,ALT (iu/l),integer,,physical_health,5549,2770
+BiB_Biosamples.hosp_biochem.BIL1,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,BIL1,Total bilirubin (�mol/l),integer,,physical_health,5542,2769
+BiB_Biosamples.hosp_biochem.ALP1,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,ALP1,Alkaline phosphatase (iu/l),integer,,physical_health,5538,2769
+BiB_Biosamples.hosp_biochem.GGT1,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,GGT1,Gamma glutamyl transferase (iu/l),integer,,physical_health,11,10
+BiB_Biosamples.hosp_biochem.TP1,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,TP1,Total protein concentration (mg/dl),integer,,physical_health,1115,574
+BiB_Biosamples.hosp_biochem.Albumin,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,Albumin,Albumin (mg/24hr),integer,,physical_health,5585,2777
+BiB_Biosamples.hosp_biochem.Caadj,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,Caadj,Adjusted calcium (mmol/l),float,,physical_health,402,340
+BiB_Biosamples.hosp_haem.BiBMotherID,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,BiBMotherID,Mother identifier,text,,,14553,7307
+BiB_Biosamples.hosp_haem.BiBPregNumber,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,BiBPregNumber,Pregnancy number within BiB,integer,,administration,14553,7307
+BiB_Biosamples.hosp_haem.MotherAgeSample_Mths,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,MotherAgeSample_Mths,Mother's age at sample (months)',float,,age,14553,7307
+BiB_Biosamples.hosp_haem.MotherAgeSample_Yrs,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,MotherAgeSample_Yrs,Mother's age at sample (years)',float,,age,14553,7307
+BiB_Biosamples.hosp_haem.GestAgeSample_Days,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,GestAgeSample_Days,Gestational age at blood sample (days),integer,,age,14366,7227
+BiB_Biosamples.hosp_haem.DateBloodTest,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,DateBloodTest,,date,,,14553,7307
+BiB_Biosamples.hosp_haem.Hb,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,Hb,Haemoglobin (g/dL),float,,hemic_and_immune_systems,14553,7307
+BiB_Biosamples.hosp_haem.WBC,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,WBC,White blood cell count (10^9/L),float,,hemic_and_immune_systems,14553,7307
+BiB_Biosamples.hosp_haem.PLTS,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,PLTS,Platelet count (10^9/L),integer,,hemic_and_immune_systems,14552,7307
+BiB_Biosamples.hosp_haem.MCV,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,MCV,Mean corpuscular volume (fL),integer,,hemic_and_immune_systems,14553,7307
+BiB_Biosamples.hosp_haem.PCV,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,PCV,Haematocrit,float,,hemic_and_immune_systems,14553,7307
+BiB_Biosamples.hosp_haem.RBC,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,RBC,Rec blood cell count (10^12/L),float,,hemic_and_immune_systems,14552,7307
+BiB_Biosamples.hosp_haem.MCH,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,MCH,Mean corpuscular haemoglobin (fmol),float,,hemic_and_immune_systems,14553,7307
+BiB_Biosamples.hosp_haem.MCHC,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,MCHC,Mean corpuscular haemoglobin concentration (mmol/L),float,,hemic_and_immune_systems,14553,7307
+BiB_Biosamples.hosp_haem.NEU,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,NEU,Neutrophils (10^9/L),float,,hemic_and_immune_systems,14525,7297
+BiB_Biosamples.hosp_haem.LYM,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,LYM,Lymphocytes (10^9/L),float,,hemic_and_immune_systems,14525,7297
+BiB_Biosamples.hosp_haem.MON,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,MON,Monocytes (10^9/L),float,,hemic_and_immune_systems,14525,7297
+BiB_Biosamples.hosp_haem.EOS,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,EOS,Eosinophils (10^9/L),float,,hemic_and_immune_systems,14525,7297
+BiB_Biosamples.hosp_haem.BAS,BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,BAS,Basophiles (10^9/L),float,,hemic_and_immune_systems,14525,7297
+BiB_Biosamples.hosp_hba1c.BiBMotherID,BiB_Biosamples.hosp_hba1c,BiB_Biosamples,hosp_hba1c,BiBMotherID,Mother identifier,text,,,2288,1006
+BiB_Biosamples.hosp_hba1c.BiBPregNumber,BiB_Biosamples.hosp_hba1c,BiB_Biosamples,hosp_hba1c,BiBPregNumber,Pregnancy number within BiB,integer,,administration,2288,1006
+BiB_Biosamples.hosp_hba1c.MotherAgeSample_Mths,BiB_Biosamples.hosp_hba1c,BiB_Biosamples,hosp_hba1c,MotherAgeSample_Mths,Mother's age at sample (months)',float,,age,2288,1006
+BiB_Biosamples.hosp_hba1c.MotherAgeSample_Yrs,BiB_Biosamples.hosp_hba1c,BiB_Biosamples,hosp_hba1c,MotherAgeSample_Yrs,Mother's age at sample (years)',float,,age,2288,1006
+BiB_Biosamples.hosp_hba1c.GestAgeSample_Days,BiB_Biosamples.hosp_hba1c,BiB_Biosamples,hosp_hba1c,GestAgeSample_Days,Gestational age at blood sample (days),integer,,age,2270,995
+BiB_Biosamples.hosp_hba1c.DateBloodTest,BiB_Biosamples.hosp_hba1c,BiB_Biosamples,hosp_hba1c,DateBloodTest,,date,,,2288,1006
+BiB_Biosamples.hosp_hba1c.HbA1c,BiB_Biosamples.hosp_hba1c,BiB_Biosamples,hosp_hba1c,HbA1c,HbA1c (mmol/mol),integer,,endocrine_system,2288,1006
+BiB_Biosamples.pregnancy_bloods.BiBPersonID,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,BiBPersonID,,text,,,11625,10685
+BiB_Biosamples.pregnancy_bloods.BiBPregNumber,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,BiBPregNumber,,integer,,administration,11625,10685
+BiB_Biosamples.pregnancy_bloods.has_pregnancy_bloods,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,has_pregnancy_bloods,Has pregnancy blood biomarkers,integer,,administration,11625,10685
+BiB_Biosamples.pregnancy_bloods.agemm_matbld,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,agemm_matbld,Mother age (months): Maternal Bloods,integer,,age,11625,10685
+BiB_Biosamples.pregnancy_bloods.agemy_matbld,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,agemy_matbld,Mother age (years): Maternal Bloods,integer,,age,11625,10685
+BiB_Biosamples.pregnancy_bloods.has_matbld,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,has_matbld,Has maternal bloods data,categorical,[1 has],administration,11625,10685
+BiB_Biosamples.pregnancy_bloods.mbldchdlr1,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,mbldchdlr1,Cholesterol HDL Ratio,float,,cardiovascular_system,11622,10682
+BiB_Biosamples.pregnancy_bloods.mbldchol,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,mbldchol,Cholesterol,float,,cardiovascular_system,11622,10682
+BiB_Biosamples.pregnancy_bloods.mbldhdl1,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,mbldhdl1,HDL,float,,cardiovascular_system,11622,10682
+BiB_Biosamples.pregnancy_bloods.mbldinsulin_str,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,mbldinsulin_str,Insulin (string),text,,endocrine_system,11625,10685
+BiB_Biosamples.pregnancy_bloods.mbldldl1,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,mbldldl1,LDL,float,,cardiovascular_system,11542,10609
+BiB_Biosamples.pregnancy_bloods.mbldtrigs,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,mbldtrigs,Triglyceride,float,,physical_health,11622,10682
+BiB_Biosamples.pregnancy_bloods_vitd.BiBPersonID,BiB_Biosamples.pregnancy_bloods_vitd,BiB_Biosamples,pregnancy_bloods_vitd,BiBPersonID,,text,,,1498,1498
+BiB_Biosamples.pregnancy_bloods_vitd.BiBPregNumber,BiB_Biosamples.pregnancy_bloods_vitd,BiB_Biosamples,pregnancy_bloods_vitd,BiBPregNumber,,integer,,administration,1498,1498
+BiB_Biosamples.pregnancy_bloods_vitd.has_pregnancy_bloods_vitd,BiB_Biosamples.pregnancy_bloods_vitd,BiB_Biosamples,pregnancy_bloods_vitd,has_pregnancy_bloods_vitd,Has pregnacy bloods vitamin d,integer,,administration,1498,1498
+BiB_Biosamples.pregnancy_bloods_vitd.agemm_matbvd,BiB_Biosamples.pregnancy_bloods_vitd,BiB_Biosamples,pregnancy_bloods_vitd,agemm_matbvd,Mother age (months): Maternal Bloods: Vitamin D,integer,,age,1498,1498
+BiB_Biosamples.pregnancy_bloods_vitd.agemy_matbvd,BiB_Biosamples.pregnancy_bloods_vitd,BiB_Biosamples,pregnancy_bloods_vitd,agemy_matbvd,Mother age (years): Maternal Bloods: Vitamin D,integer,,age,1498,1498
+BiB_Biosamples.pregnancy_bloods_vitd.has_matbvd,BiB_Biosamples.pregnancy_bloods_vitd,BiB_Biosamples,pregnancy_bloods_vitd,has_matbvd,Has maternal vitamin D,categorical,[1 has],administration,1498,1498
+BiB_Biosamples.pregnancy_bloods_vitd.mbldalbumin,BiB_Biosamples.pregnancy_bloods_vitd,BiB_Biosamples,pregnancy_bloods_vitd,mbldalbumin,Albumin,integer,,physical_health,1498,1498
+BiB_Biosamples.pregnancy_bloods_vitd.mbldcalcium,BiB_Biosamples.pregnancy_bloods_vitd,BiB_Biosamples,pregnancy_bloods_vitd,mbldcalcium,Calcium,float,,physical_health,1498,1498
+BiB_Biosamples.pregnancy_bloods_vitd.mbldpth_str,BiB_Biosamples.pregnancy_bloods_vitd,BiB_Biosamples,pregnancy_bloods_vitd,mbldpth_str,PTH (string),text,,physical_health,1498,1498
+BiB_Biosamples.pregnancy_bloods_vitd.mbldvitd2_str,BiB_Biosamples.pregnancy_bloods_vitd,BiB_Biosamples,pregnancy_bloods_vitd,mbldvitd2_str,25(OH) Vit D2 (string),text,,physical_health,1498,1498
+BiB_Biosamples.pregnancy_bloods_vitd.mbldvitd3_str,BiB_Biosamples.pregnancy_bloods_vitd,BiB_Biosamples,pregnancy_bloods_vitd,mbldvitd3_str,25(OH) Vit D3 (string),text,,physical_health,1498,1498
+BiB_Biosamples.pregnancy_gtt.BiBPersonID,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,BiBPersonID,,text,,,12331,11231
+BiB_Biosamples.pregnancy_gtt.BiBPregNumber,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,BiBPregNumber,,integer,,administration,12331,11231
+BiB_Biosamples.pregnancy_gtt.has_pregnancy_gtt,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,has_pregnancy_gtt,Has maternal baseline gtt,integer,,administration,12331,11231
+BiB_Biosamples.pregnancy_gtt.agemm_mbagtt,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,agemm_mbagtt,Mother age (months): Maternal Baseline GTT,integer,,age,12331,11231
+BiB_Biosamples.pregnancy_gtt.agemy_mbagtt,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,agemy_mbagtt,Mother age (years): Maternal Baseline GTT,integer,,age,12331,11231
+BiB_Biosamples.pregnancy_gtt.gttfastglu,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,gttfastglu,Fasting glucose,float,,endocrine_system,12328,11228
+BiB_Biosamples.pregnancy_gtt.gttgestwks,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,gttgestwks,Gestationl age at GTT (completed weeks),integer,,endocrine_system,11957,10886
+BiB_Biosamples.pregnancy_gtt.gttpostglu,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,gttpostglu,2-hour postload glucose,float,,endocrine_system,12310,11214
+BiB_Biosamples.pregnancy_gtt.has_mbagtt,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,has_mbagtt,Has maternal GTT data,categorical,[1 has],administration,12331,11231
+BiB_Biosamples.blood_tests.BiBPersonID,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,BiBPersonID,,text,,,6161,6124
+BiB_Biosamples.blood_tests.TestDate,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,TestDate,Date sample was taken,date,,administration,6161,6124
+BiB_Biosamples.blood_tests.TotalTests,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,TotalTests,Total blood test occasions within GU,integer,,administration,6161,6124
+BiB_Biosamples.blood_tests.TestDateOrder,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,TestDateOrder,Date order of test occasions within GU,integer,,administration,6161,6124
+BiB_Biosamples.blood_tests.AgeInYears,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,AgeInYears,"Age at GU blood test, years",integer,,age,6161,6124
+BiB_Biosamples.blood_tests.AgeInMonths,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,AgeInMonths,"Age at GU blood test, months",integer,,age,6161,6124
+BiB_Biosamples.blood_tests.hb,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,hb,Haemoglobin (g/L),integer,,hemic_and_immune_systems,6059,6027
+BiB_Biosamples.blood_tests.wbc,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,wbc,White Blood Cell Count(g/L),float,,hemic_and_immune_systems,6059,6027
+BiB_Biosamples.blood_tests.platelets,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,platelets,Platelets (10^9/L),integer,,hemic_and_immune_systems,6058,6026
+BiB_Biosamples.blood_tests.mcv,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,mcv,Mean Cell Volume (f/L),integer,,hemic_and_immune_systems,6059,6027
+BiB_Biosamples.blood_tests.hba1c,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,hba1c,HBA1C (IFCC),integer,,endocrine_system,6010,5979
+BiB_Biosamples.blood_tests.triglycerides,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,triglycerides,Triglycerides  (mmol/L),float,,physical_health,6109,6079
+BiB_Biosamples.blood_tests.cholesterol,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,cholesterol,Cholesterol (mmol/L),float,,cardiovascular_system,6104,6074
+BiB_Biosamples.blood_tests.hdl,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,hdl,HDL (mmol/L),float,,cardiovascular_system,6099,6069
+BiB_Biosamples.blood_tests.ldl,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,ldl,LDL (mmol/L),float,,cardiovascular_system,6019,5990
+BiB_Biosamples.blood_tests.cholhdl_ratio,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,cholhdl_ratio,Cholesterol/HDL Ratio,float,,cardiovascular_system,6099,6069
+BiB_Biosamples.blood_tests.nonhdlchol,BiB_Biosamples.blood_tests,BiB_Biosamples,blood_tests,nonhdlchol,Non HDL Cholesterol,float,,cardiovascular_system,6099,6069
+BiB_Biosamples.cord_bloods.BiBPersonID,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,BiBPersonID,,text,,,7910,7910
+BiB_Biosamples.cord_bloods.has_cord_bloods,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,has_cord_bloods,Has baby cord blood biomarkers,integer,,administration,7910,7910
+BiB_Biosamples.cord_bloods.cbldadiponectin,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldadiponectin,Cord blood adiponectin,float,,physical_health,2176,2176
+BiB_Biosamples.cord_bloods.cbldbatch,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldbatch,Cord blood batch,categorical,[1 Cord bloods batch 1: 2012] [2 Cord bloods batch 2: 2017],administration,7910,7910
+BiB_Biosamples.cord_bloods.cbldchol,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldchol,Cord blood Cholesterol,float,,cardiovascular_system,2176,2176
+BiB_Biosamples.cord_bloods.cbldcrp,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldcrp,Cord blood CRP,float,,endocrine_system,260,260
+BiB_Biosamples.cord_bloods.cbldcrp_miss,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldcrp_miss,Cord blood CRP missing reason,categorical,[1 CRP: value <0.20 mg/L] [2 CRP: value <0.24 mg/L] [3 CRP: insufficient sample],endocrine_system,1917,1917
+BiB_Biosamples.cord_bloods.cbldhdl,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldhdl,Cord blood HDL,float,,cardiovascular_system,2176,2176
+BiB_Biosamples.cord_bloods.cbldinsulin,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldinsulin,Insulin,float,,endocrine_system,7828,7828
+BiB_Biosamples.cord_bloods.cbldinsulin_miss,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldinsulin_miss,Cord blood insulin missing reason,categorical,[1 Insulin: value <0.1 mU/L] [2 Insulin: value >25 mU/L] [3 Insulin: insufficient sample],endocrine_system,82,82
+BiB_Biosamples.cord_bloods.cbldldl,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldldl,Cord blood LDL,float,,cardiovascular_system,2176,2176
+BiB_Biosamples.cord_bloods.cbldleptin,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldleptin,Cord blood leptin,float,,endocrine_system,7889,7889
+BiB_Biosamples.cord_bloods.cbldleptin_miss,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldleptin_miss,Cord blood leptin missing reason,categorical,[1 Sample haemolysed],endocrine_system,20,20
+BiB_Biosamples.cord_bloods.cbldtrig,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldtrig,Triglyceride,float,,physical_health,2176,2176
+BiB_Biosamples.cord_bloods.cbldvldl,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,cbldvldl,Cord blood VLDL,float,,cardiovascular_system,2176,2176
+BiB_Biosamples.cord_bloods.has_crdbld,BiB_Biosamples.cord_bloods,BiB_Biosamples,cord_bloods,has_crdbld,Has baby cord bloods data,categorical,[1 has],administration,7910,7910
+BiB_Biosamples.covid_antibody_blood_tests.BiBPersonID,BiB_Biosamples.covid_antibody_blood_tests,BiB_Biosamples,covid_antibody_blood_tests,BiBPersonID,,text,,,286,152
+BiB_Biosamples.covid_antibody_blood_tests.covidtestdate,BiB_Biosamples.covid_antibody_blood_tests,BiB_Biosamples,covid_antibody_blood_tests,covidtestdate,Date of covid test,date,,administration,286,152
+BiB_Biosamples.covid_antibody_blood_tests.ABresult,BiB_Biosamples.covid_antibody_blood_tests,BiB_Biosamples,covid_antibody_blood_tests,ABresult,Covid anitbody test result,categorical,[1 Detected] [2 Equivocal] [3 Not Detected],hemic_and_immune_systems,286,152
+BiB_Biosamples.maternal_iodine.BiBPregNumber,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,BiBPregNumber,Pregnancy number within BiB,integer,,administration,7060,3
+BiB_Biosamples.maternal_iodine.BiBMotherID,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,BiBMotherID,Mother identifier,text,,,7060,3
+BiB_Biosamples.maternal_iodine.AliquotID,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,AliquotID,Aliquot ID,integer,,administration,7060,3
+BiB_Biosamples.maternal_iodine.ShippingDate,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,ShippingDate,Shipping date for iodine analysis,date,,administration,7060,3
+BiB_Biosamples.maternal_iodine.ArrivalDate,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,ArrivalDate,Arrival date for iodine analysis,date,,administration,7060,3
+BiB_Biosamples.maternal_iodine.BatchNumber,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,BatchNumber,Batch number for iodine analysis,integer,,administration,7060,3
+BiB_Biosamples.maternal_iodine.BoxNumber,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,BoxNumber,Box number for iodine analysis,integer,,administration,7060,3
+BiB_Biosamples.maternal_iodine.IodineAnalysisDate,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,IodineAnalysisDate,Date of iodine analysis,date,,administration,7060,3
+BiB_Biosamples.maternal_iodine.IodineConcentration,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,IodineConcentration,Iodine Concentration (µg/L),float,,physical_health,7060,3
+BiB_Biosamples.maternal_iodine.CreatinineAnalysisDate,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,CreatinineAnalysisDate,Date of creatinine analysis,date,,administration,7060,3
+BiB_Biosamples.maternal_iodine.CreRunNumber,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,CreRunNumber,Run number for creatinine analysis,text,,administration,7060,3
+BiB_Biosamples.maternal_iodine.CreatinineConcentration,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,CreatinineConcentration,Creatinine Concentration (g/L),float,,physical_health,7060,3
+BiB_Biosamples.maternal_iodine.ICrRatio,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,ICrRatio,Iodine:Creatinine Ratio (µg/g),float,,physical_health,7060,3
+BiB_Biosamples.renal_blood_tests.BiBPersonID,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,BiBPersonID,,text,,,1720,1712
+BiB_Biosamples.renal_blood_tests.TestDate,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,TestDate,Date sample was taken,date,,administration,1720,1712
+BiB_Biosamples.renal_blood_tests.TotalTests,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,TotalTests,Total blood test occasions within GU renal study,integer,,administration,1720,1712
+BiB_Biosamples.renal_blood_tests.TestDateOrder,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,TestDateOrder,Date order of test occasions within GU renal study,integer,,administration,1720,1712
+BiB_Biosamples.renal_blood_tests.AgeInYears,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,AgeInYears,"Age at GU renal blood test, years",integer,,age,1720,1712
+BiB_Biosamples.renal_blood_tests.AgeInMonths,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,AgeInMonths,"Age at GU renal blood test, months",integer,,age,1720,1712
+BiB_Biosamples.renal_blood_tests.sodium,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,sodium,Sodium (mmol/L),integer,,urogenital_system,1716,1708
+BiB_Biosamples.renal_blood_tests.potassium,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,potassium,Potassium (mmol/L),float,,urogenital_system,1654,1648
+BiB_Biosamples.renal_blood_tests.urea,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,urea,Urea (mmol/L),float,,urogenital_system,1720,1712
+BiB_Biosamples.renal_blood_tests.creatinine,BiB_Biosamples.renal_blood_tests,BiB_Biosamples,renal_blood_tests,creatinine,Creatinine (umol/L),integer,,urogenital_system,1720,1712
+BiB_Biosamples.renal_cystatinc.BiBPersonID,BiB_Biosamples.renal_cystatinc,BiB_Biosamples,renal_cystatinc,BiBPersonID,,text,,,1534,1534
+BiB_Biosamples.renal_cystatinc.age_in_months,BiB_Biosamples.renal_cystatinc,BiB_Biosamples,renal_cystatinc,age_in_months,GU renal: age at serum sample (months),integer,,age,1534,1534
+BiB_Biosamples.renal_cystatinc.age_in_years,BiB_Biosamples.renal_cystatinc,BiB_Biosamples,renal_cystatinc,age_in_years,GU renal: age at serum sample (years),integer,,age,1534,1534
+BiB_Biosamples.renal_cystatinc.cystatinc,BiB_Biosamples.renal_cystatinc,BiB_Biosamples,renal_cystatinc,cystatinc,Cystatic C from serum,float,,urogenital_system,1534,1534

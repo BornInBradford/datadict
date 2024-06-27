@@ -1,0 +1,19 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Dental.plat_person.BiBPersonID,BiB_Dental.plat_person,BiB_Dental,plat_person,BiBPersonID,,text,,,13858,13858
+BiB_Dental.plat_person.Gender,BiB_Dental.plat_person,BiB_Dental,plat_person,Gender,Child gender at registration,text,,,13858,13858
+BiB_Dental.plat_person.year_of_birth,BiB_Dental.plat_person,BiB_Dental,plat_person,year_of_birth,Child year of birth,text,,,13858,13858
+BiB_Dental.plat_person.month_of_birth,BiB_Dental.plat_person,BiB_Dental,plat_person,month_of_birth,Child month of birth,text,,,13858,13858
+BiB_Dental.plat_person.school_linkage,BiB_Dental.plat_person,BiB_Dental,plat_person,school_linkage,Child has linked school records so could be recruited,categorical,[0 No] [1 Yes],,13858,13858
+BiB_Dental.plat_person.plat_eligible,BiB_Dental.plat_person,BiB_Dental,plat_person,plat_eligible,Child was eligible for PLATOON,categorical,[0 No] [1 Yes],,13858,13858
+BiB_Dental.plat_person.plat_case,BiB_Dental.plat_person,BiB_Dental,plat_person,plat_case,Child identified as case in dental record linkage,categorical,[0 No] [1 Yes],,8344,8344
+BiB_Dental.plat_person.school_id,BiB_Dental.plat_person,BiB_Dental,plat_person,school_id,Pseudonynous school id,text,,,13858,13858
+BiB_Dental.plat_person.academic_year,BiB_Dental.plat_person,BiB_Dental,plat_person,academic_year,School academic year child recruited from,categorical,[1 Y3] [2 Y4] [3 Y5] [4 Y6],,8344,8344
+BiB_Dental.plat_person.consent_year,BiB_Dental.plat_person,BiB_Dental,plat_person,consent_year,Year of assessment,integer,,,374,374
+BiB_Dental.plat_person.consent_month,BiB_Dental.plat_person,BiB_Dental,plat_person,consent_month,Month of assessment,integer,,,374,374
+BiB_Dental.plat_person.age_consent_y,BiB_Dental.plat_person,BiB_Dental,plat_person,age_consent_y,Child age in years at assessment,integer,,,374,374
+BiB_Dental.plat_person.age_consent_m,BiB_Dental.plat_person,BiB_Dental,plat_person,age_consent_m,Child age in months at assessment,integer,,,374,374
+BiB_Dental.plat_person.ConExtracted,BiB_Dental.plat_person,BiB_Dental,plat_person,ConExtracted,Q on consent form: has child had teeth extracted?,categorical,[0 No] [1 Yes],,374,374
+BiB_Dental.plat_person.plat_recruited,BiB_Dental.plat_person,BiB_Dental,plat_person,plat_recruited,Child recruited to PLATOON study,categorical,[0 No] [1 Yes],,13858,13858
+BiB_Dental.plat_person.has_ortho,BiB_Dental.plat_person,BiB_Dental,plat_person,has_ortho,Child has orthodontic assessment data,categorical,[0 No] [1 Yes],,13858,13858
+BiB_Dental.plat_person.has_survey,BiB_Dental.plat_person,BiB_Dental,plat_person,has_survey,Child has PLATOON survey data,categorical,[0 No] [1 Yes],,13858,13858
+BiB_Dental.plat_person.has_teeth_data,BiB_Dental.plat_person,BiB_Dental,plat_person,has_teeth_data,Child has teeth assessment data,categorical,[0 No] [1 Yes],,13858,13858

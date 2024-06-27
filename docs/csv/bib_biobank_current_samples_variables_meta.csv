@@ -1,0 +1,10 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Biobank.current_samples.BiBPersonID,BiB_Biobank.current_samples,BiB_Biobank,current_samples,BiBPersonID,BiB cohort person ID,text,,,111109,23957
+BiB_Biobank.current_samples.BiBPregNumber,BiB_Biobank.current_samples,BiB_Biobank,current_samples,BiBPregNumber,BiB cohort pregnancy number,text,,administration,111109,23957
+BiB_Biobank.current_samples.PregnancyID,BiB_Biobank.current_samples,BiB_Biobank,current_samples,PregnancyID,Legacy BiB cohort pregnancy ID,text,,administration,111109,23957
+BiB_Biobank.current_samples.ParticipantType,BiB_Biobank.current_samples,BiB_Biobank,current_samples,ParticipantType,BiB cohort participant type,categorical,[1 Mother] [2 Father] [3 Child],administration,111109,23957
+BiB_Biobank.current_samples.SampleType,BiB_Biobank.current_samples,BiB_Biobank,current_samples,SampleType,Type of stored sample,categorical,[1 Serum] [2 Plasma] [3 RBC] [4 Whole Blood] [5 Buffy] [6 Clot] [7 DNA] [8 Urine],administration,111109,23957
+BiB_Biobank.current_samples.study_collection,BiB_Biobank.current_samples,BiB_Biobank,current_samples,study_collection,Study wave sample collected in,categorical,[1 Registration (pregnancy)] [2 Cord] [3 Registration] [4 ALL IN 12m] [5 ALL IN 24m] [6 MeDALL 5y],administration,111109,23957
+BiB_Biobank.current_samples.age_years,BiB_Biobank.current_samples,BiB_Biobank,current_samples,age_years,Participant age at sample collection in years,integer,,age,111109,23957
+BiB_Biobank.current_samples.age_months,BiB_Biobank.current_samples,BiB_Biobank,current_samples,age_months,Participant age at sample collection in months,integer,,age,111109,23957
+BiB_Biobank.current_samples.n_aliquots,BiB_Biobank.current_samples,BiB_Biobank,current_samples,n_aliquots,Number of stored aliquots of sample type and study collection,integer,,administration,111109,23957

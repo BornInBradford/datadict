@@ -1,0 +1,9 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_Education_Record.edrecs_annual_context,BiB_Education_Record,edrecs_annual_context,Local Authority Education Record Contextual Data,bib,participant,,,16,115562,11717,2024-05-14 09:12:29
+BiB_Education_Record.edrecs_additional_school_info,BiB_Education_Record,edrecs_additional_school_info,Additional school level data,bib,school,,,29,517,517,2024-05-14 09:12:28
+BiB_Education_Record.edrecs_eyfsp_1,BiB_Education_Record,edrecs_eyfsp_1,Early Years Foundation Stage Profile Pre 2013,bib,participant,,,24,705,705,2024-05-14 09:12:30
+BiB_Education_Record.edrecs_eyfsp_2,BiB_Education_Record,edrecs_eyfsp_2,Early Years Foundation Stage Profile 2013 Plus,bib,participant,,,24,10598,10598,2024-05-14 09:12:30
+BiB_Education_Record.edrecs_y1_phonics,BiB_Education_Record,edrecs_y1_phonics,Year 1 Phonics Assessment,bib,participant,,,18,11081,11081,2024-05-14 09:12:31
+BiB_Education_Record.edrecs_ks1_1,BiB_Education_Record,edrecs_ks1_1,Key Stage 1 Assessment Pre 2016,bib,participant,,,12,3622,3622,2024-05-14 09:12:30
+BiB_Education_Record.edrecs_ks1_2,BiB_Education_Record,edrecs_ks1_2,Key Stage 1 Assessment 2016 Plus,bib,participant,,,11,7262,7262,2024-05-14 09:12:30
+BiB_Education_Record.edrecs_ks2,BiB_Education_Record,edrecs_ks2,Key Stage 2 Assessment 2018/19,bib,participant,,,16,3466,3466,2024-05-14 09:12:30

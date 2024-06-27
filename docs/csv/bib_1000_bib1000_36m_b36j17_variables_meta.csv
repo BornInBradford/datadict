@@ -1,0 +1,7 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_1000.bib1000_36m_b36j17.BiBPersonID,BiB_1000.bib1000_36m_b36j17,BiB_1000,bib1000_36m_b36j17,BiBPersonID,,text,,,1232,1232
+BiB_1000.bib1000_36m_b36j17.has_bib1000_36m_b36j17,BiB_1000.bib1000_36m_b36j17,BiB_1000,bib1000_36m_b36j17,has_bib1000_36m_b36j17,Has bib 1000 36m other foods consumed by child,integer,,administration,1232,1232
+BiB_1000.bib1000_36m_b36j17.bib36j17amount,BiB_1000.bib1000_36m_b36j17,BiB_1000,bib1000_36m_b36j17,bib36j17amount,Amount usually consumed,text,,diet_and_nutrition,1232,1232
+BiB_1000.bib1000_36m_b36j17.bib36j17description,BiB_1000.bib1000_36m_b36j17,BiB_1000,bib1000_36m_b36j17,bib36j17description,Description of other food,text,,diet_and_nutrition,1232,1232
+BiB_1000.bib1000_36m_b36j17.bib36j17frequency,BiB_1000.bib1000_36m_b36j17,BiB_1000,bib1000_36m_b36j17,bib36j17frequency,Frequency consumed,categorical,[1 Rarely or never] [2 1-2 per month] [3 1 per week] [4 2-3 per week] [5 4-6 per week] [6 1 per day] [7 2-3 per day] [8 4-6 per day] [9 7+ per day],diet_and_nutrition,33,33
+BiB_1000.bib1000_36m_b36j17.has_b36tab,BiB_1000.bib1000_36m_b36j17,BiB_1000,bib1000_36m_b36j17,has_b36tab,Has: BiB 1000 Questionnaire: bib36_maintable,categorical,[1 has],administration,1232,1232

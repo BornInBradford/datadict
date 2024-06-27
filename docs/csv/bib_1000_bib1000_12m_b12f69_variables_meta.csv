@@ -1,0 +1,5 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_1000.bib1000_12m_b12f69.BiBPersonID,BiB_1000.bib1000_12m_b12f69,BiB_1000,bib1000_12m_b12f69,BiBPersonID,,text,,,1317,1313
+BiB_1000.bib1000_12m_b12f69.has_bib1000_12m_b12f69,BiB_1000.bib1000_12m_b12f69,BiB_1000,bib1000_12m_b12f69,has_bib1000_12m_b12f69,Has bib 1000 12m other types of yoghurt,integer,,administration,1317,1313
+BiB_1000.bib1000_12m_b12f69.bib12f69type,BiB_1000.bib1000_12m_b12f69,BiB_1000,bib1000_12m_b12f69,bib12f69type,Type,text,,diet_and_nutrition,1317,1313
+BiB_1000.bib1000_12m_b12f69.has_b12tab,BiB_1000.bib1000_12m_b12f69,BiB_1000,bib1000_12m_b12f69,has_b12tab,Has BiB1000 12m questionnaire,categorical,[1 has],administration,1317,1313

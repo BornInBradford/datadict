@@ -1,0 +1,9 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_1000.bib1000_18m_b18qe9.BiBPersonID,BiB_1000.bib1000_18m_b18qe9,BiB_1000,bib1000_18m_b18qe9,BiBPersonID,,text,,,1294,1293
+BiB_1000.bib1000_18m_b18qe9.has_bib1000_18m_b18qe9,BiB_1000.bib1000_18m_b18qe9,BiB_1000,bib1000_18m_b18qe9,has_bib1000_18m_b18qe9,Has bib 1000 18m dried baby cereals,integer,,administration,1294,1293
+BiB_1000.bib1000_18m_b18qe9.bib18e9brand,BiB_1000.bib1000_18m_b18qe9,BiB_1000,bib1000_18m_b18qe9,bib18e9brand,Brand of dried baby cereal,categorical,[1 Bebivita] [2 Cow and Gate] [3 Farleys] [4 Heinz] [5 HiPP Organics] [6 Mumtaz (Halal)] [7 Organix] [8 Plum Baby Organic] [9 Other/Supermarket own],diet_and_nutrition,68,67
+BiB_1000.bib1000_18m_b18qe9.bib18e9frequency,BiB_1000.bib1000_18m_b18qe9,BiB_1000,bib1000_18m_b18qe9,bib18e9frequency,Number of times per week consumes dried baby cereal,categorical,[1 Never] [2 1-3 per month] [3 One day a week] [4 Two days a week] [5 Three days a week] [6 Four days a week] [7 Five days a week] [8 Six days a week] [9 Seven days a week],diet_and_nutrition,69,68
+BiB_1000.bib1000_18m_b18qe9.bib18e9otherbrand,BiB_1000.bib1000_18m_b18qe9,BiB_1000,bib1000_18m_b18qe9,bib18e9otherbrand,Other brand of dried baby cereal,text,,diet_and_nutrition,1294,1293
+BiB_1000.bib1000_18m_b18qe9.bib18e9quantity,BiB_1000.bib1000_18m_b18qe9,BiB_1000,bib1000_18m_b18qe9,bib18e9quantity,Average number of dessert spoons consumed,float,,diet_and_nutrition,69,68
+BiB_1000.bib1000_18m_b18qe9.bib18e9timesperday,BiB_1000.bib1000_18m_b18qe9,BiB_1000,bib1000_18m_b18qe9,bib18e9timesperday,Number of times per day consumes dried baby cereal,integer,,diet_and_nutrition,69,68
+BiB_1000.bib1000_18m_b18qe9.has_b18tab,BiB_1000.bib1000_18m_b18qe9,BiB_1000,bib1000_18m_b18qe9,has_b18tab,Has: BiB 1000 Questionnaire: bib18_maintable,categorical,[1 has],administration,1294,1293

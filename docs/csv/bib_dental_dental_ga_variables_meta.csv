@@ -1,0 +1,50 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Dental.dental_ga.BiBPersonID,BiB_Dental.dental_ga,BiB_Dental,dental_ga,BiBPersonID,BiB Person Identifier,text,,,1299,1253
+BiB_Dental.dental_ga.has_dental_ga,BiB_Dental.dental_ga,BiB_Dental,dental_ga,has_dental_ga,Has dental extractions under ga,integer,,administration,1299,1253
+BiB_Dental.dental_ga.AgeMths,BiB_Dental.dental_ga,BiB_Dental,dental_ga,AgeMths,"Age at treatment, months",integer,,age,1297,1251
+BiB_Dental.dental_ga.GAType,BiB_Dental.dental_ga,BiB_Dental,dental_ga,GAType,Type of dental extraction under GA,categorical,[1 Exodontia] [2 Comprehensive care],administration,1299,1253
+BiB_Dental.dental_ga.GATotal,BiB_Dental.dental_ga,BiB_Dental,dental_ga,GATotal,Total number of GAs for dental extraction,integer,,administration,1088,1071
+BiB_Dental.dental_ga.GASequence,BiB_Dental.dental_ga,BiB_Dental,dental_ga,GASequence,GA number in sequence,integer,,administration,1088,1071
+BiB_Dental.dental_ga.Weight,BiB_Dental.dental_ga,BiB_Dental,dental_ga,Weight,Weight,float,,anthropometry,1091,1063
+BiB_Dental.dental_ga.dgaUR6,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaUR6,Location of adult tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1297,1252
+BiB_Dental.dental_ga.dgaURE,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaURE,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1297,1251
+BiB_Dental.dental_ga.dgaURD,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaURD,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1295,1249
+BiB_Dental.dental_ga.dgaURC,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaURC,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1298,1252
+BiB_Dental.dental_ga.dgaURB,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaURB,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1298,1252
+BiB_Dental.dental_ga.dgaURA,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaURA,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1295,1251
+BiB_Dental.dental_ga.dgaULA,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaULA,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1296,1251
+BiB_Dental.dental_ga.dgaULB,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaULB,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1296,1250
+BiB_Dental.dental_ga.dgaULC,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaULC,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1298,1252
+BiB_Dental.dental_ga.dgaULD,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaULD,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1296,1250
+BiB_Dental.dental_ga.dgaULE,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaULE,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1298,1252
+BiB_Dental.dental_ga.dgaUL6,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaUL6,Location of adult tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1298,1252
+BiB_Dental.dental_ga.dgaLL6,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLL6,Location of adult tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1298,1252
+BiB_Dental.dental_ga.dgaLLE,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLLE,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1297,1251
+BiB_Dental.dental_ga.dgaLLD,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLLD,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1296,1250
+BiB_Dental.dental_ga.dgaLLC,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLLC,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1298,1252
+BiB_Dental.dental_ga.dgaLLB,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLLB,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1298,1252
+BiB_Dental.dental_ga.dgaLLA,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLLA,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1297,1251
+BiB_Dental.dental_ga.dgaLRA,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLRA,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1297,1251
+BiB_Dental.dental_ga.dgaLRB,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLRB,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1298,1252
+BiB_Dental.dental_ga.dgaLRC,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLRC,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1298,1252
+BiB_Dental.dental_ga.dgaLRD,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLRD,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1297,1251
+BiB_Dental.dental_ga.dgaLRE,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLRE,Location of baby tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1296,1250
+BiB_Dental.dental_ga.dgaLR6,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLR6,Location of adult tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,1298,1252
+BiB_Dental.dental_ga.dgaUR4,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaUR4,Location of adult tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,213,212
+BiB_Dental.dental_ga.dgaUR1,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaUR1,Location of adult tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,213,211
+BiB_Dental.dental_ga.dgaUL1,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaUL1,Location of adult tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,212,210
+BiB_Dental.dental_ga.dgaUL4,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaUL4,Location of adult tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,212,211
+BiB_Dental.dental_ga.dgaLL5,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLL5,Location of adult tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,211,210
+BiB_Dental.dental_ga.dgaLL4,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLL4,Location of adult tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,212,211
+BiB_Dental.dental_ga.dgaLL1,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLL1,Location of adult tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,211,210
+BiB_Dental.dental_ga.dgaLR1,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLR1,Location of adult tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,211,210
+BiB_Dental.dental_ga.dgaLR4,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLR4,Location of adult tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,211,210
+BiB_Dental.dental_ga.dgaLR5,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLR5,Location of adult tooth,categorical,[0 Nil treatment] [1 Extracted] [2 Filled] [3 Sealed] [4 Crowned],oral_dental_health,211,210
+BiB_Dental.dental_ga.dgaUR7,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaUR7,Location of adult tooth,categorical,[0 NIL Treatment] [1 Extracted] [2 Filled] [3 Crowned],,73,73
+BiB_Dental.dental_ga.dgaUR5,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaUR5,Location of adult tooth,categorical,[0 NIL Treatment] [1 Extracted] [2 Filled] [3 Crowned],,73,73
+BiB_Dental.dental_ga.dgaUR2,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaUR2,Location of adult tooth,categorical,[0 NIL Treatment] [1 Extracted] [2 Filled] [3 Crowned],,167,166
+BiB_Dental.dental_ga.dgaUL2,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaUL2,Location of adult tooth,categorical,[0 NIL Treatment] [1 Extracted] [2 Filled] [3 Crowned],,167,166
+BiB_Dental.dental_ga.dgaUL5,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaUL5,Location of adult tooth,categorical,[0 NIL Treatment] [1 Extracted] [2 Filled] [3 Crowned],,73,73
+BiB_Dental.dental_ga.dgaUL7,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaUL7,Location of adult tooth,categorical,[0 NIL Treatment] [1 Extracted] [2 Filled] [3 Crowned],,73,73
+BiB_Dental.dental_ga.dgaLL7,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLL7,Location of adult tooth,categorical,[0 NIL Treatment] [1 Extracted] [2 Filled] [3 Crowned],,73,73
+BiB_Dental.dental_ga.dgaLR7,BiB_Dental.dental_ga,BiB_Dental,dental_ga,dgaLR7,Location of adult tooth,categorical,[0 NIL Treatment] [1 Extracted] [2 Filled] [3 Crowned],,73,73

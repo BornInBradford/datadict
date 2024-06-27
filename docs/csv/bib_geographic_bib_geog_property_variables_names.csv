@@ -1,0 +1,14 @@
+project,table,variable
+BiB_Geographic,bib_geog_property,property_id
+BiB_Geographic,bib_geog_property,UPRN
+BiB_Geographic,bib_geog_property,x_coordinate_bng
+BiB_Geographic,bib_geog_property,y_coordinate_bng
+BiB_Geographic,bib_geog_property,x_coordinate_wgs84
+BiB_Geographic,bib_geog_property,y_coordinate_wgs84
+BiB_Geographic,bib_geog_property,postcode
+BiB_Geographic,bib_geog_property,LSOA11CD
+BiB_Geographic,bib_geog_property,WD21CD
+BiB_Geographic,bib_geog_property,property_type
+BiB_Geographic,bib_geog_property,is_in_bfd_la
+BiB_Geographic,bib_geog_property,is_in_bibbs_area
+BiB_Geographic,bib_geog_property,is_in_caz

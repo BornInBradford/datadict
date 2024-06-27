@@ -1,0 +1,10 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_CohortInfo.mother_info.BiBPersonID,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,BiBPersonID,,text,,,12453,12453
+BiB_CohortInfo.mother_info.has_mother_info,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,has_mother_info,Has person information mother,integer,,administration,12453,12453
+BiB_CohortInfo.mother_info.adminmagerecm,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,adminmagerecm,Mother age at recruitment (months),integer,,age,12453,12453
+BiB_CohortInfo.mother_info.adminmagerecy,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,adminmagerecy,Mother age at recruitment (years),integer,,age,12453,12453
+BiB_CohortInfo.mother_info.adminmgender,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,adminmgender,Mother gender,categorical,[1 Male] [2 Female],gender,12453,12453
+BiB_CohortInfo.mother_info.adminmnbibch,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,adminmnbibch,Number of BiB children,integer,,administration,12453,12453
+BiB_CohortInfo.mother_info.adminmnbibpr,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,adminmnbibpr,Number of BiB pregnancies,integer,,administration,12453,12453
+BiB_CohortInfo.mother_info.adminmnmbqall,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,adminmnmbqall,Number of baseline questionnaires,integer,,administration,12453,12453
+BiB_CohortInfo.mother_info.adminmrecdate,BiB_CohortInfo.mother_info,BiB_CohortInfo,mother_info,adminmrecdate,Mother date of recruitment,date,,administration,12453,12453

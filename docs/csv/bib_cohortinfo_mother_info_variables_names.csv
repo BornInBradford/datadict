@@ -1,0 +1,10 @@
+project,table,variable
+BiB_CohortInfo,mother_info,BiBPersonID
+BiB_CohortInfo,mother_info,has_mother_info
+BiB_CohortInfo,mother_info,adminmagerecm
+BiB_CohortInfo,mother_info,adminmagerecy
+BiB_CohortInfo,mother_info,adminmgender
+BiB_CohortInfo,mother_info,adminmnbibch
+BiB_CohortInfo,mother_info,adminmnbibpr
+BiB_CohortInfo,mother_info,adminmnmbqall
+BiB_CohortInfo,mother_info,adminmrecdate

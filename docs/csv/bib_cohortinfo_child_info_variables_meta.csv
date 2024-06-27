@@ -1,0 +1,9 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_CohortInfo.child_info.BiBPersonID,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,BiBPersonID,,text,,,13858,13858
+BiB_CohortInfo.child_info.has_child_info,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,has_child_info,Has person information child,integer,,administration,13858,13858
+BiB_CohortInfo.child_info.admincbirthorder,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,admincbirthorder,Child birth order,integer,,childbirth,13858,13858
+BiB_CohortInfo.child_info.admincdobagefm,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,admincdobagefm,Father age at child date of birth (months),integer,,age,3488,3488
+BiB_CohortInfo.child_info.admincdobagefy,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,admincdobagefy,Father age at child date of birth (years),integer,,age,3488,3488
+BiB_CohortInfo.child_info.admincdobagemm,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,admincdobagemm,Mother age at child date of birth (months),integer,,age,13858,13858
+BiB_CohortInfo.child_info.admincdobagemy,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,admincdobagemy,Mother age at child date of birth (years),integer,,age,13858,13858
+BiB_CohortInfo.child_info.admincgender,BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,admincgender,Child gender,categorical,[1 Male] [2 Female],gender,13857,13857

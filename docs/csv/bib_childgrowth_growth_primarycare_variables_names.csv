@@ -1,0 +1,16 @@
+project,table,variable
+BiB_ChildGrowth,growth_PrimaryCare,BiBChildID
+BiB_ChildGrowth,growth_PrimaryCare,has_growth
+BiB_ChildGrowth,growth_PrimaryCare,date
+BiB_ChildGrowth,growth_PrimaryCare,cgrowthsource
+BiB_ChildGrowth,growth_PrimaryCare,agecd_cgrowth
+BiB_ChildGrowth,growth_PrimaryCare,agecm_cgrowth
+BiB_ChildGrowth,growth_PrimaryCare,agecy_cgrowth
+BiB_ChildGrowth,growth_PrimaryCare,cheight
+BiB_ChildGrowth,growth_PrimaryCare,czheiuk90
+BiB_ChildGrowth,growth_PrimaryCare,flag_height
+BiB_ChildGrowth,growth_PrimaryCare,cweight
+BiB_ChildGrowth,growth_PrimaryCare,czweiuk90
+BiB_ChildGrowth,growth_PrimaryCare,flag_weight
+BiB_ChildGrowth,growth_PrimaryCare,cbmi
+BiB_ChildGrowth,growth_PrimaryCare,czbmiuk90

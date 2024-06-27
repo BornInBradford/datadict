@@ -1,0 +1,15 @@
+project,table,variable
+BiB_Baseline,base_m23_survey,BiBPersonID
+BiB_Baseline,base_m23_survey,BiBPregNumber
+BiB_Baseline,base_m23_survey,has_base_m23_survey
+BiB_Baseline,base_m23_survey,has_mbqp23
+BiB_Baseline,base_m23_survey,org2ffabirgrp
+BiB_Baseline,base_m23_survey,org2fmubirgrp
+BiB_Baseline,base_m23_survey,org2fthbirgrp
+BiB_Baseline,base_m23_survey,org2mfabirgrp
+BiB_Baseline,base_m23_survey,org2mgfbirgrp
+BiB_Baseline,base_m23_survey,org2mgmbirgrp
+BiB_Baseline,base_m23_survey,org2mmubirgrp
+BiB_Baseline,base_m23_survey,org2mumbirgrp
+BiB_Baseline,base_m23_survey,org2pgfbirgrp
+BiB_Baseline,base_m23_survey,org2pgmbirgrp

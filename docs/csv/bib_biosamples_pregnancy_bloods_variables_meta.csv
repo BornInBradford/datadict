@@ -1,0 +1,13 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Biosamples.pregnancy_bloods.BiBPersonID,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,BiBPersonID,,text,,,11625,10685
+BiB_Biosamples.pregnancy_bloods.BiBPregNumber,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,BiBPregNumber,,integer,,administration,11625,10685
+BiB_Biosamples.pregnancy_bloods.has_pregnancy_bloods,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,has_pregnancy_bloods,Has pregnancy blood biomarkers,integer,,administration,11625,10685
+BiB_Biosamples.pregnancy_bloods.agemm_matbld,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,agemm_matbld,Mother age (months): Maternal Bloods,integer,,age,11625,10685
+BiB_Biosamples.pregnancy_bloods.agemy_matbld,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,agemy_matbld,Mother age (years): Maternal Bloods,integer,,age,11625,10685
+BiB_Biosamples.pregnancy_bloods.has_matbld,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,has_matbld,Has maternal bloods data,categorical,[1 has],administration,11625,10685
+BiB_Biosamples.pregnancy_bloods.mbldchdlr1,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,mbldchdlr1,Cholesterol HDL Ratio,float,,cardiovascular_system,11622,10682
+BiB_Biosamples.pregnancy_bloods.mbldchol,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,mbldchol,Cholesterol,float,,cardiovascular_system,11622,10682
+BiB_Biosamples.pregnancy_bloods.mbldhdl1,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,mbldhdl1,HDL,float,,cardiovascular_system,11622,10682
+BiB_Biosamples.pregnancy_bloods.mbldinsulin_str,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,mbldinsulin_str,Insulin (string),text,,endocrine_system,11625,10685
+BiB_Biosamples.pregnancy_bloods.mbldldl1,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,mbldldl1,LDL,float,,cardiovascular_system,11542,10609
+BiB_Biosamples.pregnancy_bloods.mbldtrigs,BiB_Biosamples.pregnancy_bloods,BiB_Biosamples,pregnancy_bloods,mbldtrigs,Triglyceride,float,,physical_health,11622,10682

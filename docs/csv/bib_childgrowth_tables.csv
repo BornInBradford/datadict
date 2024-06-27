@@ -1,0 +1,6 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_ChildGrowth.anthropometry,BiB_ChildGrowth,anthropometry,Child anthropometry,bib,participant,,,12,72386,13597,2024-05-14 09:12:18
+BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,Child growth NCMP data,bib,participant,,,14,17470,10762,2024-06-04 12:16:58.795654
+BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,Child growth research data,bib,participant,,,14,42555,13658,2024-06-04 12:22:55
+BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,Child growth primary care data,bib,participant,,,14,91086,13419,2024-06-04 12:06:51.043816
+BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,Child bioimpedance,bib,participant,,,17,6424,5494,2024-05-14 09:12:18

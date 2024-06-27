@@ -1,6 +1,0 @@
-variable,full_name,label,value_type,description,categories,categories_label
-BiBPregNumber,BiB_Biosamples.hosp_hba1c.BiBPregNumber,Pregnancy number within BiB,decimal,,,
-MotherAgeSample_Mths,BiB_Biosamples.hosp_hba1c.MotherAgeSample_Mths,Mother's age at sample (months)',decimal,,,
-MotherAgeSample_Yrs,BiB_Biosamples.hosp_hba1c.MotherAgeSample_Yrs,Mother's age at sample (years)',decimal,,,
-GestAgeSample_Days,BiB_Biosamples.hosp_hba1c.GestAgeSample_Days,Gestational age at blood sample (days),decimal,,,
-HbA1c,BiB_Biosamples.hosp_hba1c.HbA1c,HbA1c (mmol/mol),decimal,,,

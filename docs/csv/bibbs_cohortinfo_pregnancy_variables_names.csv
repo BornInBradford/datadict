@@ -1,0 +1,17 @@
+project,table,variable
+BiBBS_CohortInfo,pregnancy,BiBBSPersonID
+BiBBS_CohortInfo,pregnancy,BiBBSPregNumber
+BiBBS_CohortInfo,pregnancy,BiBBSPregnancyID
+BiBBS_CohortInfo,pregnancy,BiBBSPartnerID
+BiBBS_CohortInfo,pregnancy,medway_booking
+BiBBS_CohortInfo,pregnancy,medway_booking_y
+BiBBS_CohortInfo,pregnancy,medway_booking_m
+BiBBS_CohortInfo,pregnancy,medway_edd
+BiBBS_CohortInfo,pregnancy,medway_edd_y
+BiBBS_CohortInfo,pregnancy,medway_edd_m
+BiBBS_CohortInfo,pregnancy,recruitment_date
+BiBBS_CohortInfo,pregnancy,recruitment_year
+BiBBS_CohortInfo,pregnancy,recruitment_month
+BiBBS_CohortInfo,pregnancy,m_recruitment_age
+BiBBS_CohortInfo,pregnancy,p_recruitment_age
+BiBBS_CohortInfo,pregnancy,has_survey

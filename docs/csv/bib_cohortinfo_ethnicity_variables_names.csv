@@ -1,0 +1,6 @@
+project,table,variable
+BiB_CohortInfo,ethnicity,BiBPersonID
+BiB_CohortInfo,ethnicity,ethnicity16
+BiB_CohortInfo,ethnicity,ethnicity5
+BiB_CohortInfo,ethnicity,ethsource
+BiB_CohortInfo,ethnicity,participant_type

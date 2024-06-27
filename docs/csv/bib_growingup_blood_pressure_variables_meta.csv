@@ -1,0 +1,18 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_GrowingUp.blood_pressure.BiBPersonID,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,BiBPersonID,BiB Person identifier of child,text,,,15899,9082
+BiB_GrowingUp.blood_pressure.Date,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,Date,Date blood pressure taken,date,,administration,15899,9082
+BiB_GrowingUp.blood_pressure.TotalBPs,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,TotalBPs,Total blood pressure test occasions,integer,,administration,15899,9082
+BiB_GrowingUp.blood_pressure.BPDateOrder,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,BPDateOrder,Date order of blood pressure test occasions,integer,,administration,15899,9082
+BiB_GrowingUp.blood_pressure.source,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,source,Source of data,categorical,[1 School nurses] [2 Growing Up],administration,15899,9082
+BiB_GrowingUp.blood_pressure.agemths,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,agemths,Age at measurements (mths),integer,,age,15899,9082
+BiB_GrowingUp.blood_pressure.ageyrs,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,ageyrs,Age at measurements (yrs),integer,,age,15899,9082
+BiB_GrowingUp.blood_pressure.BP1Systolic,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,BP1Systolic,First systolic BP measurement,integer,,cardiovascular_system,15899,9082
+BiB_GrowingUp.blood_pressure.BP1Diastolic,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,BP1Diastolic,First diastolic BP measurement,integer,,cardiovascular_system,15899,9082
+BiB_GrowingUp.blood_pressure.BP2Systolic,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,BP2Systolic,Second systolic BP measurement,integer,,cardiovascular_system,8154,6503
+BiB_GrowingUp.blood_pressure.BP2Diastolic,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,BP2Diastolic,Second diastolic BP measurement,integer,,cardiovascular_system,8154,6503
+BiB_GrowingUp.blood_pressure.BP3Systolic,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,BP3Systolic,Third systolic BP measurement,integer,,cardiovascular_system,3,3
+BiB_GrowingUp.blood_pressure.BP3Diastolic,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,BP3Diastolic,Third diastolic BP measurement,integer,,cardiovascular_system,3,3
+BiB_GrowingUp.blood_pressure.BP4Systolic,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,BP4Systolic,Fourth systolic BP measurement,integer,,cardiovascular_system,3,3
+BiB_GrowingUp.blood_pressure.BP4Diastolic,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,BP4Diastolic,Fourth diastolic BP measurement,integer,,cardiovascular_system,3,3
+BiB_GrowingUp.blood_pressure.systolic,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,systolic,Mean systolic BP,integer,,cardiovascular_system,15899,9082
+BiB_GrowingUp.blood_pressure.diastolic,BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,diastolic,Mean diastolic BP,integer,,cardiovascular_system,15899,9082

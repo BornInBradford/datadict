@@ -1,0 +1,7 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Next generation sequencing controls,bib,participant,,,13,34686,26,2024-06-11 12:08:30.119123
+BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,Next generation sequencing project 1,bib,participant,,,24,369000,1000,2024-05-14 09:15:00.091318
+BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Next generation sequencing project 2,bib,participant,,,33,1107000,3000,2024-06-11 12:20:12.825905
+BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,QPCR controls,bib,participant,,,12,8832,72,2024-05-14 09:15:27.418016
+BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,QPCR project 1,bib,participant,,,23,92000,1000,2024-05-14 09:15:29.657501
+BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,QPCR project 2,bib,participant,,,32,276000,3000,2024-05-14 09:15:35.988735

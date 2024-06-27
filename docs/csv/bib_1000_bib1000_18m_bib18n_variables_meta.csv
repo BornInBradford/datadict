@@ -1,0 +1,60 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_1000.bib1000_18m_bib18n.BiBPersonID,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,BiBPersonID,,text,,,1257,1257
+BiB_1000.bib1000_18m_bib18n.has_bib1000_18m_bib18n,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,has_bib1000_18m_bib18n,Has bib 1000 18 month child nutrients intake,integer,,administration,1257,1257
+BiB_1000.bib1000_18m_bib18n.agecm_bib18n,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,agecm_bib18n,Child age (months): BiB1000 18 month child nutrients intake,integer,,age,1257,1257
+BiB_1000.bib1000_18m_bib18n.agecy_bib18n,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,agecy_bib18n,Child age (years): BiB1000 18 month child nutrients intake,integer,,age,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nbreastmilk_grams,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nbreastmilk_grams,Weight of breast milk (grams),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nbreastmilk_kcal,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nbreastmilk_kcal,Energy intake from breast milk,float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nbreastmilk_kj,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nbreastmilk_kj,Total energy intake from breast milk (kJ),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nbreastmilk_pct,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nbreastmilk_pct,% energy intake from breast milk,float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18ncalcium,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18ncalcium,Calcium (mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18ncarbohydrate,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18ncarbohydrate,Carbohydrate (g/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nchloride,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nchloride,Chloride (mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18ncholest,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18ncholest,Cholesterol (g/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18ncopper,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18ncopper,Copper (mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18ndrink_grams,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18ndrink_grams,Weight of all drink (grams),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18ndrink_kcal,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18ndrink_kcal,Energy intake from drink (kcal),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18ndrink_kj,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18ndrink_kj,Total energy intake from drink (kJ),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18ndrink_pct,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18ndrink_pct,% energy intake from drink,float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nenergyfromcho,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nenergyfromcho,Energy from carbohydrate (kcal),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nenergyfromfat,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nenergyfromfat,Energy from fat (kcal),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nenergyfromprotein,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nenergyfromprotein,Energy from protein (kcal),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nenglyst,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nenglyst,Englyst fibre (g/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nfat,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nfat,Fat (g/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nfolate,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nfolate,Folate (microg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nfood_grams,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nfood_grams,Weight of all food (grams),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nfood_kcal,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nfood_kcal,Total energy intake from food (kcal),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nfood_kj,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nfood_kj,Total energy intake from food (kJ),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nfood_pct,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nfood_pct,% energy intake from food,float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nformulamilk_grams,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nformulamilk_grams,Weight of formula milk (grams),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nformulamilk_kcal,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nformulamilk_kcal,Energy intake from formula milk (kcal),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nformulamilk_kj,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nformulamilk_kj,Total energy intake from formula milk (kJ),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nformulamilk_pct,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nformulamilk_pct,% energy intake from formula milk,float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18niron,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18niron,Iron (mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nkcal,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nkcal,Total energy intake (kcal/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nkj,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nkj,Total energy intake (kJ/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nmagnesium,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nmagnesium,Magnesium (mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nniacin,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nniacin,Niacin (mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nothermilk_grams,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nothermilk_grams,Weight of other milk (grams),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nothermilk_kcal,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nothermilk_kcal,Energy from other milk (kcal),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nothermilk_kj,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nothermilk_kj,Total energy intake from other milk (kJ),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nothermilk_pct,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nothermilk_pct,% energy from other milk,float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nphosphorus,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nphosphorus,Phosphorus (mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18npotassium,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18npotassium,Potassium (mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nprotein,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nprotein,Protein (g/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nretinol,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nretinol,Retinol (microg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nsodium,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nsodium,Sodium (mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nstarch,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nstarch,Starch (g/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nsugars,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nsugars,Total sugars (g/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18ntotal_kcal,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18ntotal_kcal,Total energy intake (kcal),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18ntotal_kj,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18ntotal_kj,Total energy intake (kJ),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nvitb1,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nvitb1,Vitamin B1 (Thiamin)(mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nvitb12,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nvitb12,Vitamin B12 (microg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nvitb2,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nvitb2,Vitamin B2 (Riboflavin)(mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nvitb6,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nvitb6,Vitamin B6 (mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nvitc,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nvitc,Vitamin C (mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nvitd,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nvitd,Vitamin D (microg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nvite,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nvite,Vitamin E (alpha-tocopherol)(mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nwater,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nwater,Water (g/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.bib18nzinc,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,bib18nzinc,Zinc (mg/day),float,,diet_and_nutrition,1257,1257
+BiB_1000.bib1000_18m_bib18n.has_bib18n,BiB_1000.bib1000_18m_bib18n,BiB_1000,bib1000_18m_bib18n,has_bib18n,Has: BiB1000 18 month child nutrients intake,categorical,[1 has],administration,1257,1257

@@ -1,0 +1,8 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_CohortInfo.dnam_info.BiBPersonID,BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,BiBPersonID,BiB person identifier,text,,,1885,1883
+BiB_CohortInfo.dnam_info.ParticipantType,BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,ParticipantType,BiB Participant Type vs Control,categorical,[1 Child] [2 Mother] [3 Control],administration,1885,1883
+BiB_CohortInfo.dnam_info.BiBMotherID,BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,BiBMotherID,BiB person identifier of child's mother,text,,administration,1885,1883
+BiB_CohortInfo.dnam_info.BiBPregNumber,BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,BiBPregNumber,Cohort recruited pregnancy number,integer,,administration,952,950
+BiB_CohortInfo.dnam_info.Gender,BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,Gender,Participant Gender,categorical,[1 Female] [2 Male],gender,1885,1883
+BiB_CohortInfo.dnam_info.lab_id,BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,lab_id,Lab-assigned sample ID,text,,administration,1885,1883
+BiB_CohortInfo.dnam_info.replicate,BiB_CohortInfo.dnam_info,BiB_CohortInfo,dnam_info,replicate,Replicate analysis of same sample,integer,,administration,1885,1883

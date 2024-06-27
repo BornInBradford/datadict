@@ -1,0 +1,7 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_ALL_IN.allin12_ei.BiBPersonID,BiB_ALL_IN.allin12_ei,BiB_ALL_IN,allin12_ei,BiBPersonID,,text,,,2574,2553
+BiB_ALL_IN.allin12_ei.has_allin12_ei,BiB_ALL_IN.allin12_ei,BiB_ALL_IN,allin12_ei,has_allin12_ei,Has all in 12m extra immunisations,integer,,administration,2574,2553
+BiB_ALL_IN.allin12_ei.all12n1dteothimm,BiB_ALL_IN.allin12_ei,BiB_ALL_IN,allin12_ei,all12n1dteothimm,Date other imm given,date,,immunisations,83,62
+BiB_ALL_IN.allin12_ei.all12n1othrbk,BiB_ALL_IN.allin12_ei,BiB_ALL_IN,allin12_ei,all12n1othrbk,Other imm checked red book,integer,,immunisations,83,62
+BiB_ALL_IN.allin12_ei.all12n1othvac,BiB_ALL_IN.allin12_ei,BiB_ALL_IN,allin12_ei,all12n1othvac,Other immunisation,text,,immunisations,2574,2553
+BiB_ALL_IN.allin12_ei.has_all1qs,BiB_ALL_IN.allin12_ei,BiB_ALL_IN,allin12_ei,has_all1qs,Has ALL IN 12m questionnaire,categorical,[1 has],administration,2574,2553

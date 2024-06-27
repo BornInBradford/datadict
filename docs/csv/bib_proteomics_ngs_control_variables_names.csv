@@ -1,0 +1,15 @@
+project,table,variable
+BiB_Proteomics,ngs_control,SampleID
+BiB_Proteomics,ngs_control,Index
+BiB_Proteomics,ngs_control,OlinkID
+BiB_Proteomics,ngs_control,UniProt
+BiB_Proteomics,ngs_control,Assay
+BiB_Proteomics,ngs_control,MissingFreq
+BiB_Proteomics,ngs_control,Panel
+BiB_Proteomics,ngs_control,Panel_Lot_Nr
+BiB_Proteomics,ngs_control,PlateID
+BiB_Proteomics,ngs_control,QC_Warning
+BiB_Proteomics,ngs_control,LOD
+BiB_Proteomics,ngs_control,NPX
+BiB_Proteomics,ngs_control,Normalization
+BiB_Proteomics,ngs_control,Assay_Warning

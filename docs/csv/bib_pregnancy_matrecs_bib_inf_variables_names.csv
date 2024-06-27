@@ -1,0 +1,15 @@
+project,table,variable
+BiB_Pregnancy,matrecs_bib_inf,BiBPersonID
+BiB_Pregnancy,matrecs_bib_inf,has_matrecs_bib_inf
+BiB_Pregnancy,matrecs_bib_inf,has_prninf
+BiB_Pregnancy,matrecs_bib_inf,prnbibirthoutc
+BiB_Pregnancy,matrecs_bib_inf,prnbibreech
+BiB_Pregnancy,matrecs_bib_inf,prnbicordsamp
+BiB_Pregnancy,matrecs_bib_inf,prnbicordsampalph
+BiB_Pregnancy,matrecs_bib_inf,prnbicordsampvlph
+BiB_Pregnancy,matrecs_bib_inf,prnbifetalsamp
+BiB_Pregnancy,matrecs_bib_inf,prnbifetalsamplph
+BiB_Pregnancy,matrecs_bib_inf,prnbirouteofbrt
+BiB_Pregnancy,matrecs_bib_inf,prnbispecialcare
+BiB_Pregnancy,matrecs_bib_inf,prntimetosampa
+BiB_Pregnancy,matrecs_bib_inf,prntimetosampv

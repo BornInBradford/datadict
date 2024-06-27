@@ -1,0 +1,9 @@
+project,table,variable
+BiB_1000,bib1000_12m_b12f18,BiBPersonID
+BiB_1000,bib1000_12m_b12f18,has_bib1000_12m_b12f18
+BiB_1000,bib1000_12m_b12f18,bib12f18brand
+BiB_1000,bib1000_12m_b12f18,bib12f18frequency
+BiB_1000,bib1000_12m_b12f18,bib12f18otherbrand
+BiB_1000,bib1000_12m_b12f18,bib12f18quantity
+BiB_1000,bib1000_12m_b12f18,bib12f18timesperday
+BiB_1000,bib1000_12m_b12f18,has_b12tab

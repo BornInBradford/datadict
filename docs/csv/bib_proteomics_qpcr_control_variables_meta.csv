@@ -1,0 +1,14 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Proteomics.qpcr_control.SampleID,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,SampleID,,text,,,8832,72
+BiB_Proteomics.qpcr_control.Index,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,Index,,integer,,,8832,72
+BiB_Proteomics.qpcr_control.OlinkID,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,OlinkID,,text,,,8832,72
+BiB_Proteomics.qpcr_control.UniProt,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,UniProt,,text,,,8832,72
+BiB_Proteomics.qpcr_control.Assay,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,Assay,,text,,,8832,72
+BiB_Proteomics.qpcr_control.MissingFreq,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,MissingFreq,,text,,,8832,72
+BiB_Proteomics.qpcr_control.Panel,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,Panel,,text,,,8832,72
+BiB_Proteomics.qpcr_control.Panel_Version,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,Panel_Version,,text,,,8832,72
+BiB_Proteomics.qpcr_control.PlateID,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,PlateID,,text,,,8832,72
+BiB_Proteomics.qpcr_control.QC_Warning,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,QC_Warning,,text,,,8832,72
+BiB_Proteomics.qpcr_control.LOD,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,LOD,,float,,,8832,72
+BiB_Proteomics.qpcr_control.NPX,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,NPX,,float,,,8821,72
+BiB_Proteomics.qpcr_control.Normalization,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,Normalization,,text,,,8832,72

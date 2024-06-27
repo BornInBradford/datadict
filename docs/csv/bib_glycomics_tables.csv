@@ -1,0 +1,2 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,Total plasma glycome analyses using HILIC-UHPLC-FLR method,bib,participant,,,44,976,976,2024-05-14 09:12:41

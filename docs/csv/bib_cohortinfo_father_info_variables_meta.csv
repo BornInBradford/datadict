@@ -1,0 +1,10 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_CohortInfo.father_info.BiBPersonID,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,BiBPersonID,,text,,,3353,3353
+BiB_CohortInfo.father_info.has_father_info,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,has_father_info,Has person information father,integer,,administration,3353,3353
+BiB_CohortInfo.father_info.adminfagerecm,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,adminfagerecm,Father age at recruitment (months),integer,,age,3353,3353
+BiB_CohortInfo.father_info.adminfagerecy,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,adminfagerecy,Father age at recruitment (years),integer,,age,3353,3353
+BiB_CohortInfo.father_info.adminfgender,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,adminfgender,Father gender,categorical,[1 Male] [2 Female],gender,3353,3353
+BiB_CohortInfo.father_info.adminfnbibch,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,adminfnbibch,Number of BiB children (father),integer,,administration,3353,3353
+BiB_CohortInfo.father_info.adminfnbibpr,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,adminfnbibpr,Number of BiB pregnancies (father),integer,,administration,3353,3353
+BiB_CohortInfo.father_info.adminfnfbqall,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,adminfnfbqall,Number of baseline questionnaires (father),integer,,administration,3353,3353
+BiB_CohortInfo.father_info.adminfrecdate,BiB_CohortInfo.father_info,BiB_CohortInfo,father_info,adminfrecdate,Father date of recruitment,date,,administration,3353,3353

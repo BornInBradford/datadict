@@ -1,0 +1,15 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_MeDALL.medall_qd5.BiBPersonID,BiB_MeDALL.medall_qd5,BiB_MeDALL,medall_qd5,BiBPersonID,,text,,,2598,2594
+BiB_MeDALL.medall_qd5.has_medall_qd5,BiB_MeDALL.medall_qd5,BiB_MeDALL,medall_qd5,has_medall_qd5,Has medall questionnaire: reactions to medicines,integer,,administration,2598,2594
+BiB_MeDALL.medall_qd5.has_medqst,BiB_MeDALL.medall_qd5,BiB_MeDALL,medall_qd5,has_medqst,Has MeDALL questionnaire,categorical,[1 has],administration,2598,2594
+BiB_MeDALL.medall_qd5.medd5brt,BiB_MeDALL.medall_qd5,BiB_MeDALL,medall_qd5,medd5brt,Reaction was feeling of breathlessness,integer,,allergies,9,7
+BiB_MeDALL.medall_qd5.medd5des,BiB_MeDALL.medall_qd5,BiB_MeDALL,medall_qd5,medd5des,Drug reacted to,text,,allergies,2598,2594
+BiB_MeDALL.medall_qd5.medd5fac,BiB_MeDALL.medall_qd5,BiB_MeDALL,medall_qd5,medd5fac,Reaction was face swelling,integer,,allergies,23,20
+BiB_MeDALL.medall_qd5.medd5fnt,BiB_MeDALL.medall_qd5,BiB_MeDALL,medall_qd5,medd5fnt,Reaction was faintness,integer,,allergies,4,3
+BiB_MeDALL.medall_qd5.medd5lcn,BiB_MeDALL.medall_qd5,BiB_MeDALL,medall_qd5,medd5lcn,Reaction was loss of consciousness,integer,,allergies,3,2
+BiB_MeDALL.medall_qd5.medd5lip,BiB_MeDALL.medall_qd5,BiB_MeDALL,medall_qd5,medd5lip,Reaction was lips swelling,integer,,allergies,16,14
+BiB_MeDALL.medall_qd5.medd5oth,BiB_MeDALL.medall_qd5,BiB_MeDALL,medall_qd5,medd5oth,Reaction was other,integer,,allergies,6,6
+BiB_MeDALL.medall_qd5.medd5qun,BiB_MeDALL.medall_qd5,BiB_MeDALL,medall_qd5,medd5qun,Reaction was quincke’s oedema,integer,,allergies,1,1
+BiB_MeDALL.medall_qd5.medd5ras,BiB_MeDALL.medall_qd5,BiB_MeDALL,medall_qd5,medd5ras,Reaction was generalised rash,integer,,allergies,74,70
+BiB_MeDALL.medall_qd5.medd5rds,BiB_MeDALL.medall_qd5,BiB_MeDALL,medall_qd5,medd5rds,Other reaction description,text,,allergies,2598,2594
+BiB_MeDALL.medall_qd5.medd5vom,BiB_MeDALL.medall_qd5,BiB_MeDALL,medall_qd5,medd5vom,Reaction was vomiting or diarrhea,integer,,allergies,17,17

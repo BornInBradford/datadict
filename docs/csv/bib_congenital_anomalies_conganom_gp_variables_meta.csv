@@ -1,0 +1,10 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Congenital_Anomalies.conganom_gp.BiBPersonID,BiB_Congenital_Anomalies.conganom_gp,BiB_Congenital_Anomalies,conganom_gp,BiBPersonID,,text,,,1212,733
+BiB_Congenital_Anomalies.conganom_gp.has_conganom_gp,BiB_Congenital_Anomalies.conganom_gp,BiB_Congenital_Anomalies,conganom_gp,has_conganom_gp,Has congenital anomalies gp record linkage to 5yo,integer,,administration,1212,733
+BiB_Congenital_Anomalies.conganom_gp.agecm_cagpch,BiB_Congenital_Anomalies.conganom_gp,BiB_Congenital_Anomalies,conganom_gp,agecm_cagpch,Child age (months): Congenital Anomalies: GP record linkage to 5yo,integer,,age,1212,733
+BiB_Congenital_Anomalies.conganom_gp.agecy_cagpch,BiB_Congenital_Anomalies.conganom_gp,BiB_Congenital_Anomalies,conganom_gp,agecy_cagpch,Child age (years): Congenital Anomalies: GP record linkage to 5yo,integer,,age,1212,733
+BiB_Congenital_Anomalies.conganom_gp.cagpchctv3clinterm,BiB_Congenital_Anomalies.conganom_gp,BiB_Congenital_Anomalies,conganom_gp,cagpchctv3clinterm,CA from GP records: CTV3 Clinical Term,text,,congenital_and_malformations,1212,733
+BiB_Congenital_Anomalies.conganom_gp.cagpchctv3id,BiB_Congenital_Anomalies.conganom_gp,BiB_Congenital_Anomalies,conganom_gp,cagpchctv3id,CA from GP records: CTV3 code,text,,congenital_and_malformations,1212,733
+BiB_Congenital_Anomalies.conganom_gp.cagpchctv3order,BiB_Congenital_Anomalies.conganom_gp,BiB_Congenital_Anomalies,conganom_gp,cagpchctv3order,CA from GP records: CTV3 order,integer,,congenital_and_malformations,1212,733
+BiB_Congenital_Anomalies.conganom_gp.cagpchicd10,BiB_Congenital_Anomalies.conganom_gp,BiB_Congenital_Anomalies,conganom_gp,cagpchicd10,CA from GP records: ICD10 code,text,,congenital_and_malformations,1212,733
+BiB_Congenital_Anomalies.conganom_gp.has_cagpch,BiB_Congenital_Anomalies.conganom_gp,BiB_Congenital_Anomalies,conganom_gp,has_cagpch,Has: Congenital Anomalies: GP record linkage to 5yo,categorical,[1 has],administration,1212,733

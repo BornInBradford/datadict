@@ -1,0 +1,16 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_StartingSchool.stschool_info.SSChildID,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,SSChildID,Starting School Child ID,text,,,6844,6844
+BiB_StartingSchool.stschool_info.BiBPersonID,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,BiBPersonID,,text,,administration,6844,6844
+BiB_StartingSchool.stschool_info.has_stschool_info,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,has_stschool_info,Has starting school child info,integer,,administration,6844,6844
+BiB_StartingSchool.stschool_info.agecm_ssbpvs,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,agecm_ssbpvs,Age in months at BPVS,integer,,age,6657,6657
+BiB_StartingSchool.stschool_info.agecm_ssckat,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,agecm_ssckat,Age in months at CKAT,integer,,age,6586,6586
+BiB_StartingSchool.stschool_info.agecm_ssclid,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,agecm_ssclid,Age in months at Letter ID,integer,,age,6582,6582
+BiB_StartingSchool.stschool_info.agecm_sscsdq,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,agecm_sscsdq,Age in months at SDQ,integer,,age,2340,2340
+BiB_StartingSchool.stschool_info.has_ssbpvs,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,has_ssbpvs,Has Starting School BPVS,categorical,[1 has],administration,6657,6657
+BiB_StartingSchool.stschool_info.has_ssckat,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,has_ssckat,Has Starting School CKAT,categorical,[1 has],administration,6586,6586
+BiB_StartingSchool.stschool_info.has_ssclid,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,has_ssclid,Has Starting School Letter ID,categorical,[1 has],administration,6582,6582
+BiB_StartingSchool.stschool_info.has_sscsdq,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,has_sscsdq,Has Starting School SDQ,categorical,[1 has],administration,2340,2340
+BiB_StartingSchool.stschool_info.has_stschl,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,has_stschl,Is in Starting School cohort,categorical,[1 has],administration,6844,6844
+BiB_StartingSchool.stschool_info.ssgender,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,ssgender,Child gender,categorical,[1 Male] [2 Female],gender,6844,6844
+BiB_StartingSchool.stschool_info.ssschoolid,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,ssschoolid,School reference number,integer,,administration,6844,6844
+BiB_StartingSchool.stschool_info.sstermofbirth,BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,sstermofbirth,Term of birth,categorical,[1 Autumn] [2 Spring] [3 Summer],administration,6844,6844

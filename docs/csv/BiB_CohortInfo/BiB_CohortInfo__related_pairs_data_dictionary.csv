@@ -1,7 +1,0 @@
-variable,full_name,label,value_type,description,categories,categories_label
-id_relation,BiB_CohortInfo.related_pairs.id_relation,ID of relation,text,,,
-relationship,BiB_CohortInfo.related_pairs.relationship,Type of relationship,text,,,
-ParticipantType,BiB_CohortInfo.related_pairs.ParticipantType,Cohort participant type of subject,text,,,
-ParticipantType_relation,BiB_CohortInfo.related_pairs.ParticipantType_relation,Cohort participant type of relation,text,,,
-PregnancyID,BiB_CohortInfo.related_pairs.PregnancyID,"",text,,,
-BiBPregNumber,BiB_CohortInfo.related_pairs.BiBPregNumber,"",text,,,

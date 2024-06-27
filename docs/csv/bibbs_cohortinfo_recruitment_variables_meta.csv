@@ -1,0 +1,23 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiBBS_CohortInfo.recruitment.pseudo_patient_id,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,pseudo_patient_id,Pseudo patient ID to replace hospital number,integer,,,24918,20887
+BiBBS_CohortInfo.recruitment.pseudo_pregnancy_number,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,pseudo_pregnancy_number,Patient pregnancy number ordered by booking date,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.medway_booking,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,medway_booking,Date of booking in maternity EPR,date,,,24918,20887
+BiBBS_CohortInfo.recruitment.medway_booking_y,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,medway_booking_y,Year of booking in maternity EPR,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.medway_booking_m,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,medway_booking_m,Month of booking in maternity EPR,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.medway_edd,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,medway_edd,Expected date of delivery in maternity EPR,date,,,24918,20887
+BiBBS_CohortInfo.recruitment.medway_edd_y,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,medway_edd_y,Expected year of delivery in maternity EPR,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.medway_edd_m,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,medway_edd_m,Expected month of delivery in maternity EPR,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.BiBBSRecruitmentID,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,BiBBSRecruitmentID,BiBBS recruitment record ID,integer,,administration,5328,4516
+BiBBS_CohortInfo.recruitment.BiBBSPersonID,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,BiBBSPersonID,BiBBS PersonID,text,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.BiBBSPregnancyID,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,BiBBSPregnancyID,BiBBS PregnancyID,text,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.eligible,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,eligible,Pregnancy eligible for BiBBS,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.not_eligible,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,not_eligible,Pregnancy not eligible for BiBBS,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.not_eligible_area,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,not_eligible_area,Pregnancy not eligible for BiBBS: postcode out of area,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.not_eligible_other,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,not_eligible_other,Pregnancy not eligible for BiBBS: other reason,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.not_yet_recruited,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,not_yet_recruited,Pregnancy eligible but not yet recruited at datafreeze,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.not_recruited,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,not_recruited,Pregnancy not recruited,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.not_recruited_not_informed,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,not_recruited_not_informed,Pregnancy not recruited: not informed about BiBBS,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.not_recruited_informed,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,not_recruited_informed,Pregnancy not recruited: informed about BiBBS,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.not_recruited_declined,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,not_recruited_declined,Pregnancy not recruited: declined participation,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.recruited,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,recruited,Pregnancy recruited to BiBBS,integer,,administration,24918,20887
+BiBBS_CohortInfo.recruitment.has_survey,BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,has_survey,Survey record exists for this pregnancy,integer,,administration,24918,20887

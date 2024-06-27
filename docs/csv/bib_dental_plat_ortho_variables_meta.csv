@@ -1,0 +1,20 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Dental.plat_ortho.BiBPersonID,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,BiBPersonID,,text,,,336,332
+BiB_Dental.plat_ortho.assessment_year,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,assessment_year,Year of assessment,integer,,,336,332
+BiB_Dental.plat_ortho.assessment_month,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,assessment_month,Month of assessment,integer,,,336,332
+BiB_Dental.plat_ortho.age_assessment_y,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,age_assessment_y,Child age in years at assessment,integer,,,336,332
+BiB_Dental.plat_ortho.age_assessment_m,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,age_assessment_m,Child age in months at assessment,integer,,,336,332
+BiB_Dental.plat_ortho.Lips,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,Lips,1.000000,categorical,[1 Competent] [2 Incompetent],,336,332
+BiB_Dental.plat_ortho.MasticatoryProblems,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,MasticatoryProblems,1.000000,categorical,[1 0] [2 1],,336,332
+BiB_Dental.plat_ortho.IncisorRelationship,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,IncisorRelationship,1.000000,categorical,[1 I] [2 II/I] [3 II/II] [4 III],,336,332
+BiB_Dental.plat_ortho.RightMolarRelationship,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,RightMolarRelationship,1.000000,categorical,[1 I] [2 II] [3 III] [4 NA],,336,332
+BiB_Dental.plat_ortho.LeftMolarRelationship,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,LeftMolarRelationship,1.000000,categorical,[1 I] [2 II] [3 III] [4 NA],,336,332
+BiB_Dental.plat_ortho.PermanentCanines,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,PermanentCanines,1.000000,categorical,[1 Both] [2 Left] [3 NA] [4 No] [5 Right],,336,332
+BiB_Dental.plat_ortho.PrimaryCanines,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,PrimaryCanines,1.000000,categorical,[1 Both] [2 Left] [3 NA] [4 No] [5 Right],,336,332
+BiB_Dental.plat_ortho.Overjet,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,Overjet,,text,,,336,332
+BiB_Dental.plat_ortho.Overbite,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,Overbite,1.000000,categorical,[1 Average] [2 Decreased] [3 Increased],,336,332
+BiB_Dental.plat_ortho.Centrelines,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,Centrelines,,text,,,336,332
+BiB_Dental.plat_ortho.Crossbites,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,Crossbites,1.000000,categorical,[1 Anterior] [2 Both] [3 No] [4 Posterior],,336,332
+BiB_Dental.plat_ortho.Deviation,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,Deviation,,integer,,,336,332
+BiB_Dental.plat_ortho.SkeletalPattern,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,SkeletalPattern,1.000000,categorical,[1 I] [2 II] [3 III],,336,332
+BiB_Dental.plat_ortho.ortho_notes,BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,ortho_notes,,text,,,336,332

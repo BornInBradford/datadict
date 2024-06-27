@@ -1,0 +1,6 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_StartingSchool.stschool_info,BiB_StartingSchool,stschool_info,Starting School Child Info,bib,participant,,,14,6844,6844,2024-05-14 09:15:42
+BiB_StartingSchool.stschool_bpvs,BiB_StartingSchool,stschool_bpvs,Starting School BPVS,bib,participant,,,8,6657,6657,2024-05-14 09:15:37
+BiB_StartingSchool.stschool_lid,BiB_StartingSchool,stschool_lid,Starting School Letter identification,bib,participant,,,7,6582,6582,2024-05-14 09:15:42
+BiB_StartingSchool.stschool_ckat,BiB_StartingSchool,stschool_ckat,Starting School CKAT,bib,participant,,,612,6586,6586,2024-05-14 09:15:41
+BiB_StartingSchool.stschool_sdq,BiB_StartingSchool,stschool_sdq,Starting School SDQ,bib,participant,,,55,2340,2340,2024-05-14 09:15:42

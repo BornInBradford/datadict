@@ -1,0 +1,19 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_ChildGrowth.bioimpedance.BiBChildID,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,BiBChildID,BiB cohort person ID,text,,,6424,5494
+BiB_ChildGrowth.bioimpedance.has_bioimpedance,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,has_bioimpedance,Has child height/weight data,integer,,,6424,5494
+BiB_ChildGrowth.bioimpedance.date,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,date,Date of bioimpedance analysis,date,,anthropometry,6424,5494
+BiB_ChildGrowth.bioimpedance.cgrowthsource,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cgrowthsource,Source of data,categorical,[1 eClipse] [2 BiB1000 6mths] [3 BiB1000 12mths] [4 BiB1000 18mths] [5 BiB1000 24mths] [6 BiB1000 36mths] [7 AllIn 12mths] [8 AllIn 24mths] [9 MeDALL] [10 Dental study] [11 Growing Up] [12 Age of Wonder] [13 School nurses] [14 NCMP] [15 Primary care],,6424,5494
+BiB_ChildGrowth.bioimpedance.agecd_cgrowth,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,agecd_cgrowth,Age at measurement (days),integer,,,6424,5494
+BiB_ChildGrowth.bioimpedance.agecm_cgrowth,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,agecm_cgrowth,Age at measurement (months),integer,,age,6424,5494
+BiB_ChildGrowth.bioimpedance.agecy_cgrowth,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,agecy_cgrowth,Age at measurement (years),integer,,age,6424,5494
+BiB_ChildGrowth.bioimpedance.cheight,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cheight,Height (cm),integer,,anthropometry,6424,5494
+BiB_ChildGrowth.bioimpedance.flag_height,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,flag_height,Height is average of two measurements taken on same day,integer,,,680,680
+BiB_ChildGrowth.bioimpedance.cweight,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cweight,Weight (kg),float,,anthropometry,6424,5494
+BiB_ChildGrowth.bioimpedance.flag_weight,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,flag_weight,Weight is average of two measurements taken on same day,integer,,,3,3
+BiB_ChildGrowth.bioimpedance.cbmi,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cbmi,BMI,float,,anthropometry,5920,5110
+BiB_ChildGrowth.bioimpedance.cfatpercentage,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cfatpercentage,Body fat percentage,float,,anthropometry,6424,5494
+BiB_ChildGrowth.bioimpedance.cfatmass,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cfatmass,Fat mass (kg),float,,anthropometry,6424,5494
+BiB_ChildGrowth.bioimpedance.cmusclemass,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cmusclemass,Predicated muscle mass (kg),float,,anthropometry,6424,5494
+BiB_ChildGrowth.bioimpedance.cfatfreemass,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cfatfreemass,Fat free mass (kg),float,,anthropometry,6424,5494
+BiB_ChildGrowth.bioimpedance.ctotalbodywater,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,ctotalbodywater,Total body water,float,,anthropometry,6420,5492
+BiB_ChildGrowth.bioimpedance.cimpedance,BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,cimpedance,Impedance,float,,anthropometry,6424,5494

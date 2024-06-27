@@ -1,0 +1,14 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Biosamples.maternal_iodine.BiBPregNumber,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,BiBPregNumber,Pregnancy number within BiB,integer,,administration,7060,3
+BiB_Biosamples.maternal_iodine.BiBMotherID,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,BiBMotherID,Mother identifier,text,,,7060,3
+BiB_Biosamples.maternal_iodine.AliquotID,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,AliquotID,Aliquot ID,integer,,administration,7060,3
+BiB_Biosamples.maternal_iodine.ShippingDate,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,ShippingDate,Shipping date for iodine analysis,date,,administration,7060,3
+BiB_Biosamples.maternal_iodine.ArrivalDate,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,ArrivalDate,Arrival date for iodine analysis,date,,administration,7060,3
+BiB_Biosamples.maternal_iodine.BatchNumber,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,BatchNumber,Batch number for iodine analysis,integer,,administration,7060,3
+BiB_Biosamples.maternal_iodine.BoxNumber,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,BoxNumber,Box number for iodine analysis,integer,,administration,7060,3
+BiB_Biosamples.maternal_iodine.IodineAnalysisDate,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,IodineAnalysisDate,Date of iodine analysis,date,,administration,7060,3
+BiB_Biosamples.maternal_iodine.IodineConcentration,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,IodineConcentration,Iodine Concentration (µg/L),float,,physical_health,7060,3
+BiB_Biosamples.maternal_iodine.CreatinineAnalysisDate,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,CreatinineAnalysisDate,Date of creatinine analysis,date,,administration,7060,3
+BiB_Biosamples.maternal_iodine.CreRunNumber,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,CreRunNumber,Run number for creatinine analysis,text,,administration,7060,3
+BiB_Biosamples.maternal_iodine.CreatinineConcentration,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,CreatinineConcentration,Creatinine Concentration (g/L),float,,physical_health,7060,3
+BiB_Biosamples.maternal_iodine.ICrRatio,BiB_Biosamples.maternal_iodine,BiB_Biosamples,maternal_iodine,ICrRatio,Iodine:Creatinine Ratio (µg/g),float,,physical_health,7060,3

@@ -1,0 +1,5 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_1000.bib1000_12m_b12f92.BiBPersonID,BiB_1000.bib1000_12m_b12f92,BiB_1000,bib1000_12m_b12f92,BiBPersonID,,text,,,1313,1313
+BiB_1000.bib1000_12m_b12f92.has_bib1000_12m_b12f92,BiB_1000.bib1000_12m_b12f92,BiB_1000,bib1000_12m_b12f92,has_bib1000_12m_b12f92,Has bib 1000 12m other types of blackcurrant squash,integer,,administration,1313,1313
+BiB_1000.bib1000_12m_b12f92.bib12f92type,BiB_1000.bib1000_12m_b12f92,BiB_1000,bib1000_12m_b12f92,bib12f92type,Type,text,,diet_and_nutrition,1313,1313
+BiB_1000.bib1000_12m_b12f92.has_b12tab,BiB_1000.bib1000_12m_b12f92,BiB_1000,bib1000_12m_b12f92,has_b12tab,Has BiB1000 12m questionnaire,categorical,[1 has],administration,1313,1313

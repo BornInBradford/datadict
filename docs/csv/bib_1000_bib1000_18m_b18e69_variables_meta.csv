@@ -1,0 +1,5 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_1000.bib1000_18m_b18e69.BiBPersonID,BiB_1000.bib1000_18m_b18e69,BiB_1000,bib1000_18m_b18e69,BiBPersonID,,text,,,1298,1293
+BiB_1000.bib1000_18m_b18e69.has_bib1000_18m_b18e69,BiB_1000.bib1000_18m_b18e69,BiB_1000,bib1000_18m_b18e69,has_bib1000_18m_b18e69,Has bib 1000 18m other types of yoghurt,integer,,administration,1298,1293
+BiB_1000.bib1000_18m_b18e69.bib18e69type,BiB_1000.bib1000_18m_b18e69,BiB_1000,bib1000_18m_b18e69,bib18e69type,Specify other type of yoghurt/fromage frais,text,,diet_and_nutrition,1298,1293
+BiB_1000.bib1000_18m_b18e69.has_b18tab,BiB_1000.bib1000_18m_b18e69,BiB_1000,bib1000_18m_b18e69,has_b18tab,Has: BiB 1000 Questionnaire: bib18_maintable,categorical,[1 has],administration,1298,1293

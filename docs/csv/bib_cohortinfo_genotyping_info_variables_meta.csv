@@ -1,0 +1,12 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_CohortInfo.genotyping_info.id,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,id,,text,,,21256,20710
+BiB_CohortInfo.genotyping_info.ParticipantType,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,ParticipantType,BiB participant type,categorical,[1 Child] [2 Father] [3 Mother],administration,21256,20710
+BiB_CohortInfo.genotyping_info.Gender,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,Gender,Participant Gender,categorical,[1 Female] [2 Male],gender,21256,20710
+BiB_CohortInfo.genotyping_info.lab_id,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,lab_id,,text,,administration,21256,20710
+BiB_CohortInfo.genotyping_info.gt_chip,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,gt_chip,Genotyping chip type,categorical,[1 Core Exome] [2 GSA],administration,21256,20710
+BiB_CohortInfo.genotyping_info.ethnicity,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,ethnicity,Ethnic group determined by genotype PCA,categorical,[1 Not in PCA] [2 Other] [3 Pakistani] [4 White European],ethnic_group,21256,20710
+BiB_CohortInfo.genotyping_info.passed_qc,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,passed_qc,Sample included in curated dataset,categorical,[0 No] [1 Yes],administration,21256,20710
+BiB_CohortInfo.genotyping_info.copies,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,copies,Copies e.g. samples from other pregnancies,integer,,administration,21256,20710
+BiB_CohortInfo.genotyping_info.has_BiB12v1_0,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,has_BiB12v1_0,Has BiB12 Version 1.0 HumanCoreExome Chip,integer,,administration,21256,20710
+BiB_CohortInfo.genotyping_info.has_BiB12v1_1,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,has_BiB12v1_1,Has BiB12 Version 1.1 HumanCoreExome Chip,integer,,administration,21256,20710
+BiB_CohortInfo.genotyping_info.has_BiB24v1_0,BiB_CohortInfo.genotyping_info,BiB_CohortInfo,genotyping_info,has_BiB24v1_0,Has BiB24 Version 1.0 HumanCoreExome Chip,integer,,administration,21256,20710

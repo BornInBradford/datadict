@@ -1,0 +1,14 @@
+project,table,variable
+BiB_CohortInfo,person_info,BiBPersonID
+BiB_CohortInfo,person_info,PersonID
+BiB_CohortInfo,person_info,ParticipantType
+BiB_CohortInfo,person_info,ParticipantType_cat
+BiB_CohortInfo,person_info,Gender
+BiB_CohortInfo,person_info,Gender_cat
+BiB_CohortInfo,person_info,DateOfBirth
+BiB_CohortInfo,person_info,YearOfBirth
+BiB_CohortInfo,person_info,MonthOfBirth
+BiB_CohortInfo,person_info,BiBFatherID
+BiB_CohortInfo,person_info,BiBMotherID
+BiB_CohortInfo,person_info,BiBPregNumber
+BiB_CohortInfo,person_info,PregnancyID

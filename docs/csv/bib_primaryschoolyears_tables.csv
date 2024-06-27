@@ -1,0 +1,10 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_PrimarySchoolYears.child_info,BiB_PrimarySchoolYears,child_info,Primary School Years child information,bib,participant,,,23,18149,18149,2024-05-14 09:14:09
+BiB_PrimarySchoolYears.sdq_data,BiB_PrimarySchoolYears,sdq_data,Primary School Years SDQ data,bib,participant,,,58,3502,3234,2024-05-14 09:14:40
+BiB_PrimarySchoolYears.child_quiz,BiB_PrimarySchoolYears,child_quiz,Primary School Years child quiz,bib,participant,,,90,15641,15641,2024-05-14 09:14:11
+BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,Primary School Years EF BDR task data,bib,participant,,,13,15179,15179,2024-05-14 09:14:25
+BiB_PrimarySchoolYears.ef_task_fdr,BiB_PrimarySchoolYears,ef_task_fdr,Primary School Years EF FDR task data,bib,participant,,,13,15519,15519,2024-05-14 09:14:26
+BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,Primary School Years EF Corsi task data,bib,participant,,,13,15388,15388,2024-05-14 09:14:25
+BiB_PrimarySchoolYears.ef_task_inhibition,BiB_PrimarySchoolYears,ef_task_inhibition,Primary School Years EF Inhibition task data,bib,participant,,,22,14538,14538,2024-05-14 09:14:26
+BiB_PrimarySchoolYears.ef_task_ps,BiB_PrimarySchoolYears,ef_task_ps,Primary School Years EF PS task data,bib,participant,,,18,15185,15185,2024-05-14 09:14:26
+BiB_PrimarySchoolYears.ckat_data,BiB_PrimarySchoolYears,ckat_data,Primary School Years CKAT data,bib,participant,,,634,15820,15820,2024-05-14 09:14:24

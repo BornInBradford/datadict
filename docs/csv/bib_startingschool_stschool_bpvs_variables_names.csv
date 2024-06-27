@@ -1,0 +1,10 @@
+project,table,variable
+BiB_StartingSchool,stschool_bpvs,SSChildID
+BiB_StartingSchool,stschool_bpvs,BiBPersonID
+BiB_StartingSchool,stschool_bpvs,has_stschool_bpvs
+BiB_StartingSchool,stschool_bpvs,has_ssbpvs
+BiB_StartingSchool,stschool_bpvs,ssbpvsBasalSet
+BiB_StartingSchool,stschool_bpvs,ssbpvsCeilingSet
+BiB_StartingSchool,stschool_bpvs,ssbpvschronage
+BiB_StartingSchool,stschool_bpvs,ssbpvsrawscore
+BiB_StartingSchool,stschool_bpvs,ssbpvsstandardised

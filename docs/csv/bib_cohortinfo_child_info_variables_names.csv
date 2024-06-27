@@ -1,0 +1,9 @@
+project,table,variable
+BiB_CohortInfo,child_info,BiBPersonID
+BiB_CohortInfo,child_info,has_child_info
+BiB_CohortInfo,child_info,admincbirthorder
+BiB_CohortInfo,child_info,admincdobagefm
+BiB_CohortInfo,child_info,admincdobagefy
+BiB_CohortInfo,child_info,admincdobagemm
+BiB_CohortInfo,child_info,admincdobagemy
+BiB_CohortInfo,child_info,admincgender

@@ -1,0 +1,17 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiBBS_CohortInfo.pregnancy.BiBBSPersonID,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,BiBBSPersonID,BiBBS PersonID,text,,,2626,2425
+BiBBS_CohortInfo.pregnancy.BiBBSPregNumber,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,BiBBSPregNumber,BiBBS mother within-cohort pregnancy number,integer,,administration,2626,2425
+BiBBS_CohortInfo.pregnancy.BiBBSPregnancyID,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,BiBBSPregnancyID,BiBBS PregnancyID,text,,administration,2626,2425
+BiBBS_CohortInfo.pregnancy.BiBBSPartnerID,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,BiBBSPartnerID,BiBBS partner ID,text,,administration,2626,2425
+BiBBS_CohortInfo.pregnancy.medway_booking,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,medway_booking,Date of booking in maternity EPR,date,,,2626,2425
+BiBBS_CohortInfo.pregnancy.medway_booking_y,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,medway_booking_y,Year of booking in maternity EPR,integer,,administration,2626,2425
+BiBBS_CohortInfo.pregnancy.medway_booking_m,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,medway_booking_m,Month of booking in maternity EPR,integer,,administration,2626,2425
+BiBBS_CohortInfo.pregnancy.medway_edd,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,medway_edd,Expected date of delivery in maternity EPR,date,,,2626,2425
+BiBBS_CohortInfo.pregnancy.medway_edd_y,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,medway_edd_y,Expected year of delivery in maternity EPR,integer,,administration,2626,2425
+BiBBS_CohortInfo.pregnancy.medway_edd_m,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,medway_edd_m,Expected month of delivery in maternity EPR,integer,,administration,2626,2425
+BiBBS_CohortInfo.pregnancy.recruitment_date,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,recruitment_date,Date of pregnancy recruitment,date,,,2624,2423
+BiBBS_CohortInfo.pregnancy.recruitment_year,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,recruitment_year,Year of pregnancy recruitment,integer,,administration,2624,2423
+BiBBS_CohortInfo.pregnancy.recruitment_month,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,recruitment_month,Month of pregnancy recruitment,integer,,administration,2624,2423
+BiBBS_CohortInfo.pregnancy.m_recruitment_age,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,m_recruitment_age,Mother age in years at pregnancy recruitment,integer,,age,2624,2423
+BiBBS_CohortInfo.pregnancy.p_recruitment_age,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,p_recruitment_age,Partner age in years at pregnancy recruitment,integer,,age,271,264
+BiBBS_CohortInfo.pregnancy.has_survey,BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,has_survey,Survey record exists for this pregnancy,integer,,administration,2626,2425

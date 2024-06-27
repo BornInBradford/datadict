@@ -1,0 +1,8 @@
+project,table,variable
+BiB_Biosamples,hosp_hba1c,BiBMotherID
+BiB_Biosamples,hosp_hba1c,BiBPregNumber
+BiB_Biosamples,hosp_hba1c,MotherAgeSample_Mths
+BiB_Biosamples,hosp_hba1c,MotherAgeSample_Yrs
+BiB_Biosamples,hosp_hba1c,GestAgeSample_Days
+BiB_Biosamples,hosp_hba1c,DateBloodTest
+BiB_Biosamples,hosp_hba1c,HbA1c

@@ -1,0 +1,9 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_1000.bib1000_12m_b12f19.BiBPersonID,BiB_1000.bib1000_12m_b12f19,BiB_1000,bib1000_12m_b12f19,BiBPersonID,,text,,,1319,1313
+BiB_1000.bib1000_12m_b12f19.has_bib1000_12m_b12f19,BiB_1000.bib1000_12m_b12f19,BiB_1000,bib1000_12m_b12f19,has_bib1000_12m_b12f19,Has bib 1000 12m pure fruit puree,integer,,administration,1319,1313
+BiB_1000.bib1000_12m_b12f19.bib12f19brand,BiB_1000.bib1000_12m_b12f19,BiB_1000,bib1000_12m_b12f19,bib12f19brand,Brand,categorical,[1 Annabel Karmel] [2 Cow and Gate] [3 Ellas Kitchen] [4 Heinz] [5 HiPP Organics] [6 Mumtaz (Halal)] [7 Organix] [8 Other Supermarket own],diet_and_nutrition,220,215
+BiB_1000.bib1000_12m_b12f19.bib12f19frequency,BiB_1000.bib1000_12m_b12f19,BiB_1000,bib1000_12m_b12f19,bib12f19frequency,Frequency,categorical,[1 Never] [2 1-3 per month] [3 One day a week] [4 Two days a week] [5 Three days a week] [6 Four days a week] [7 Five days a week] [8 Six days a week] [9 Seven days a week],diet_and_nutrition,234,229
+BiB_1000.bib1000_12m_b12f19.bib12f19otherbrand,BiB_1000.bib1000_12m_b12f19,BiB_1000,bib1000_12m_b12f19,bib12f19otherbrand,OtherBrand,text,,diet_and_nutrition,1319,1313
+BiB_1000.bib1000_12m_b12f19.bib12f19quantity,BiB_1000.bib1000_12m_b12f19,BiB_1000,bib1000_12m_b12f19,bib12f19quantity,Quantity,float,,diet_and_nutrition,231,226
+BiB_1000.bib1000_12m_b12f19.bib12f19timesperday,BiB_1000.bib1000_12m_b12f19,BiB_1000,bib1000_12m_b12f19,bib12f19timesperday,TimesPerDay,integer,,diet_and_nutrition,235,229
+BiB_1000.bib1000_12m_b12f19.has_b12tab,BiB_1000.bib1000_12m_b12f19,BiB_1000,bib1000_12m_b12f19,has_b12tab,Has BiB1000 12m questionnaire,categorical,[1 has],administration,1319,1313

@@ -1,0 +1,6 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_CohortInfo.id_linkage.PregnancyID,BiB_CohortInfo.id_linkage,BiB_CohortInfo,id_linkage,PregnancyID,Pregnancy identifier,text,,,13959,13776
+BiB_CohortInfo.id_linkage.BiBPregNumber,BiB_CohortInfo.id_linkage,BiB_CohortInfo,id_linkage,BiBPregNumber,Pregnancy number within BiB,integer,,administration,13959,13776
+BiB_CohortInfo.id_linkage.BiBMotherID,BiB_CohortInfo.id_linkage,BiB_CohortInfo,id_linkage,BiBMotherID,Mother identifier,text,,administration,13959,13776
+BiB_CohortInfo.id_linkage.BiBFatherID,BiB_CohortInfo.id_linkage,BiB_CohortInfo,id_linkage,BiBFatherID,Father identifier,text,,administration,13959,13776
+BiB_CohortInfo.id_linkage.BiBChildID,BiB_CohortInfo.id_linkage,BiB_CohortInfo,id_linkage,BiBChildID,Child identifier,text,,administration,13959,13776

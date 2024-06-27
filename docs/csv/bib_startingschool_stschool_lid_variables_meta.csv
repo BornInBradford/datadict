@@ -1,0 +1,9 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_StartingSchool.stschool_lid.SSChildID,BiB_StartingSchool.stschool_lid,BiB_StartingSchool,stschool_lid,SSChildID,Starting School Child ID,text,,,6582,6582
+BiB_StartingSchool.stschool_lid.BiBPersonID,BiB_StartingSchool.stschool_lid,BiB_StartingSchool,stschool_lid,BiBPersonID,,text,,administration,6582,6582
+BiB_StartingSchool.stschool_lid.has_stschool_lid,BiB_StartingSchool.stschool_lid,BiB_StartingSchool,stschool_lid,has_stschool_lid,Has starting school: letter identification,integer,,administration,6582,6582
+BiB_StartingSchool.stschool_lid.has_ssclid,BiB_StartingSchool.stschool_lid,BiB_StartingSchool,stschool_lid,has_ssclid,Has Starting School Letter ID,categorical,[1 has],administration,6582,6582
+BiB_StartingSchool.stschool_lid.sslidceilingset,BiB_StartingSchool.stschool_lid,BiB_StartingSchool,stschool_lid,sslidceilingset,Letter ID Ceiling Set,integer,,cognitive_skills,6582,6582
+BiB_StartingSchool.stschool_lid.sslidchronage,BiB_StartingSchool.stschool_lid,BiB_StartingSchool,stschool_lid,sslidchronage,Letter ID Chronological Age,float,,cognitive_skills,6582,6582
+BiB_StartingSchool.stschool_lid.sslidrawscore,BiB_StartingSchool.stschool_lid,BiB_StartingSchool,stschool_lid,sslidrawscore,Letter ID Raw Score,integer,,cognitive_skills,6582,6582
+BiB_StartingSchool.stschool_lid.sslidstandardised,BiB_StartingSchool.stschool_lid,BiB_StartingSchool,stschool_lid,sslidstandardised,Letter ID Standardised Score,integer,,cognitive_skills,6582,6582

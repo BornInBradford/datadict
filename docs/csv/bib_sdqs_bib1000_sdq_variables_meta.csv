@@ -1,0 +1,58 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_SDQs.BiB1000_sdq.BiBPersonID,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,BiBPersonID,,text,,,1226,1226
+BiB_SDQs.BiB1000_sdq.AgeMonths,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,AgeMonths,Child age (months) BiB1000 36m questionnaire,integer,,age,1226,1226
+BiB_SDQs.BiB1000_sdq.AgeYears,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,AgeYears,Child age (years) BiB1000 36m questionnaire,integer,,age,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_consid,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_consid,Considerate of other people's feelings,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_restles,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_restles,"Restless, overactive",categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_somatic,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_somatic,Often complains of headaches,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_shares,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_shares,Shares readily with other children,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_tantrum,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_tantrum,Often has temper tantrums or hot tempers,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_loner,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_loner,"Rather solitary, tends to play alone",categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_obeys,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_obeys,Generally obedient,categorical,[0 Certainly True] [1 Somewhat True] [2 Not True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_worries,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_worries,Many worries,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_caring,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_caring,Helpful if someone is hurt,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_fidgety,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_fidgety,Constantly fidgeting or squirming,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_friend,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_friend,Has at least one good friend,categorical,[0 Certainly True] [1 Somewhat True] [2 Not True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_fights,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_fights,Often fights with other children,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_unhappy,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_unhappy,"Often unhappy, downhearted",categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_popular,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_popular,Generally liked by other children,categorical,[0 Certainly True] [1 Somewhat True] [2 Not True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_distrac,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_distrac,"Easily distracted, concentration wonders",categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_clingy,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_clingy,Nervous or clingy in new situations,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_kind,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_kind,Kind to younger children,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_argue,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_argue,Often argumentative with adults,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_bullied,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_bullied,Picked on or bullied,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_helpout,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_helpout,Often volunteers to help others,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_reflect,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_reflect,Can stop and think things out before acting,categorical,[0 Certainly True] [1 Somewhat True] [2 Not True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_spiteful,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_spiteful,Can be spiteful to others,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_oldbest,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_oldbest,Gets on better with adults than children,categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_afraid,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_afraid,"Many fears, easily scared",categorical,[0 Not True] [1 Somewhat True] [2 Certainly True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.sdq_attention,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_attention,Sees tasks through to the end,categorical,[0 Certainly True] [1 Somewhat True] [2 Not True],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.diffemotions,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,diffemotions,Does your child have difficulties with emotions?,categorical,"[0 No] [1 Yes, minor difficulties] [2 Yes, definite difficulties] [3 Yes, severe difficulties]",personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.difflength,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,difflength,How long have difficulties been present?,categorical,[0 Less than a month] [1 1-5 months] [2 6-12 months] [3 Over a year],personality_temperament,163,163
+BiB_SDQs.BiB1000_sdq.sdq_distress,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_distress,Difficulties upset or distress child,categorical,[0 Not at all/A little] [1 A medium amount] [2 A great deal],personality_temperament,163,163
+BiB_SDQs.BiB1000_sdq.sdq_homelife,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_homelife,Interfere with home life,categorical,[0 Not at all/A little] [1 A medium amount] [2 A great deal],personality_temperament,163,163
+BiB_SDQs.BiB1000_sdq.sdq_friendships,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_friendships,Interfere with friendships,categorical,[0 Not at all/A little] [1 A medium amount] [2 A great deal],personality_temperament,163,163
+BiB_SDQs.BiB1000_sdq.sdq_learning,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_learning,Interfere with learning,categorical,[0 Not at all/A little] [1 A medium amount] [2 A great deal],personality_temperament,163,163
+BiB_SDQs.BiB1000_sdq.sdq_leisure,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,sdq_leisure,Interfere with leisure activities,categorical,[0 Not at all/A little] [1 A medium amount] [2 A great deal],personality_temperament,163,163
+BiB_SDQs.BiB1000_sdq.diffburden,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,diffburden,Do difficulties put a burden on you/family?,categorical,[0 Not at all/A little] [1 Quite a lot] [2 A great deal],personality_temperament,163,163
+BiB_SDQs.BiB1000_sdq.Total_Difficulties_Score,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Total_Difficulties_Score,Sum of all scales except prosocial scale,integer,,personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.Emotional_Score,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Emotional_Score,Sum of Emotional scale,integer,,personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.Conduct_Score,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Conduct_Score,Sum of Conduct scale,integer,,personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.Hyperactivity_Score,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Hyperactivity_Score,Sum of Hyperactivity scale,integer,,personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.Peer_Problems_Score,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Peer_Problems_Score,Sum of Peer Problem scale,integer,,personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.Prosocial_Score,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Prosocial_Score,Sum of Prosocial scale,integer,,personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.Impact_Score,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Impact_Score,Sum of overall stress and impairment,integer,,personality_temperament,163,163
+BiB_SDQs.BiB1000_sdq.Total_FourCat,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Total_FourCat,Four category total different scale score,categorical,[1 Close to average] [2 Slightly raised] [3 High] [4 Very high],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.Emotional_FourCat,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Emotional_FourCat,Four category emotional scale score,categorical,[1 Close to average] [2 Slightly raised] [3 High] [4 Very high],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.Conduct_FourCat,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Conduct_FourCat,Four category conduct scale score,categorical,[1 Close to average] [2 Slightly raised] [3 High] [4 Very high],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.Hyperactivity_FourCat,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Hyperactivity_FourCat,Four category hyperactivity scale score,categorical,[1 Close to average] [2 Slightly raised] [3 High] [4 Very high],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.PeerProblem_FourCat,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,PeerProblem_FourCat,Four category peer problem scale score,categorical,[1 Close to average] [2 Slightly raised] [3 High] [4 Very high],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.Prosocial_FourCat,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Prosocial_FourCat,Four category prosocial scale score,categorical,[1 Close to average] [2 Slightly lowered] [3 Low] [4 Very low],personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.Impact_FourCat,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Impact_FourCat,Four category impact scale score,categorical,[1 Close to average] [2 Slightly raised] [3 High] [4 Very high],personality_temperament,163,163
+BiB_SDQs.BiB1000_sdq.QuestSource,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,QuestSource,Questionnaire source,text,,administration,1226,1226
+BiB_SDQs.BiB1000_sdq.CompletedBy,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,CompletedBy,Questionnaire completed by...,text,,administration,1226,1226
+BiB_SDQs.BiB1000_sdq.Emotional_Pro,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Emotional_Pro,Emotional scale pro-rata,integer,,personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.Conduct_Pro,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Conduct_Pro,Conduct scale pro-rata,integer,,personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.Hyperactivity_Pro,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Hyperactivity_Pro,Hyperactivity scale pro-rata,integer,,personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.PeerProblems_Pro,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,PeerProblems_Pro,Peer problems scale pro-rata,integer,,personality_temperament,1226,1226
+BiB_SDQs.BiB1000_sdq.Prosocial_Pro,BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Prosocial_Pro,Prosocial scale pro-rata,integer,,personality_temperament,1226,1226

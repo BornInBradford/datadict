@@ -1,0 +1,17 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Geographic.bib_geog_person.BiBPersonID,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,BiBPersonID,,text,,,890344,29664
+BiB_Geographic.bib_geog_person.ParticipantType,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,ParticipantType,Participants relationship in the family,text,,administration,890344,29664
+BiB_Geographic.bib_geog_person.age_m,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,age_m,Participants actual age (months),integer,,age,890344,29664
+BiB_Geographic.bib_geog_person.age_closest_data_point,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,age_closest_data_point,Age at latest available address data (months),integer,,age,872371,29550
+BiB_Geographic.bib_geog_person.date,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,date,Date at 6m period,date,,administration,890344,29664
+BiB_Geographic.bib_geog_person.date_address_data_received,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,date_address_data_received,Date of latest available address data for this time point,date,,administration,872371,29550
+BiB_Geographic.bib_geog_person.months_to_closest_data_received,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,months_to_closest_data_received,Time (months) to most recently received address data,integer,,administration,872371,29550
+BiB_Geographic.bib_geog_person.property_id,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,property_id,Unique ID of property (BiB generated),text,,administration,890344,29664
+BiB_Geographic.bib_geog_person.move_no,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,move_no,Cumulative number of times participant moved house including current data point,integer,,administration,889331,29630
+BiB_Geographic.bib_geog_person.total_moves,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,total_moves,Total number of times participant has moved house within BiB study period,integer,,administration,889331,29630
+BiB_Geographic.bib_geog_person.LSOA11CD,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,LSOA11CD,LSOA 2011 code,text,,location,890344,29664
+BiB_Geographic.bib_geog_person.data_source,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,data_source,Source of data: registration or tracing,categorical,[1 Registration] [2 Tracing],administration,889331,29630
+BiB_Geographic.bib_geog_person.not_in_eng_wales,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,not_in_eng_wales,If yes (1) sensitive columns have been set to NA to avoid disclosure of data,categorical,[0 No] [1 Yes],administration,889331,29630
+BiB_Geographic.bib_geog_person.no_historical_address_data,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,no_historical_address_data,If yes (1) then no address data was available for any time point,categorical,[0 No] [1 Yes],administration,890344,29664
+BiB_Geographic.bib_geog_person.low_qual_data,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,low_qual_data,"If yes (1), the geocoded data is of unreliable quality and has been removed",categorical,[0 No] [1 Yes],administration,889331,29630
+BiB_Geographic.bib_geog_person.is_data_interpolated,BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,is_data_interpolated,"If yes (1), address record has been interpolated from closest available data",categorical,[0 No] [1 Yes],administration,872371,29550

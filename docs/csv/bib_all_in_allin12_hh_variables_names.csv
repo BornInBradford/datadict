@@ -1,0 +1,11 @@
+project,table,variable
+BiB_ALL_IN,allin12_hh,BiBPersonID
+BiB_ALL_IN,allin12_hh,has_allin12_hh
+BiB_ALL_IN,allin12_hh,all12age
+BiB_ALL_IN,allin12_hh,all12mon
+BiB_ALL_IN,allin12_hh,all12name
+BiB_ALL_IN,allin12_hh,all12namena
+BiB_ALL_IN,allin12_hh,all12rship
+BiB_ALL_IN,allin12_hh,all12sex
+BiB_ALL_IN,allin12_hh,all12yr
+BiB_ALL_IN,allin12_hh,has_all1qs

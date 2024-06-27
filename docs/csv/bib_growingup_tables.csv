@@ -1,0 +1,12 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_GrowingUp.participant_pathway,BiB_GrowingUp,participant_pathway,BiB Growing Up participant pathway,bib,participant,,,103,30134,30134,2024-05-14 09:12:50
+BiB_GrowingUp.adult_survey,BiB_GrowingUp,adult_survey,BiB Growing Up adult survey,bib,participant,,,275,5594,5594,2024-05-15 12:05:52
+BiB_GrowingUp.adult_survey_BiB1000_sample,BiB_GrowingUp,adult_survey_BiB1000_sample,BiB Growing Up adult survey - BiB1000 sample,bib,participant,,,125,1763,1763,2024-05-14 09:12:43
+BiB_GrowingUp.adult_survey_MeDALL_sample,BiB_GrowingUp,adult_survey_MeDALL_sample,BiB Growing Up adult survey - MeDALL sample,bib,participant,,,35,2594,2594,2024-05-14 09:12:43
+BiB_GrowingUp.child_survey_adult_comp,BiB_GrowingUp,child_survey_adult_comp,BiB Growing Up child survey (adult completed),bib,participant,,,443,5304,5304,2024-05-14 09:12:46
+BiB_GrowingUp.child_survey_child_comp,BiB_GrowingUp,child_survey_child_comp,BiB Growing Up child survey (child completed),bib,participant,,,263,4668,4668,2024-05-14 09:12:47
+BiB_GrowingUp.dxa_scan_m,BiB_GrowingUp,dxa_scan_m,BiB Growing Up DXA scan (mother),bib,participant,,,128,488,488,2024-05-14 09:12:48
+BiB_GrowingUp.dxa_scan_c,BiB_GrowingUp,dxa_scan_c,BiB Growing Up DXA scan (child),bib,participant,,,147,541,541,2024-05-14 09:12:47
+BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,BiB Growing Up DXA scan (father),bib,participant,,,128,58,58,2024-05-14 09:12:47
+BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,BiB Growing Up child blood pressures,bib,participant,,,16,15899,9082,2024-05-14 09:12:44
+BiB_GrowingUp.renal_urines,BiB_GrowingUp,renal_urines,BiB Growing Up renal study urine analyses,bib,participant,,,11,705,703,2024-05-14 09:12:51

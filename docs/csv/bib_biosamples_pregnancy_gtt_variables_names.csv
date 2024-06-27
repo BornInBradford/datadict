@@ -1,0 +1,10 @@
+project,table,variable
+BiB_Biosamples,pregnancy_gtt,BiBPersonID
+BiB_Biosamples,pregnancy_gtt,BiBPregNumber
+BiB_Biosamples,pregnancy_gtt,has_pregnancy_gtt
+BiB_Biosamples,pregnancy_gtt,agemm_mbagtt
+BiB_Biosamples,pregnancy_gtt,agemy_mbagtt
+BiB_Biosamples,pregnancy_gtt,gttfastglu
+BiB_Biosamples,pregnancy_gtt,gttgestwks
+BiB_Biosamples,pregnancy_gtt,gttpostglu
+BiB_Biosamples,pregnancy_gtt,has_mbagtt

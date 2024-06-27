@@ -1,0 +1,4 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Metabolomics.metnmr_gu_qc_tag.csv_column_name,BiB_Metabolomics.metnmr_gu_qc_tag,BiB_Metabolomics,metnmr_gu_qc_tag,csv_column_name,,text,,,21,21
+BiB_Metabolomics.metnmr_gu_qc_tag.qc_tag_description,BiB_Metabolomics.metnmr_gu_qc_tag,BiB_Metabolomics,metnmr_gu_qc_tag,qc_tag_description,,text,,,21,21
+BiB_Metabolomics.metnmr_gu_qc_tag.Occurrence,BiB_Metabolomics.metnmr_gu_qc_tag,BiB_Metabolomics,metnmr_gu_qc_tag,Occurrence,,text,,,21,21

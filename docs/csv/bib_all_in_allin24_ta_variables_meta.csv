@@ -1,0 +1,7 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_ALL_IN.allin24_ta.BiBPersonID,BiB_ALL_IN.allin24_ta,BiB_ALL_IN,allin24_ta,BiBPersonID,,text,,,2068,2067
+BiB_ALL_IN.allin24_ta.has_allin24_ta,BiB_ALL_IN.allin24_ta,BiB_ALL_IN,allin24_ta,has_allin24_ta,Has all in 24m treatment abroad,integer,,administration,2068,2067
+BiB_ALL_IN.allin24_ta.all24k5age,BiB_ALL_IN.allin24_ta,BiB_ALL_IN,allin24_ta,all24k5age,,integer,,travel_and_transport,9,8
+BiB_ALL_IN.allin24_ta.all24k5country,BiB_ALL_IN.allin24_ta,BiB_ALL_IN,allin24_ta,all24k5country,,text,,travel_and_transport,2068,2067
+BiB_ALL_IN.allin24_ta.all24k5type,BiB_ALL_IN.allin24_ta,BiB_ALL_IN,allin24_ta,all24k5type,,text,,travel_and_transport,2068,2067
+BiB_ALL_IN.allin24_ta.has_all2qs,BiB_ALL_IN.allin24_ta,BiB_ALL_IN,allin24_ta,has_all2qs,Has ALL IN 24m questionnaire,categorical,[1 has],administration,2068,2067

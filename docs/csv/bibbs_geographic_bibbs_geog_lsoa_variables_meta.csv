@@ -1,0 +1,12 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiBBS_Geographic.bibbs_geog_lsoa.LSOA11CD,BiBBS_Geographic.bibbs_geog_lsoa,BiBBS_Geographic,bibbs_geog_lsoa,LSOA11CD,LSOA 2011 code,text,,,719,719
+BiBBS_Geographic.bibbs_geog_lsoa.IMD_2010_decile,BiBBS_Geographic.bibbs_geog_lsoa,BiBBS_Geographic,bibbs_geog_lsoa,IMD_2010_decile,IMD 2010 decile,integer,,social_classification,716,716
+BiBBS_Geographic.bibbs_geog_lsoa.IMD_2010_score,BiBBS_Geographic.bibbs_geog_lsoa,BiBBS_Geographic,bibbs_geog_lsoa,IMD_2010_score,IMD 2010 score,float,,social_classification,716,716
+BiBBS_Geographic.bibbs_geog_lsoa.IMD_2019_decile,BiBBS_Geographic.bibbs_geog_lsoa,BiBBS_Geographic,bibbs_geog_lsoa,IMD_2019_decile,IMD 2019 decile,integer,,social_classification,716,716
+BiBBS_Geographic.bibbs_geog_lsoa.IMD_2019_score,BiBBS_Geographic.bibbs_geog_lsoa,BiBBS_Geographic,bibbs_geog_lsoa,IMD_2019_score,IMD 2019 score,float,,social_classification,716,716
+BiBBS_Geographic.bibbs_geog_lsoa.IMD_2019_decile_bfd,BiBBS_Geographic.bibbs_geog_lsoa,BiBBS_Geographic,bibbs_geog_lsoa,IMD_2019_decile_bfd,IMD 2019 decile - reclassified for only Bradford LSOA,integer,,social_classification,220,220
+BiBBS_Geographic.bibbs_geog_lsoa.IDACI_2019_decile,BiBBS_Geographic.bibbs_geog_lsoa,BiBBS_Geographic,bibbs_geog_lsoa,IDACI_2019_decile,Income Deprivation Affecting Children Index (IDACI) 2019 decile,integer,,social_classification,716,716
+BiBBS_Geographic.bibbs_geog_lsoa.IDACI_2019_score,BiBBS_Geographic.bibbs_geog_lsoa,BiBBS_Geographic,bibbs_geog_lsoa,IDACI_2019_score,Income Deprivation Affecting Children Index (IDACI) 2019 score,float,,social_classification,716,716
+BiBBS_Geographic.bibbs_geog_lsoa.TDI_2011_score,BiBBS_Geographic.bibbs_geog_lsoa,BiBBS_Geographic,bibbs_geog_lsoa,TDI_2011_score,Townsend deprivation index (score) using 2011 census data,float,,social_classification,719,719
+BiBBS_Geographic.bibbs_geog_lsoa.TDI_2011_quintile,BiBBS_Geographic.bibbs_geog_lsoa,BiBBS_Geographic,bibbs_geog_lsoa,TDI_2011_quintile,Townsend deprivation index (quintile) using 2011 census data,integer,,social_classification,719,719
+BiBBS_Geographic.bibbs_geog_lsoa.carstairs_index_2011,BiBBS_Geographic.bibbs_geog_lsoa,BiBBS_Geographic,bibbs_geog_lsoa,carstairs_index_2011,Carstairs deprivation index using 2011 census data,float,,,719,719

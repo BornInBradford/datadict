@@ -1,0 +1,16 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_ChildGrowth.growth_ResearchData.BiBChildID,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,BiBChildID,,text,,,42555,13658
+BiB_ChildGrowth.growth_ResearchData.has_growth,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,has_growth,Has child height/weight data,integer,,,42555,13658
+BiB_ChildGrowth.growth_ResearchData.date,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,date,,date,,anthropometry,42555,13658
+BiB_ChildGrowth.growth_ResearchData.cgrowthsource,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,cgrowthsource,Source of data,categorical,[1 eClipse] [2 BiB1000 6mths] [3 BiB1000 12mths] [4 BiB1000 18mths] [5 BiB1000 24mths] [6 BiB1000 36mths] [7 AllIn 12mths] [8 AllIn 24mths] [9 MeDALL] [10 Dental study] [11 Growing Up] [12 Age of Wonder] [13 School nurses] [14 NCMP] [15 Primary care],,42555,13658
+BiB_ChildGrowth.growth_ResearchData.agecd_cgrowth,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,agecd_cgrowth,Age at measurement (days),integer,,,42555,13658
+BiB_ChildGrowth.growth_ResearchData.agecm_cgrowth,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,agecm_cgrowth,Age at measurement (months),integer,,age,42555,13658
+BiB_ChildGrowth.growth_ResearchData.agecy_cgrowth,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,agecy_cgrowth,Age at measurement (years),integer,,age,42555,13658
+BiB_ChildGrowth.growth_ResearchData.cweight,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,cweight,Weight (kg),float,,,41062,13654
+BiB_ChildGrowth.growth_ResearchData.czweiuk90,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,czweiuk90,Weight SDS (UK90 reference),float,,,41062,13654
+BiB_ChildGrowth.growth_ResearchData.flag_weight,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,flag_weight,Weight is average of two measurements taken on same day,integer,,,46,46
+BiB_ChildGrowth.growth_ResearchData.cheight,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,cheight,Height (cm),float,,,26746,9710
+BiB_ChildGrowth.growth_ResearchData.czheiuk90,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,czheiuk90,Height SDS (UK90 reference),float,,,26746,9710
+BiB_ChildGrowth.growth_ResearchData.flag_height,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,flag_height,Height is average of two measurements taken on same day,integer,,,684,683
+BiB_ChildGrowth.growth_ResearchData.cbmi,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,cbmi,BMI,float,,,25253,9633
+BiB_ChildGrowth.growth_ResearchData.czbmiuk90,BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,czbmiuk90,BMI SDS (UK90 reference),float,,,25253,9633

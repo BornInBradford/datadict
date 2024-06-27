@@ -1,0 +1,8 @@
+project,table,variable
+BiB_CohortInfo,related_pairs,id
+BiB_CohortInfo,related_pairs,id_relation
+BiB_CohortInfo,related_pairs,relationship
+BiB_CohortInfo,related_pairs,ParticipantType
+BiB_CohortInfo,related_pairs,ParticipantType_relation
+BiB_CohortInfo,related_pairs,PregnancyID
+BiB_CohortInfo,related_pairs,BiBPregNumber

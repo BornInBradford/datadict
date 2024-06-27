@@ -1,0 +1,16 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Baseline.base_m1_exercise.PregnancyID,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,PregnancyID,StudyID,text,,,1791,1769
+BiB_Baseline.base_m1_exercise.BiBPregNumber,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,BiBPregNumber,Pregnancy number within BiB,integer,,administration,1791,1769
+BiB_Baseline.base_m1_exercise.BiBPersonID,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,BiBPersonID,Mother identifier,text,,administration,1791,1769
+BiB_Baseline.base_m1_exercise.questionnairephase,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,questionnairephase,,integer,,administration,1791,1769
+BiB_Baseline.base_m1_exercise.exe1slphrs,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,exe1slphrs,Over typical 24hrs how many hours spent sleeping or lying with feet up,integer,,physical_activity,175,175
+BiB_Baseline.base_m1_exercise.exe1sithrs,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,exe1sithrs,Of hours not sleeping how many hours spent sitting down,integer,,physical_activity,170,170
+BiB_Baseline.base_m1_exercise.exe1fethrs,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,exe1fethrs,How many hours a day spent on your feet,integer,,physical_activity,172,172
+BiB_Baseline.base_m1_exercise.exe1actmov,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,exe1actmov,How much time actively on the move,categorical,[1 Very little (10%)] [2 Some (30%)] [3 About half (50%)] [4 Most (70%)] [5 Almost all (90%)],physical_activity,171,171
+BiB_Baseline.base_m1_exercise.exe1wlkspd,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,exe1wlkspd,Walking speed at present,categorical,[1 Very slow] [2 Stroll at an easy pace] [3 Normal speed] [4 Fairly brisk] [5 Fast],physical_activity,175,175
+BiB_Baseline.base_m1_exercise.exe1strtpw,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,exe1strtpw,Strenuous exercise - times per week,integer,,physical_activity,146,146
+BiB_Baseline.base_m1_exercise.exe1strmin,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,exe1strmin,Strenuous exercise - minutes each time,integer,,physical_activity,60,60
+BiB_Baseline.base_m1_exercise.exe1modtpw,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,exe1modtpw,Moderate exercise - times per week,integer,,physical_activity,157,157
+BiB_Baseline.base_m1_exercise.exe1modmin,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,exe1modmin,Moderate exercise - minutes each time,integer,,physical_activity,93,93
+BiB_Baseline.base_m1_exercise.exe1gentpw,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,exe1gentpw,Gentle exercise - times per week,integer,,physical_activity,172,172
+BiB_Baseline.base_m1_exercise.exe1genmin,BiB_Baseline.base_m1_exercise,BiB_Baseline,base_m1_exercise,exe1genmin,Gentle exercise - minutes each time,integer,,physical_activity,151,151

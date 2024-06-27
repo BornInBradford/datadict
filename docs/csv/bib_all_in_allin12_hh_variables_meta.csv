@@ -1,0 +1,11 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_ALL_IN.allin12_hh.BiBPersonID,BiB_ALL_IN.allin12_hh,BiB_ALL_IN,allin12_hh,BiBPersonID,,text,,,12577,2553
+BiB_ALL_IN.allin12_hh.has_allin12_hh,BiB_ALL_IN.allin12_hh,BiB_ALL_IN,allin12_hh,has_allin12_hh,Has all in 12m household,integer,,administration,12577,2553
+BiB_ALL_IN.allin12_hh.all12age,BiB_ALL_IN.allin12_hh,BiB_ALL_IN,allin12_hh,all12age,,integer,,household_composition,8752,2370
+BiB_ALL_IN.allin12_hh.all12mon,BiB_ALL_IN.allin12_hh,BiB_ALL_IN,allin12_hh,all12mon,,integer,,household_composition,4372,1548
+BiB_ALL_IN.allin12_hh.all12name,BiB_ALL_IN.allin12_hh,BiB_ALL_IN,allin12_hh,all12name,,text,,household_composition,12577,2553
+BiB_ALL_IN.allin12_hh.all12namena,BiB_ALL_IN.allin12_hh,BiB_ALL_IN,allin12_hh,all12namena,,integer,,household_composition,1349,1219
+BiB_ALL_IN.allin12_hh.all12rship,BiB_ALL_IN.allin12_hh,BiB_ALL_IN,allin12_hh,all12rship,,integer,,household_composition,9635,2532
+BiB_ALL_IN.allin12_hh.all12sex,BiB_ALL_IN.allin12_hh,BiB_ALL_IN,allin12_hh,all12sex,,integer,,household_composition,9536,2528
+BiB_ALL_IN.allin12_hh.all12yr,BiB_ALL_IN.allin12_hh,BiB_ALL_IN,allin12_hh,all12yr,,text,,household_composition,12577,2553
+BiB_ALL_IN.allin12_hh.has_all1qs,BiB_ALL_IN.allin12_hh,BiB_ALL_IN,allin12_hh,has_all1qs,Has ALL IN 12m questionnaire,categorical,[1 has],administration,12577,2553

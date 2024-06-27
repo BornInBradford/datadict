@@ -1,0 +1,16 @@
+project,table,variable
+BiB_Baseline,base_m1_exercise,PregnancyID
+BiB_Baseline,base_m1_exercise,BiBPregNumber
+BiB_Baseline,base_m1_exercise,BiBPersonID
+BiB_Baseline,base_m1_exercise,questionnairephase
+BiB_Baseline,base_m1_exercise,exe1slphrs
+BiB_Baseline,base_m1_exercise,exe1sithrs
+BiB_Baseline,base_m1_exercise,exe1fethrs
+BiB_Baseline,base_m1_exercise,exe1actmov
+BiB_Baseline,base_m1_exercise,exe1wlkspd
+BiB_Baseline,base_m1_exercise,exe1strtpw
+BiB_Baseline,base_m1_exercise,exe1strmin
+BiB_Baseline,base_m1_exercise,exe1modtpw
+BiB_Baseline,base_m1_exercise,exe1modmin
+BiB_Baseline,base_m1_exercise,exe1gentpw
+BiB_Baseline,base_m1_exercise,exe1genmin

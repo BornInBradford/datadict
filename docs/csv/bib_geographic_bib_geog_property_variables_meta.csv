@@ -1,0 +1,14 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Geographic.bib_geog_property.property_id,BiB_Geographic.bib_geog_property,BiB_Geographic,bib_geog_property,property_id,Unique ID of property (BiB generated),text,,,32486,32486
+BiB_Geographic.bib_geog_property.UPRN,BiB_Geographic.bib_geog_property,BiB_Geographic,bib_geog_property,UPRN,Unique property reference number (UPRN),text,,administration,32486,32486
+BiB_Geographic.bib_geog_property.x_coordinate_bng,BiB_Geographic.bib_geog_property,BiB_Geographic,bib_geog_property,x_coordinate_bng,X coordinate (BNG),integer,,location,32486,32486
+BiB_Geographic.bib_geog_property.y_coordinate_bng,BiB_Geographic.bib_geog_property,BiB_Geographic,bib_geog_property,y_coordinate_bng,Y coordinate (BNG),float,,location,32486,32486
+BiB_Geographic.bib_geog_property.x_coordinate_wgs84,BiB_Geographic.bib_geog_property,BiB_Geographic,bib_geog_property,x_coordinate_wgs84,X coordinate (WGS84),float,,housing,32486,32486
+BiB_Geographic.bib_geog_property.y_coordinate_wgs84,BiB_Geographic.bib_geog_property,BiB_Geographic,bib_geog_property,y_coordinate_wgs84,Y coordinate (WGS84),float,,location,32486,32486
+BiB_Geographic.bib_geog_property.postcode,BiB_Geographic.bib_geog_property,BiB_Geographic,bib_geog_property,postcode,Postcode of address,text,,location,32486,32486
+BiB_Geographic.bib_geog_property.LSOA11CD,BiB_Geographic.bib_geog_property,BiB_Geographic,bib_geog_property,LSOA11CD,LSOA 2011 code,text,,location,32486,32486
+BiB_Geographic.bib_geog_property.WD21CD,BiB_Geographic.bib_geog_property,BiB_Geographic,bib_geog_property,WD21CD,Ward 2021 code,text,,location,32486,32486
+BiB_Geographic.bib_geog_property.property_type,BiB_Geographic.bib_geog_property,BiB_Geographic,bib_geog_property,property_type,Property type,categorical,[1 Terraced] [2 Semi-Detached] [3 Detached] [4 Flat (including Maisonette/Apartment)] [5 Other],housing,32486,32486
+BiB_Geographic.bib_geog_property.is_in_bfd_la,BiB_Geographic.bib_geog_property,BiB_Geographic,bib_geog_property,is_in_bfd_la,Is participant in Bradford LA?,categorical,[0 No] [1 Yes],location,32485,32485
+BiB_Geographic.bib_geog_property.is_in_bibbs_area,BiB_Geographic.bib_geog_property,BiB_Geographic,bib_geog_property,is_in_bibbs_area,Is participant in BiBBS area?,categorical,[0 No] [1 Yes],location,32485,32485
+BiB_Geographic.bib_geog_property.is_in_caz,BiB_Geographic.bib_geog_property,BiB_Geographic,bib_geog_property,is_in_caz,Is participant in clean air zone (CAZ)?,categorical,[0 No] [1 Yes],location,32486,32486

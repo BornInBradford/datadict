@@ -1,0 +1,20 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Biosamples.hosp_biochem.BiBMotherID,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,BiBMotherID,Mother identifier,text,,,6831,3198
+BiB_Biosamples.hosp_biochem.BiBPregNumber,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,BiBPregNumber,Pregnancy number within BiB,integer,,administration,6831,3198
+BiB_Biosamples.hosp_biochem.MotherAgeSample_Mths,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,MotherAgeSample_Mths,Mother's age at sample (months)',float,,age,6831,3198
+BiB_Biosamples.hosp_biochem.MotherAgeSample_Yrs,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,MotherAgeSample_Yrs,Mother's age at sample (years)',float,,age,6831,3198
+BiB_Biosamples.hosp_biochem.GestAgeSample_Days,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,GestAgeSample_Days,Gestational age at blood sample (days),integer,,age,6739,3147
+BiB_Biosamples.hosp_biochem.DateBloodTest,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,DateBloodTest,DC,date,,,6831,3198
+BiB_Biosamples.hosp_biochem.CRP,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,CRP,C-reactive protein (�mol/l),text,,endocrine_system,6831,3198
+BiB_Biosamples.hosp_biochem.Sodium,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,Sodium,Sodium (mmol/l),integer,,physical_health,6824,3197
+BiB_Biosamples.hosp_biochem.K1,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,K1,Potassium (mmol/l),float,,physical_health,6663,3152
+BiB_Biosamples.hosp_biochem.Urea,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,Urea,Urea (mmol/l),float,,physical_health,6794,3198
+BiB_Biosamples.hosp_biochem.CRE1,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,CRE1,Creatinine (�mol/l),integer,,physical_health,6824,3198
+BiB_Biosamples.hosp_biochem.Amylase,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,Amylase,Amylase (iu/l),integer,,physical_health,135,112
+BiB_Biosamples.hosp_biochem.ALT,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,ALT,ALT (iu/l),integer,,physical_health,5549,2770
+BiB_Biosamples.hosp_biochem.BIL1,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,BIL1,Total bilirubin (�mol/l),integer,,physical_health,5542,2769
+BiB_Biosamples.hosp_biochem.ALP1,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,ALP1,Alkaline phosphatase (iu/l),integer,,physical_health,5538,2769
+BiB_Biosamples.hosp_biochem.GGT1,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,GGT1,Gamma glutamyl transferase (iu/l),integer,,physical_health,11,10
+BiB_Biosamples.hosp_biochem.TP1,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,TP1,Total protein concentration (mg/dl),integer,,physical_health,1115,574
+BiB_Biosamples.hosp_biochem.Albumin,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,Albumin,Albumin (mg/24hr),integer,,physical_health,5585,2777
+BiB_Biosamples.hosp_biochem.Caadj,BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,Caadj,Adjusted calcium (mmol/l),float,,physical_health,402,340

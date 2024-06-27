@@ -1,0 +1,5 @@
+project,table,variable
+BiB_Biosamples,renal_cystatinc,BiBPersonID
+BiB_Biosamples,renal_cystatinc,age_in_months
+BiB_Biosamples,renal_cystatinc,age_in_years
+BiB_Biosamples,renal_cystatinc,cystatinc

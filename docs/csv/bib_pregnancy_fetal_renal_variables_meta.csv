@@ -1,0 +1,61 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Pregnancy.fetal_renal.BiBPersonID,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,BiBPersonID,,text,,,1803,1781
+BiB_Pregnancy.fetal_renal.BiBPregNumber,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,BiBPregNumber,,integer,,administration,1803,1781
+BiB_Pregnancy.fetal_renal.has_fetal_renal,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,has_fetal_renal,Has fetal renal ultrasound,integer,,administration,1803,1781
+BiB_Pregnancy.fetal_renal.has_renalu,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,has_renalu,Has: Fetal renal ultrasound study,categorical,[1 has],administration,1803,1781
+BiB_Pregnancy.fetal_renal.renalabdocirc1,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalabdocirc1,Abdominal circ (1),float,,pregnancy,1802,1780
+BiB_Pregnancy.fetal_renal.renalabdocirc2,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalabdocirc2,Abdominal circ (2),float,,pregnancy,298,297
+BiB_Pregnancy.fetal_renal.renalabdocirc3,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalabdocirc3,Abdominal circ (3),float,,pregnancy,176,176
+BiB_Pregnancy.fetal_renal.renalabdocircav,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalabdocircav,Abdominal circ (av of 3),float,,pregnancy,1802,1780
+BiB_Pregnancy.fetal_renal.renalbpd1,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalbpd1,Biparietal diam (1),float,,pregnancy,1778,1757
+BiB_Pregnancy.fetal_renal.renalbpd2,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalbpd2,Biparietal diam (2),float,,pregnancy,195,195
+BiB_Pregnancy.fetal_renal.renalbpd3,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalbpd3,Biparietal diam (3),float,,pregnancy,162,162
+BiB_Pregnancy.fetal_renal.renalbpdav,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalbpdav,Biparietal diam (av of 3),float,,pregnancy,1778,1757
+BiB_Pregnancy.fetal_renal.renalfemurlgth1,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalfemurlgth1,Femur length (1),float,,pregnancy,1802,1780
+BiB_Pregnancy.fetal_renal.renalfemurlgth2,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalfemurlgth2,Femur length (2),float,,pregnancy,229,229
+BiB_Pregnancy.fetal_renal.renalfemurlgth3,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalfemurlgth3,Femur length (3),float,,pregnancy,149,149
+BiB_Pregnancy.fetal_renal.renalfemurlgthav,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalfemurlgthav,Femur length (av of 3),float,,pregnancy,1802,1780
+BiB_Pregnancy.fetal_renal.renalfetalwgt,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalfetalwgt,Est fetal weight at scan,float,,pregnancy,1788,1767
+BiB_Pregnancy.fetal_renal.renalgestage,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalgestage,Gestational age at scan,integer,,age,1802,1780
+BiB_Pregnancy.fetal_renal.renalheadcirc1,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalheadcirc1,Head circ (1),float,,pregnancy,1789,1768
+BiB_Pregnancy.fetal_renal.renalheadcirc2,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalheadcirc2,Head circ (2),float,,pregnancy,228,228
+BiB_Pregnancy.fetal_renal.renalheadcirc3,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalheadcirc3,Head circ (3),float,,pregnancy,167,167
+BiB_Pregnancy.fetal_renal.renalheadcircav,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalheadcircav,Head circ (av of 3),float,,pregnancy,1789,1768
+BiB_Pregnancy.fetal_renal.renalliquor,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalliquor,Liquor,float,,pregnancy,1796,1774
+BiB_Pregnancy.fetal_renal.renallkidapdiam1,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renallkidapdiam1,L kidney AP diam (1),float,,pregnancy,1568,1553
+BiB_Pregnancy.fetal_renal.renallkidapdiam2,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renallkidapdiam2,L kidney AP diam (2),float,,pregnancy,1574,1559
+BiB_Pregnancy.fetal_renal.renallkidapdiam3,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renallkidapdiam3,L kidney AP diam (3),float,,pregnancy,1573,1558
+BiB_Pregnancy.fetal_renal.renallkidapdiamav,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renallkidapdiamav,L kidney AP diam (av of 3),float,,pregnancy,1574,1559
+BiB_Pregnancy.fetal_renal.renallkidcirc1,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renallkidcirc1,L kidney circ (1),float,,pregnancy,1574,1559
+BiB_Pregnancy.fetal_renal.renallkidcirc2,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renallkidcirc2,L kidney circ (2),float,,pregnancy,1574,1559
+BiB_Pregnancy.fetal_renal.renallkidcirc3,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renallkidcirc3,L kidney circ (3),float,,pregnancy,1574,1559
+BiB_Pregnancy.fetal_renal.renallkidcircav,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renallkidcircav,L kidney circ (av of 3),float,,pregnancy,1575,1560
+BiB_Pregnancy.fetal_renal.renallkidlgth1,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renallkidlgth1,L kidney length (1),float,,pregnancy,1570,1555
+BiB_Pregnancy.fetal_renal.renallkidlgth2,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renallkidlgth2,L kidney length (2),float,,pregnancy,1573,1558
+BiB_Pregnancy.fetal_renal.renallkidlgth3,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renallkidlgth3,L kidney length (3),float,,pregnancy,1572,1557
+BiB_Pregnancy.fetal_renal.renallkidlgthav,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renallkidlgthav,L kidney length (av of 3),float,,pregnancy,1574,1559
+BiB_Pregnancy.fetal_renal.renallrvefw,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renallrvefw,L renal volume/est fetal weight,float,,pregnancy,1563,1549
+BiB_Pregnancy.fetal_renal.renalltsdiam1,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalltsdiam1,L kidney trans diam (1),float,,pregnancy,1571,1556
+BiB_Pregnancy.fetal_renal.renalltsdiam2,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalltsdiam2,L kidney trans diam (2),float,,pregnancy,1574,1559
+BiB_Pregnancy.fetal_renal.renalltsdiam3,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalltsdiam3,L kidney trans diam (3),float,,pregnancy,1573,1558
+BiB_Pregnancy.fetal_renal.renalltsdiamav,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalltsdiamav,L kidney trans diam (av of 3),float,,pregnancy,1574,1559
+BiB_Pregnancy.fetal_renal.renallvol,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renallvol,Left renal volume,float,,pregnancy,1573,1558
+BiB_Pregnancy.fetal_renal.renalrecorder,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrecorder,Recorder,categorical,[1 LG] [2 LG/SK] [3 LH] [4 NH] [5 NM] [6 NZ] [7 SK] [8 SK/NH],administration,1801,1780
+BiB_Pregnancy.fetal_renal.renalrkidapdiam1,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrkidapdiam1,R kidney AP diam (1),float,,pregnancy,1570,1553
+BiB_Pregnancy.fetal_renal.renalrkidapdiam2,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrkidapdiam2,R kidney AP diam (2),float,,pregnancy,1567,1550
+BiB_Pregnancy.fetal_renal.renalrkidapdiam3,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrkidapdiam3,R kidney AP diam (3),float,,pregnancy,1565,1548
+BiB_Pregnancy.fetal_renal.renalrkidapdiamav,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrkidapdiamav,R kidney AP diam (av of 3),float,,pregnancy,1570,1553
+BiB_Pregnancy.fetal_renal.renalrkidcirc1,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrkidcirc1,R kidney circ (1),float,,pregnancy,1570,1553
+BiB_Pregnancy.fetal_renal.renalrkidcirc2,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrkidcirc2,R kidney circ (2),float,,pregnancy,1567,1550
+BiB_Pregnancy.fetal_renal.renalrkidcirc3,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrkidcirc3,R kidney circ (3),float,,pregnancy,1566,1549
+BiB_Pregnancy.fetal_renal.renalrkidcircav,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrkidcircav,R kidney circ (av of 3),float,,pregnancy,1571,1554
+BiB_Pregnancy.fetal_renal.renalrkidlgth1,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrkidlgth1,R kidney length ( 1),float,,pregnancy,1572,1555
+BiB_Pregnancy.fetal_renal.renalrkidlgth2,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrkidlgth2,R kidney length ( 2),float,,pregnancy,1567,1550
+BiB_Pregnancy.fetal_renal.renalrkidlgth3,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrkidlgth3,R kidney length ( 3),float,,pregnancy,1565,1548
+BiB_Pregnancy.fetal_renal.renalrkidlgthav,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrkidlgthav,R kidney length (avof 3),float,,pregnancy,1573,1556
+BiB_Pregnancy.fetal_renal.renalrrvefw,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrrvefw,R renal volume/est fetal weight,float,,pregnancy,1555,1539
+BiB_Pregnancy.fetal_renal.renalrtsdiam1,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrtsdiam1,R kidney trans diam (1),float,,pregnancy,1566,1549
+BiB_Pregnancy.fetal_renal.renalrtsdiam2,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrtsdiam2,R kidney trans diamr (2),float,,pregnancy,1566,1549
+BiB_Pregnancy.fetal_renal.renalrtsdiam3,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrtsdiam3,R kidney trans diamr (3),float,,pregnancy,1565,1548
+BiB_Pregnancy.fetal_renal.renalrtsdiamav,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrtsdiamav,R kidney trans diam (av of 3),float,,pregnancy,1566,1549
+BiB_Pregnancy.fetal_renal.renalrvol,BiB_Pregnancy.fetal_renal,BiB_Pregnancy,fetal_renal,renalrvol,Right renal volume,float,,pregnancy,1566,1549

@@ -1,0 +1,10 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Biosamples.pregnancy_gtt.BiBPersonID,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,BiBPersonID,,text,,,12331,11231
+BiB_Biosamples.pregnancy_gtt.BiBPregNumber,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,BiBPregNumber,,integer,,administration,12331,11231
+BiB_Biosamples.pregnancy_gtt.has_pregnancy_gtt,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,has_pregnancy_gtt,Has maternal baseline gtt,integer,,administration,12331,11231
+BiB_Biosamples.pregnancy_gtt.agemm_mbagtt,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,agemm_mbagtt,Mother age (months): Maternal Baseline GTT,integer,,age,12331,11231
+BiB_Biosamples.pregnancy_gtt.agemy_mbagtt,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,agemy_mbagtt,Mother age (years): Maternal Baseline GTT,integer,,age,12331,11231
+BiB_Biosamples.pregnancy_gtt.gttfastglu,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,gttfastglu,Fasting glucose,float,,endocrine_system,12328,11228
+BiB_Biosamples.pregnancy_gtt.gttgestwks,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,gttgestwks,Gestationl age at GTT (completed weeks),integer,,endocrine_system,11957,10886
+BiB_Biosamples.pregnancy_gtt.gttpostglu,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,gttpostglu,2-hour postload glucose,float,,endocrine_system,12310,11214
+BiB_Biosamples.pregnancy_gtt.has_mbagtt,BiB_Biosamples.pregnancy_gtt,BiB_Biosamples,pregnancy_gtt,has_mbagtt,Has maternal GTT data,categorical,[1 has],administration,12331,11231

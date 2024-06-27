@@ -1,0 +1,14 @@
+project,table,variable
+BiB_Proteomics,qpcr_control,SampleID
+BiB_Proteomics,qpcr_control,Index
+BiB_Proteomics,qpcr_control,OlinkID
+BiB_Proteomics,qpcr_control,UniProt
+BiB_Proteomics,qpcr_control,Assay
+BiB_Proteomics,qpcr_control,MissingFreq
+BiB_Proteomics,qpcr_control,Panel
+BiB_Proteomics,qpcr_control,Panel_Version
+BiB_Proteomics,qpcr_control,PlateID
+BiB_Proteomics,qpcr_control,QC_Warning
+BiB_Proteomics,qpcr_control,LOD
+BiB_Proteomics,qpcr_control,NPX
+BiB_Proteomics,qpcr_control,Normalization

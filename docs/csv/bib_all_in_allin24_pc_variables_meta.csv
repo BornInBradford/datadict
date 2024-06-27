@@ -1,0 +1,18 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_ALL_IN.allin24_pc.BiBPersonID,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,BiBPersonID,,text,,,2082,2067
+BiB_ALL_IN.allin24_pc.has_allin24_pc,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,has_allin24_pc,Has all in 24m previous childcare,integer,,administration,2082,2067
+BiB_ALL_IN.allin24_pc.all24g1add,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,all24g1add,Address of nursery,text,,childcare,2082,2067
+BiB_ALL_IN.allin24_pc.all24g1ch,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,all24g1ch,Number of other children present,integer,,childcare,23,21
+BiB_ALL_IN.allin24_pc.all24g1chna,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,all24g1chna,Number of other children present NA,integer,,childcare,23,18
+BiB_ALL_IN.allin24_pc.all24g1cr,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,all24g1cr,Previous childcare arrangements,categorical,[1 Husband/Wife/partner] [2 Baby's non-resident father/mother] [3 Your mother] [4 Your Father] [5 Your partners mother] [6 Your partners father] [7 Baby's non-resident father/mother's mother] [8 Baby's non-resident father/mother's father] [9 Other relative] [10 Friends/Neighbours] [11 Live in nanny] [12 Other nanny] [13 Reg childminder] [14 Unreg childminder] [15 Workplace nursery] [16  Local authority nursery] [17 Private nursery] [18 Other],childcare,94,79
+BiB_ALL_IN.allin24_pc.all24g1croth,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,all24g1croth,Other childcare provider specified,text,,childcare,2082,2067
+BiB_ALL_IN.allin24_pc.all24g1fd,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,all24g1fd,Does the carer feed baby,categorical,[1 Yes] [2 No],childcare,94,79
+BiB_ALL_IN.allin24_pc.all24g1hm,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,all24g1hm,Is care provided in your home,categorical,[1 Yes] [2 No],childcare,93,78
+BiB_ALL_IN.allin24_pc.all24g1hr,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,all24g1hr,Hours cared for per week,integer,,childcare,94,79
+BiB_ALL_IN.allin24_pc.all24g1mned,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,all24g1mned,Months in age arrangement ended,integer,,childcare,89,74
+BiB_ALL_IN.allin24_pc.all24g1mnedna,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,all24g1mnedna,Months in age arrangement ended NA,integer,,childcare,3,3
+BiB_ALL_IN.allin24_pc.all24g1mnst,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,all24g1mnst,Months in age arrangement started,integer,,childcare,84,70
+BiB_ALL_IN.allin24_pc.all24g1mnstna,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,all24g1mnstna,Months in age arrangement started NA,integer,,childcare,7,7
+BiB_ALL_IN.allin24_pc.all24g1nme,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,all24g1nme,Name of nursery,text,,childcare,2082,2067
+BiB_ALL_IN.allin24_pc.all24g1pcd,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,all24g1pcd,Postcode of nursery,text,,childcare,2082,2067
+BiB_ALL_IN.allin24_pc.has_all2qs,BiB_ALL_IN.allin24_pc,BiB_ALL_IN,allin24_pc,has_all2qs,Has ALL IN 24m questionnaire,categorical,[1 has],administration,2082,2067

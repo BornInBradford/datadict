@@ -1,0 +1,8 @@
+project,table,variable
+BiB_CohortInfo,dnam_info,BiBPersonID
+BiB_CohortInfo,dnam_info,ParticipantType
+BiB_CohortInfo,dnam_info,BiBMotherID
+BiB_CohortInfo,dnam_info,BiBPregNumber
+BiB_CohortInfo,dnam_info,Gender
+BiB_CohortInfo,dnam_info,lab_id
+BiB_CohortInfo,dnam_info,replicate

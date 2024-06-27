@@ -1,0 +1,15 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Pregnancy.matrecs_bib_inf.BiBPersonID,BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,BiBPersonID,,text,,,11010,11010
+BiB_Pregnancy.matrecs_bib_inf.has_matrecs_bib_inf,BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,has_matrecs_bib_inf,Has maternity records bib infant,integer,,administration,11010,11010
+BiB_Pregnancy.matrecs_bib_inf.has_prninf,BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,has_prninf,Has: Maternal records abstraction: BiB infant info,categorical,[1 has],administration,11010,11010
+BiB_Pregnancy.matrecs_bib_inf.prnbibirthoutc,BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,prnbibirthoutc,Birth outcome,categorical,[1 Live birth] [2 Miscarriage] [3 Still birth],infant_mortality,10982,10982
+BiB_Pregnancy.matrecs_bib_inf.prnbibreech,BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,prnbibreech,Breech presentation,categorical,[1 No] [2 Yes] [3 Don't know],childbirth,10960,10960
+BiB_Pregnancy.matrecs_bib_inf.prnbicordsamp,BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,prnbicordsamp,Cord blood samples taken after birth,categorical,[1 No] [2 Yes] [3 Don't know],administration,10928,10928
+BiB_Pregnancy.matrecs_bib_inf.prnbicordsampalph,BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,prnbicordsampalph,Cord lowest arterial pH,float,,hemic_and_immune_systems,2258,2258
+BiB_Pregnancy.matrecs_bib_inf.prnbicordsampvlph,BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,prnbicordsampvlph,Cord lowest venous pH,float,,hemic_and_immune_systems,2320,2320
+BiB_Pregnancy.matrecs_bib_inf.prnbifetalsamp,BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,prnbifetalsamp,Fetal blood sample taken before birth,categorical,[1 No] [2 Yes] [3 Don't know],administration,10935,10935
+BiB_Pregnancy.matrecs_bib_inf.prnbifetalsamplph,BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,prnbifetalsamplph,Fetal lowest arterial pH,float,,hemic_and_immune_systems,397,397
+BiB_Pregnancy.matrecs_bib_inf.prnbirouteofbrt,BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,prnbirouteofbrt,Route of birth,categorical,[1 Normal] [2 Forceps] [3 Ventous] [4 Elective caesarean section] [5 Semi-elective caesarean section] [6 Emergency caesarean section] [7 Not documented],childbirth,10986,10986
+BiB_Pregnancy.matrecs_bib_inf.prnbispecialcare,BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,prnbispecialcare,Admitted to special care,categorical,[1 No] [2 Yes] [3 Don't know],hospital_admissions,10967,10967
+BiB_Pregnancy.matrecs_bib_inf.prntimetosampa,BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,prntimetosampa,Time from birth to arterial sample (minutes),integer,,administration,2172,2172
+BiB_Pregnancy.matrecs_bib_inf.prntimetosampv,BiB_Pregnancy.matrecs_bib_inf,BiB_Pregnancy,matrecs_bib_inf,prntimetosampv,Time from birth to venous sample (minutes),integer,,administration,2261,2261

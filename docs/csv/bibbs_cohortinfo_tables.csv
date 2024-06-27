@@ -1,0 +1,6 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,Pregnancy recruitment,bibbs,hospital patient,,,21,24918,20887,2024-05-14 09:15:46
+BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,Recruited pregnancy information,bibbs,participant,,,15,2626,2425,2024-05-14 09:15:46
+BiBBS_CohortInfo.mother,BiBBS_CohortInfo,mother,Recruited mother information,bibbs,participant,,,10,2425,2425,2024-05-14 09:15:46
+BiBBS_CohortInfo.child,BiBBS_CohortInfo,child,Child information,bibbs,participant,,,13,2510,2510,2024-05-14 09:15:46
+BiBBS_CohortInfo.partner,BiBBS_CohortInfo,partner,Partner information,bibbs,participant,,,9,264,264,2024-05-14 09:15:46

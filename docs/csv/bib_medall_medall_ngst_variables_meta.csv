@@ -1,0 +1,117 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_MeDALL.medall_ngst.BiBPersonID,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,BiBPersonID,,text,,,3284,815
+BiB_MeDALL.medall_ngst.has_medall_ngst,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,has_medall_ngst,Has medall neighbourhood green space tool,integer,,administration,3284,815
+BiB_MeDALL.medall_ngst.PregnancyID,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,PregnancyID,BiB Pregnancy ID,text,,administration,3284,815
+BiB_MeDALL.medall_ngst.FatherID,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,FatherID,BiB Father ID,integer,,administration,1152,286
+BiB_MeDALL.medall_ngst.agemm_mdngst,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,agemm_mdngst,Mother age (months): MeDALL Neighbourhood Green Space Tool,integer,,age,3276,813
+BiB_MeDALL.medall_ngst.agemy_mdngst,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,agemy_mdngst,Mother age (years): MeDALL Neighbourhood Green Space Tool,integer,,age,3276,813
+BiB_MeDALL.medall_ngst.has_mdngst,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,has_mdngst,Has: MeDALL Neighbourhood Green Space Tool,categorical,[1 has],administration,3284,815
+BiB_MeDALL.medall_ngst.ngst_alcoholIN2a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_alcoholIN2a,evidence of alcohol use,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_alcohollevelIN2b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_alcohollevelIN2b,level of evidence of alcohol use,categorical,[1 Hardly noticeable] [2 Noticeable] [3 Very noticeable],neighbourhood,539,344
+BiB_MeDALL.medall_ngst.ngst_attractNN4,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_attractNN4,presence of public attraction,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_bbqAM8a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_bbqAM8a,presence of bbq,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_binsAM2a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_binsAM2a,presence of bins,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_binsqualAM2b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_binsqualAM2b,quality of bins,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_cafeAM5a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_cafeAM5a,presence of cafe,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_cafequalAM5b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_cafequalAM5b,quality of cafe,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,967,553
+BiB_MeDALL.medall_ngst.ngst_canalNA2d,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_canalNA2d,presence of canal,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_childUS4a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_childUS4a,suitable for children's play dichotomous,categorical,[1 Not useful] [2 Somewhat to very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_childUS4b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_childUS4b,suitable for children's play,categorical,[1 Not useful] [2 Somewhat useful] [3 Useful] [4 Very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_conseUS5a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_conseUS5a,suitable for conservation or biodiversity dichotomous,categorical,[1 Not useful] [2 Somewhat to very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_conseUS5b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_conseUS5b,suitable for conservatio or biodiversity,categorical,[1 Not useful] [2 Somewhat useful] [3 Useful] [4 Very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_courtqualR3b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_courtqualR3b,quality of courts,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,1145,614
+BiB_MeDALL.medall_ngst.ngst_courtR3a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_courtR3a,presence of courts,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_flowerNA7a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_flowerNA7a,presence of flowers,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_flowerqualNA7b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_flowerqualNA7b,quality of flowers,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,1462,689
+BiB_MeDALL.medall_ngst.ngst_fountainNN1,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_fountainNN1,presence of water fountain,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_glassIN5a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_glassIN5a,presence of broken glass,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_glasslevelIN5b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_glasslevelIN5b,level of broken glass,categorical,[1 Hardly noticeable] [2 Noticeable] [3 Very noticeable],neighbourhood,289,191
+BiB_MeDALL.medall_ngst.ngst_gpitchqualR2b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_gpitchqualR2b,quality of grass pitch,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,1533,722
+BiB_MeDALL.medall_ngst.ngst_gpitchR2a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_gpitchR2a,presence of grass pitch,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_graffitiIN4a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_graffitiIN4a,presence of graffiti,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_graffitilevelIN4b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_graffitilevelIN4b,level of graffiti,categorical,[1 Hardly noticeable] [2 Noticeable] [3 Very noticeable],neighbourhood,576,353
+BiB_MeDALL.medall_ngst.ngst_greenspace,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_greenspace,name of green space,text,,neighbourhood,3284,815
+BiB_MeDALL.medall_ngst.ngst_gsheltAM7a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_gsheltAM7a,presence of green shelter,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_gsheltqualAM7b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_gsheltqualAM7b,quality of green shelter,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,1539,715
+BiB_MeDALL.medall_ngst.ngst_historyNN3,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_historyNN3,presence of historic or attractive building or man-made structure,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_housevisSA3,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_housevisSA3,visibility of houses from centre,categorical,[1 None] [2 Partial] [3 Clear],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_inforUS2a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_inforUS2a,suitable for informal games dichotomous,categorical,[1 Not useful] [2 Somewhat to very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_inforUS2b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_inforUS2b,suitable for informal games,categorical,[1 Not useful] [2 Somewhat useful] [3 Useful] [4 Very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_lakeNA2a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_lakeNA2a,presence of small lake,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_lightsqualSA1b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_lightsqualSA1b,quality of lighting,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,608,387
+BiB_MeDALL.medall_ngst.ngst_lightsSA1a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_lightsSA1a,presence of lighting,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_litterIN1a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_litterIN1a,presence of litter,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_litterlevelIN1b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_litterlevelIN1b,level of litter,categorical,[1 Hardly noticeable] [2 Noticeable] [3 Very noticeable],neighbourhood,1344,666
+BiB_MeDALL.medall_ngst.ngst_mroadAC2,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_mroadAC2,adjacent roads are minor/not busy,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_noiseIN8a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_noiseIN8a,presence of noise pollution,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_noiselevelIN8b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_noiselevelIN8b,level of noise pollution,categorical,[1 Hardly noticeable] [2 Noticeable] [3 Very noticeable],neighbourhood,187,134
+BiB_MeDALL.medall_ngst.ngst_opspacqualR7,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_opspacqualR7,quality of open space,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,1673,741
+BiB_MeDALL.medall_ngst.ngst_opspacquanR6b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_opspacquanR6b,amount of open space,categorical,[1 Some] [2 Adequate] [3 A lot],neighbourhood,1673,741
+BiB_MeDALL.medall_ngst.ngst_opspacR6a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_opspacR6a,presence of open space,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_parkcode,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_parkcode,park code,integer,,neighbourhood,2039,805
+BiB_MeDALL.medall_ngst.ngst_pathsAC5a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_pathsAC5a,presence of paths,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_pathsqualAC6,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_pathsqualAC6,quality of paths,categorical,[1 Poor] [2 Adequate] [3 Good] [4 Excellent],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_pathsquanAC5b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_pathsquanAC5b,quantity of paths,categorical,[1 Some] [2 Adequate] [3 A lot],neighbourhood,1633,737
+BiB_MeDALL.medall_ngst.ngst_picnicAM9a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_picnicAM9a,presence of picnic tables,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_picnicqualAM9b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_picnicqualAM9b,quality of picnic tables,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,824,446
+BiB_MeDALL.medall_ngst.ngst_plantNA8a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_plantNA8a,"presence of other planted trees, shrubs",categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_plantqualNA8b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_plantqualNA8b,"quality of other plants, shrubs",categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,1522,699
+BiB_MeDALL.medall_ngst.ngst_playeR1a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_playeR1a,presence of playground equipment,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_playqualR1b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_playqualR1b,quality of playground equipment,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,1666,742
+BiB_MeDALL.medall_ngst.ngst_pondNA2b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_pondNA2b,presence of pond,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_pubartNN2,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_pubartNN2,presence of public art,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_relaxUS8a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_relaxUS8a,suitable for relaxing dichotomous,categorical,[1 Not useful] [2 Somewhat to very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_relaxUS8b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_relaxUS8b,suitable for relaxing,categorical,[1 Not useful] [2 Somewhat useful] [3 Useful] [4 Very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_roadsvisSA2,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_roadsvisSA2,visibility of roads from centre,categorical,[1 None] [2 Partial] [3 Clear],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_safecAC3,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_safecAC3,adjacent roads have safe crossing,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_satisfaction,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_satisfaction,Satisfaction 1-5 (5 = most satisfied),integer,,neighbourhood,2024,802
+BiB_MeDALL.medall_ngst.ngst_seatAM1a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_seatAM1a,"presence of seating, benches",categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_seatqualAM1b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_seatqualAM1b,quality of seating,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_sheltAM6a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_sheltAM6a,presence of man-made shelter,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_sheltqualAM6b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_sheltqualAM6b,quality of man-made shelter,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,1221,638
+BiB_MeDALL.medall_ngst.ngst_shortAC4,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_shortAC4,used as a shortcut/ direct route,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_skatequalR4b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_skatequalR4b,quality of skaterampqual,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,492,313
+BiB_MeDALL.medall_ngst.ngst_skateR4a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_skateR4a,presnce of skateramp,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_smellsIN9a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_smellsIN9a,presence of unpleasant smells,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_smellslevelIN9b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_smellslevelIN9b,level of unpleasant smells,categorical,[1 Hardly noticeable] [2 Noticeable] [3 Very noticeable],neighbourhood,201,141
+BiB_MeDALL.medall_ngst.ngst_sociaUS7a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_sociaUS7a,suitable for socialising dichotomous,categorical,[1 Not useful] [2 Somewhat to very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_sociaUS7b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_sociaUS7b,suitable for socialising,categorical,[1 Not useful] [2 Somewhat useful] [3 Useful] [4 Very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_sportUS1a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_sportUS1a,suitable for sports dichotomous,categorical,[1 Not useful] [2 Somewhat to very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_sportUS1b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_sportUS1b,suitable for sport,categorical,[1 Not useful] [2 Somewhat useful] [3 Useful] [4 Very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_streamNA2c,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_streamNA2c,presence of stream,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_surfacqualNA6,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_surfacqualNA6,maintenance of primary surface,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_toiletAM4a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_toiletAM4a,presence of toilet,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_toiletqualAM4b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_toiletqualAM4b,quality of public toilet,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,887,518
+BiB_MeDALL.medall_ngst.ngst_treesNA5a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_treesNA5a,presence of trees,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_treespercNA5b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_treespercNA5b,percentage of area occupied by trees,categorical,[1 1%-10%] [2 11%-25%] [3 26%-50%] [4 50%+],neighbourhood,1655,736
+BiB_MeDALL.medall_ngst.ngst_typol,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_typol,typology,categorical,[1 Park] [2 Natural/ semi-natural] [3 Amenity/ pulbic open space],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_vandsmIN6a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_vandsmIN6a,presence of vandalism,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_vandsmlevelIN6b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_vandsmlevelIN6b,level of vandalism,categorical,[1 Hardly noticeable] [2 Noticeable] [3 Very noticeable],neighbourhood,378,242
+BiB_MeDALL.medall_ngst.ngst_viewpNA4,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_viewpNA4,"presence of viewpoint, vista, scenic view",integer,,neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_visuaUS6a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_visuaUS6a,suitable for visual qualities dichotomous,categorical,[1 Not useful] [2 Somewhat to very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_visuaUS6b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_visuaUS6b,suitable for enjoying landscape or visual qualities,categorical,[1 Not useful] [2 Somewhat useful] [3 Useful] [4 Very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_walkiUS3a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_walkiUS3a,suitable for walking dichotomous,categorical,[1 Not useful] [2 Somewhat to very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_walkiUS3b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_walkiUS3b,suitable for walking,categorical,[1 Not useful] [2 Somewhat useful] [3 Useful] [4 Very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_waterNA3a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_waterNA3a,presence of water,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_waterNA3b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_waterNA3b,percentage of area occupied by water,categorical,[1 <25%] [2 26%-50%] [3 51%-75%],neighbourhood,1187,620
+BiB_MeDALL.medall_ngst.ngst_waterUS10a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_waterUS10a,suitable for water sports dichotomous,categorical,[1 Not useful] [2 Somewhat to very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_waterUS10b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_waterUS10b,suitable for water sports,categorical,[1 Not useful] [2 Somewhat useful] [3 Useful] [4 Very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_watshoreNA1,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_watshoreNA1,"on the foreshore of a beach, river or lake",categorical,[1 No] [2 Yes],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_weath,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_weath,weather,text,,neighbourhood,3284,815
+BiB_MeDALL.medall_ngst.ngst_yearcode,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_yearcode,summer park 1/2 or winter park 3/4,categorical,[1 summer park 1] [2 summer park 2] [3 winter park 1] [4 winter park 2],administration,3284,815
+BiB_MeDALL.medall_ngst.ngst_cparkAC7a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_cparkAC7a,presence of car park,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_cparkqualAC7b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_cparkqualAC7b,car park quality,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,1494,693
+BiB_MeDALL.medall_ngst.ngst_cycliUS9a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_cycliUS9a,suitable for cycling dichotomous,categorical,[1 Not useful] [2 Somewhat to very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_cycliUS9b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_cycliUS9b,suitable for cycling,categorical,[1 Not useful] [2 Somewhat useful] [3 Useful] [4 Very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_dbinAM3a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_dbinAM3a,presence of dog mess bins,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_dbinqualAM3b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_dbinqualAM3b,quality of dog mess bins,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,956,539
+BiB_MeDALL.medall_ngst.ngst_dogmeIN7a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_dogmeIN7a,presence of dog mess,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_dogmeIN7b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_dogmeIN7b,level of dog mess,categorical,[1 Hardly noticeable] [2 Noticeable] [3 Very noticeable],neighbourhood,31,24
+BiB_MeDALL.medall_ngst.ngst_drinkAM10,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_drinkAM10,presence of drinking fountains,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_drugsIN3a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_drugsIN3a,evidence of drug use,categorical,[1 Absent] [2 Present],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_drugslevelIN3b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_drugslevelIN3b,level of evidence of drug use,categorical,[1 Hardly noticeable] [2 Noticeable] [3 Very noticeable],neighbourhood,0,0
+BiB_MeDALL.medall_ngst.ngst_entrAC1,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_entrAC1,number of entrance points,categorical,[1 1-3] [2 4-7] [3 8+],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_fishiUS11a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_fishiUS11a,suitable for fishing dichotomous,categorical,[1 Not useful] [2 Somewhat to very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_fishiUS11b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_fishiUS11b,suitable for fishing,categorical,[1 Not useful] [2 Somewhat useful] [3 Useful] [4 Very useful],neighbourhood,1683,745
+BiB_MeDALL.medall_ngst.ngst_fitfacqualR5b,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_fitfacqualR5b,quality of fitness facilities,categorical,[1 Poor] [2 Adequate] [3 Good],neighbourhood,398,240
+BiB_MeDALL.medall_ngst.ngst_fitfacR5a,BiB_MeDALL.medall_ngst,BiB_MeDALL,medall_ngst,ngst_fitfacR5a,presence of fitness facilities,categorical,[1 Absent] [2 Present],neighbourhood,1683,745

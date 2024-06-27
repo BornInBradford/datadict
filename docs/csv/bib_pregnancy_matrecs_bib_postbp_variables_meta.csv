@@ -1,0 +1,9 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Pregnancy.matrecs_bib_postbp.BiBPersonID,BiB_Pregnancy.matrecs_bib_postbp,BiB_Pregnancy,matrecs_bib_postbp,BiBPersonID,,text,,,36379,9292
+BiB_Pregnancy.matrecs_bib_postbp.BiBPregNumber,BiB_Pregnancy.matrecs_bib_postbp,BiB_Pregnancy,matrecs_bib_postbp,BiBPregNumber,Cohort recruited pregnancy number,integer,,administration,36379,9292
+BiB_Pregnancy.matrecs_bib_postbp.has_matrecs_bib_postbp,BiB_Pregnancy.matrecs_bib_postbp,BiB_Pregnancy,matrecs_bib_postbp,has_matrecs_bib_postbp,Has,integer,,administration,36379,9292
+BiB_Pregnancy.matrecs_bib_postbp.has_prnbpo,BiB_Pregnancy.matrecs_bib_postbp,BiB_Pregnancy,matrecs_bib_postbp,has_prnbpo,Has: Maternal records: Postpartum blood pressure,categorical,[1 has],administration,36379,9292
+BiB_Pregnancy.matrecs_bib_postbp.prnpostbpdays,BiB_Pregnancy.matrecs_bib_postbp,BiB_Pregnancy,matrecs_bib_postbp,prnpostbpdays,Number of days after delivery,integer,,administration,36379,9292
+BiB_Pregnancy.matrecs_bib_postbp.prnpostbpdiastolic,BiB_Pregnancy.matrecs_bib_postbp,BiB_Pregnancy,matrecs_bib_postbp,prnpostbpdiastolic,Post-partum diastolic blood pressure,integer,,cardiovascular_system,36379,9292
+BiB_Pregnancy.matrecs_bib_postbp.prnpostbpsystolic,BiB_Pregnancy.matrecs_bib_postbp,BiB_Pregnancy,matrecs_bib_postbp,prnpostbpsystolic,Post-partum systolic blood pressure,integer,,cardiovascular_system,36379,9292
+BiB_Pregnancy.matrecs_bib_postbp.prnpostbptime,BiB_Pregnancy.matrecs_bib_postbp,BiB_Pregnancy,matrecs_bib_postbp,prnpostbptime,Time post-partum blood pressure was taken,text,,administration,36379,9292
