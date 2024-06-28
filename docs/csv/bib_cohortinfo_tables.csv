@@ -1,5 +1,5 @@
 table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
-BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,BiB person-level information,bib,participant,,,12,29664,29664,2024-05-14 09:12:26
+BiB_CohortInfo.person_info,BiB_CohortInfo,person_info,BiB person-level information,bib,participant,,,12,29664,29664,2024-06-20 15:21:35
 BiB_CohortInfo.ethnicity,BiB_CohortInfo,ethnicity,Ethnicity information about BiB cohort participants,bib,participant,,,4,29668,29664,2024-05-14 09:12:25
 BiB_CohortInfo.related_pairs,BiB_CohortInfo,related_pairs,BiB participant related pairs,bib,participant,,,6,41602,29579,2024-05-14 09:12:27
 BiB_CohortInfo.child_info,BiB_CohortInfo,child_info,Person information Child,bib,participant,,,7,13858,13858,2024-05-14 09:12:24
