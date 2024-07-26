@@ -1,0 +1,21 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_PrimarySchoolYears.ef_task_ps_bib.BiBPersonID,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,BiBPersonID,,text,,administration,7006,7006
+BiB_PrimarySchoolYears.ef_task_ps_bib.PSYChildID,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,PSYChildID,,text,,,7006,7006
+BiB_PrimarySchoolYears.ef_task_ps_bib.PSYSchoolID,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,PSYSchoolID,Primary School Years: School pseudonym,integer,,administration,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.PSYClassID,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,PSYClassID,Primary School Years: Class pseudonym,integer,,administration,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.TestYearGroup,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,TestYearGroup,Year group of PS completion,integer,,administration,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.TestAcadTerm,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,TestAcadTerm,Academic term of PS completion,categorical,[1 Autumn] [2 Spring] [3 Summer],administration,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.TestYear,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,TestYear,Calendar year of PS completion,integer,,administration,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.TestMonth,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,TestMonth,Calendar month of PS completion,integer,,administration,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.PSYTestDay,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,PSYTestDay,Days elapsed since study start + 50000,integer,,administration,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.AgeYears,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,AgeYears,Child age in years at PS completion,integer,,age,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.AgeMonths,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,AgeMonths,Child age in months at PS completion,integer,,age,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.PSYTabletID,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,PSYTabletID,Tablet computer used for testing,integer,,administration,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.EFSessionID,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,EFSessionID,Testing software session ID,integer,,administration,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.ps_summary,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,ps_summary,Summary test score for PS,float,,cognitive_skills,5972,5972
+BiB_PrimarySchoolYears.ef_task_ps_bib.ps_rowcount,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,ps_rowcount,Number of rows in PS trials raw data file for the session,integer,,cognitive_skills,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.ps_corr,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,ps_corr,Total number of trials correct on PS task,integer,,cognitive_skills,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.ps_incorr,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,ps_incorr,Total number of trials incorrect on PS task,integer,,cognitive_skills,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.ps_mean_rt,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,ps_mean_rt,Mean reaction time on all PS trials,float,,cognitive_skills,5985,5985
+BiB_PrimarySchoolYears.ef_task_ps_bib.ps_mean_rt_corr,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,ps_mean_rt_corr,Mean reaction time on correct PS trials,float,,cognitive_skills,5979,5979
+BiB_PrimarySchoolYears.ef_task_ps_bib.ps_mean_rt_incorr,BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,ps_mean_rt_incorr,Mean reaction time on incorrect PS trials,float,,cognitive_skills,4007,4007

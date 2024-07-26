@@ -88,6 +88,13 @@ BiB_Biosamples.renal_cystatinc,BiB_Biosamples,renal_cystatinc,BiB Growing Up ren
 BiB_Geographic.bib_geog_person,BiB_Geographic,bib_geog_person,BiB person level geographic information,bib,participant,,,15,890344,29664,2024-05-15 10:05:19
 BiB_Geographic.bib_geog_property,BiB_Geographic,bib_geog_property,BiB property level geographic information,bib,property,,,12,32486,32486,2024-05-14 09:12:41
 BiB_Geographic.bib_geog_lsoa,BiB_Geographic,bib_geog_lsoa,BiB LSOA level geographic information,bib,lsoa,,,10,3594,3594,2024-05-14 09:12:31
+BiB_Geographic.bib_geog_air_quality,BiB_Geographic,bib_geog_air_quality,BiB property level air quality information,bib,property,,,88,11274,11274,2024-07-16 14:19:41.841293
+BiB_Geographic.bib_geog_built_env_indoor_qual,BiB_Geographic,bib_geog_built_env_indoor_qual,BiB property level built environment and indoor building quality,bib,property,,,39,11274,11274,2024-07-16 14:30:37.970768
+BiB_Geographic.bib_geog_ndvi_longitudinal,BiB_Geographic,bib_geog_ndvi_longitudinal,BiB property level longitudinal NDVI data,,property,,,46,32486,32486,2024-07-17 11:27:56.409552
+BiB_Geographic.bib_geog_food_environment,BiB_Geographic,bib_geog_food_environment,BiB property level food environment data,bib,property,,,36,32486,32486,2024-07-16 14:08:00.620348
+BiB_Geographic.bib_geog_green_space,BiB_Geographic,bib_geog_green_space,BiB property level green space data,bib,property,,,220,32486,32486,2024-07-17 11:27:53.369194
+BiB_Geographic.bib_geog_public_transport_traffic,BiB_Geographic,bib_geog_public_transport_traffic,BiB property level public transport and traffic data,bib,property,,,85,32486,32486,2024-07-16 14:08:16.762016
+BiB_Geographic.bib_geog_sc_walkability_lu,BiB_Geographic,bib_geog_sc_walkability_lu,"BiB property level street centrality, walkabilty and land use data",bib,property,,,37,32486,32486,2024-07-16 14:08:19.281317
 BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,Total plasma glycome analyses using HILIC-UHPLC-FLR method,bib,participant,,,44,976,976,2024-05-14 09:12:41
 BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Next generation sequencing controls,bib,participant,,,13,34686,26,2024-06-11 12:08:30.119123
 BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,Next generation sequencing project 1,bib,participant,,,24,369000,1000,2024-05-14 09:15:00.091318
@@ -187,15 +194,23 @@ BiB_Education_Record.edrecs_ks1_2,BiB_Education_Record,edrecs_ks1_2,Key Stage 1 
 BiB_Education_Record.edrecs_ks2,BiB_Education_Record,edrecs_ks2,Key Stage 2 Assessment 2018/19,bib,participant,,,16,3466,3466,2024-05-14 09:12:30
 BiB_PrimarySchoolYears.child_info,BiB_PrimarySchoolYears,child_info,Primary School Years child information,bib,participant,,,23,18149,18149,2024-05-14 09:14:09
 BiB_PrimarySchoolYears.sdq_data,BiB_PrimarySchoolYears,sdq_data,Primary School Years SDQ data,bib,participant,,,58,3502,3234,2024-05-14 09:14:40
+BiB_PrimarySchoolYears.sdq_data_bib,BiB_PrimarySchoolYears,sdq_data_bib,Primary School Years SDQ data BiB only,bib,participant,,,59,7040,7006,2024-07-19 16:28:20.400703
 BiB_PrimarySchoolYears.child_quiz,BiB_PrimarySchoolYears,child_quiz,Primary School Years child quiz,bib,participant,,,90,15641,15641,2024-05-14 09:14:11
+BiB_PrimarySchoolYears.child_quiz_bib,BiB_PrimarySchoolYears,child_quiz_bib,Primary School Years child quiz BiB only,bib,participant,,,91,7006,7006,2024-07-19 16:28:15.916801
 BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,Primary School Years EF BDR task data,bib,participant,,,13,15179,15179,2024-05-14 09:14:25
+BiB_PrimarySchoolYears.ef_task_bdr_bib,BiB_PrimarySchoolYears,ef_task_bdr_bib,Primary School Years EF BDR task data BiB only,bib,participant,,,14,7006,7006,2024-07-19 16:28:19.806374
 BiB_PrimarySchoolYears.ef_task_fdr,BiB_PrimarySchoolYears,ef_task_fdr,Primary School Years EF FDR task data,bib,participant,,,13,15519,15519,2024-05-14 09:14:26
+BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,Primary School Years EF FDR task data BiB only,bib,participant,,,14,7006,7006,2024-07-19 16:28:19.993866
 BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,Primary School Years EF Corsi task data,bib,participant,,,13,15388,15388,2024-05-14 09:14:25
+BiB_PrimarySchoolYears.ef_task_corsi_bib,BiB_PrimarySchoolYears,ef_task_corsi_bib,Primary School Years EF Corsi task data BiB only,bib,participant,,,14,7006,7006,2024-07-19 16:28:19.900135
 BiB_PrimarySchoolYears.ef_task_inhibition,BiB_PrimarySchoolYears,ef_task_inhibition,Primary School Years EF Inhibition task data,bib,participant,,,22,14538,14538,2024-05-14 09:14:26
+BiB_PrimarySchoolYears.ef_task_inhibition_bib,BiB_PrimarySchoolYears,ef_task_inhibition_bib,Primary School Years EF Inhibition task data BiB only,bib,participant,,,23,7006,7006,2024-07-19 16:28:20.134493
 BiB_PrimarySchoolYears.ef_task_ps,BiB_PrimarySchoolYears,ef_task_ps,Primary School Years EF PS task data,bib,participant,,,18,15185,15185,2024-05-14 09:14:26
-BiB_PrimarySchoolYears.ckat_data,BiB_PrimarySchoolYears,ckat_data,Primary School Years CKAT data,bib,participant,,,634,15820,15820,2024-05-14 09:14:24
+BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,Primary School Years EF PS task data BiB only,bib,participant,,,19,7006,7006,2024-07-19 16:28:20.290751
+BiB_PrimarySchoolYears.ckat_data,BiB_PrimarySchoolYears,ckat_data,Primary School Years CKAT data,bib,participant,,,634,15820,15820,2024-07-26 15:26:11.685043
+BiB_PrimarySchoolYears.ckat_data_bib,BiB_PrimarySchoolYears,ckat_data_bib,Primary School Years CKAT data BiB only,bib,participant,,,635,7006,7006,2024-07-26 15:27:32.022446
 BiB_GrowingUp.participant_pathway,BiB_GrowingUp,participant_pathway,BiB Growing Up participant pathway,bib,participant,,,103,30134,30134,2024-05-14 09:12:50
-BiB_GrowingUp.adult_survey,BiB_GrowingUp,adult_survey,BiB Growing Up adult survey,bib,participant,,,275,5594,5594,2024-05-15 12:05:52
+BiB_GrowingUp.adult_survey,BiB_GrowingUp,adult_survey,BiB Growing Up adult survey,bib,participant,,,276,5594,5594,2024-06-25 11:48:02.253941
 BiB_GrowingUp.adult_survey_BiB1000_sample,BiB_GrowingUp,adult_survey_BiB1000_sample,BiB Growing Up adult survey - BiB1000 sample,bib,participant,,,125,1763,1763,2024-05-14 09:12:43
 BiB_GrowingUp.adult_survey_MeDALL_sample,BiB_GrowingUp,adult_survey_MeDALL_sample,BiB Growing Up adult survey - MeDALL sample,bib,participant,,,35,2594,2594,2024-05-14 09:12:43
 BiB_GrowingUp.child_survey_adult_comp,BiB_GrowingUp,child_survey_adult_comp,BiB Growing Up child survey (adult completed),bib,participant,,,443,5304,5304,2024-05-14 09:12:46
@@ -233,9 +248,23 @@ BiBBS_Baseline.pregnancy_survey,BiBBS_Baseline,pregnancy_survey,Mother baseline 
 BiBBS_Geographic.bibbs_geog_person,BiBBS_Geographic,bibbs_geog_person,BiBBS person level geographic information,bibbs,participant,,,15,83426,9432,2024-05-14 09:15:48
 BiBBS_Geographic.bibbs_geog_property,BiBBS_Geographic,bibbs_geog_property,BiBBS property level geographic information,bibbs,property,,,12,6611,6611,2024-05-14 09:15:49
 BiBBS_Geographic.bibbs_geog_lsoa,BiBBS_Geographic,bibbs_geog_lsoa,BiBBS LSOA level geographic information,bibbs,lsoa,,,10,719,719,2024-05-14 09:15:47
+BiBBS_Geographic.bibbs_geog_air_quality,BiBBS_Geographic,bibbs_geog_air_quality,BiBBS property level air quality information,bibbs,property,,,88,6531,6531,2024-07-16 15:10:57.76277
+BiBBS_Geographic.bibbs_geog_built_env_indoor_qual,BiBBS_Geographic,bibbs_geog_built_env_indoor_qual,BiBBS property level built environment and indoor building quality,bibbs,property,,,39,6531,6531,2024-07-16 15:10:59.053005
+BiBBS_Geographic.bibbs_geog_food_environment,BiBBS_Geographic,bibbs_geog_food_environment,BiBBS property level food environment data,bibbs,property,,,36,6531,6531,2024-07-16 15:11:00.268301
+BiBBS_Geographic.bibbs_geog_green_space,BiBBS_Geographic,bibbs_geog_green_space,BiBBS property level green space data,bibbs,property,,,220,6531,6531,2024-07-17 11:39:48.414127
+BiBBS_Geographic.bibbs_geog_public_transport_traffic,BiBBS_Geographic,bibbs_geog_public_transport_traffic,BiBBS property level public transport and traffic data,bibbs,property,,,85,6531,6531,2024-07-16 16:45:06.019949
+BiBBS_Geographic.bibbs_geog_sc_walkability_lu,BiBBS_Geographic,bibbs_geog_sc_walkability_lu,"BiBBS property level street centrality, walkabilty and land use data",bibbs,property,,,37,6531,6531,2024-07-16 15:11:11.409519
+BiBBS_Geographic.bibbs_geog_ndvi_longitudinal,BiBBS_Geographic,bibbs_geog_ndvi_longitudinal,BiBBS property level longitudinal NDVI data,bibbs,property,,,46,6531,6531,2024-07-17 11:39:49.836023
 BiB4All_Geographic.bib4all_geog_person,BiB4All_Geographic,bib4all_geog_person,BiB4All person level geographic information,bib,participant,,,15,101646,15316,2024-05-14 09:15:44
 BiB4All_Geographic.bib4all_geog_property,BiB4All_Geographic,bib4all_geog_property,BiB4All property level geographic information,bib,property,,,12,11471,11471,2024-05-14 09:15:45
 BiB4All_Geographic.bib4all_geog_lsoa,BiB4All_Geographic,bib4all_geog_lsoa,BiB4All LSOA level geographic information,bib,lsoa,,,10,984,984,2024-05-14 09:15:43
+BiB4All_Geographic.bib4all_geog_air_quality,BiB4All_Geographic,bib4all_geog_air_quality,BiB4All property level air quality information,bib4all,property,,,88,11274,11274,2024-07-16 15:13:58.006895
+BiB4All_Geographic.bib4all_geog_built_env_indoor_qual,BiB4All_Geographic,bib4all_geog_built_env_indoor_qual,BiB4All property level built environment and indoor building quality,bib4all,property,,,39,11274,11274,2024-07-16 15:23:41.179638
+BiB4All_Geographic.bib4all_geog_food_environment,BiB4All_Geographic,bib4all_geog_food_environment,BiB4All property level food environment data,bib4all,property,,,36,11274,11274,2024-07-16 15:06:52.769382
+BiB4All_Geographic.bib4all_geog_green_space,BiB4All_Geographic,bib4all_geog_green_space,BiB4All property level green space data,bib4all,property,,,220,11274,11274,2024-07-17 11:36:18.115122
+BiB4All_Geographic.bib4all_geog_public_transport_traffic,BiB4All_Geographic,bib4all_geog_public_transport_traffic,BiB4All property level public transport and traffic data,bib4all,property,,,85,11274,11274,2024-07-16 15:07:03.699974
+BiB4All_Geographic.bib4all_geog_sc_walkability_lu,BiB4All_Geographic,bib4all_geog_sc_walkability_lu,"BiB4All property level street centrality, walkabilty and land use data",bib4all,property,,,37,11274,11274,2024-07-16 15:07:05.232677
+BiB4All_Geographic.bib4all_geog_ndvi_longitudinal,BiB4All_Geographic,bib4all_geog_ndvi_longitudinal,BiB4All property level longitudinal NDVI data,bib4all,property,,,46,11274,11274,2024-07-17 11:36:19.984755
 COVID19_Survey.adult_phase1,COVID19_Survey,adult_phase1,COVID19 Adult  Survey Phase 1,,participant,,,181,2144,2144,2024-05-14 09:15:52
 COVID19_Survey.adult_bib_phase2,COVID19_Survey,adult_bib_phase2,COVID19 Adult Survey Phase 2 (BiB),,participant,,,448,631,631,2024-05-14 09:15:50
 COVID19_Survey.adult_bibbs_phase2,COVID19_Survey,adult_bibbs_phase2,COVID19 Adult Survey Phase 2 (BiBBS),,participant,,,268,136,136,2024-05-14 09:15:50

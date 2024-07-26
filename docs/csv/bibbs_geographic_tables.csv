@@ -2,3 +2,10 @@ table_id,project_name,table_name,display_name,cohort_membership,entity_type,data
 BiBBS_Geographic.bibbs_geog_person,BiBBS_Geographic,bibbs_geog_person,BiBBS person level geographic information,bibbs,participant,,,15,83426,9432,2024-05-14 09:15:48
 BiBBS_Geographic.bibbs_geog_property,BiBBS_Geographic,bibbs_geog_property,BiBBS property level geographic information,bibbs,property,,,12,6611,6611,2024-05-14 09:15:49
 BiBBS_Geographic.bibbs_geog_lsoa,BiBBS_Geographic,bibbs_geog_lsoa,BiBBS LSOA level geographic information,bibbs,lsoa,,,10,719,719,2024-05-14 09:15:47
+BiBBS_Geographic.bibbs_geog_air_quality,BiBBS_Geographic,bibbs_geog_air_quality,BiBBS property level air quality information,bibbs,property,,,88,6531,6531,2024-07-16 15:10:57.76277
+BiBBS_Geographic.bibbs_geog_built_env_indoor_qual,BiBBS_Geographic,bibbs_geog_built_env_indoor_qual,BiBBS property level built environment and indoor building quality,bibbs,property,,,39,6531,6531,2024-07-16 15:10:59.053005
+BiBBS_Geographic.bibbs_geog_food_environment,BiBBS_Geographic,bibbs_geog_food_environment,BiBBS property level food environment data,bibbs,property,,,36,6531,6531,2024-07-16 15:11:00.268301
+BiBBS_Geographic.bibbs_geog_green_space,BiBBS_Geographic,bibbs_geog_green_space,BiBBS property level green space data,bibbs,property,,,220,6531,6531,2024-07-17 11:39:48.414127
+BiBBS_Geographic.bibbs_geog_public_transport_traffic,BiBBS_Geographic,bibbs_geog_public_transport_traffic,BiBBS property level public transport and traffic data,bibbs,property,,,85,6531,6531,2024-07-16 16:45:06.019949
+BiBBS_Geographic.bibbs_geog_sc_walkability_lu,BiBBS_Geographic,bibbs_geog_sc_walkability_lu,"BiBBS property level street centrality, walkabilty and land use data",bibbs,property,,,37,6531,6531,2024-07-16 15:11:11.409519
+BiBBS_Geographic.bibbs_geog_ndvi_longitudinal,BiBBS_Geographic,bibbs_geog_ndvi_longitudinal,BiBBS property level longitudinal NDVI data,bibbs,property,,,46,6531,6531,2024-07-17 11:39:49.836023

@@ -1,10 +1,18 @@
 table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
 BiB_PrimarySchoolYears.child_info,BiB_PrimarySchoolYears,child_info,Primary School Years child information,bib,participant,,,23,18149,18149,2024-05-14 09:14:09
 BiB_PrimarySchoolYears.sdq_data,BiB_PrimarySchoolYears,sdq_data,Primary School Years SDQ data,bib,participant,,,58,3502,3234,2024-05-14 09:14:40
+BiB_PrimarySchoolYears.sdq_data_bib,BiB_PrimarySchoolYears,sdq_data_bib,Primary School Years SDQ data BiB only,bib,participant,,,59,7040,7006,2024-07-19 16:28:20.400703
 BiB_PrimarySchoolYears.child_quiz,BiB_PrimarySchoolYears,child_quiz,Primary School Years child quiz,bib,participant,,,90,15641,15641,2024-05-14 09:14:11
+BiB_PrimarySchoolYears.child_quiz_bib,BiB_PrimarySchoolYears,child_quiz_bib,Primary School Years child quiz BiB only,bib,participant,,,91,7006,7006,2024-07-19 16:28:15.916801
 BiB_PrimarySchoolYears.ef_task_bdr,BiB_PrimarySchoolYears,ef_task_bdr,Primary School Years EF BDR task data,bib,participant,,,13,15179,15179,2024-05-14 09:14:25
+BiB_PrimarySchoolYears.ef_task_bdr_bib,BiB_PrimarySchoolYears,ef_task_bdr_bib,Primary School Years EF BDR task data BiB only,bib,participant,,,14,7006,7006,2024-07-19 16:28:19.806374
 BiB_PrimarySchoolYears.ef_task_fdr,BiB_PrimarySchoolYears,ef_task_fdr,Primary School Years EF FDR task data,bib,participant,,,13,15519,15519,2024-05-14 09:14:26
+BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,Primary School Years EF FDR task data BiB only,bib,participant,,,14,7006,7006,2024-07-19 16:28:19.993866
 BiB_PrimarySchoolYears.ef_task_corsi,BiB_PrimarySchoolYears,ef_task_corsi,Primary School Years EF Corsi task data,bib,participant,,,13,15388,15388,2024-05-14 09:14:25
+BiB_PrimarySchoolYears.ef_task_corsi_bib,BiB_PrimarySchoolYears,ef_task_corsi_bib,Primary School Years EF Corsi task data BiB only,bib,participant,,,14,7006,7006,2024-07-19 16:28:19.900135
 BiB_PrimarySchoolYears.ef_task_inhibition,BiB_PrimarySchoolYears,ef_task_inhibition,Primary School Years EF Inhibition task data,bib,participant,,,22,14538,14538,2024-05-14 09:14:26
+BiB_PrimarySchoolYears.ef_task_inhibition_bib,BiB_PrimarySchoolYears,ef_task_inhibition_bib,Primary School Years EF Inhibition task data BiB only,bib,participant,,,23,7006,7006,2024-07-19 16:28:20.134493
 BiB_PrimarySchoolYears.ef_task_ps,BiB_PrimarySchoolYears,ef_task_ps,Primary School Years EF PS task data,bib,participant,,,18,15185,15185,2024-05-14 09:14:26
-BiB_PrimarySchoolYears.ckat_data,BiB_PrimarySchoolYears,ckat_data,Primary School Years CKAT data,bib,participant,,,634,15820,15820,2024-05-14 09:14:24
+BiB_PrimarySchoolYears.ef_task_ps_bib,BiB_PrimarySchoolYears,ef_task_ps_bib,Primary School Years EF PS task data BiB only,bib,participant,,,19,7006,7006,2024-07-19 16:28:20.290751
+BiB_PrimarySchoolYears.ckat_data,BiB_PrimarySchoolYears,ckat_data,Primary School Years CKAT data,bib,participant,,,634,15820,15820,2024-07-26 15:26:11.685043
+BiB_PrimarySchoolYears.ckat_data_bib,BiB_PrimarySchoolYears,ckat_data_bib,Primary School Years CKAT data BiB only,bib,participant,,,635,7006,7006,2024-07-26 15:27:32.022446

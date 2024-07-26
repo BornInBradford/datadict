@@ -1,0 +1,16 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_PrimarySchoolYears.ef_task_fdr_bib.BiBPersonID,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,BiBPersonID,,text,,administration,7006,7006
+BiB_PrimarySchoolYears.ef_task_fdr_bib.PSYChildID,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,PSYChildID,,text,,,7006,7006
+BiB_PrimarySchoolYears.ef_task_fdr_bib.PSYSchoolID,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,PSYSchoolID,Primary School Years: School pseudonym,integer,,administration,6079,6079
+BiB_PrimarySchoolYears.ef_task_fdr_bib.PSYClassID,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,PSYClassID,Primary School Years: Class pseudonym,integer,,administration,6079,6079
+BiB_PrimarySchoolYears.ef_task_fdr_bib.TestYearGroup,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,TestYearGroup,Year group of FDR completion,integer,,administration,6079,6079
+BiB_PrimarySchoolYears.ef_task_fdr_bib.TestAcadTerm,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,TestAcadTerm,Academic term of FDR completion,categorical,[1 Autumn] [2 Spring] [3 Summer],administration,6079,6079
+BiB_PrimarySchoolYears.ef_task_fdr_bib.TestYear,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,TestYear,Calendar year of FDR completion,integer,,administration,6079,6079
+BiB_PrimarySchoolYears.ef_task_fdr_bib.TestMonth,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,TestMonth,Calendar month of FDR completion,integer,,administration,6079,6079
+BiB_PrimarySchoolYears.ef_task_fdr_bib.PSYTestDay,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,PSYTestDay,Days elapsed since study start + 50000,integer,,administration,6079,6079
+BiB_PrimarySchoolYears.ef_task_fdr_bib.AgeYears,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,AgeYears,Child age in years at FDR completion,integer,,age,6079,6079
+BiB_PrimarySchoolYears.ef_task_fdr_bib.AgeMonths,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,AgeMonths,Child age in months at FDR completion,integer,,age,6079,6079
+BiB_PrimarySchoolYears.ef_task_fdr_bib.PSYTabletID,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,PSYTabletID,Tablet computer used for testing,integer,,administration,6079,6079
+BiB_PrimarySchoolYears.ef_task_fdr_bib.EFSessionID,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,EFSessionID,Testing software session ID,integer,,administration,6079,6079
+BiB_PrimarySchoolYears.ef_task_fdr_bib.fdr_summary,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,fdr_summary,Summary test score for FDR,float,,cognitive_skills,6065,6065
+BiB_PrimarySchoolYears.ef_task_fdr_bib.fdr_rowcount,BiB_PrimarySchoolYears.ef_task_fdr_bib,BiB_PrimarySchoolYears,ef_task_fdr_bib,fdr_rowcount,Number of rows in FDR trials raw data file for the session,integer,,cognitive_skills,6079,6079
