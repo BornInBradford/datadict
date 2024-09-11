@@ -1,0 +1,2 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiBBS_Dental.bibbs_dental_activity,BiBBS_Dental,bibbs_dental_activity,BiBBS dental activity,bibbs,participant,,,111,31138,1,2024-09-09 12:12:22.289568

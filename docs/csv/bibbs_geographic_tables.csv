@@ -7,5 +7,5 @@ BiBBS_Geographic.bibbs_geog_built_env_indoor_qual,BiBBS_Geographic,bibbs_geog_bu
 BiBBS_Geographic.bibbs_geog_food_environment,BiBBS_Geographic,bibbs_geog_food_environment,BiBBS property level food environment data,bibbs,property,,,36,6531,6531,2024-07-16 15:11:00.268301
 BiBBS_Geographic.bibbs_geog_green_space,BiBBS_Geographic,bibbs_geog_green_space,BiBBS property level green space data,bibbs,property,,,220,6531,6531,2024-07-17 11:39:48.414127
 BiBBS_Geographic.bibbs_geog_public_transport_traffic,BiBBS_Geographic,bibbs_geog_public_transport_traffic,BiBBS property level public transport and traffic data,bibbs,property,,,85,6531,6531,2024-07-16 16:45:06.019949
-BiBBS_Geographic.bibbs_geog_sc_walkability_lu,BiBBS_Geographic,bibbs_geog_sc_walkability_lu,"BiBBS property level street centrality, walkabilty and land use data",bibbs,property,,,37,6531,6531,2024-07-16 15:11:11.409519
+BiBBS_Geographic.bibbs_geog_sc_walkability_lu,BiBBS_Geographic,bibbs_geog_sc_walkability_lu,"BiBBS property level street centrality, walkability and land use data",bibbs,property,,,37,6531,6531,2024-07-29 09:15:04.8417
 BiBBS_Geographic.bibbs_geog_ndvi_longitudinal,BiBBS_Geographic,bibbs_geog_ndvi_longitudinal,BiBBS property level longitudinal NDVI data,bibbs,property,,,46,6531,6531,2024-07-17 11:39:49.836023

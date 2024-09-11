@@ -94,7 +94,7 @@ BiB_Geographic.bib_geog_ndvi_longitudinal,BiB_Geographic,bib_geog_ndvi_longitudi
 BiB_Geographic.bib_geog_food_environment,BiB_Geographic,bib_geog_food_environment,BiB property level food environment data,bib,property,,,36,32486,32486,2024-07-16 14:08:00.620348
 BiB_Geographic.bib_geog_green_space,BiB_Geographic,bib_geog_green_space,BiB property level green space data,bib,property,,,220,32486,32486,2024-07-17 11:27:53.369194
 BiB_Geographic.bib_geog_public_transport_traffic,BiB_Geographic,bib_geog_public_transport_traffic,BiB property level public transport and traffic data,bib,property,,,85,32486,32486,2024-07-16 14:08:16.762016
-BiB_Geographic.bib_geog_sc_walkability_lu,BiB_Geographic,bib_geog_sc_walkability_lu,"BiB property level street centrality, walkabilty and land use data",bib,property,,,37,32486,32486,2024-07-16 14:08:19.281317
+BiB_Geographic.bib_geog_sc_walkability_lu,BiB_Geographic,bib_geog_sc_walkability_lu,"BiB property level street centrality, walkability and land use data",bib,property,,,37,32486,32486,2024-07-29 09:18:44.366495
 BiB_Glycomics.glycomics,BiB_Glycomics,glycomics,Total plasma glycome analyses using HILIC-UHPLC-FLR method,bib,participant,,,44,976,976,2024-05-14 09:12:41
 BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Next generation sequencing controls,bib,participant,,,13,34686,26,2024-06-11 12:08:30.119123
 BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,Next generation sequencing project 1,bib,participant,,,24,369000,1000,2024-05-14 09:15:00.091318
@@ -179,7 +179,9 @@ BiB_StartingSchool.stschool_lid,BiB_StartingSchool,stschool_lid,Starting School 
 BiB_StartingSchool.stschool_ckat,BiB_StartingSchool,stschool_ckat,Starting School CKAT,bib,participant,,,612,6586,6586,2024-05-14 09:15:41
 BiB_StartingSchool.stschool_sdq,BiB_StartingSchool,stschool_sdq,Starting School SDQ,bib,participant,,,55,2340,2340,2024-05-14 09:15:42
 BiB_Dental.dsurvey_5yo,BiB_Dental,dsurvey_5yo,5yo Dental Survey,bib,participant,,,7,354,354,2024-05-14 09:12:27
+BiB_Dental.bib_dental_activity,BiB_Dental,bib_dental_activity,BiB dental activity,bib,participant,,,111,205762,1,2024-09-09 11:19:35.264479
 BiB_Dental.dental_ga,BiB_Dental,dental_ga,Dental extractions under GA,bib,participant,,,48,1299,1253,2024-05-14 09:12:27
+BiB_Dental.plat_dental_activity,BiB_Dental,plat_dental_activity,PLATOON dental activity,bib,participant,,,110,3741,374,2024-09-09 12:20:37.556395
 BiB_Dental.plat_person,BiB_Dental,plat_person,PLATOON dental study participant data,bib,participant,,,17,13858,13858,2024-05-14 09:12:28
 BiB_Dental.plat_teeth,BiB_Dental,plat_teeth,PLATOON dental study tooth observations,bib,participant,,,53,346,332,2024-05-14 09:12:28
 BiB_Dental.plat_ortho,BiB_Dental,plat_ortho,PLATOON dental study orthodontic assessment,bib,participant,,,18,336,332,2024-05-14 09:12:27
@@ -253,8 +255,9 @@ BiBBS_Geographic.bibbs_geog_built_env_indoor_qual,BiBBS_Geographic,bibbs_geog_bu
 BiBBS_Geographic.bibbs_geog_food_environment,BiBBS_Geographic,bibbs_geog_food_environment,BiBBS property level food environment data,bibbs,property,,,36,6531,6531,2024-07-16 15:11:00.268301
 BiBBS_Geographic.bibbs_geog_green_space,BiBBS_Geographic,bibbs_geog_green_space,BiBBS property level green space data,bibbs,property,,,220,6531,6531,2024-07-17 11:39:48.414127
 BiBBS_Geographic.bibbs_geog_public_transport_traffic,BiBBS_Geographic,bibbs_geog_public_transport_traffic,BiBBS property level public transport and traffic data,bibbs,property,,,85,6531,6531,2024-07-16 16:45:06.019949
-BiBBS_Geographic.bibbs_geog_sc_walkability_lu,BiBBS_Geographic,bibbs_geog_sc_walkability_lu,"BiBBS property level street centrality, walkabilty and land use data",bibbs,property,,,37,6531,6531,2024-07-16 15:11:11.409519
+BiBBS_Geographic.bibbs_geog_sc_walkability_lu,BiBBS_Geographic,bibbs_geog_sc_walkability_lu,"BiBBS property level street centrality, walkability and land use data",bibbs,property,,,37,6531,6531,2024-07-29 09:15:04.8417
 BiBBS_Geographic.bibbs_geog_ndvi_longitudinal,BiBBS_Geographic,bibbs_geog_ndvi_longitudinal,BiBBS property level longitudinal NDVI data,bibbs,property,,,46,6531,6531,2024-07-17 11:39:49.836023
+BiBBS_Dental.bibbs_dental_activity,BiBBS_Dental,bibbs_dental_activity,BiBBS dental activity,bibbs,participant,,,111,31138,1,2024-09-09 12:12:22.289568
 BiB4All_Geographic.bib4all_geog_person,BiB4All_Geographic,bib4all_geog_person,BiB4All person level geographic information,bib,participant,,,15,101646,15316,2024-05-14 09:15:44
 BiB4All_Geographic.bib4all_geog_property,BiB4All_Geographic,bib4all_geog_property,BiB4All property level geographic information,bib,property,,,12,11471,11471,2024-05-14 09:15:45
 BiB4All_Geographic.bib4all_geog_lsoa,BiB4All_Geographic,bib4all_geog_lsoa,BiB4All LSOA level geographic information,bib,lsoa,,,10,984,984,2024-05-14 09:15:43
@@ -263,8 +266,9 @@ BiB4All_Geographic.bib4all_geog_built_env_indoor_qual,BiB4All_Geographic,bib4all
 BiB4All_Geographic.bib4all_geog_food_environment,BiB4All_Geographic,bib4all_geog_food_environment,BiB4All property level food environment data,bib4all,property,,,36,11274,11274,2024-07-16 15:06:52.769382
 BiB4All_Geographic.bib4all_geog_green_space,BiB4All_Geographic,bib4all_geog_green_space,BiB4All property level green space data,bib4all,property,,,220,11274,11274,2024-07-17 11:36:18.115122
 BiB4All_Geographic.bib4all_geog_public_transport_traffic,BiB4All_Geographic,bib4all_geog_public_transport_traffic,BiB4All property level public transport and traffic data,bib4all,property,,,85,11274,11274,2024-07-16 15:07:03.699974
-BiB4All_Geographic.bib4all_geog_sc_walkability_lu,BiB4All_Geographic,bib4all_geog_sc_walkability_lu,"BiB4All property level street centrality, walkabilty and land use data",bib4all,property,,,37,11274,11274,2024-07-16 15:07:05.232677
+BiB4All_Geographic.bib4all_geog_sc_walkability_lu,BiB4All_Geographic,bib4all_geog_sc_walkability_lu,"BiB4All property level street centrality, walkability and land use data",bib4all,property,,,37,11274,11274,2024-07-29 09:16:48.960369
 BiB4All_Geographic.bib4all_geog_ndvi_longitudinal,BiB4All_Geographic,bib4all_geog_ndvi_longitudinal,BiB4All property level longitudinal NDVI data,bib4all,property,,,46,11274,11274,2024-07-17 11:36:19.984755
+BiB4All_Dental.bib4all_dental_activity,BiB4All_Dental,bib4all_dental_activity,BiB4All dental activity,bib4all,participant,,,111,43081,1,2024-09-09 12:22:56.72864
 COVID19_Survey.adult_phase1,COVID19_Survey,adult_phase1,COVID19 Adult  Survey Phase 1,,participant,,,181,2144,2144,2024-05-14 09:15:52
 COVID19_Survey.adult_bib_phase2,COVID19_Survey,adult_bib_phase2,COVID19 Adult Survey Phase 2 (BiB),,participant,,,448,631,631,2024-05-14 09:15:50
 COVID19_Survey.adult_bibbs_phase2,COVID19_Survey,adult_bibbs_phase2,COVID19 Adult Survey Phase 2 (BiBBS),,participant,,,268,136,136,2024-05-14 09:15:50
