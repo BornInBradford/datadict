@@ -1,0 +1,21 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_GrowingUp.mother_blood_pressures.BiBPersonID,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,BiBPersonID,Mother identifier,text,,,3660,3660
+BiB_GrowingUp.mother_blood_pressures.Date,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,Date,Date of measurement,date,,,3660,3660
+BiB_GrowingUp.mother_blood_pressures.agemths,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,agemths,Age at measurements (mths),integer,,,3660,3660
+BiB_GrowingUp.mother_blood_pressures.ageyrs,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,ageyrs,Age at measurements (yrs),integer,,,3660,3660
+BiB_GrowingUp.mother_blood_pressures.CuffSize,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,CuffSize,Size of BP cuff,text,,,3660,3660
+BiB_GrowingUp.mother_blood_pressures.BPSystolic1,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,BPSystolic1,First systolic BP measurement,integer,,,3660,3660
+BiB_GrowingUp.mother_blood_pressures.BPDiastolic1,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,BPDiastolic1,First diastolic BP measurement,integer,,,3660,3660
+BiB_GrowingUp.mother_blood_pressures.Pulse1,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,Pulse1,First pulse measurement,integer,,,3655,3655
+BiB_GrowingUp.mother_blood_pressures.BPSystolic2,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,BPSystolic2,Second systolic BP measurement,integer,,,3652,3652
+BiB_GrowingUp.mother_blood_pressures.BPDiastolic2,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,BPDiastolic2,Second diastolic BP measurement,integer,,,3652,3652
+BiB_GrowingUp.mother_blood_pressures.Pulse2,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,Pulse2,Second pulse measurement,integer,,,3648,3648
+BiB_GrowingUp.mother_blood_pressures.BPSystolic3,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,BPSystolic3,Third systolic BP measurement,integer,,,3627,3627
+BiB_GrowingUp.mother_blood_pressures.BPDiastolic3,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,BPDiastolic3,Third diastolic BP measurement,integer,,,3627,3627
+BiB_GrowingUp.mother_blood_pressures.Pulse3,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,Pulse3,Third pulse measurement,integer,,,3625,3625
+BiB_GrowingUp.mother_blood_pressures.BPSystolic4,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,BPSystolic4,Fourth systolic BP measurement,integer,,,3573,3573
+BiB_GrowingUp.mother_blood_pressures.BPDiastolic4,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,BPDiastolic4,Fourth diastolic BP measurement,integer,,,3573,3573
+BiB_GrowingUp.mother_blood_pressures.Pulse4,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,Pulse4,Fourth pulse measurement,integer,,,3567,3567
+BiB_GrowingUp.mother_blood_pressures.systolic,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,systolic,Mean systolic BP,integer,,,3660,3660
+BiB_GrowingUp.mother_blood_pressures.diastolic,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,diastolic,Mean diastolic BP,integer,,,3660,3660
+BiB_GrowingUp.mother_blood_pressures.pulse,BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,pulse,Mean pulse,integer,,,3660,3660

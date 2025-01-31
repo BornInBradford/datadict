@@ -1,6 +1,6 @@
 project,table,variable
-BiB_Dental,bib_dental_activity,Cohort
 BiB_Dental,bib_dental_activity,BiBPersonID
+BiB_Dental,bib_dental_activity,Cohort
 BiB_Dental,bib_dental_activity,Gender
 BiB_Dental,bib_dental_activity,Ethnicity5_cat
 BiB_Dental,bib_dental_activity,Month_Birth

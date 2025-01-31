@@ -1,0 +1,29 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_AgeOfWonder.bioimpedance_dr24.aow_person_id,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,aow_person_id,Age of Wonder person ID,text,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.BiBPersonID,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,BiBPersonID,BiB cohort person ID,text,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.is_bib,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,is_bib,Participant is in original BiB cohort,integer,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.aow_recruitment_id,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,aow_recruitment_id,Age of Wonder recruitment ID,text,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.recruitment_era,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,recruitment_era,Recruitment era (academic year),text,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.age_recruitment_y,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,age_recruitment_y,Age at recruitment in years,integer,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.age_recruitment_m,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,age_recruitment_m,Age at recruitment in months,integer,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.gender,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,gender,Gender reported by school,categorical,[1 Female] [2 Male],,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.ethnicity_1,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,ethnicity_1,Ethnicity reported by school - higher level category,categorical,"[1 Asian or Asian British] [2 Black, Black British, Caribbean or African] [3 Mixed or multiple ethnic groups] [4 White] [5 Other ethnic group] [97 Data provided but ethnicity not stated] [98 Data provided but unmapped] [99 Data not provided]",,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.ethnicity_2,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,ethnicity_2,Ethnicity reported by school - lower level category,categorical,"[11 Indian] [12 Pakistani] [13 Bangladeshi] [14 Chinese] [15 Any other Asian background] [21 Caribbean] [22 African] [23 Any other Black, Black British, or Caribbean background] [31 White and Black Caribbean] [32 White and Black African] [33 White and Asian] [34 Any other Mixed or multiple ethnic background] [41 English, Welsh, Scottish, Northern Irish or British] [42 Irish] [43 Gypsy or Irish Traveller] [44 Roma] [45 Any other White background] [51 Arab] [52 Any other ethnic group] [97 Data provided but ethnicity not stated] [98 Data provided but unmapped] [99 Data not provided]",,3720,3718
+BiB_AgeOfWonder.bioimpedance_dr24.birth_year,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,birth_year,Year of birth,integer,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.birth_month,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,birth_month,Month of birth,integer,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.school_id,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,school_id,Pseudo school ID,text,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.year_group,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,year_group,Year group at recruitment,categorical,[-1 various - see module specific data] [7 Year 7] [8 Year 8] [9 Year 9] [10 Year 10] [11 Year 11] [12 Year 12] [13 Year 13],,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.form_tutor_id,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,form_tutor_id,Pseudo recruitment form tutor ID,text,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.age_m,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,age_m,Age (months) at measurement,integer,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.age_y,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,age_y,Age (years) at measurement,integer,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.model,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,model,Bioimpedance scale model,text,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.height,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,height,Height (cm),integer,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.weight,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,weight,Weight (kg),float,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.clothes,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,clothes,Estimated weight of clothes (kg),float,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.bmi,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,bmi,BMI (kg/m2),float,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.fatp,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,fatp,Total fat %,float,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.fatm,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,fatm,Fat mass (kg),float,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.pmm,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,pmm,Predicted muscle mass (kg),float,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.ffm,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,ffm,Fat free mass (kg),float,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.tbw,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,tbw,Total body water (%),float,,,3723,3721
+BiB_AgeOfWonder.bioimpedance_dr24.imp,BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,imp,Impedance (ohms),float,,,3723,3721

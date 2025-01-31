@@ -1,6 +1,7 @@
 table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
 BiB_GrowingUp.participant_pathway,BiB_GrowingUp,participant_pathway,BiB Growing Up participant pathway,bib,participant,,,103,30134,30134,2024-05-14 09:12:50
 BiB_GrowingUp.adult_survey,BiB_GrowingUp,adult_survey,BiB Growing Up adult survey,bib,participant,,,276,5594,5594,2024-06-25 11:48:02.253941
+BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,BiB Growing Up mother blood pressures,bib,participant,,,19,3660,3660,2024-12-09 12:31:49.743551
 BiB_GrowingUp.adult_survey_BiB1000_sample,BiB_GrowingUp,adult_survey_BiB1000_sample,BiB Growing Up adult survey - BiB1000 sample,bib,participant,,,125,1763,1763,2024-05-14 09:12:43
 BiB_GrowingUp.adult_survey_MeDALL_sample,BiB_GrowingUp,adult_survey_MeDALL_sample,BiB Growing Up adult survey - MeDALL sample,bib,participant,,,35,2594,2594,2024-05-14 09:12:43
 BiB_GrowingUp.child_survey_adult_comp,BiB_GrowingUp,child_survey_adult_comp,BiB Growing Up child survey (adult completed),bib,participant,,,443,5304,5304,2024-05-14 09:12:46

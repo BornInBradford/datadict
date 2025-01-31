@@ -1,0 +1,2 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_Maternal_Measurements.maternal_measurements_research_data,BiB_Maternal_Measurements,maternal_measurements_research_data,BiB Maternal Measurement Research Data,bib,participant,,,14,39822,12039,2024-12-09 12:57:37.833019

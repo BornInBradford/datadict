@@ -1,10 +1,19 @@
 table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
-BiB_AgeOfWonder.recruitment_dr23,BiB_AgeOfWonder,recruitment_dr23,AoW recruitment denominator 2023 release,bib,participant,,,39,10385,8991,2024-05-14 09:11:52
-BiB_AgeOfWonder.survey_mod01_dr23,BiB_AgeOfWonder,survey_mod01_dr23,AoW survey module 1 2023 release,bib,participant,,,268,4353,4353,2024-05-14 09:11:53
-BiB_AgeOfWonder.survey_mod02_dr23,BiB_AgeOfWonder,survey_mod02_dr23,AoW survey module 2 2023 release,bib,participant,,,182,3932,3932,2024-05-14 09:11:54
-BiB_AgeOfWonder.survey_mod03_dr23,BiB_AgeOfWonder,survey_mod03_dr23,AoW survey module 3 2023 release,bib,participant,,,225,2026,2026,2024-05-14 09:11:54
-BiB_AgeOfWonder.survey_mod04_dr23,BiB_AgeOfWonder,survey_mod04_dr23,AoW survey module 4 2023 release,bib,participant,,,352,1868,1868,2024-05-14 09:11:54
-BiB_AgeOfWonder.heightweight_dr23,BiB_AgeOfWonder,heightweight_dr23,AoW school visit height and weight 2023 release,bib,participant,,,20,2058,1947,2024-05-14 09:11:51
-BiB_AgeOfWonder.bioimpedance_dr23,BiB_AgeOfWonder,bioimpedance_dr23,AoW school visit bioimpedance 2023 release,bib,participant,,,28,1583,1583,2024-05-14 09:11:51
-BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,AoW school visit skinfold 2023 release,bib,participant,,,19,1600,1519,2024-05-14 09:11:52
-BiB_AgeOfWonder.bloodpressure_dr23,BiB_AgeOfWonder,bloodpressure_dr23,AoW school visit blood pressure 2023 release,bib,participant,,,21,1854,1747,2024-05-14 09:11:51
+BiB_AgeOfWonder.recruitment_dr24,BiB_AgeOfWonder,recruitment_dr24,AoW recruitment denominator 2024 release,bib,participant,,,35,23482,17840,2025-01-15 08:42:14.961153
+BiB_AgeOfWonder.survey_mod231_main_dr24,BiB_AgeOfWonder,survey_mod231_main_dr24,AoW survey module 231 2024 release with main variables,bib,participant,,,292,13563,11505,2025-01-21 14:19:48.385496
+BiB_AgeOfWonder.survey_mod231_derived_dr24,BiB_AgeOfWonder,survey_mod231_derived_dr24,AoW survey module 231 2024 release with derived variables,bib,participant,,,27,13563,11505,2025-01-21 14:19:11.642897
+BiB_AgeOfWonder.survey_mod232_main_dr24,BiB_AgeOfWonder,survey_mod232_main_dr24,AoW survey module 232 2024 release with main variables,bib,participant,,,312,12608,10684,2025-01-21 14:18:17.698713
+BiB_AgeOfWonder.survey_mod232_derived_dr24,BiB_AgeOfWonder,survey_mod232_derived_dr24,AoW survey module 232 2024 release with derived variables,bib,participant,,,56,12608,10684,2025-01-21 14:17:30.646074
+BiB_AgeOfWonder.heightweight_dr24,BiB_AgeOfWonder,heightweight_dr24,AoW school visit height and weight 2024 release,bib,participant,,,19,5103,5103,2025-01-21 08:43:57.033333
+BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,AoW school visit bioimpedance 2024 release,bib,participant,,,27,3723,3721,2025-01-21 08:42:03.778494
+BiB_AgeOfWonder.skinfold_dr24,BiB_AgeOfWonder,skinfold_dr24,AoW school visit skinfold 2024 release,bib,participant,,,18,4319,4319,2025-01-21 08:46:10.006231
+BiB_AgeOfWonder.bloodpressure_dr24,BiB_AgeOfWonder,bloodpressure_dr24,AoW school visit blood pressure 2024 release,bib,participant,,,20,4793,4793,2025-01-21 08:43:00.370394
+BiB_AgeOfWonder.recruitment_dr23,BiB_AgeOfWonder,recruitment_dr23,AoW recruitment denominator 2023 release,bib,participant,,,39,10385,8991,2024-05-14 16:41:44.130247
+BiB_AgeOfWonder.survey_mod01_dr23,BiB_AgeOfWonder,survey_mod01_dr23,AoW survey module 1 2023 release,bib,participant,,,268,4353,4353,2024-05-14 16:42:47.350132
+BiB_AgeOfWonder.survey_mod02_dr23,BiB_AgeOfWonder,survey_mod02_dr23,AoW survey module 2 2023 release,bib,participant,,,182,3932,3932,2024-05-14 16:43:15.711699
+BiB_AgeOfWonder.survey_mod03_dr23,BiB_AgeOfWonder,survey_mod03_dr23,AoW survey module 3 2023 release,bib,participant,,,225,2026,2026,2024-05-14 16:43:42.347992
+BiB_AgeOfWonder.survey_mod04_dr23,BiB_AgeOfWonder,survey_mod04_dr23,AoW survey module 4 2023 release,bib,participant,,,352,1868,1868,2024-05-14 16:44:08.383841
+BiB_AgeOfWonder.heightweight_dr23,BiB_AgeOfWonder,heightweight_dr23,AoW school visit height and weight 2023 release,bib,participant,,,20,2058,1947,2024-05-14 16:41:19.630507
+BiB_AgeOfWonder.bioimpedance_dr23,BiB_AgeOfWonder,bioimpedance_dr23,AoW school visit bioimpedance 2023 release,bib,participant,,,28,1583,1583,2024-05-14 16:40:29.736719
+BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,AoW school visit skinfold 2023 release,bib,participant,,,19,1600,1519,2024-05-14 16:42:19.643574
+BiB_AgeOfWonder.bloodpressure_dr23,BiB_AgeOfWonder,bloodpressure_dr23,AoW school visit blood pressure 2023 release,bib,participant,,,21,1854,1747,2024-05-14 16:40:55.067242

@@ -2,7 +2,7 @@ table_id,project_name,table_name,display_name,cohort_membership,entity_type,data
 COVID19_Survey.adult_phase1,COVID19_Survey,adult_phase1,COVID19 Adult  Survey Phase 1,,participant,,,181,2144,2144,2024-05-14 09:15:52
 COVID19_Survey.adult_bib_phase2,COVID19_Survey,adult_bib_phase2,COVID19 Adult Survey Phase 2 (BiB),,participant,,,448,631,631,2024-05-14 09:15:50
 COVID19_Survey.adult_bibbs_phase2,COVID19_Survey,adult_bibbs_phase2,COVID19 Adult Survey Phase 2 (BiBBS),,participant,,,268,136,136,2024-05-14 09:15:50
-COVID19_Survey.adult_bibplus_phase3,COVID19_Survey,adult_bibplus_phase3,COVID19 Adult Survey Phase 3 (BiB and general public),,participant,,,188,1954,1954,2024-05-14 09:15:51
+COVID19_Survey.adult_bibplus_phase3,COVID19_Survey,adult_bibplus_phase3,COVID19 Adult Survey Phase 3 (BiB and general public),,participant,,,188,1954,1954,2024-12-03 13:09:50.47821
 COVID19_Survey.adult_bibbs_phase3,COVID19_Survey,adult_bibbs_phase3,COVID19 Adult Survey Phase 3 (BiBBS),,participant,,,100,224,224,2024-05-14 09:15:50
 COVID19_Survey.child_phase1_covid,COVID19_Survey,child_phase1_covid,COVID19 Child Survey Phase 1,,participant,,,121,970,970,2024-05-14 09:15:52
 COVID19_Survey.child_phase2_covid,COVID19_Survey,child_phase2_covid,COVID19 Child Survey Phase 2,,participant,,,99,633,633,2024-05-14 09:15:53

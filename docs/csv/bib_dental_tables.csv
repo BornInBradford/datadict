@@ -1,6 +1,6 @@
 table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
 BiB_Dental.dsurvey_5yo,BiB_Dental,dsurvey_5yo,5yo Dental Survey,bib,participant,,,7,354,354,2024-05-14 09:12:27
-BiB_Dental.bib_dental_activity,BiB_Dental,bib_dental_activity,BiB dental activity,bib,participant,,,111,205762,1,2024-09-09 11:19:35.264479
+BiB_Dental.bib_dental_activity,BiB_Dental,bib_dental_activity,BiB dental activity,bib,participant,,,111,205762,23032,2024-09-11 12:03:50.419313
 BiB_Dental.dental_ga,BiB_Dental,dental_ga,Dental extractions under GA,bib,participant,,,48,1299,1253,2024-05-14 09:12:27
 BiB_Dental.plat_dental_activity,BiB_Dental,plat_dental_activity,PLATOON dental activity,bib,participant,,,110,3741,374,2024-09-09 12:20:37.556395
 BiB_Dental.plat_person,BiB_Dental,plat_person,PLATOON dental study participant data,bib,participant,,,17,13858,13858,2024-05-14 09:12:28

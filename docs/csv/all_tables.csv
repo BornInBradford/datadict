@@ -73,6 +73,7 @@ BiB_ChildGrowth.growth_NCMP,BiB_ChildGrowth,growth_NCMP,Child growth NCMP data,b
 BiB_ChildGrowth.growth_ResearchData,BiB_ChildGrowth,growth_ResearchData,Child growth research data,bib,participant,,,14,42555,13658,2024-06-04 12:22:55
 BiB_ChildGrowth.growth_PrimaryCare,BiB_ChildGrowth,growth_PrimaryCare,Child growth primary care data,bib,participant,,,14,91086,13419,2024-06-04 12:06:51.043816
 BiB_ChildGrowth.bioimpedance,BiB_ChildGrowth,bioimpedance,Child bioimpedance,bib,participant,,,17,6424,5494,2024-05-14 09:12:18
+BiB_Maternal_Measurements.maternal_measurements_research_data,BiB_Maternal_Measurements,maternal_measurements_research_data,BiB Maternal Measurement Research Data,bib,participant,,,14,39822,12039,2024-12-09 12:57:37.833019
 BiB_Biosamples.hosp_biochem,BiB_Biosamples,hosp_biochem,Biochemistry hospital bloods taken during pregnancy,bib,participant,,,18,6831,3198,2024-05-14 09:12:08
 BiB_Biosamples.hosp_haem,BiB_Biosamples,hosp_haem,Haematology hospital bloods taken during pregnancy,bib,participant,,,18,14553,7307,2024-05-14 09:12:08
 BiB_Biosamples.hosp_hba1c,BiB_Biosamples,hosp_hba1c,HbA1c hospital bloods taken during pregnancy,bib,participant,,,6,2288,1006,2024-05-14 09:12:09
@@ -179,7 +180,7 @@ BiB_StartingSchool.stschool_lid,BiB_StartingSchool,stschool_lid,Starting School 
 BiB_StartingSchool.stschool_ckat,BiB_StartingSchool,stschool_ckat,Starting School CKAT,bib,participant,,,612,6586,6586,2024-05-14 09:15:41
 BiB_StartingSchool.stschool_sdq,BiB_StartingSchool,stschool_sdq,Starting School SDQ,bib,participant,,,55,2340,2340,2024-05-14 09:15:42
 BiB_Dental.dsurvey_5yo,BiB_Dental,dsurvey_5yo,5yo Dental Survey,bib,participant,,,7,354,354,2024-05-14 09:12:27
-BiB_Dental.bib_dental_activity,BiB_Dental,bib_dental_activity,BiB dental activity,bib,participant,,,111,205762,1,2024-09-09 11:19:35.264479
+BiB_Dental.bib_dental_activity,BiB_Dental,bib_dental_activity,BiB dental activity,bib,participant,,,111,205762,23032,2024-09-11 12:03:50.419313
 BiB_Dental.dental_ga,BiB_Dental,dental_ga,Dental extractions under GA,bib,participant,,,48,1299,1253,2024-05-14 09:12:27
 BiB_Dental.plat_dental_activity,BiB_Dental,plat_dental_activity,PLATOON dental activity,bib,participant,,,110,3741,374,2024-09-09 12:20:37.556395
 BiB_Dental.plat_person,BiB_Dental,plat_person,PLATOON dental study participant data,bib,participant,,,17,13858,13858,2024-05-14 09:12:28
@@ -213,6 +214,7 @@ BiB_PrimarySchoolYears.ckat_data,BiB_PrimarySchoolYears,ckat_data,Primary School
 BiB_PrimarySchoolYears.ckat_data_bib,BiB_PrimarySchoolYears,ckat_data_bib,Primary School Years CKAT data BiB only,bib,participant,,,635,7006,7006,2024-07-26 15:27:32.022446
 BiB_GrowingUp.participant_pathway,BiB_GrowingUp,participant_pathway,BiB Growing Up participant pathway,bib,participant,,,103,30134,30134,2024-05-14 09:12:50
 BiB_GrowingUp.adult_survey,BiB_GrowingUp,adult_survey,BiB Growing Up adult survey,bib,participant,,,276,5594,5594,2024-06-25 11:48:02.253941
+BiB_GrowingUp.mother_blood_pressures,BiB_GrowingUp,mother_blood_pressures,BiB Growing Up mother blood pressures,bib,participant,,,19,3660,3660,2024-12-09 12:31:49.743551
 BiB_GrowingUp.adult_survey_BiB1000_sample,BiB_GrowingUp,adult_survey_BiB1000_sample,BiB Growing Up adult survey - BiB1000 sample,bib,participant,,,125,1763,1763,2024-05-14 09:12:43
 BiB_GrowingUp.adult_survey_MeDALL_sample,BiB_GrowingUp,adult_survey_MeDALL_sample,BiB Growing Up adult survey - MeDALL sample,bib,participant,,,35,2594,2594,2024-05-14 09:12:43
 BiB_GrowingUp.child_survey_adult_comp,BiB_GrowingUp,child_survey_adult_comp,BiB Growing Up child survey (adult completed),bib,participant,,,443,5304,5304,2024-05-14 09:12:46
@@ -222,25 +224,34 @@ BiB_GrowingUp.dxa_scan_c,BiB_GrowingUp,dxa_scan_c,BiB Growing Up DXA scan (child
 BiB_GrowingUp.dxa_scan_f,BiB_GrowingUp,dxa_scan_f,BiB Growing Up DXA scan (father),bib,participant,,,128,58,58,2024-05-14 09:12:47
 BiB_GrowingUp.blood_pressure,BiB_GrowingUp,blood_pressure,BiB Growing Up child blood pressures,bib,participant,,,16,15899,9082,2024-05-14 09:12:44
 BiB_GrowingUp.renal_urines,BiB_GrowingUp,renal_urines,BiB Growing Up renal study urine analyses,bib,participant,,,11,705,703,2024-05-14 09:12:51
-BiB_Breathes.BiBBr_Phase1,BiB_Breathes,BiBBr_Phase1,BREATHES Air quality survey Phase 1,bib,participant,,,190,1952,1952,2024-06-17 09:45:19.094116
-BiB_Breathes.BiBBr_Phase2,BiB_Breathes,BiBBr_Phase2,BREATHES Air quality survey Phase 2,bib,participant,,,112,1994,1994,2024-06-17 09:45:19.758955
+BiB_Breathes.BiBBr_Phase1,BiB_Breathes,BiBBr_Phase1,BREATHES Air quality survey Phase 1,bib,participant,,,190,1952,1952,2024-12-03 13:33:26.508484
+BiB_Breathes.BiBBr_Phase2,BiB_Breathes,BiBBr_Phase2,BREATHES Air quality survey Phase 2,bib,participant,,,112,1994,1994,2024-12-03 13:09:10.563629
 BiB_SDQs.BiB1000_sdq,BiB_SDQs,BiB1000_sdq,Strength and Difficulties questionnaire from the BiB1000 survey,bib,participant,,,56,1226,1226,2024-05-14 09:15:36
 BiB_SDQs.COVID_phase1_sdq,BiB_SDQs,COVID_phase1_sdq,Strength and Difficulties questionnaire from the COVID phase 1 survey,bib,participant,,,71,913,913,2024-05-14 09:15:36
 BiB_SDQs.COVID_phase2_sdq,BiB_SDQs,COVID_phase2_sdq,Strength and Difficulties questionnaire from the COVID phase 2 survey,bib,participant,,,71,631,631,2024-05-14 09:15:36
 BiB_SDQs.COVID_phase3_sdq,BiB_SDQs,COVID_phase3_sdq,Strength and Difficulties questionnaire from the COVID phase 3 survey,bib,participant,,,69,582,582,2024-05-14 09:15:36
-BiB_SDQs.GrowingUp_sdq,BiB_SDQs,GrowingUp_sdq,Strength and Difficulties questionnaire from the Growing Up survey,bib,participant,,,61,5281,5281,2024-05-14 09:15:36
+BiB_SDQs.GrowingUp_sdq,BiB_SDQs,GrowingUp_sdq,Strength and Difficulties questionnaire from the Growing Up survey,bib,participant,,,61,5279,5279,2024-12-09 13:01:12.602888
 BiB_SDQs.MeDALL_sdq,BiB_SDQs,MeDALL_sdq,Strength and Difficulties questionnaire from the MeDALL survey,bib,participant,,,65,2590,2590,2024-05-14 09:15:36
 BiB_SDQs.PrimarySchoolYears_sdq,BiB_SDQs,PrimarySchoolYears_sdq,Strength and Difficulties questionnaire from the Primary School Years surve,bib,participant,,,58,3502,3234,2024-05-14 09:15:37
 BiB_SDQs.StartingSchool_sdq,BiB_SDQs,StartingSchool_sdq,Strength and Difficulties questionnaire from the Starting School survey,bib,participant,,,65,2340,2340,2024-05-14 09:15:37
-BiB_AgeOfWonder.recruitment_dr23,BiB_AgeOfWonder,recruitment_dr23,AoW recruitment denominator 2023 release,bib,participant,,,39,10385,8991,2024-05-14 09:11:52
-BiB_AgeOfWonder.survey_mod01_dr23,BiB_AgeOfWonder,survey_mod01_dr23,AoW survey module 1 2023 release,bib,participant,,,268,4353,4353,2024-05-14 09:11:53
-BiB_AgeOfWonder.survey_mod02_dr23,BiB_AgeOfWonder,survey_mod02_dr23,AoW survey module 2 2023 release,bib,participant,,,182,3932,3932,2024-05-14 09:11:54
-BiB_AgeOfWonder.survey_mod03_dr23,BiB_AgeOfWonder,survey_mod03_dr23,AoW survey module 3 2023 release,bib,participant,,,225,2026,2026,2024-05-14 09:11:54
-BiB_AgeOfWonder.survey_mod04_dr23,BiB_AgeOfWonder,survey_mod04_dr23,AoW survey module 4 2023 release,bib,participant,,,352,1868,1868,2024-05-14 09:11:54
-BiB_AgeOfWonder.heightweight_dr23,BiB_AgeOfWonder,heightweight_dr23,AoW school visit height and weight 2023 release,bib,participant,,,20,2058,1947,2024-05-14 09:11:51
-BiB_AgeOfWonder.bioimpedance_dr23,BiB_AgeOfWonder,bioimpedance_dr23,AoW school visit bioimpedance 2023 release,bib,participant,,,28,1583,1583,2024-05-14 09:11:51
-BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,AoW school visit skinfold 2023 release,bib,participant,,,19,1600,1519,2024-05-14 09:11:52
-BiB_AgeOfWonder.bloodpressure_dr23,BiB_AgeOfWonder,bloodpressure_dr23,AoW school visit blood pressure 2023 release,bib,participant,,,21,1854,1747,2024-05-14 09:11:51
+BiB_AgeOfWonder.recruitment_dr24,BiB_AgeOfWonder,recruitment_dr24,AoW recruitment denominator 2024 release,bib,participant,,,35,23482,17840,2025-01-15 08:42:14.961153
+BiB_AgeOfWonder.survey_mod231_main_dr24,BiB_AgeOfWonder,survey_mod231_main_dr24,AoW survey module 231 2024 release with main variables,bib,participant,,,292,13563,11505,2025-01-21 14:19:48.385496
+BiB_AgeOfWonder.survey_mod231_derived_dr24,BiB_AgeOfWonder,survey_mod231_derived_dr24,AoW survey module 231 2024 release with derived variables,bib,participant,,,27,13563,11505,2025-01-21 14:19:11.642897
+BiB_AgeOfWonder.survey_mod232_main_dr24,BiB_AgeOfWonder,survey_mod232_main_dr24,AoW survey module 232 2024 release with main variables,bib,participant,,,312,12608,10684,2025-01-21 14:18:17.698713
+BiB_AgeOfWonder.survey_mod232_derived_dr24,BiB_AgeOfWonder,survey_mod232_derived_dr24,AoW survey module 232 2024 release with derived variables,bib,participant,,,56,12608,10684,2025-01-21 14:17:30.646074
+BiB_AgeOfWonder.heightweight_dr24,BiB_AgeOfWonder,heightweight_dr24,AoW school visit height and weight 2024 release,bib,participant,,,19,5103,5103,2025-01-21 08:43:57.033333
+BiB_AgeOfWonder.bioimpedance_dr24,BiB_AgeOfWonder,bioimpedance_dr24,AoW school visit bioimpedance 2024 release,bib,participant,,,27,3723,3721,2025-01-21 08:42:03.778494
+BiB_AgeOfWonder.skinfold_dr24,BiB_AgeOfWonder,skinfold_dr24,AoW school visit skinfold 2024 release,bib,participant,,,18,4319,4319,2025-01-21 08:46:10.006231
+BiB_AgeOfWonder.bloodpressure_dr24,BiB_AgeOfWonder,bloodpressure_dr24,AoW school visit blood pressure 2024 release,bib,participant,,,20,4793,4793,2025-01-21 08:43:00.370394
+BiB_AgeOfWonder.recruitment_dr23,BiB_AgeOfWonder,recruitment_dr23,AoW recruitment denominator 2023 release,bib,participant,,,39,10385,8991,2024-05-14 16:41:44.130247
+BiB_AgeOfWonder.survey_mod01_dr23,BiB_AgeOfWonder,survey_mod01_dr23,AoW survey module 1 2023 release,bib,participant,,,268,4353,4353,2024-05-14 16:42:47.350132
+BiB_AgeOfWonder.survey_mod02_dr23,BiB_AgeOfWonder,survey_mod02_dr23,AoW survey module 2 2023 release,bib,participant,,,182,3932,3932,2024-05-14 16:43:15.711699
+BiB_AgeOfWonder.survey_mod03_dr23,BiB_AgeOfWonder,survey_mod03_dr23,AoW survey module 3 2023 release,bib,participant,,,225,2026,2026,2024-05-14 16:43:42.347992
+BiB_AgeOfWonder.survey_mod04_dr23,BiB_AgeOfWonder,survey_mod04_dr23,AoW survey module 4 2023 release,bib,participant,,,352,1868,1868,2024-05-14 16:44:08.383841
+BiB_AgeOfWonder.heightweight_dr23,BiB_AgeOfWonder,heightweight_dr23,AoW school visit height and weight 2023 release,bib,participant,,,20,2058,1947,2024-05-14 16:41:19.630507
+BiB_AgeOfWonder.bioimpedance_dr23,BiB_AgeOfWonder,bioimpedance_dr23,AoW school visit bioimpedance 2023 release,bib,participant,,,28,1583,1583,2024-05-14 16:40:29.736719
+BiB_AgeOfWonder.skinfold_dr23,BiB_AgeOfWonder,skinfold_dr23,AoW school visit skinfold 2023 release,bib,participant,,,19,1600,1519,2024-05-14 16:42:19.643574
+BiB_AgeOfWonder.bloodpressure_dr23,BiB_AgeOfWonder,bloodpressure_dr23,AoW school visit blood pressure 2023 release,bib,participant,,,21,1854,1747,2024-05-14 16:40:55.067242
 BiBBS_CohortInfo.recruitment,BiBBS_CohortInfo,recruitment,Pregnancy recruitment,bibbs,hospital patient,,,21,24918,20887,2024-05-14 09:15:46
 BiBBS_CohortInfo.pregnancy,BiBBS_CohortInfo,pregnancy,Recruited pregnancy information,bibbs,participant,,,15,2626,2425,2024-05-14 09:15:46
 BiBBS_CohortInfo.mother,BiBBS_CohortInfo,mother,Recruited mother information,bibbs,participant,,,10,2425,2425,2024-05-14 09:15:46
@@ -257,7 +268,7 @@ BiBBS_Geographic.bibbs_geog_green_space,BiBBS_Geographic,bibbs_geog_green_space,
 BiBBS_Geographic.bibbs_geog_public_transport_traffic,BiBBS_Geographic,bibbs_geog_public_transport_traffic,BiBBS property level public transport and traffic data,bibbs,property,,,85,6531,6531,2024-07-16 16:45:06.019949
 BiBBS_Geographic.bibbs_geog_sc_walkability_lu,BiBBS_Geographic,bibbs_geog_sc_walkability_lu,"BiBBS property level street centrality, walkability and land use data",bibbs,property,,,37,6531,6531,2024-07-29 09:15:04.8417
 BiBBS_Geographic.bibbs_geog_ndvi_longitudinal,BiBBS_Geographic,bibbs_geog_ndvi_longitudinal,BiBBS property level longitudinal NDVI data,bibbs,property,,,46,6531,6531,2024-07-17 11:39:49.836023
-BiBBS_Dental.bibbs_dental_activity,BiBBS_Dental,bibbs_dental_activity,BiBBS dental activity,bibbs,participant,,,111,31138,1,2024-09-09 12:12:22.289568
+BiBBS_Dental.bibbs_dental_activity,BiBBS_Dental,bibbs_dental_activity,BiBBS dental activity,bibbs,participant,,,111,31138,5470,2024-09-11 12:07:02.154903
 BiB4All_Geographic.bib4all_geog_person,BiB4All_Geographic,bib4all_geog_person,BiB4All person level geographic information,bib,participant,,,15,101646,15316,2024-05-14 09:15:44
 BiB4All_Geographic.bib4all_geog_property,BiB4All_Geographic,bib4all_geog_property,BiB4All property level geographic information,bib,property,,,12,11471,11471,2024-05-14 09:15:45
 BiB4All_Geographic.bib4all_geog_lsoa,BiB4All_Geographic,bib4all_geog_lsoa,BiB4All LSOA level geographic information,bib,lsoa,,,10,984,984,2024-05-14 09:15:43
@@ -268,11 +279,11 @@ BiB4All_Geographic.bib4all_geog_green_space,BiB4All_Geographic,bib4all_geog_gree
 BiB4All_Geographic.bib4all_geog_public_transport_traffic,BiB4All_Geographic,bib4all_geog_public_transport_traffic,BiB4All property level public transport and traffic data,bib4all,property,,,85,11274,11274,2024-07-16 15:07:03.699974
 BiB4All_Geographic.bib4all_geog_sc_walkability_lu,BiB4All_Geographic,bib4all_geog_sc_walkability_lu,"BiB4All property level street centrality, walkability and land use data",bib4all,property,,,37,11274,11274,2024-07-29 09:16:48.960369
 BiB4All_Geographic.bib4all_geog_ndvi_longitudinal,BiB4All_Geographic,bib4all_geog_ndvi_longitudinal,BiB4All property level longitudinal NDVI data,bib4all,property,,,46,11274,11274,2024-07-17 11:36:19.984755
-BiB4All_Dental.bib4all_dental_activity,BiB4All_Dental,bib4all_dental_activity,BiB4All dental activity,bib4all,participant,,,111,43081,1,2024-09-09 12:22:56.72864
+BiB4All_Dental.bib4all_dental_activity,BiB4All_Dental,bib4all_dental_activity,BiB4All dental activity,bib4all,participant,,,111,43081,8533,2024-09-11 12:07:06.404903
 COVID19_Survey.adult_phase1,COVID19_Survey,adult_phase1,COVID19 Adult  Survey Phase 1,,participant,,,181,2144,2144,2024-05-14 09:15:52
 COVID19_Survey.adult_bib_phase2,COVID19_Survey,adult_bib_phase2,COVID19 Adult Survey Phase 2 (BiB),,participant,,,448,631,631,2024-05-14 09:15:50
 COVID19_Survey.adult_bibbs_phase2,COVID19_Survey,adult_bibbs_phase2,COVID19 Adult Survey Phase 2 (BiBBS),,participant,,,268,136,136,2024-05-14 09:15:50
-COVID19_Survey.adult_bibplus_phase3,COVID19_Survey,adult_bibplus_phase3,COVID19 Adult Survey Phase 3 (BiB and general public),,participant,,,188,1954,1954,2024-05-14 09:15:51
+COVID19_Survey.adult_bibplus_phase3,COVID19_Survey,adult_bibplus_phase3,COVID19 Adult Survey Phase 3 (BiB and general public),,participant,,,188,1954,1954,2024-12-03 13:09:50.47821
 COVID19_Survey.adult_bibbs_phase3,COVID19_Survey,adult_bibbs_phase3,COVID19 Adult Survey Phase 3 (BiBBS),,participant,,,100,224,224,2024-05-14 09:15:50
 COVID19_Survey.child_phase1_covid,COVID19_Survey,child_phase1_covid,COVID19 Child Survey Phase 1,,participant,,,121,970,970,2024-05-14 09:15:52
 COVID19_Survey.child_phase2_covid,COVID19_Survey,child_phase2_covid,COVID19 Child Survey Phase 2,,participant,,,99,633,633,2024-05-14 09:15:53
