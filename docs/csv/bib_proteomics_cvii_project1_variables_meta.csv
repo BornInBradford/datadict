@@ -1,0 +1,16 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Proteomics.CVII_Project1.BiBPersonID,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,BiBPersonID,BiBPersonID,text,,administration,90896,988
+BiB_Proteomics.CVII_Project1.PregnancyID,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,PregnancyID,Pregnancy ID,text,,administration,90896,988
+BiB_Proteomics.CVII_Project1.Ethnicity,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,Ethnicity,Ethnicity,text,,ethnic_group,90896,988
+BiB_Proteomics.CVII_Project1.GDM,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,GDM,Gestational Diabetes Status,integer,,endocrine_system,90896,988
+BiB_Proteomics.CVII_Project1.OlinkID,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,OlinkID,OlinkID,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.UniProt,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,UniProt,UniProt Identifier,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.Assay,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,Assay,Protein Name,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.MissingFreq,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,MissingFreq,Missing Frequency,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.Panel,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,Panel,Olink Panel,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.Panel_Version,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,Panel_Version,Olink Panel Version,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.PlateID,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,PlateID,PlateID,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.QC_Warning,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,QC_Warning,QC Warning,categorical,[1 Pass] [2 Warning],proteomics,90896,988
+BiB_Proteomics.CVII_Project1.LOD,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,LOD,Limit of Detection,float,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.NPX,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,NPX,Normalized Protein Expression,float,,proteomics,90890,988
+BiB_Proteomics.CVII_Project1.Normalization,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,Normalization,Method used to scale data,text,,proteomics,90896,988

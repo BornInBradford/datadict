@@ -1,0 +1,15 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Proteomics.HT_Intensity.BiBPersonID,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,BiBPersonID,BiB person identifier,text,,administration,8380872,1548
+BiB_Proteomics.HT_Intensity.PregnancyID,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,PregnancyID,Pregnancy identifier,text,,administration,8380872,1548
+BiB_Proteomics.HT_Intensity.ParticipantType,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,ParticipantType,Participant type,text,,administration,8380872,1548
+BiB_Proteomics.HT_Intensity.AgeSampleCollection,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,AgeSampleCollection,Age at sample collection,integer,,age,8380872,1548
+BiB_Proteomics.HT_Intensity.OlinkID,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,OlinkID,Olink ID,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.UniProt,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,UniProt,UniProt ID,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.Assay,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,Assay,Gene name,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.Protein,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,Protein,Protein name,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.Count,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,Count,Raw measurement of protein abundance,integer,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.NPX,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,NPX,Normalised Protein Expression,float,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.PCNormalizedNPX,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,PCNormalizedNPX,Plate control normalised NPX,float,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.AssayQC,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,AssayQC,Assay QC,categorical,[1 PASS] [0 WARNING],proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.SampleQC,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,SampleQC,Sample QC,integer,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.Batch,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,Batch,Plate and Well ID combined,text,,proteomics,8380872,1548

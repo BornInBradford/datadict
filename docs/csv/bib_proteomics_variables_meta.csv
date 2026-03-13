@@ -1,144 +1,158 @@
 variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
-BiB_Proteomics.ngs_control.SampleID,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,SampleID,,text,,,34686,26
-BiB_Proteomics.ngs_control.Index,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Index,,integer,,,34686,26
-BiB_Proteomics.ngs_control.OlinkID,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,OlinkID,,text,,,34686,26
-BiB_Proteomics.ngs_control.UniProt,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,UniProt,,text,,,34686,26
-BiB_Proteomics.ngs_control.Assay,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Assay,,text,,,34686,26
-BiB_Proteomics.ngs_control.MissingFreq,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,MissingFreq,,float,,,34686,26
-BiB_Proteomics.ngs_control.Panel,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Panel,,text,,,34686,26
-BiB_Proteomics.ngs_control.Panel_Lot_Nr,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Panel_Lot_Nr,,text,,,34686,26
-BiB_Proteomics.ngs_control.PlateID,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,PlateID,,text,,,34686,26
-BiB_Proteomics.ngs_control.QC_Warning,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,QC_Warning,,text,,,34686,26
-BiB_Proteomics.ngs_control.LOD,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,LOD,,float,,,34686,26
-BiB_Proteomics.ngs_control.NPX,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,NPX,,float,,,34686,26
-BiB_Proteomics.ngs_control.Normalization,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Normalization,,text,,,34686,26
-BiB_Proteomics.ngs_control.Assay_Warning,BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Assay_Warning,,text,,,34686,26
-BiB_Proteomics.ngs_project1.BiBPersonID,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,BiBPersonID,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.BiBPregNumber,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,BiBPregNumber,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.ethnicity,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,ethnicity,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.gdm,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,gdm,,integer,,,369000,1000
-BiB_Proteomics.ngs_project1.SampleType,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,SampleType,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.BoxID,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,BoxID,,integer,,,369000,1000
-BiB_Proteomics.ngs_project1.BoxName,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,BoxName,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.Position,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,Position,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.bbl_BoxID,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,bbl_BoxID,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.bbl_BoxWell,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,bbl_BoxWell,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.bbl_SRCFilename,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,bbl_SRCFilename,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.AliquotCount,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,AliquotCount,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.Index,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,Index,,integer,,,369000,1000
-BiB_Proteomics.ngs_project1.OlinkID,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,OlinkID,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.UniProt,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,UniProt,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.Assay,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,Assay,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.MissingFreq,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,MissingFreq,,float,,,369000,1000
-BiB_Proteomics.ngs_project1.Panel,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,Panel,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.Panel_Lot_Nr,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,Panel_Lot_Nr,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.PlateID,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,PlateID,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.QC_Warning,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,QC_Warning,1.000000,categorical,[1 Pass] [2 Warning],,369000,1000
-BiB_Proteomics.ngs_project1.LOD,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,LOD,,float,,,369000,1000
-BiB_Proteomics.ngs_project1.NPX,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,NPX,,float,,,369000,1000
-BiB_Proteomics.ngs_project1.Normalization,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,Normalization,,text,,,369000,1000
-BiB_Proteomics.ngs_project1.Assay_Warning,BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,Assay_Warning,0.000000,categorical,[0 ] [2 Warning],,369000,1000
-BiB_Proteomics.ngs_project2.BiBPersonID,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,BiBPersonID,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.BiBPregNumber,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,BiBPregNumber,,integer,,,543168,1472
-BiB_Proteomics.ngs_project2.ethnicity,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,ethnicity,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.SampleType,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,SampleType,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.BoxID,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,BoxID,,integer,,,1107000,3000
-BiB_Proteomics.ngs_project2.BoxName,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,BoxName,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.Position,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Position,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.bbl_BoxID,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,bbl_BoxID,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.bbl_BoxWell,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,bbl_BoxWell,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.bbl_SRCFilename,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,bbl_SRCFilename,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.AliquotCount,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,AliquotCount,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.gdm,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,gdm,,integer,,,543168,1472
-BiB_Proteomics.ngs_project2.has_gwas,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,has_gwas,,integer,,,543168,1472
-BiB_Proteomics.ngs_project2.Gest_Hypertension,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Gest_Hypertension,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.Pre_Eclampsia,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Pre_Eclampsia,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.Congenital_Anomalies_Reg,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Congenital_Anomalies_Reg,,integer,,,543168,1472
-BiB_Proteomics.ngs_project2.stillbirth,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,stillbirth,,integer,,,543168,1472
-BiB_Proteomics.ngs_project2.Gest_LastCompWk,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Gest_LastCompWk,,integer,,,543168,1472
-BiB_Proteomics.ngs_project2.Pre_Term_Birth,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Pre_Term_Birth,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.Presence_One_Outcome,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Presence_One_Outcome,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.has_outcomes,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,has_outcomes,,integer,,,1107000,3000
-BiB_Proteomics.ngs_project2.Index,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Index,,integer,,,1107000,3000
-BiB_Proteomics.ngs_project2.OlinkID,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,OlinkID,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.UniProt,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,UniProt,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.Assay,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Assay,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.MissingFreq,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,MissingFreq,,float,,,1107000,3000
-BiB_Proteomics.ngs_project2.Panel,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Panel,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.Panel_Lot_Nr,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Panel_Lot_Nr,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.PlateID,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,PlateID,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.QC_Warning,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,QC_Warning,1.000000,categorical,[1 Pass] [2 Warning],,1107000,3000
-BiB_Proteomics.ngs_project2.LOD,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,LOD,,float,,,1107000,3000
-BiB_Proteomics.ngs_project2.NPX,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,NPX,,float,,,1107000,3000
-BiB_Proteomics.ngs_project2.Normalization,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Normalization,,text,,,1107000,3000
-BiB_Proteomics.ngs_project2.Assay_Warning,BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Assay_Warning,0.000000,categorical,[0 ] [2 Warning],,1107000,3000
-BiB_Proteomics.qpcr_control.SampleID,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,SampleID,,text,,,8832,72
-BiB_Proteomics.qpcr_control.Index,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,Index,,integer,,,8832,72
-BiB_Proteomics.qpcr_control.OlinkID,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,OlinkID,,text,,,8832,72
-BiB_Proteomics.qpcr_control.UniProt,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,UniProt,,text,,,8832,72
-BiB_Proteomics.qpcr_control.Assay,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,Assay,,text,,,8832,72
-BiB_Proteomics.qpcr_control.MissingFreq,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,MissingFreq,,text,,,8832,72
-BiB_Proteomics.qpcr_control.Panel,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,Panel,,text,,,8832,72
-BiB_Proteomics.qpcr_control.Panel_Version,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,Panel_Version,,text,,,8832,72
-BiB_Proteomics.qpcr_control.PlateID,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,PlateID,,text,,,8832,72
-BiB_Proteomics.qpcr_control.QC_Warning,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,QC_Warning,,text,,,8832,72
-BiB_Proteomics.qpcr_control.LOD,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,LOD,,float,,,8832,72
-BiB_Proteomics.qpcr_control.NPX,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,NPX,,float,,,8821,72
-BiB_Proteomics.qpcr_control.Normalization,BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,Normalization,,text,,,8832,72
-BiB_Proteomics.qpcr_project1.BiBPersonID,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,BiBPersonID,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.BiBPregNumber,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,BiBPregNumber,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.gdm,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,gdm,,integer,,,92000,1000
-BiB_Proteomics.qpcr_project1.SampleID,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,SampleID,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.SampleType,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,SampleType,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.BoxID,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,BoxID,,integer,,,92000,1000
-BiB_Proteomics.qpcr_project1.BoxName,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,BoxName,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.Position,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,Position,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.bbl_BoxID,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,bbl_BoxID,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.bbl_BoxWell,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,bbl_BoxWell,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.bbl_SRCFilename,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,bbl_SRCFilename,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.AliquotCount,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,AliquotCount,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.Index,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,Index,,integer,,,92000,1000
-BiB_Proteomics.qpcr_project1.OlinkID,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,OlinkID,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.UniProt,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,UniProt,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.Assay,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,Assay,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.MissingFreq,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,MissingFreq,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.Panel,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,Panel,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.Panel_Version,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,Panel_Version,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.PlateID,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,PlateID,,text,,,92000,1000
-BiB_Proteomics.qpcr_project1.QC_Warning,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,QC_Warning,1.000000,categorical,[1 Pass] [2 Warning],,92000,1000
-BiB_Proteomics.qpcr_project1.LOD,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,LOD,,float,,,92000,1000
-BiB_Proteomics.qpcr_project1.NPX,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,NPX,,float,,,91994,1000
-BiB_Proteomics.qpcr_project1.Normalization,BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,Normalization,,text,,,92000,1000
-BiB_Proteomics.qpcr_project2.BiBPersonID,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,BiBPersonID,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.BiBPregNumber,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,BiBPregNumber,,integer,,,135424,1472
-BiB_Proteomics.qpcr_project2.ethnicity,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,ethnicity,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.SampleType,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,SampleType,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.BoxID,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,BoxID,,integer,,,276000,3000
-BiB_Proteomics.qpcr_project2.BoxName,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,BoxName,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.Position,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,Position,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.bbl_BoxID,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,bbl_BoxID,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.bbl_BoxWell,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,bbl_BoxWell,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.bbl_SRCFilename,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,bbl_SRCFilename,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.AliquotCount,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,AliquotCount,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.gdm,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,gdm,,integer,,,135424,1472
-BiB_Proteomics.qpcr_project2.has_gwas,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,has_gwas,,integer,,,135424,1472
-BiB_Proteomics.qpcr_project2.Gest_Hypertension,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,Gest_Hypertension,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.Pre_Eclampsia,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,Pre_Eclampsia,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.Congenital_Anomalies_Reg,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,Congenital_Anomalies_Reg,,integer,,,135424,1472
-BiB_Proteomics.qpcr_project2.stillbirth,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,stillbirth,,integer,,,135424,1472
-BiB_Proteomics.qpcr_project2.Gest_LastCompWk,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,Gest_LastCompWk,,integer,,,135424,1472
-BiB_Proteomics.qpcr_project2.Pre_Term_Birth,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,Pre_Term_Birth,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.Presence_One_Outcome,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,Presence_One_Outcome,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.has_outcomes,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,has_outcomes,,integer,,,276000,3000
-BiB_Proteomics.qpcr_project2.Index,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,Index,,integer,,,276000,3000
-BiB_Proteomics.qpcr_project2.OlinkID,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,OlinkID,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.UniProt,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,UniProt,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.Assay,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,Assay,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.MissingFreq,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,MissingFreq,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.Panel,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,Panel,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.Panel_Version,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,Panel_Version,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.PlateID,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,PlateID,,text,,,276000,3000
-BiB_Proteomics.qpcr_project2.QC_Warning,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,QC_Warning,1.000000,categorical,[1 Pass] [2 Warning],,276000,3000
-BiB_Proteomics.qpcr_project2.LOD,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,LOD,,float,,,276000,3000
-BiB_Proteomics.qpcr_project2.NPX,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,NPX,,float,,,275364,2996
-BiB_Proteomics.qpcr_project2.Normalization,BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,Normalization,,text,,,276000,3000
+BiB_Proteomics.CM_Controls.SampleID,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,SampleID,SampleID,text,,administration,34354,26
+BiB_Proteomics.CM_Controls.OlinkID,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,OlinkID,OlinkID,text,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.UniProt,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,UniProt,UniProt Identifier,text,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.Assay,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,Assay,Protein Name,text,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.MissingFreq,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,MissingFreq,Missing Frequency,float,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.Panel,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,Panel,Olink Panel,text,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.Panel_Lot_Nr,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,Panel_Lot_Nr,Panel Lot Number,text,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.PlateID,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,PlateID,PlateID,text,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.QC_Warning,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,QC_Warning,QC Warning,categorical,[1 Pass] [2 Warning],proteomics,34354,26
+BiB_Proteomics.CM_Controls.LOD,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,LOD,Limit of Detection,float,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.NPX,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,NPX,Normalized Protein Expression,float,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.Normalization,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,Normalization,Method used to scale data,text,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.Assay_Warning,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,Assay_Warning,Assay Warning,categorical,[1 Pass] [2 Warning],proteomics,34354,26
+BiB_Proteomics.CM_Project1.BiBPersonID,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,BiBPersonID,BiBPersonID,text,,administration,354301,1000
+BiB_Proteomics.CM_Project1.PregnancyID,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,PregnancyID,Pregnancy ID,text,,administration,354301,1000
+BiB_Proteomics.CM_Project1.Ethnicity,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,Ethnicity,Ethnicity,text,,ethnic_group,354301,1000
+BiB_Proteomics.CM_Project1.GDM,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,GDM,Gestational Diabetes Status,integer,,endocrine_system,354301,1000
+BiB_Proteomics.CM_Project1.OlinkID,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,OlinkID,OlinkID,text,,proteomics,354301,1000
+BiB_Proteomics.CM_Project1.UniProt,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,UniProt,UniProt Identifier,text,,proteomics,354301,1000
+BiB_Proteomics.CM_Project1.Assay,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,Assay,Protein Name,text,,proteomics,354301,1000
+BiB_Proteomics.CM_Project1.MissingFreq,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,MissingFreq,Missing Frequency,float,,proteomics,354301,1000
+BiB_Proteomics.CM_Project1.Panel,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,Panel,Olink Panel,text,,proteomics,354301,1000
+BiB_Proteomics.CM_Project1.Panel_Lot_Nr,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,Panel_Lot_Nr,Panel Lot Number,text,,proteomics,354301,1000
+BiB_Proteomics.CM_Project1.PlateID,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,PlateID,PlateID,text,,proteomics,354301,1000
+BiB_Proteomics.CM_Project1.QC_Warning,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,QC_Warning,QC Warning,categorical,[1 Pass] [2 Warning],proteomics,354301,1000
+BiB_Proteomics.CM_Project1.LOD,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,LOD,Limit of Detection,float,,proteomics,354301,1000
+BiB_Proteomics.CM_Project1.NPX,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,NPX,Normalized Protein Expression,float,,proteomics,354301,1000
+BiB_Proteomics.CM_Project1.Normalization,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,Normalization,Method used to scale data,text,,proteomics,354301,1000
+BiB_Proteomics.CM_Project1.Assay_Warning,BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,Assay_Warning,Assay Warning,categorical,[1 Pass] [2 Warning],proteomics,354301,1000
+BiB_Proteomics.CM_Project2.BiBPersonID,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,BiBPersonID,BiBPersonID,text,,administration,1079077,2994
+BiB_Proteomics.CM_Project2.PregnancyID,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,PregnancyID,Pregnancy ID,text,,administration,1079077,2994
+BiB_Proteomics.CM_Project2.Ethnicity,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Ethnicity,Ethnicity,text,,ethnic_group,1079077,2994
+BiB_Proteomics.CM_Project2.GDM,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,GDM,Gestational Diabetes Status,integer,,endocrine_system,530695,1469
+BiB_Proteomics.CM_Project2.has_GWAS,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,has_GWAS,has GWAS data,integer,,omics,530695,1469
+BiB_Proteomics.CM_Project2.Gest_Hypertension,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Gest_Hypertension,Gestational Hypertension Status,text,,cardiovascular_system,530695,1469
+BiB_Proteomics.CM_Project2.Pre_Eclampsia,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Pre_Eclampsia,Pre-eclampsia Status,text,,pregnancy,530695,1469
+BiB_Proteomics.CM_Project2.Congenital_Anomalies_Reg,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Congenital_Anomalies_Reg,Has YH Congenital Anomalies Register,integer,,congenital_and_malformations,530695,1469
+BiB_Proteomics.CM_Project2.Stillbirth,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Stillbirth,Stillbirth,integer,,pregnancy,530695,1469
+BiB_Proteomics.CM_Project2.Gest_LastCompWk,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Gest_LastCompWk,Gestation to last completed week,integer,,pregnancy,530695,1469
+BiB_Proteomics.CM_Project2.Preterm_Birth,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Preterm_Birth,Pre-term birth,text,,pregnancy,530695,1469
+BiB_Proteomics.CM_Project2.Presence_One_Outcome,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Presence_One_Outcome,Present of at least one outcome,text,,physical_health,1079077,2994
+BiB_Proteomics.CM_Project2.has_outcomes,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,has_outcomes,has outcomes,integer,,physical_health,1079077,2994
+BiB_Proteomics.CM_Project2.OlinkID,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,OlinkID,OlinkID,text,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.UniProt,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,UniProt,UniProt Identifier,text,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.Assay,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Assay,Protein Name,text,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.MissingFreq,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,MissingFreq,Missing Frequency,float,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.Panel,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Panel,Olink Panel,text,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.Panel_Lot_Nr,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Panel_Lot_Nr,Panel Lot Number,text,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.PlateID,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,PlateID,PlateID,text,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.QC_Warning,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,QC_Warning,QC Warning,categorical,[1 Pass] [2 Warning],proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.LOD,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,LOD,Limit of Detection,float,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.NPX,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,NPX,Normalized Protein Expression,float,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.Normalization,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Normalization,Method used to scale data,text,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.Assay_Warning,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Assay_Warning,Assay Warning,categorical,[1 Pass] [2 Warning],,1079077,2994
+BiB_Proteomics.CVII_Controls.SampleID,BiB_Proteomics.CVII_Controls,BiB_Proteomics,CVII_Controls,SampleID,SampleID,text,,administration,8740,71
+BiB_Proteomics.CVII_Controls.OlinkID,BiB_Proteomics.CVII_Controls,BiB_Proteomics,CVII_Controls,OlinkID,OlinkID,text,,proteomics,8740,71
+BiB_Proteomics.CVII_Controls.UniProt,BiB_Proteomics.CVII_Controls,BiB_Proteomics,CVII_Controls,UniProt,UniProt Identifier,text,,proteomics,8740,71
+BiB_Proteomics.CVII_Controls.Assay,BiB_Proteomics.CVII_Controls,BiB_Proteomics,CVII_Controls,Assay,Protein Name,text,,proteomics,8740,71
+BiB_Proteomics.CVII_Controls.MissingFreq,BiB_Proteomics.CVII_Controls,BiB_Proteomics,CVII_Controls,MissingFreq,Missing Frequency,text,,proteomics,8740,71
+BiB_Proteomics.CVII_Controls.Panel,BiB_Proteomics.CVII_Controls,BiB_Proteomics,CVII_Controls,Panel,Olink Panel,text,,proteomics,8740,71
+BiB_Proteomics.CVII_Controls.Panel_Version,BiB_Proteomics.CVII_Controls,BiB_Proteomics,CVII_Controls,Panel_Version,Olink Panel Version,text,,proteomics,8740,71
+BiB_Proteomics.CVII_Controls.PlateID,BiB_Proteomics.CVII_Controls,BiB_Proteomics,CVII_Controls,PlateID,PlateID,text,,proteomics,8740,71
+BiB_Proteomics.CVII_Controls.QC_Warning,BiB_Proteomics.CVII_Controls,BiB_Proteomics,CVII_Controls,QC_Warning,QC Warning,categorical,[1 Pass] [2 Warning],proteomics,8740,71
+BiB_Proteomics.CVII_Controls.LOD,BiB_Proteomics.CVII_Controls,BiB_Proteomics,CVII_Controls,LOD,Limit of Detection,float,,proteomics,8740,71
+BiB_Proteomics.CVII_Controls.NPX,BiB_Proteomics.CVII_Controls,BiB_Proteomics,CVII_Controls,NPX,Normalized Protein Expression,float,,proteomics,8729,71
+BiB_Proteomics.CVII_Controls.Normalization,BiB_Proteomics.CVII_Controls,BiB_Proteomics,CVII_Controls,Normalization,Method used to scale data,text,,proteomics,8740,71
+BiB_Proteomics.CVII_Project1.BiBPersonID,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,BiBPersonID,BiBPersonID,text,,administration,90896,988
+BiB_Proteomics.CVII_Project1.PregnancyID,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,PregnancyID,Pregnancy ID,text,,administration,90896,988
+BiB_Proteomics.CVII_Project1.Ethnicity,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,Ethnicity,Ethnicity,text,,ethnic_group,90896,988
+BiB_Proteomics.CVII_Project1.GDM,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,GDM,Gestational Diabetes Status,integer,,endocrine_system,90896,988
+BiB_Proteomics.CVII_Project1.OlinkID,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,OlinkID,OlinkID,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.UniProt,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,UniProt,UniProt Identifier,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.Assay,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,Assay,Protein Name,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.MissingFreq,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,MissingFreq,Missing Frequency,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.Panel,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,Panel,Olink Panel,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.Panel_Version,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,Panel_Version,Olink Panel Version,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.PlateID,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,PlateID,PlateID,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.QC_Warning,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,QC_Warning,QC Warning,categorical,[1 Pass] [2 Warning],proteomics,90896,988
+BiB_Proteomics.CVII_Project1.LOD,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,LOD,Limit of Detection,float,,proteomics,90896,988
+BiB_Proteomics.CVII_Project1.NPX,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,NPX,Normalized Protein Expression,float,,proteomics,90890,988
+BiB_Proteomics.CVII_Project1.Normalization,BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,Normalization,Method used to scale data,text,,proteomics,90896,988
+BiB_Proteomics.CVII_Project2.BiBPersonID,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,BiBPersonID,BiBPersonID,text,,administration,272964,2967
+BiB_Proteomics.CVII_Project2.PregnancyID,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,PregnancyID,Pregnancy ID,text,,administration,272964,2967
+BiB_Proteomics.CVII_Project2.Ethnicity,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Ethnicity,Ethnicity,text,,ethnic_group,272964,2967
+BiB_Proteomics.CVII_Project2.GDM,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,GDM,Gestational Diabetes Status,integer,,endocrine_system,133860,1455
+BiB_Proteomics.CVII_Project2.has_GWAS,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,has_GWAS,has GWAS data,integer,,omics,133860,1455
+BiB_Proteomics.CVII_Project2.Gest_Hypertension,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Gest_Hypertension,Gestational Hypertension Status,text,,cardiovascular_system,133860,1455
+BiB_Proteomics.CVII_Project2.Pre_Eclampsia,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Pre_Eclampsia,Pre-eclampsia Status,text,,pregnancy,133860,1455
+BiB_Proteomics.CVII_Project2.Congenital_Anomalies_Reg,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Congenital_Anomalies_Reg,Has YH Congenital Anomalies Register,integer,,congenital_and_malformations,133860,1455
+BiB_Proteomics.CVII_Project2.Stillbirth,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Stillbirth,Stillbirth,integer,,pregnancy,133860,1455
+BiB_Proteomics.CVII_Project2.Gest_LastCompWk,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Gest_LastCompWk,Gestation to last completed week,integer,,pregnancy,133860,1455
+BiB_Proteomics.CVII_Project2.Preterm_Birth,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Preterm_Birth,Pre-term birth,text,,pregnancy,133860,1455
+BiB_Proteomics.CVII_Project2.Presence_One_Outcome,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Presence_One_Outcome,Present of at least one outcome,text,,physical_health,272964,2967
+BiB_Proteomics.CVII_Project2.has_outcomes,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,has_outcomes,has outcomes,integer,,physical_health,272964,2967
+BiB_Proteomics.CVII_Project2.OlinkID,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,OlinkID,OlinkID,text,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.UniProt,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,UniProt,UniProt Identifier,text,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.Assay,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Assay,Protein Name,text,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.MissingFreq,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,MissingFreq,Missing Frequency,text,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.Panel,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Panel,Olink Panel,text,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.Panel_Version,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Panel_Version,Olink Panel Version,text,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.PlateID,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,PlateID,PlateID,text,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.QC_Warning,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,QC_Warning,QC Warning,categorical,[1 Pass] [2 Warning],proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.LOD,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,LOD,Limit of Detection,float,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.NPX,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,NPX,Normalized Protein Expression,float,,proteomics,272697,2967
+BiB_Proteomics.CVII_Project2.Normalization,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Normalization,Method used to scale data,text,,proteomics,272964,2967
+BiB_Proteomics.HT_Intensity_Controls.SampleID,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,SampleID,Sample identifier,text,,administration,936555,10
+BiB_Proteomics.HT_Intensity_Controls.SampleType,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,SampleType,Sample type,text,,administration,936555,10
+BiB_Proteomics.HT_Intensity_Controls.OlinkID,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,OlinkID,Olink ID,text,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.UniProt,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,UniProt,UniProt ID,text,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.Assay,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,Assay,Gene name,text,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.Protein,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,Protein,Protein name,text,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.Count,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,Count,Raw measurement of protein abundance,integer,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.NPX,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,NPX,Normalised Protein Expression,float,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.PCNormalizedNPX,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,PCNormalizedNPX,Plate control normalised NPX,float,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.AssayQC,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,AssayQC,Assay QC,categorical,[1 PASS] [0 WARNING],proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.SampleQC,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,SampleQC,Sample QC,integer,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.Batch,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,Batch,Plate and Well ID combined,text,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity.BiBPersonID,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,BiBPersonID,BiB person identifier,text,,administration,8380872,1548
+BiB_Proteomics.HT_Intensity.PregnancyID,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,PregnancyID,Pregnancy identifier,text,,administration,8380872,1548
+BiB_Proteomics.HT_Intensity.ParticipantType,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,ParticipantType,Participant type,text,,administration,8380872,1548
+BiB_Proteomics.HT_Intensity.AgeSampleCollection,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,AgeSampleCollection,Age at sample collection,integer,,age,8380872,1548
+BiB_Proteomics.HT_Intensity.OlinkID,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,OlinkID,Olink ID,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.UniProt,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,UniProt,UniProt ID,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.Assay,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,Assay,Gene name,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.Protein,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,Protein,Protein name,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.Count,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,Count,Raw measurement of protein abundance,integer,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.NPX,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,NPX,Normalised Protein Expression,float,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.PCNormalizedNPX,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,PCNormalizedNPX,Plate control normalised NPX,float,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.AssayQC,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,AssayQC,Assay QC,categorical,[1 PASS] [0 WARNING],proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.SampleQC,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,SampleQC,Sample QC,integer,,proteomics,8380872,1548
+BiB_Proteomics.HT_Intensity.Batch,BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,Batch,Plate and Well ID combined,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.BiBPersonID,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,BiBPersonID,BiB person identifier,text,,administration,8380872,1548
+BiB_Proteomics.HT_PlateControl.PregnancyID,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,PregnancyID,Pregnancy identifier,text,,administration,8380872,1548
+BiB_Proteomics.HT_PlateControl.ParticipantType,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,ParticipantType,Participant type,text,,administration,8380872,1548
+BiB_Proteomics.HT_PlateControl.AgeSampleCollection,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,AgeSampleCollection,Age at sample collection,integer,,age,8380872,1548
+BiB_Proteomics.HT_PlateControl.OlinkID,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,OlinkID,Olink ID,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.UniProt,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,UniProt,UniProt ID,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.Assay,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,Assay,Gene name,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.Protein,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,Protein,Protein name,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.Count,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,Count,Raw measurement of protein abundance,integer,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.NPX,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,NPX,Normalised Protein Expression,float,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.PCNormalizedNPX,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,PCNormalizedNPX,Plate control normalised NPX,float,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.AssayQC,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,AssayQC,Assay QC,categorical,[1 PASS] [0 WARNING],proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.SampleQC,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,SampleQC,Sample QC,integer,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.Batch,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,Batch,Plate and Well ID combined,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl_Controls.SampleID,BiB_Proteomics.HT_PlateControl_Controls,BiB_Proteomics,HT_PlateControl_Controls,SampleID,Sample identifier,text,,administration,936555,10
+BiB_Proteomics.HT_PlateControl_Controls.SampleType,BiB_Proteomics.HT_PlateControl_Controls,BiB_Proteomics,HT_PlateControl_Controls,SampleType,Sample type,text,,administration,936555,10
+BiB_Proteomics.HT_PlateControl_Controls.OlinkID,BiB_Proteomics.HT_PlateControl_Controls,BiB_Proteomics,HT_PlateControl_Controls,OlinkID,Olink ID,text,,proteomics,936555,10
+BiB_Proteomics.HT_PlateControl_Controls.UniProt,BiB_Proteomics.HT_PlateControl_Controls,BiB_Proteomics,HT_PlateControl_Controls,UniProt,UniProt ID,text,,proteomics,936555,10
+BiB_Proteomics.HT_PlateControl_Controls.Assay,BiB_Proteomics.HT_PlateControl_Controls,BiB_Proteomics,HT_PlateControl_Controls,Assay,Gene name,text,,proteomics,936555,10
+BiB_Proteomics.HT_PlateControl_Controls.Protein,BiB_Proteomics.HT_PlateControl_Controls,BiB_Proteomics,HT_PlateControl_Controls,Protein,Protein name,text,,proteomics,936555,10
+BiB_Proteomics.HT_PlateControl_Controls.Count,BiB_Proteomics.HT_PlateControl_Controls,BiB_Proteomics,HT_PlateControl_Controls,Count,Raw measurement of protein abundance,integer,,proteomics,936555,10
+BiB_Proteomics.HT_PlateControl_Controls.NPX,BiB_Proteomics.HT_PlateControl_Controls,BiB_Proteomics,HT_PlateControl_Controls,NPX,Normalised Protein Expression,float,,proteomics,936555,10
+BiB_Proteomics.HT_PlateControl_Controls.PCNormalizedNPX,BiB_Proteomics.HT_PlateControl_Controls,BiB_Proteomics,HT_PlateControl_Controls,PCNormalizedNPX,Plate control normalised NPX,float,,proteomics,936555,10
+BiB_Proteomics.HT_PlateControl_Controls.AssayQC,BiB_Proteomics.HT_PlateControl_Controls,BiB_Proteomics,HT_PlateControl_Controls,AssayQC,Assay QC,categorical,[1 PASS] [0 WARNING],proteomics,936555,10
+BiB_Proteomics.HT_PlateControl_Controls.SampleQC,BiB_Proteomics.HT_PlateControl_Controls,BiB_Proteomics,HT_PlateControl_Controls,SampleQC,Sample QC,integer,,proteomics,936555,10
+BiB_Proteomics.HT_PlateControl_Controls.Batch,BiB_Proteomics.HT_PlateControl_Controls,BiB_Proteomics,HT_PlateControl_Controls,Batch,Plate and Well ID combined,text,,proteomics,936555,10

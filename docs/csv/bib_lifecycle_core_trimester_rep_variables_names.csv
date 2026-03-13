@@ -1,0 +1,5 @@
+project,table,variable
+BiB_LifeCycle,core_trimester_rep,BiBPersonID
+BiB_LifeCycle,core_trimester_rep,age_trimester
+BiB_LifeCycle,core_trimester_rep,smk_t
+BiB_LifeCycle,core_trimester_rep,alc_t

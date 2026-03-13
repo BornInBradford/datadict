@@ -1,0 +1,15 @@
+project,table,variable
+BiB_Proteomics,HT_Intensity,BiBPersonID
+BiB_Proteomics,HT_Intensity,PregnancyID
+BiB_Proteomics,HT_Intensity,ParticipantType
+BiB_Proteomics,HT_Intensity,AgeSampleCollection
+BiB_Proteomics,HT_Intensity,OlinkID
+BiB_Proteomics,HT_Intensity,UniProt
+BiB_Proteomics,HT_Intensity,Assay
+BiB_Proteomics,HT_Intensity,Protein
+BiB_Proteomics,HT_Intensity,Count
+BiB_Proteomics,HT_Intensity,NPX
+BiB_Proteomics,HT_Intensity,PCNormalizedNPX
+BiB_Proteomics,HT_Intensity,AssayQC
+BiB_Proteomics,HT_Intensity,SampleQC
+BiB_Proteomics,HT_Intensity,Batch

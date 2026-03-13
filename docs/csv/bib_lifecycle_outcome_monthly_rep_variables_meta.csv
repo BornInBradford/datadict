@@ -1,0 +1,51 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_LifeCycle.outcome_monthly_rep.BiBPersonID,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,BiBPersonID,Unique identifier for the child,text,,administration,133874,13858
+BiB_LifeCycle.outcome_monthly_rep.age_years,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,age_years,Age of the child in years,integer,,,133741,13773
+BiB_LifeCycle.outcome_monthly_rep.age_months,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,age_months,Age of the child in months,integer,,,133874,13858
+BiB_LifeCycle.outcome_monthly_rep.heightmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,heightmes_,measured vs. reported child's height,categorical,[0 Measured] [1 Parent/self-reported] [2 Medical record],anthropometry,100986,13422
+BiB_LifeCycle.outcome_monthly_rep.weightmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,weightmes_,measured vs. reported child's weight,categorical,[0 Measured] [1 Parent/self-reported] [2 Medical record],anthropometry,126210,13767
+BiB_LifeCycle.outcome_monthly_rep.headcirc_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,headcirc_,head circumference,float,,anthropometry,40049,13529
+BiB_LifeCycle.outcome_monthly_rep.headcircage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,headcircage_,age at head circumference measurement,float,,anthropometry,40049,13529
+BiB_LifeCycle.outcome_monthly_rep.headcircmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,headcircmes_,measured vs. reported head circumference,categorical,[0 Measured] [1 Parent/self-reported],anthropometry,40049,13529
+BiB_LifeCycle.outcome_monthly_rep.waistcirc_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,waistcirc_,waist circumference,float,,anthropometry,34923,12814
+BiB_LifeCycle.outcome_monthly_rep.waistcircage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,waistcircage_,age at waist circumference measurement,float,,anthropometry,34923,12814
+BiB_LifeCycle.outcome_monthly_rep.waistcircmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,waistcircmes_,measured vs. reported waist circumference,categorical,[0 Measured] [1 Parent/self-reported],anthropometry,34923,12814
+BiB_LifeCycle.outcome_monthly_rep.armcirc_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,armcirc_,arm circumference,float,,anthropometry,13999,11954
+BiB_LifeCycle.outcome_monthly_rep.armcircage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,armcircage_,age at arm circumference measurement,float,,anthropometry,13999,11954
+BiB_LifeCycle.outcome_monthly_rep.armcircmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,armcircmes_,measured vs. reported arm circumference,categorical,[0 Measured] [1 Parent/self-reported],anthropometry,13999,11954
+BiB_LifeCycle.outcome_monthly_rep.dxafm_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,dxafm_,whole-body DXA fat mass,float,,anthropometry,541,541
+BiB_LifeCycle.outcome_monthly_rep.dxafmage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,dxafmage_,age at DXA fat mass measurement,float,,anthropometry,541,541
+BiB_LifeCycle.outcome_monthly_rep.dxafmmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,dxafmmes_,device used to measure DXA fat mass,categorical,[0 Lunar Prodigy] [1 Other],anthropometry,541,541
+BiB_LifeCycle.outcome_monthly_rep.dxalm_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,dxalm_,whole-body DXA lean mass,float,,anthropometry,541,541
+BiB_LifeCycle.outcome_monthly_rep.dxalmage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,dxalmage_,age at DXA lean mass measurement,float,,anthropometry,541,541
+BiB_LifeCycle.outcome_monthly_rep.dxalmmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,dxalmmes_,device used to measure DXA lean mass,categorical,[0 Lunar Prodigy] [1 Other],anthropometry,541,541
+BiB_LifeCycle.outcome_monthly_rep.bio_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,bio_,body fat from bioimpedance,float,,anthropometry,6424,5494
+BiB_LifeCycle.outcome_monthly_rep.bioage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,bioage_,age at bioimpedance measurement,float,,anthropometry,6424,5494
+BiB_LifeCycle.outcome_monthly_rep.biomes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,biomes_,device used to measure bioimpedance,categorical,[0 Tanita Body Fat Analyser] [1 Other],anthropometry,6424,5494
+BiB_LifeCycle.outcome_monthly_rep.subscapsf_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,subscapsf_,subscapular skinfold,float,,anthropometry,31357,11606
+BiB_LifeCycle.outcome_monthly_rep.subscapsfage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,subscapsfage_,age at subscapular skinfold measurement,float,,anthropometry,31357,11606
+BiB_LifeCycle.outcome_monthly_rep.subscapsfmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,subscapsfmes_,measured vs. reported subscapular skinfold,categorical,[0 Measured] [1 Parent/self-reported],anthropometry,31357,11606
+BiB_LifeCycle.outcome_monthly_rep.tricepsf_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,tricepsf_,tricep skinfold,float,,anthropometry,32136,11634
+BiB_LifeCycle.outcome_monthly_rep.tricepsfage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,tricepsfage_,age at triceps skinfold measurement,float,,anthropometry,32136,11634
+BiB_LifeCycle.outcome_monthly_rep.tricepsfmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,tricepsfmes_,measured vs. reported tricep skinfold,categorical,[0 Measured] [1 Parent/self-reported],anthropometry,32136,11634
+BiB_LifeCycle.outcome_monthly_rep.haem_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,haem_,haemoglobin,float,,hemic_and_immune_systems,2601,2573
+BiB_LifeCycle.outcome_monthly_rep.haemage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,haemage_,age at haemoglobin measurement,float,,hemic_and_immune_systems,2601,2573
+BiB_LifeCycle.outcome_monthly_rep.haemmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,haemmes_,fasting or nonfasting when haemoglobin measured,categorical,[0 Nonfasting] [1 Fasting],hemic_and_immune_systems,2601,2573
+BiB_LifeCycle.outcome_monthly_rep.hba1c_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,hba1c_,HbA1c,integer,,physical_health,2580,2553
+BiB_LifeCycle.outcome_monthly_rep.hba1cage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,hba1cage_,age at HbA1c measurement,float,,physical_health,2580,2553
+BiB_LifeCycle.outcome_monthly_rep.hba1cmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,hba1cmes_,fasting or nonfasting when HbA1c measured,categorical,[0 Nonfasting] [1 Fasting],physical_health,2580,2553
+BiB_LifeCycle.outcome_monthly_rep.chol_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,chol_,total cholesterol,float,,cardiovascular_system,2630,2603
+BiB_LifeCycle.outcome_monthly_rep.cholage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,cholage_,age at total cholesterol measurement,float,,cardiovascular_system,2630,2603
+BiB_LifeCycle.outcome_monthly_rep.cholmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,cholmes_,fasting or nonfasting when total cholesterol measured,categorical,[0 Nonfasting] [1 Fasting],cardiovascular_system,2630,2603
+BiB_LifeCycle.outcome_monthly_rep.hdlc_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,hdlc_,hdl cholesterol,float,,cardiovascular_system,2627,2600
+BiB_LifeCycle.outcome_monthly_rep.hdlcage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,hdlcage_,age at hdl cholesterol measurement,float,,cardiovascular_system,2627,2600
+BiB_LifeCycle.outcome_monthly_rep.hdlcmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,hdlcmes_,fasting or nonfasting when HDLc measured,categorical,[0 Nonfasting] [1 Fasting],cardiovascular_system,2627,2600
+BiB_LifeCycle.outcome_monthly_rep.ldlc_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,ldlc_,ldl cholesterol,float,,cardiovascular_system,2622,2596
+BiB_LifeCycle.outcome_monthly_rep.ldlcage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,ldlcage_,age at ldl cholesterol measurement,float,,cardiovascular_system,2622,2596
+BiB_LifeCycle.outcome_monthly_rep.ldlcmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,ldlcmes_,fasting or nonfasting when LDLc measured,categorical,[0 Nonfasting] [1 Fasting],cardiovascular_system,2622,2596
+BiB_LifeCycle.outcome_monthly_rep.triglycerides_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,triglycerides_,triglycerides,float,,cardiovascular_system,2632,2605
+BiB_LifeCycle.outcome_monthly_rep.triglyceridesage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,triglyceridesage_,age at triglycerides measurement,float,,cardiovascular_system,2632,2605
+BiB_LifeCycle.outcome_monthly_rep.triglyceridesmes_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,triglyceridesmes_,fasting or nonfasting when triglycerides measured,categorical,[0 Nonfasting] [1 Fasting],cardiovascular_system,2632,2605
+BiB_LifeCycle.outcome_monthly_rep.sbpav_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,sbpav_,systolic blood pressure average,float,,cardiovascular_system,15891,9082
+BiB_LifeCycle.outcome_monthly_rep.dbpav_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,dbpav_,diastolic blood pressure average,float,,cardiovascular_system,15891,9082
+BiB_LifeCycle.outcome_monthly_rep.bpage_,BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,bpage_,age at peripheral blood pressure measurement,float,,cardiovascular_system,16649,9112

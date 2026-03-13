@@ -1,0 +1,14 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Proteomics.CM_Controls.SampleID,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,SampleID,SampleID,text,,administration,34354,26
+BiB_Proteomics.CM_Controls.OlinkID,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,OlinkID,OlinkID,text,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.UniProt,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,UniProt,UniProt Identifier,text,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.Assay,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,Assay,Protein Name,text,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.MissingFreq,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,MissingFreq,Missing Frequency,float,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.Panel,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,Panel,Olink Panel,text,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.Panel_Lot_Nr,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,Panel_Lot_Nr,Panel Lot Number,text,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.PlateID,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,PlateID,PlateID,text,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.QC_Warning,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,QC_Warning,QC Warning,categorical,[1 Pass] [2 Warning],proteomics,34354,26
+BiB_Proteomics.CM_Controls.LOD,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,LOD,Limit of Detection,float,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.NPX,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,NPX,Normalized Protein Expression,float,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.Normalization,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,Normalization,Method used to scale data,text,,proteomics,34354,26
+BiB_Proteomics.CM_Controls.Assay_Warning,BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,Assay_Warning,Assay Warning,categorical,[1 Pass] [2 Warning],proteomics,34354,26

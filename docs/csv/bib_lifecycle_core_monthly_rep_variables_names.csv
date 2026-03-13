@@ -1,0 +1,8 @@
+project,table,variable
+BiB_LifeCycle,core_monthly_rep,BiBPersonID
+BiB_LifeCycle,core_monthly_rep,age_years
+BiB_LifeCycle,core_monthly_rep,age_months
+BiB_LifeCycle,core_monthly_rep,height_
+BiB_LifeCycle,core_monthly_rep,height_age
+BiB_LifeCycle,core_monthly_rep,weight_
+BiB_LifeCycle,core_monthly_rep,weight_age

@@ -1,0 +1,28 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_LifeCycle.outcome_non_rep.BiBPersonID,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,BiBPersonID,Unique identifer for the child,text,,administration,13858,13858
+BiB_LifeCycle.outcome_non_rep.adipo_cord,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,adipo_cord,adiponectin measured in cord blood,float,,physical_health,2176,2176
+BiB_LifeCycle.outcome_non_rep.all_ever,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,all_ever,"Ever doctor diagnosis of allergy, type of allergen unspecified",categorical,[0 no] [1 yes],allergies,3036,3036
+BiB_LifeCycle.outcome_non_rep.allergy_any_m,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,allergy_any_m,Maternal history of any allergy before pregnancy (of index child),categorical,[0 no] [1 yes],allergies,2585,2585
+BiB_LifeCycle.outcome_non_rep.allergy_food_m,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,allergy_food_m,Maternal history of food allergy before pregnancy (of index child),categorical,[0 no] [1 yes],allergies,13696,13696
+BiB_LifeCycle.outcome_non_rep.allergy_inh_m,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,allergy_inh_m,Maternal history of inhalant allergy before pregnancy (of index child),categorical,[0 no] [1 yes],allergies,2264,2264
+BiB_LifeCycle.outcome_non_rep.asthma_current_ISAAC,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,asthma_current_ISAAC,Current asthma (ISAAC),categorical,[0 no] [1 yes],respiratory_system,2593,2593
+BiB_LifeCycle.outcome_non_rep.asthma_current_MeDALL,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,asthma_current_MeDALL,Current asthma (MeDALL),categorical,[0 no] [1 yes],respiratory_system,2593,2593
+BiB_LifeCycle.outcome_non_rep.asthma_ever_CHICOS,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,asthma_ever_CHICOS,School age asthma according to CHICOS definition,categorical,[0 no] [1 yes],respiratory_system,1206,1206
+BiB_LifeCycle.outcome_non_rep.asthma_ever_MeDALL,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,asthma_ever_MeDALL,Ever diagnosis of asthma according to MeDALL definition,categorical,[0 no] [1 yes],respiratory_system,2592,2592
+BiB_LifeCycle.outcome_non_rep.chol_cord,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,chol_cord,total cholesterol measured in cord blood,float,,cardiovascular_system,2176,2176
+BiB_LifeCycle.outcome_non_rep.crp_cord,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,crp_cord,crp measured in cord blood,float,,hemic_and_immune_systems,260,260
+BiB_LifeCycle.outcome_non_rep.eczema_ever,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,eczema_ever,Ever doctor-diagnosis of eczema,categorical,[0 no] [1 yes],skin_diseases_dermatology,2592,2592
+BiB_LifeCycle.outcome_non_rep.eczema_m,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,eczema_m,Maternal history of eczema before pregnancy (of index child),categorical,[0 no] [1 yes],skin_diseases_dermatology,2447,2447
+BiB_LifeCycle.outcome_non_rep.food_all_ever,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,food_all_ever,Ever doctor diagnosis of food allergy,categorical,[0 no] [1 yes],allergies,2067,2067
+BiB_LifeCycle.outcome_non_rep.hdlc_cord,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,hdlc_cord,hdl cholesterol measured in cord blood,float,,cardiovascular_system,2176,2176
+BiB_LifeCycle.outcome_non_rep.inh_all_ever,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,inh_all_ever,Ever doctor diagnosis of inhalant allergy,categorical,[0 no] [1 yes],allergies,2593,2593
+BiB_LifeCycle.outcome_non_rep.insulin_cord,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,insulin_cord,insulin measured in cord blood,float,,endocrine_system,7828,7828
+BiB_LifeCycle.outcome_non_rep.ldlc_cord,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,ldlc_cord,ldl cholesterol measured in cord blood,float,,cardiovascular_system,2176,2176
+BiB_LifeCycle.outcome_non_rep.leptin_cord,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,leptin_cord,leptin measured in cord blood,float,,endocrine_system,7889,7889
+BiB_LifeCycle.outcome_non_rep.triglycerides_cord,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,triglycerides_cord,triglycerides measured in cord blood,float,,cardiovascular_system,2176,2176
+BiB_LifeCycle.outcome_non_rep.urticaria,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,urticaria,Ever diagnosis of urticaria,categorical,[0 no] [1 yes],skin_diseases_dermatology,641,641
+BiB_LifeCycle.outcome_non_rep.vldlc_cord,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,vldlc_cord,vldl cholesterol measured in cord blood,float,,cardiovascular_system,2176,2176
+BiB_LifeCycle.outcome_non_rep.whe_ever,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,whe_ever,Wheezing between ages 0-4 years,categorical,[0 no] [1 yes],respiratory_system,2593,2593
+BiB_LifeCycle.outcome_non_rep.whe_ever2,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,whe_ever2,Wheezing between ages 0-2 years,categorical,[0 no] [1 yes],respiratory_system,4487,4487
+BiB_LifeCycle.outcome_non_rep.whe_ever4,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,whe_ever4,Wheezing between ages 2-4 years,categorical,[0 no] [1 yes],respiratory_system,2325,2325
+BiB_LifeCycle.outcome_non_rep.whe_ever5_10,BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,whe_ever5_10,Wheezing between ages 5-10 years,categorical,[0 no] [1 yes],respiratory_system,2787,2787

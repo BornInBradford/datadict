@@ -1,0 +1,13 @@
+project,table,variable
+BiB_Proteomics,HT_Intensity_Controls,SampleID
+BiB_Proteomics,HT_Intensity_Controls,SampleType
+BiB_Proteomics,HT_Intensity_Controls,OlinkID
+BiB_Proteomics,HT_Intensity_Controls,UniProt
+BiB_Proteomics,HT_Intensity_Controls,Assay
+BiB_Proteomics,HT_Intensity_Controls,Protein
+BiB_Proteomics,HT_Intensity_Controls,Count
+BiB_Proteomics,HT_Intensity_Controls,NPX
+BiB_Proteomics,HT_Intensity_Controls,PCNormalizedNPX
+BiB_Proteomics,HT_Intensity_Controls,AssayQC
+BiB_Proteomics,HT_Intensity_Controls,SampleQC
+BiB_Proteomics,HT_Intensity_Controls,Batch

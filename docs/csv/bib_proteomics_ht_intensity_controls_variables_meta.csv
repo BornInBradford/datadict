@@ -1,0 +1,13 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Proteomics.HT_Intensity_Controls.SampleID,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,SampleID,Sample identifier,text,,administration,936555,10
+BiB_Proteomics.HT_Intensity_Controls.SampleType,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,SampleType,Sample type,text,,administration,936555,10
+BiB_Proteomics.HT_Intensity_Controls.OlinkID,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,OlinkID,Olink ID,text,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.UniProt,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,UniProt,UniProt ID,text,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.Assay,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,Assay,Gene name,text,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.Protein,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,Protein,Protein name,text,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.Count,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,Count,Raw measurement of protein abundance,integer,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.NPX,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,NPX,Normalised Protein Expression,float,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.PCNormalizedNPX,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,PCNormalizedNPX,Plate control normalised NPX,float,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.AssayQC,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,AssayQC,Assay QC,categorical,[1 PASS] [0 WARNING],proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.SampleQC,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,SampleQC,Sample QC,integer,,proteomics,936555,10
+BiB_Proteomics.HT_Intensity_Controls.Batch,BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,Batch,Plate and Well ID combined,text,,proteomics,936555,10

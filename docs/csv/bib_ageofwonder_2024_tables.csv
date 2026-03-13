@@ -1,0 +1,6 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_AgeOfWonder_2024.recruitment,BiB_AgeOfWonder_2024,recruitment,AoW recruitment denominator 2024 release,bib,participant,,,35,23482,17840,2026-03-04 16:49:08.580828
+BiB_AgeOfWonder_2024.survey_mod231_main,BiB_AgeOfWonder_2024,survey_mod231_main,AoW survey module 231 2024 release with main variables,bib,participant,,,292,13563,11505,2026-03-04 16:50:40.962393
+BiB_AgeOfWonder_2024.survey_mod231_derived,BiB_AgeOfWonder_2024,survey_mod231_derived,AoW survey module 231 2024 release with derived variables,bib,participant,,,27,13563,11505,2026-03-04 16:49:57.261168
+BiB_AgeOfWonder_2024.survey_mod232_main,BiB_AgeOfWonder_2024,survey_mod232_main,AoW survey module 232 2024 release with main variables,bib,participant,,,312,12608,10684,2026-03-04 16:52:35.615294
+BiB_AgeOfWonder_2024.survey_mod232_derived,BiB_AgeOfWonder_2024,survey_mod232_derived,AoW survey module 232 2024 release with derived variables,bib,participant,,,56,12608,10684,2026-03-04 16:53:57.625393

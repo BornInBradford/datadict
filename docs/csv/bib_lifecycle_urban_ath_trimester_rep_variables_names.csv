@@ -1,0 +1,6 @@
+project,table,variable
+BiB_LifeCycle,urban_ath_trimester_rep,BiBPersonID
+BiB_LifeCycle,urban_ath_trimester_rep,age_trimester
+BiB_LifeCycle,urban_ath_trimester_rep,mother_id
+BiB_LifeCycle,urban_ath_trimester_rep,urb_area_id
+BiB_LifeCycle,urban_ath_trimester_rep,cohort_id

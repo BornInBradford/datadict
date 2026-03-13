@@ -1,0 +1,5 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_LifeCycle.core_trimester_rep.BiBPersonID,BiB_LifeCycle.core_trimester_rep,BiB_LifeCycle,core_trimester_rep,BiBPersonID,Unique number of the child,text,,administration,25118,13858
+BiB_LifeCycle.core_trimester_rep.age_trimester,BiB_LifeCycle.core_trimester_rep,BiB_LifeCycle,core_trimester_rep,age_trimester,Age of the child in trimesters,integer,,age,25118,13858
+BiB_LifeCycle.core_trimester_rep.smk_t,BiB_LifeCycle.core_trimester_rep,BiB_LifeCycle,core_trimester_rep,smk_t,Smoking,categorical,[0 no] [1 yes],smoking,21869,10961
+BiB_LifeCycle.core_trimester_rep.alc_t,BiB_LifeCycle.core_trimester_rep,BiB_LifeCycle,core_trimester_rep,alc_t,Any alcohol intake,categorical,[0 no] [1 yes],alcohol_consumption,6950,3509

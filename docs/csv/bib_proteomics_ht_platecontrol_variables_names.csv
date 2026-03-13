@@ -1,0 +1,15 @@
+project,table,variable
+BiB_Proteomics,HT_PlateControl,BiBPersonID
+BiB_Proteomics,HT_PlateControl,PregnancyID
+BiB_Proteomics,HT_PlateControl,ParticipantType
+BiB_Proteomics,HT_PlateControl,AgeSampleCollection
+BiB_Proteomics,HT_PlateControl,OlinkID
+BiB_Proteomics,HT_PlateControl,UniProt
+BiB_Proteomics,HT_PlateControl,Assay
+BiB_Proteomics,HT_PlateControl,Protein
+BiB_Proteomics,HT_PlateControl,Count
+BiB_Proteomics,HT_PlateControl,NPX
+BiB_Proteomics,HT_PlateControl,PCNormalizedNPX
+BiB_Proteomics,HT_PlateControl,AssayQC
+BiB_Proteomics,HT_PlateControl,SampleQC
+BiB_Proteomics,HT_PlateControl,Batch

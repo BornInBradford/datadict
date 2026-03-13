@@ -1,0 +1,15 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Proteomics.HT_PlateControl.BiBPersonID,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,BiBPersonID,BiB person identifier,text,,administration,8380872,1548
+BiB_Proteomics.HT_PlateControl.PregnancyID,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,PregnancyID,Pregnancy identifier,text,,administration,8380872,1548
+BiB_Proteomics.HT_PlateControl.ParticipantType,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,ParticipantType,Participant type,text,,administration,8380872,1548
+BiB_Proteomics.HT_PlateControl.AgeSampleCollection,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,AgeSampleCollection,Age at sample collection,integer,,age,8380872,1548
+BiB_Proteomics.HT_PlateControl.OlinkID,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,OlinkID,Olink ID,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.UniProt,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,UniProt,UniProt ID,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.Assay,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,Assay,Gene name,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.Protein,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,Protein,Protein name,text,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.Count,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,Count,Raw measurement of protein abundance,integer,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.NPX,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,NPX,Normalised Protein Expression,float,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.PCNormalizedNPX,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,PCNormalizedNPX,Plate control normalised NPX,float,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.AssayQC,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,AssayQC,Assay QC,categorical,[1 PASS] [0 WARNING],proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.SampleQC,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,SampleQC,Sample QC,integer,,proteomics,8380872,1548
+BiB_Proteomics.HT_PlateControl.Batch,BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,Batch,Plate and Well ID combined,text,,proteomics,8380872,1548

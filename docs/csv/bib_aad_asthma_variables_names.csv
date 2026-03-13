@@ -1,0 +1,5 @@
+project,table,variable
+BiB_AAD,Asthma,BiBPersonID
+BiB_AAD,Asthma,Asthma_Age_Years
+BiB_AAD,Asthma,Asthma_Def1_Stringent
+BiB_AAD,Asthma,Asthma_Def2_Broad

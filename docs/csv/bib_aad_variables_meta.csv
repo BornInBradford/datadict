@@ -1,0 +1,13 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_AAD.Allergic_Rhinitis.BiBPersonID,BiB_AAD.Allergic_Rhinitis,BiB_AAD,Allergic_Rhinitis,BiBPersonID,BiB person ID,text,,administration,13858,13858
+BiB_AAD.Allergic_Rhinitis.Allergic_Rhinitis_Age_Years,BiB_AAD.Allergic_Rhinitis,BiB_AAD,Allergic_Rhinitis,Allergic_Rhinitis_Age_Years,Age at allergic rhinitis diagnosis,integer,,age,1610,1610
+BiB_AAD.Allergic_Rhinitis.Allergic_Rhinitis_Def1_Broad,BiB_AAD.Allergic_Rhinitis,BiB_AAD,Allergic_Rhinitis,Allergic_Rhinitis_Def1_Broad,1st definition of allergic rhinitis (broad),categorical,[0 No] [1 Yes],allergies,13858,13858
+BiB_AAD.Allergic_Rhinitis.Allergic_Rhinitis_Def2_Stringent,BiB_AAD.Allergic_Rhinitis,BiB_AAD,Allergic_Rhinitis,Allergic_Rhinitis_Def2_Stringent,2nd definition of allergic rhinitis (stringent),categorical,[0 No] [1 Yes],allergies,13858,13858
+BiB_AAD.Asthma.BiBPersonID,BiB_AAD.Asthma,BiB_AAD,Asthma,BiBPersonID,BiB person ID,text,,administration,13858,13858
+BiB_AAD.Asthma.Asthma_Age_Years,BiB_AAD.Asthma,BiB_AAD,Asthma,Asthma_Age_Years,Age at asthma diagnosis,integer,,age,1925,1925
+BiB_AAD.Asthma.Asthma_Def1_Stringent,BiB_AAD.Asthma,BiB_AAD,Asthma,Asthma_Def1_Stringent,1st definition of asthma (stringent),categorical,[0 No] [1 Yes],respiratory_system,13858,13858
+BiB_AAD.Asthma.Asthma_Def2_Broad,BiB_AAD.Asthma,BiB_AAD,Asthma,Asthma_Def2_Broad,2nd definition of asthma (broad),categorical,[0 No] [1 Yes],respiratory_system,13858,13858
+BiB_AAD.Eczema.BiBPersonID,BiB_AAD.Eczema,BiB_AAD,Eczema,BiBPersonID,BiB person ID,text,,administration,13858,13858
+BiB_AAD.Eczema.Eczema_Age_Years,BiB_AAD.Eczema,BiB_AAD,Eczema,Eczema_Age_Years,Age at eczema diagnosis,integer,,age,3949,3949
+BiB_AAD.Eczema.Eczema_Def1_Stringent,BiB_AAD.Eczema,BiB_AAD,Eczema,Eczema_Def1_Stringent,1st definition of eczema (stringent),categorical,[0 No] [1 Yes],skin_diseases_dermatology,13858,13858
+BiB_AAD.Eczema.Eczema_Def2_Broad,BiB_AAD.Eczema,BiB_AAD,Eczema,Eczema_Def2_Broad,2nd definition of eczema (broad),categorical,[0 No] [1 Yes],skin_diseases_dermatology,13858,13858

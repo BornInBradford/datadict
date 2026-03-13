@@ -10,6 +10,7 @@ BiB_Geographic,bib_geog_person,property_id
 BiB_Geographic,bib_geog_person,move_no
 BiB_Geographic,bib_geog_person,total_moves
 BiB_Geographic,bib_geog_person,LSOA11CD
+BiB_Geographic,bib_geog_person,LSOA21CD
 BiB_Geographic,bib_geog_person,data_source
 BiB_Geographic,bib_geog_person,not_in_eng_wales
 BiB_Geographic,bib_geog_person,no_historical_address_data

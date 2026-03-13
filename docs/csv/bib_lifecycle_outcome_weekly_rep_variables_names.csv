@@ -1,0 +1,10 @@
+project,table,variable
+BiB_LifeCycle,outcome_weekly_rep,BiBPersonID
+BiB_LifeCycle,outcome_weekly_rep,age_years
+BiB_LifeCycle,outcome_weekly_rep,age_weeks
+BiB_LifeCycle,outcome_weekly_rep,m_sbp_
+BiB_LifeCycle,outcome_weekly_rep,m_dbp_
+BiB_LifeCycle,outcome_weekly_rep,m_glucose_
+BiB_LifeCycle,outcome_weekly_rep,m_insulin_
+BiB_LifeCycle,outcome_weekly_rep,m_chol_
+BiB_LifeCycle,outcome_weekly_rep,m_triglycerides_

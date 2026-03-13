@@ -1,0 +1,10 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_LifeCycle.outcome_weekly_rep.BiBPersonID,BiB_LifeCycle.outcome_weekly_rep,BiB_LifeCycle,outcome_weekly_rep,BiBPersonID,Unique identifer for the child,text,,administration,164989,13858
+BiB_LifeCycle.outcome_weekly_rep.age_years,BiB_LifeCycle.outcome_weekly_rep,BiB_LifeCycle,outcome_weekly_rep,age_years,Age of the child in years,integer,,,151136,13858
+BiB_LifeCycle.outcome_weekly_rep.age_weeks,BiB_LifeCycle.outcome_weekly_rep,BiB_LifeCycle,outcome_weekly_rep,age_weeks,Age of the child in weeks,integer,,age,164989,13858
+BiB_LifeCycle.outcome_weekly_rep.m_sbp_,BiB_LifeCycle.outcome_weekly_rep,BiB_LifeCycle,outcome_weekly_rep,m_sbp_,Mother's systolic blood pressure during pregnancy in completed weeks of gestation,float,,cardiovascular_system,114562,11353
+BiB_LifeCycle.outcome_weekly_rep.m_dbp_,BiB_LifeCycle.outcome_weekly_rep,BiB_LifeCycle,outcome_weekly_rep,m_dbp_,Mother's diastolic blood pressure during pregnancy in completed weeks of gestation,float,,cardiovascular_system,114562,11353
+BiB_LifeCycle.outcome_weekly_rep.m_glucose_,BiB_LifeCycle.outcome_weekly_rep,BiB_LifeCycle,outcome_weekly_rep,m_glucose_,Mother's glucose during pregnancy in completed weeks of gestation,float,,physical_health,13800,12302
+BiB_LifeCycle.outcome_weekly_rep.m_insulin_,BiB_LifeCycle.outcome_weekly_rep,BiB_LifeCycle,outcome_weekly_rep,m_insulin_,Mother's insulin during pregnancy in completed weeks of gestation,float,,physical_health,11399,11399
+BiB_LifeCycle.outcome_weekly_rep.m_chol_,BiB_LifeCycle.outcome_weekly_rep,BiB_LifeCycle,outcome_weekly_rep,m_chol_,Mother's total cholesterol during pregnancy in completed weeks of gestation,float,,cardiovascular_system,11402,11402
+BiB_LifeCycle.outcome_weekly_rep.m_triglycerides_,BiB_LifeCycle.outcome_weekly_rep,BiB_LifeCycle,outcome_weekly_rep,m_triglycerides_,mother's triglycerides during pregnancy in completed weeks of gestation,float,,cardiovascular_system,11402,11402

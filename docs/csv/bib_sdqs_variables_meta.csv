@@ -398,6 +398,19 @@ BiB_SDQs.MeDALL_sdq.Conduct_Pro,BiB_SDQs.MeDALL_sdq,BiB_SDQs,MeDALL_sdq,Conduct_
 BiB_SDQs.MeDALL_sdq.Hyperactivity_Pro,BiB_SDQs.MeDALL_sdq,BiB_SDQs,MeDALL_sdq,Hyperactivity_Pro,Hyperactivity scale pro-rata,integer,,personality_temperament,2590,2590
 BiB_SDQs.MeDALL_sdq.PeerProblems_Pro,BiB_SDQs.MeDALL_sdq,BiB_SDQs,MeDALL_sdq,PeerProblems_Pro,Peer problems scale pro-rata,integer,,personality_temperament,2590,2590
 BiB_SDQs.MeDALL_sdq.Prosocial_Pro,BiB_SDQs.MeDALL_sdq,BiB_SDQs,MeDALL_sdq,Prosocial_Pro,Prosocial scale pro-rata,integer,,personality_temperament,2590,2590
+BiB_SDQs.Trajectories_Derived.BiBPersonID,BiB_SDQs.Trajectories_Derived,BiB_SDQs,Trajectories_Derived,BiBPersonID,BiBPersonID,text,,,6711,6711
+BiB_SDQs.Trajectories_Derived.sdqe_3to5,BiB_SDQs.Trajectories_Derived,BiB_SDQs,Trajectories_Derived,sdqe_3to5,SDQE score timepoint 1 (3-5 years),text,,personality_temperament,6711,6711
+BiB_SDQs.Trajectories_Derived.sdqe_6to8,BiB_SDQs.Trajectories_Derived,BiB_SDQs,Trajectories_Derived,sdqe_6to8,SDQE score timepoint 2 (6-8 years),text,,personality_temperament,6711,6711
+BiB_SDQs.Trajectories_Derived.sdqe_9to11,BiB_SDQs.Trajectories_Derived,BiB_SDQs,Trajectories_Derived,sdqe_9to11,SDQE score timepoint 3 (9-11 years),text,,personality_temperament,6711,6711
+BiB_SDQs.Trajectories_Derived.sdqe_12to14,BiB_SDQs.Trajectories_Derived,BiB_SDQs,Trajectories_Derived,sdqe_12to14,SDQE score timepoint 4 (12-14 years),text,,personality_temperament,6711,6711
+BiB_SDQs.Trajectories_Derived.traj_intercept,BiB_SDQs.Trajectories_Derived,BiB_SDQs,Trajectories_Derived,traj_intercept,Trajectory intercept,float,,personality_temperament,6711,6711
+BiB_SDQs.Trajectories_Derived.traj_slope,BiB_SDQs.Trajectories_Derived,BiB_SDQs,Trajectories_Derived,traj_slope,Trajectory slope,float,,personality_temperament,6711,6711
+BiB_SDQs.Trajectories_Derived.class_intercept,BiB_SDQs.Trajectories_Derived,BiB_SDQs,Trajectories_Derived,class_intercept,Class-specific intercept factor score,float,,personality_temperament,6711,6711
+BiB_SDQs.Trajectories_Derived.class_slope,BiB_SDQs.Trajectories_Derived,BiB_SDQs,Trajectories_Derived,class_slope,Class-specific slope factor score,float,,personality_temperament,6711,6711
+BiB_SDQs.Trajectories_Derived.p_class1,BiB_SDQs.Trajectories_Derived,BiB_SDQs,Trajectories_Derived,p_class1,Posterior probability class 1,float,,personality_temperament,6711,6711
+BiB_SDQs.Trajectories_Derived.p_class2,BiB_SDQs.Trajectories_Derived,BiB_SDQs,Trajectories_Derived,p_class2,Posterior probability class 2,float,,personality_temperament,6711,6711
+BiB_SDQs.Trajectories_Derived.p_class3,BiB_SDQs.Trajectories_Derived,BiB_SDQs,Trajectories_Derived,p_class3,Posterior probability class 3,float,,personality_temperament,6711,6711
+BiB_SDQs.Trajectories_Derived.class_modal,BiB_SDQs.Trajectories_Derived,BiB_SDQs,Trajectories_Derived,class_modal,Modal latent class,integer,,personality_temperament,6711,6711
 BiB_SDQs.PrimarySchoolYears_sdq.PSYChildID,BiB_SDQs.PrimarySchoolYears_sdq,BiB_SDQs,PrimarySchoolYears_sdq,PSYChildID,,text,,,3502,3234
 BiB_SDQs.PrimarySchoolYears_sdq.PSYSchoolID,BiB_SDQs.PrimarySchoolYears_sdq,BiB_SDQs,PrimarySchoolYears_sdq,PSYSchoolID,Primary School Years: School pseudonym,integer,,administration,3502,3234
 BiB_SDQs.PrimarySchoolYears_sdq.PSYClassID,BiB_SDQs.PrimarySchoolYears_sdq,BiB_SDQs,PrimarySchoolYears_sdq,PSYClassID,Primary School Years: Class pseudonym,integer,,administration,3502,3234

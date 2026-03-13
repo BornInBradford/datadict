@@ -1,0 +1,16 @@
+project,table,variable
+BiB_Proteomics,CVII_Project1,BiBPersonID
+BiB_Proteomics,CVII_Project1,PregnancyID
+BiB_Proteomics,CVII_Project1,Ethnicity
+BiB_Proteomics,CVII_Project1,GDM
+BiB_Proteomics,CVII_Project1,OlinkID
+BiB_Proteomics,CVII_Project1,UniProt
+BiB_Proteomics,CVII_Project1,Assay
+BiB_Proteomics,CVII_Project1,MissingFreq
+BiB_Proteomics,CVII_Project1,Panel
+BiB_Proteomics,CVII_Project1,Panel_Version
+BiB_Proteomics,CVII_Project1,PlateID
+BiB_Proteomics,CVII_Project1,QC_Warning
+BiB_Proteomics,CVII_Project1,LOD
+BiB_Proteomics,CVII_Project1,NPX
+BiB_Proteomics,CVII_Project1,Normalization

@@ -1,0 +1,14 @@
+project,table,variable
+BiB_SDQs,Trajectories_Derived,BiBPersonID
+BiB_SDQs,Trajectories_Derived,sdqe_3to5
+BiB_SDQs,Trajectories_Derived,sdqe_6to8
+BiB_SDQs,Trajectories_Derived,sdqe_9to11
+BiB_SDQs,Trajectories_Derived,sdqe_12to14
+BiB_SDQs,Trajectories_Derived,traj_intercept
+BiB_SDQs,Trajectories_Derived,traj_slope
+BiB_SDQs,Trajectories_Derived,class_intercept
+BiB_SDQs,Trajectories_Derived,class_slope
+BiB_SDQs,Trajectories_Derived,p_class1
+BiB_SDQs,Trajectories_Derived,p_class2
+BiB_SDQs,Trajectories_Derived,p_class3
+BiB_SDQs,Trajectories_Derived,class_modal

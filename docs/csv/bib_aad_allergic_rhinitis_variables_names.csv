@@ -1,0 +1,5 @@
+project,table,variable
+BiB_AAD,Allergic_Rhinitis,BiBPersonID
+BiB_AAD,Allergic_Rhinitis,Allergic_Rhinitis_Age_Years
+BiB_AAD,Allergic_Rhinitis,Allergic_Rhinitis_Def1_Broad
+BiB_AAD,Allergic_Rhinitis,Allergic_Rhinitis_Def2_Stringent

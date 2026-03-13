@@ -1,0 +1,13 @@
+project,table,variable
+BiB_AAD,Allergic_Rhinitis,BiBPersonID
+BiB_AAD,Allergic_Rhinitis,Allergic_Rhinitis_Age_Years
+BiB_AAD,Allergic_Rhinitis,Allergic_Rhinitis_Def1_Broad
+BiB_AAD,Allergic_Rhinitis,Allergic_Rhinitis_Def2_Stringent
+BiB_AAD,Asthma,BiBPersonID
+BiB_AAD,Asthma,Asthma_Age_Years
+BiB_AAD,Asthma,Asthma_Def1_Stringent
+BiB_AAD,Asthma,Asthma_Def2_Broad
+BiB_AAD,Eczema,BiBPersonID
+BiB_AAD,Eczema,Eczema_Age_Years
+BiB_AAD,Eczema,Eczema_Def1_Stringent
+BiB_AAD,Eczema,Eczema_Def2_Broad

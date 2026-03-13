@@ -1,0 +1,5 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_AAD.Eczema.BiBPersonID,BiB_AAD.Eczema,BiB_AAD,Eczema,BiBPersonID,BiB person ID,text,,administration,13858,13858
+BiB_AAD.Eczema.Eczema_Age_Years,BiB_AAD.Eczema,BiB_AAD,Eczema,Eczema_Age_Years,Age at eczema diagnosis,integer,,age,3949,3949
+BiB_AAD.Eczema.Eczema_Def1_Stringent,BiB_AAD.Eczema,BiB_AAD,Eczema,Eczema_Def1_Stringent,1st definition of eczema (stringent),categorical,[0 No] [1 Yes],skin_diseases_dermatology,13858,13858
+BiB_AAD.Eczema.Eczema_Def2_Broad,BiB_AAD.Eczema,BiB_AAD,Eczema,Eczema_Def2_Broad,2nd definition of eczema (broad),categorical,[0 No] [1 Yes],skin_diseases_dermatology,13858,13858

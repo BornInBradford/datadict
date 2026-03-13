@@ -1,0 +1,4 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_LifeCycle.outcome_ath_non_rep.BiBPersonID,BiB_LifeCycle.outcome_ath_non_rep,BiB_LifeCycle,outcome_ath_non_rep,BiBPersonID,Unique identifier number for the index child,text,,administration,13858,13858
+BiB_LifeCycle.outcome_ath_non_rep.mother_id,BiB_LifeCycle.outcome_ath_non_rep,BiB_LifeCycle,outcome_ath_non_rep,mother_id,Unique identifier number for the mother,text,,administration,13858,13858
+BiB_LifeCycle.outcome_ath_non_rep.CRL_t1,BiB_LifeCycle.outcome_ath_non_rep,BiB_LifeCycle,outcome_ath_non_rep,CRL_t1,Crown-rump length in 1st trimester,float,,anthropometry,9934,9934

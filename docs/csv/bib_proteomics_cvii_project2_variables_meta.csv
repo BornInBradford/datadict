@@ -1,0 +1,25 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Proteomics.CVII_Project2.BiBPersonID,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,BiBPersonID,BiBPersonID,text,,administration,272964,2967
+BiB_Proteomics.CVII_Project2.PregnancyID,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,PregnancyID,Pregnancy ID,text,,administration,272964,2967
+BiB_Proteomics.CVII_Project2.Ethnicity,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Ethnicity,Ethnicity,text,,ethnic_group,272964,2967
+BiB_Proteomics.CVII_Project2.GDM,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,GDM,Gestational Diabetes Status,integer,,endocrine_system,133860,1455
+BiB_Proteomics.CVII_Project2.has_GWAS,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,has_GWAS,has GWAS data,integer,,omics,133860,1455
+BiB_Proteomics.CVII_Project2.Gest_Hypertension,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Gest_Hypertension,Gestational Hypertension Status,text,,cardiovascular_system,133860,1455
+BiB_Proteomics.CVII_Project2.Pre_Eclampsia,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Pre_Eclampsia,Pre-eclampsia Status,text,,pregnancy,133860,1455
+BiB_Proteomics.CVII_Project2.Congenital_Anomalies_Reg,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Congenital_Anomalies_Reg,Has YH Congenital Anomalies Register,integer,,congenital_and_malformations,133860,1455
+BiB_Proteomics.CVII_Project2.Stillbirth,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Stillbirth,Stillbirth,integer,,pregnancy,133860,1455
+BiB_Proteomics.CVII_Project2.Gest_LastCompWk,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Gest_LastCompWk,Gestation to last completed week,integer,,pregnancy,133860,1455
+BiB_Proteomics.CVII_Project2.Preterm_Birth,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Preterm_Birth,Pre-term birth,text,,pregnancy,133860,1455
+BiB_Proteomics.CVII_Project2.Presence_One_Outcome,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Presence_One_Outcome,Present of at least one outcome,text,,physical_health,272964,2967
+BiB_Proteomics.CVII_Project2.has_outcomes,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,has_outcomes,has outcomes,integer,,physical_health,272964,2967
+BiB_Proteomics.CVII_Project2.OlinkID,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,OlinkID,OlinkID,text,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.UniProt,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,UniProt,UniProt Identifier,text,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.Assay,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Assay,Protein Name,text,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.MissingFreq,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,MissingFreq,Missing Frequency,text,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.Panel,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Panel,Olink Panel,text,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.Panel_Version,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Panel_Version,Olink Panel Version,text,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.PlateID,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,PlateID,PlateID,text,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.QC_Warning,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,QC_Warning,QC Warning,categorical,[1 Pass] [2 Warning],proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.LOD,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,LOD,Limit of Detection,float,,proteomics,272964,2967
+BiB_Proteomics.CVII_Project2.NPX,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,NPX,Normalized Protein Expression,float,,proteomics,272697,2967
+BiB_Proteomics.CVII_Project2.Normalization,BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Normalization,Method used to scale data,text,,proteomics,272964,2967

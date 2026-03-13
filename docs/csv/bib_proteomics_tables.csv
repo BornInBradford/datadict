@@ -1,7 +1,11 @@
 table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
-BiB_Proteomics.ngs_control,BiB_Proteomics,ngs_control,Next generation sequencing controls,bib,participant,,,13,34686,26,2024-06-11 12:08:30.119123
-BiB_Proteomics.ngs_project1,BiB_Proteomics,ngs_project1,Next generation sequencing project 1,bib,participant,,,24,369000,1000,2024-05-14 09:15:00.091318
-BiB_Proteomics.ngs_project2,BiB_Proteomics,ngs_project2,Next generation sequencing project 2,bib,participant,,,33,1107000,3000,2024-06-11 12:20:12.825905
-BiB_Proteomics.qpcr_control,BiB_Proteomics,qpcr_control,QPCR controls,bib,participant,,,12,8832,72,2024-05-14 09:15:27.418016
-BiB_Proteomics.qpcr_project1,BiB_Proteomics,qpcr_project1,QPCR project 1,bib,participant,,,23,92000,1000,2024-05-14 09:15:29.657501
-BiB_Proteomics.qpcr_project2,BiB_Proteomics,qpcr_project2,QPCR project 2,bib,participant,,,32,276000,3000,2024-05-14 09:15:35.988735
+BiB_Proteomics.CM_Controls,BiB_Proteomics,CM_Controls,Olink Explore 384 Cardiometabolic Controls,bib,participant,,,12,34354,26,2026-03-04 15:16:10.075815
+BiB_Proteomics.CM_Project1,BiB_Proteomics,CM_Project1,Olink Explore 384 Cardiometabolic Project 1,bib,participant,,,15,354301,1000,2026-03-04 14:36:07.684584
+BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Olink Explore 384 Cardiometabolic Project 2,bib,participant,,,24,1079077,2994,2026-03-04 14:55:52.909678
+BiB_Proteomics.CVII_Controls,BiB_Proteomics,CVII_Controls,Olink Target 96 Cardiovascular II Controls,bib,participant,,,11,8740,71,2026-03-04 14:56:06.322817
+BiB_Proteomics.CVII_Project1,BiB_Proteomics,CVII_Project1,Olink Target 96 Cardiovascular II Project 1,bib,participant,,,14,90896,988,2026-03-04 14:57:49.13324
+BiB_Proteomics.CVII_Project2,BiB_Proteomics,CVII_Project2,Olink Target 96 Cardiovascular II Project 2,bib,participant,,,23,272964,2967,2026-03-04 15:03:55.666945
+BiB_Proteomics.HT_Intensity_Controls,BiB_Proteomics,HT_Intensity_Controls,Olink Explore HT Intensity Controls,bib,participant,,,11,936555,10,2026-02-17 13:38:08.932405
+BiB_Proteomics.HT_Intensity,BiB_Proteomics,HT_Intensity,Olink Explore HT Intensity,bib,participant,,,13,8380872,1548,2026-02-23 13:59:39.061199
+BiB_Proteomics.HT_PlateControl,BiB_Proteomics,HT_PlateControl,Olink Explore HT Place Control,bib,participant,,,13,8380872,1548,2026-02-17 13:45:14.667433
+BiB_Proteomics.HT_PlateControl_Controls,BiB_Proteomics,HT_PlateControl_Controls,Olink Explore HT Plate Control Controls,bib,participant,,,11,936555,10,2026-02-17 13:41:29.336649

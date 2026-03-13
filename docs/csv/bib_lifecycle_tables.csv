@@ -1,0 +1,18 @@
+table_id,project_name,table_name,display_name,cohort_membership,entity_type,data_subjects,data_respondents,n_variables,n_rows,n_entities,last_updated
+BiB_LifeCycle.core_monthly_rep,BiB_LifeCycle,core_monthly_rep,Core Monthly-Repeated Variables,bib,participant,,,6,129158,13858,2026-02-24 15:15:34.355778
+BiB_LifeCycle.core_non_rep,BiB_LifeCycle,core_non_rep,Core Non-Repeated Variables,bib,participant,,,218,13858,13858,2026-02-24 15:16:31.018295
+BiB_LifeCycle.core_trimester_rep,BiB_LifeCycle,core_trimester_rep,Core Trimester-Repeated Variables,bib,participant,,,3,25118,13858,2026-02-24 15:17:56.400124
+BiB_LifeCycle.core_yearly_rep,BiB_LifeCycle,core_yearly_rep,Core Yearly-Repeated Variables,bib,participant,,,100,249444,13858,2026-02-24 15:19:18.86027
+BiB_LifeCycle.outcome_ath_non_rep,BiB_LifeCycle,outcome_ath_non_rep,Outcome Non-Repeated Variables - ATHLETE,bib,participant,,,2,13858,13858,2026-02-24 15:22:14.11236
+BiB_LifeCycle.outcome_ath_trimester_rep,BiB_LifeCycle,outcome_ath_trimester_rep,Outcome Trimester-Repeated Variables - ATHLETE,bib,participant,,,19,33788,13858,2026-02-24 15:22:55.415773
+BiB_LifeCycle.outcome_ath_yearly_rep,BiB_LifeCycle,outcome_ath_yearly_rep,Outcome Yearly-Repeated Variables - ATHLETE,bib,participant,,,42,171012,13858,2026-02-24 15:24:16.49876
+BiB_LifeCycle.outcome_monthly_rep,BiB_LifeCycle,outcome_monthly_rep,Outcome Monthly-Repeated Variables,bib,participant,,,49,133874,13858,2026-02-24 15:25:41.52146
+BiB_LifeCycle.outcome_non_rep,BiB_LifeCycle,outcome_non_rep,Outcome Non-Repeated Variables,bib,participant,,,26,13858,13858,2026-02-24 15:26:50.554012
+BiB_LifeCycle.outcome_weekly_rep,BiB_LifeCycle,outcome_weekly_rep,Outcome Weekly-Repeated Variables,bib,participant,,,8,164989,13858,2026-02-24 15:28:13.26841
+BiB_LifeCycle.outcome_yearly_rep,BiB_LifeCycle,outcome_yearly_rep,Outcome Yearly-Repeated Variables,bib,participant,,,68,167794,13858,2026-02-24 15:29:29.359016
+BiB_LifeCycle.urban_ath_non_rep,BiB_LifeCycle,urban_ath_non_rep,Urban Exposures Non-Repeated Variables - ATHLETE,bib,participant,,,206,13858,13858,2026-02-24 15:30:58.131979
+BiB_LifeCycle.urban_ath_trimester_rep,BiB_LifeCycle,urban_ath_trimester_rep,Urban Exposures Trimester-Repeated Variables - ATHLETE,bib,participant,,,4,13858,13858,2026-02-24 15:31:58.525385
+BiB_LifeCycle.urban_ath_yearly_rep,BiB_LifeCycle,urban_ath_yearly_rep,Urban Exposures Yearly-Repeated Variables - ATHLETE,bib,participant,,,115,173105,13858,2026-02-24 15:33:06.161566
+BiB_LifeCycle.chemicals_ath_non_rep,BiB_LifeCycle,chemicals_ath_non_rep,Chemical Exposures Non-Repeated Variables - ATHLETE,bib,participant,,,1,13858,13858,2026-02-24 15:10:30.697817
+BiB_LifeCycle.chemicals_ath_trimester_rep,BiB_LifeCycle,chemicals_ath_trimester_rep,Chemical Exposures Trimester-Repeated Variables - ATHLETE,bib,participant,,,107,14072,13858,2026-02-24 15:13:53.693686
+BiB_LifeCycle.chemicals_ath_yearly_rep,BiB_LifeCycle,chemicals_ath_yearly_rep,Chemical Exposures Yearly-Repeated Variables - ATHLETE,bib,participant,,,107,14063,13858,2026-02-24 15:14:41.972868

@@ -1,0 +1,26 @@
+variable_id,table_id,project,table,variable,label,value_type,categories,topic,n_complete,n_entities_complete
+BiB_Proteomics.CM_Project2.BiBPersonID,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,BiBPersonID,BiBPersonID,text,,administration,1079077,2994
+BiB_Proteomics.CM_Project2.PregnancyID,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,PregnancyID,Pregnancy ID,text,,administration,1079077,2994
+BiB_Proteomics.CM_Project2.Ethnicity,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Ethnicity,Ethnicity,text,,ethnic_group,1079077,2994
+BiB_Proteomics.CM_Project2.GDM,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,GDM,Gestational Diabetes Status,integer,,endocrine_system,530695,1469
+BiB_Proteomics.CM_Project2.has_GWAS,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,has_GWAS,has GWAS data,integer,,omics,530695,1469
+BiB_Proteomics.CM_Project2.Gest_Hypertension,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Gest_Hypertension,Gestational Hypertension Status,text,,cardiovascular_system,530695,1469
+BiB_Proteomics.CM_Project2.Pre_Eclampsia,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Pre_Eclampsia,Pre-eclampsia Status,text,,pregnancy,530695,1469
+BiB_Proteomics.CM_Project2.Congenital_Anomalies_Reg,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Congenital_Anomalies_Reg,Has YH Congenital Anomalies Register,integer,,congenital_and_malformations,530695,1469
+BiB_Proteomics.CM_Project2.Stillbirth,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Stillbirth,Stillbirth,integer,,pregnancy,530695,1469
+BiB_Proteomics.CM_Project2.Gest_LastCompWk,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Gest_LastCompWk,Gestation to last completed week,integer,,pregnancy,530695,1469
+BiB_Proteomics.CM_Project2.Preterm_Birth,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Preterm_Birth,Pre-term birth,text,,pregnancy,530695,1469
+BiB_Proteomics.CM_Project2.Presence_One_Outcome,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Presence_One_Outcome,Present of at least one outcome,text,,physical_health,1079077,2994
+BiB_Proteomics.CM_Project2.has_outcomes,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,has_outcomes,has outcomes,integer,,physical_health,1079077,2994
+BiB_Proteomics.CM_Project2.OlinkID,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,OlinkID,OlinkID,text,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.UniProt,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,UniProt,UniProt Identifier,text,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.Assay,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Assay,Protein Name,text,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.MissingFreq,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,MissingFreq,Missing Frequency,float,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.Panel,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Panel,Olink Panel,text,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.Panel_Lot_Nr,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Panel_Lot_Nr,Panel Lot Number,text,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.PlateID,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,PlateID,PlateID,text,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.QC_Warning,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,QC_Warning,QC Warning,categorical,[1 Pass] [2 Warning],proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.LOD,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,LOD,Limit of Detection,float,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.NPX,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,NPX,Normalized Protein Expression,float,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.Normalization,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Normalization,Method used to scale data,text,,proteomics,1079077,2994
+BiB_Proteomics.CM_Project2.Assay_Warning,BiB_Proteomics.CM_Project2,BiB_Proteomics,CM_Project2,Assay_Warning,Assay Warning,categorical,[1 Pass] [2 Warning],,1079077,2994
